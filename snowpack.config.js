@@ -3,7 +3,7 @@ module.exports = {
   mount: {
     public: "/",
     data: { url: "/data", static: true },
-    exercises: { url: "/exercises" },
+    code: { url: "/code" },
     /* ... */
   },
   plugins: [
