@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="182.78085mm"
+   height="50.740429mm"
+   viewBox="0 0 182.78085 50.740429"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
@@ -18,9 +18,9 @@
   <defs
      id="defs2">
     <rect
-       x="94.886175"
-       y="21.457662"
-       width="63.384835"
+       x="94.886177"
+       y="21.457663"
+       width="63.384834"
        height="14.028564"
        id="rect927" />
     <linearGradient
@@ -53,9 +53,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3440226"
-     inkscape:cx="399.00788"
-     inkscape:cy="115.32737"
+     inkscape:zoom="0.91774294"
+     inkscape:cx="349.70891"
+     inkscape:cy="-45.910352"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -73,76 +73,108 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-16.721275,-4.03617)">
     <path
        style="fill:url(#linearGradient861);fill-opacity:1;stroke:#000000;stroke-width:0.235284;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
        d="m 32.572925,35.595958 v 14.045659 l 149.501375,0.877854 0.1392,-13.826196 c -4.61069,-1.165755 -10.53128,-4.542168 -13.98965,-2.853025 -2.48029,1.446474 -4.71411,2.483716 -9.95284,1.645976 -6.29905,1.034451 -7.58822,-0.935912 -14.47686,-1.426513 -4.91676,0.969563 -0.33188,3.22587 -14.61605,2.688427 -4.649,-0.934416 -5.39295,-4.313444 -15.45126,-2.359231 -8.81604,0.731545 -9.07474,3.800673 -23.524894,0.768121 -3.015677,0.163187 -9.436336,-1.910205 -11.553644,-0.109731 -2.919081,1.616182 -3.091936,1.728976 -8.073632,0.987585 -7.204203,-1.71009 -2.107279,2.236148 -19.348875,1e-6 0,0 -3.403584,-0.701153 -8.07363,-1.700841 -8.47141,-1.057967 -7.103023,0.826266 -10.57924,1.261914 z"
        id="path835"
-       sodipodi:nodetypes="ccccccccccccccc" />
+       sodipodi:nodetypes="ccccccccccccccc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 60.97003,38.083926 0.449797,-14.73328 -1.963797,0.137322 -0.262977,-2.349691 2.061988,-0.144189 0.250635,-3.470976 -0.988766,-0.02952 3.611754,-4.791379"
-       id="path867" />
+       id="path867"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.266761px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 70.853934,37.493459 68.3356,22.907732 l 1.988146,-0.139024 -0.06605,-2.373127 -2.087553,0.145976 -0.738332,-3.415913 0.987179,-0.168112 -4.293421,-4.257118"
-       id="path869" />
+       id="path869"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:#db0023;fill-opacity:0.892966;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.582822"
        d="m 61.316118,31.744847 c 2.820231,0.296463 5.636419,0.227354 8.444328,-0.590485 l -0.793058,-4.286023 c -2.558442,0.570129 -5.155422,0.589154 -7.763867,0.444231 z"
        id="path871"
-       sodipodi:nodetypes="ccccc" />
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:#db0023;fill-opacity:0.892966;stroke:none;stroke-width:0.208787px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.582822"
        d="m 59.45603,23.487968 c 3.608765,-0.04855 7.225735,-0.210711 10.867716,-0.719255 l -0.06605,-2.373127 c 0.104682,0.191631 -9.066905,0.929951 -11.064641,0.7427 z"
        id="path871-4"
-       sodipodi:nodetypes="ccccc" />
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:#db0023;fill-opacity:0.892966;stroke:none;stroke-width:0.208787px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.582822"
        d="m 64.128664,12.702205 -0.0031,-0.0017 4.293422,4.257117 c 0.101495,0.146054 -5.897983,0.814245 -7.902078,0.536057 z"
        id="path871-4-9"
-       sodipodi:nodetypes="ccccc" />
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:#fffa00;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 68.418988,16.957532 33.138562,-5.195219 c 2.64234,1.53716 2.56985,3.539816 1.09242,5.745141 l -34.47983,3.034103 -0.738331,-3.415913 z"
        id="path915"
-       sodipodi:nodetypes="cccccc" />
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:#fffa00;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 61.505676,17.523112 33.434369,16.821959 c 1.929636,2.977089 0.390482,4.366481 -0.695589,5.574161 l 28.516261,-1.402032 z"
        id="path919"
-       sodipodi:nodetypes="ccccc" />
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:#fffa00;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 33.434369,16.821959 c -1.724919,1.105028 -2.055379,2.917638 -0.695589,5.574161 2.017834,-1.579176 1.964453,-3.48177 0.695589,-5.574161 z"
        id="path921"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 101.55755,11.762313 c -1.964086,3.050698 -0.62469,4.425394 1.09242,5.745141 1.8287,-2.506765 1.20966,-4.353029 -1.09242,-5.745141 z"
        id="path923"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <text
        xml:space="preserve"
        id="text925"
-       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.58333333px;white-space:pre;shape-inside:url(#rect927);" />
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect927);fill:#000000;fill-opacity:1;stroke:none;" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:64.6494;fill:#006b94;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="105.31972"
        y="27.75716"
        id="text933"
-       transform="translate(0.59057785,2.5591707)"><tspan
+       transform="translate(0.59057785,2.5591707)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
          x="105.31972"
          y="27.75716"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#006b94;fill-opacity:1;stroke-width:0.264583">Bison</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Bradley Hand ITC';-inkscape-font-specification:'Bradley Hand ITC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1">Watch</tspan></tspan></text>
+    <rect
+       style="opacity:0.640476;fill:#003576;fill-opacity:0;stroke:none;stroke-width:0.264999"
+       id="rect853"
+       width="182.78085"
+       height="50.740429"
+       x="16.721275"
+       y="4.03617"
+       rx="2.0000012"
+       ry="2.0000012" />
   </g>
 </svg>
