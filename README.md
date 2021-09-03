@@ -1,4 +1,5 @@
-# BisonWatch
+<img src="public/bisonwatch logo.svg" alt="BisonWatch Logo" height="170px">
+
 Interface for visualizing and exploring the Bauhaus university's course catalog
 ## Install
 Run `npm install` to install the required packages.
