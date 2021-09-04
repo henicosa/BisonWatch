@@ -5,7 +5,7 @@ export async function loadBisonDataset() {
     courseTitle: item.Veranstaltungstitel,
     internalLink: item.Bisonlink,
     courseType: item.Veranstaltungsart,
-    sws: +item.sws, // transform string to number
+    sws: + item.SWS, // transform string to number
     language: item.Sprache, 
     day: item.Tag,
   }));
