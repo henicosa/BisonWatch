@@ -1,4 +1,4 @@
-import * as d3 from "d3";
+import d3 from "../d3.v4.min.js"
 import { loadBisonDataset } from "../bison";
 
 
@@ -15,6 +15,8 @@ import { parallelcoordinates } from "./parallelcoordinates";*/
 // Laden der Klimadaten
 loadBisonDataset().then((bisond) => {
   console.log(bisond)
+
+
 });
 
 
