@@ -8,5 +8,7 @@ export async function loadBisonDataset() {
     sws: + item.SWS, // transform string to number
     language: item.Sprache, 
     day: item.Tag,
+    faculty: item.Fakultät,
+    lecturers: item.Personen.split(" :3 S: ")
   }));
 }
