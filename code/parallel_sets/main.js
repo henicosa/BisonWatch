@@ -12,20 +12,56 @@ import whatwhyhow from "./whatwhyhow.md";
 import { parallelcoordinates } from "./parallelcoordinates";*/
 
 
-// Laden der Klimadaten
+// Laden der Bisondaten
 loadBisonDataset().then((bisond) => {
-  console.log(bisond)
-  console.log(d3.group(bisond, d => d.language))
 
-  //Sophie hier:
-  var data = d3.rollup(bisond, v => v.length, d => d.courseType)
-  //console.log(data);
+  const sorter = {
+    "Mo.": 1,
+    "Di.": 2,
+    "Mi.": 3,
+    "Do.": 4,
+    "Fr.": 5,
+    "Sa.": 6,
+    "missing": 7,
+    "deutsch/englisch": 8
+  };
+
+  var type = ["Seminar","Vorlesung","Projektmodul","Integrierte Vorlesung","Sonstiges"];
+
+  var attribute = "courseType"
+  const get_att = {
+    "sws": (d) => d.sws,
+    "day": (d) => d.day,
+    "courseType": (d) => d.courseType,
+    "language": (d) => d.language
+  }
+
+  var data = d3.rollup(bisond, v => v.length, get_att[attribute])
+  console.log(data);
+
+  if (attribute == "courseType") {
+    type = type.map((d) => {
+      if (d != "Sonstiges")
+        return [d, data.get(d)];
+      else {
+        return [d, d3.sum(data, (d) => type.includes(d[0]) ? 0 : d[1])]
+      }
+    })
+    console.log(type)
+    data = type 
+  }
+
   
   data =  Array.from(data)
   console.log(data);
-  data = data.map((d) => {return {name: d[0], value: d[1]}})
+  data = data.map((d) => {return {name: d[0].toString(), value: d[1]}})
+  
+  if (attribute == "day") {
+      data = data.sort((a, b) => {return sorter[a.name] > sorter[b.name]
+      })
+  }   
+  
   data = data.sort((a,b) => {return a.value < b.value})
-
   
       
   
