@@ -43,7 +43,7 @@ loadBisonDataset().then((bisond) => {
 
 
     const scale = d3.scaleLinear()
-      .domain([-0, 16, 50])
+      .domain([0, 16, 50])
       .range(["grey", "blue", "red"]);
     var color =  d => scale(d.group);
 
