@@ -14,75 +14,126 @@ import { parallelcoordinates } from "./parallelcoordinates";*/
 
 // Laden der Bison-Daten
 loadBisonDataset().then((bisond) => {
+  var blacklist = ["N.N", "N.N.", " N.N.", "missing", "keine öffentliche Person"]
   console.log(bisond)
-  console.log(d3.group(bisond, d => d.language))
+  var lecturers = new Map();
+  bisond.forEach(element => {
+    element.lecturers.forEach(lecturer => {
+      if (!blacklist.includes(lecturer)) {
+        if (!lecturers.has(lecturer)) lecturers.set(lecturer, {courses: new Set(), colecturers: new Map()})
+          // update colectureres
+          var colecturers = lecturers.get(lecturer).colecturers
+          element.lecturers.forEach(lecturerB => {
+            if ((lecturerB != lecturer) && (!blacklist.includes(lecturerB))) 
+              if (colecturers.has(lecturerB))
+                colecturers.set(lecturerB, colecturers.get(lecturerB) +1)
+              else
+                colecturers.set(lecturerB, 1)
+          })
+          // update course
+          lecturers.get(lecturer).courses.add(element)
+        }
+      });
+  });
+  console.log(lecturers)
 
-  //Sophie hier:
-  var data = d3.rollup(bisond, v => v.length, d => d.courseType)
-  //console.log(data);
   
-  data =  Array.from(data)
-  console.log(data);
-  data = data.map((d) => {return {name: d[0], value: d[1]}})
-  data = data.sort((a,b) => {return a.value < b.value})
+    var height = 800
+    var width = 1000
 
-  
+
+    const scale = d3.scaleLinear()
+      .domain([0, 16, 50])
+      .range(["grey", "blue", "red"]);
+    var color =  d => scale(d.group);
+
+    var mdata = {nodes: [], links: []};
+    lecturers.forEach((value, lecturer) => {
+      mdata.nodes.push({id: lecturer, group: value.courses.size})
+      value.colecturers.forEach((lecture_num, colecturer) => {
+        if (lecturer < colecturer) {
+          mdata.links.push({source: lecturer,target: colecturer, value: lecture_num})
+        }
+      })
+    })
+    console.log(mdata)
+    // Interaction
+    var data = mdata
+
+    var drag = simulation => {
+
+      function dragstarted(event) {
+        if (!event.active) simulation.alphaTarget(0.3).restart();
+        event.subject.fx = event.subject.x;
+        event.subject.fy = event.subject.y;
+      }
       
+      function dragged(event) {
+        event.subject.fx = event.x;
+        event.subject.fy = event.y;
+      }
+      
+      function dragended(event) {
+        if (!event.active) simulation.alphaTarget(0);
+        event.subject.fx = null;
+        event.subject.fy = null;
+      }
+      
+      return d3.drag()
+          .on("start", dragstarted)
+          .on("drag", dragged)
+          .on("end", dragended);
+    }
+
+    // SVG
+
+    const links = data.links.map(d => Object.create(d));
+    const nodes = data.nodes.map(d => Object.create(d));
   
-  var color = "steelblue"
-  var height = 500
-  var margin = ({top: 30, right: 0, bottom: 150, left: 40})
-  var width = 932
+    const simulation = d3.forceSimulation(nodes)
+      .force("link", d3.forceLink(links).id(d => d.id))
+      .force("charge", d3.forceManyBody())
+      .force("x", d3.forceX())
+      .force("y", d3.forceY());
+    
+    const svg = d3.select("#lecturer_network")
+        .attr("viewBox", [-width / 2, -height / 2, width, height]);
+  
+    const link = svg.append("g")
+        .attr("stroke", "#999")
+        .attr("stroke-opacity", 0.6)
+      .selectAll("line")
+      .data(links)
+      .join("line")
+        .attr("stroke-width", d => Math.sqrt(d.value));
+  
+    const node = svg.append("g")
+        .attr("stroke", "#fff")
+        .attr("stroke-width", 1.5)
+      .selectAll("circle")
+      .data(nodes)
+      .join("circle")
+        .attr("r", d => 5 + parseInt(Math.log(d.group)/ Math.log(1.5)))
+        .attr("fill", color)
+        .call(drag(simulation));
+  
+    node.append("title")
+        .text(d => d.id);
+  
+    simulation.on("tick", () => {
+      link
+          .attr("x1", d => d.source.x)
+          .attr("y1", d => d.source.y)
+          .attr("x2", d => d.target.x)
+          .attr("y2", d => d.target.y);
+  
+      node
+          .attr("cx", d => d.x)
+          .attr("cy", d => d.y);
+    });
+  
+    //invalidation.then(() => simulation.stop());
 
-  var x = d3.scaleBand()
-    .domain(d3.range(data.length))
-    .range([margin.left, width - margin.right])
-    .padding(0.1)
-
-  var y = d3.scaleLinear()
-    .domain([0, d3.max(data, d => d.value)]).nice()
-    .range([height - margin.bottom, margin.top])
-
-  var xAxis = g => g
-    .attr("transform", `translate(0,${height - margin.bottom})`)
-    .call(d3.axisBottom(x).tickFormat(i => (data[i].name.length <=15) ? data[i].name:data[i].name.slice(0, 12) + "...").tickSizeOuter(0))
-    .selectAll("text")
-        .style("text-anchor", "end")
-        .attr("dx", "-.8em")
-        .attr("dy", ".15em")
-        .attr("transform", "rotate(-65)" );
-
-  var yAxis = g => g
-    .attr("transform", `translate(${margin.left},0)`)
-    .call(d3.axisLeft(y).ticks(null, data.format))
-    .call(g => g.select(".domain").remove())
-    .call(g => g.append("text")
-        .attr("x", -margin.left)
-        .attr("y", 10)
-        .attr("fill", "currentColor")
-        .attr("text-anchor", "start")
-        .text(data.y))
-
-  const svg = d3.select("#alphabet")
-                .attr("viewBox", [0, 0, width, height]);
-
-  svg.append("g")
-    .attr("fill", color)
-    .selectAll("rect")
-    .data(data)
-    .join("rect")
-      .attr("x", (d, i) => x(i))
-      .attr("y", d => y(d.value))
-      .attr("height", d => y(0) - y(d.value))
-      .attr("width", x.bandwidth());
-
-  svg.append("g")
-    .call(xAxis);
-
-  svg.append("g")
-    .call(yAxis);
-
-});
-
+  });
 
 

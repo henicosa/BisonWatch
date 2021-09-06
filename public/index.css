@@ -106,3 +106,12 @@ div.footer {
   background-color: #CFD8DC;
   text-align: center;
 }
+
+
+select {
+  width: 20%;
+  padding: 4px 15px;
+  border: 1px solid grey;
+  border-radius: 4px;
+  background-color: whitesmoke;
+}

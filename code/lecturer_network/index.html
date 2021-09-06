@@ -18,21 +18,24 @@
 
 <body>
     <main>
-        <h1>BisonWatch - Lecturer Network</h1>
+        <h1><a href="/index.html">⬅ </a> | BisonWatch - Lecturer Network</h1>
 
         <section>
-            <h3>Circle Bin Packing</h3>
-            <p>Diese Visualisierung stellt die Emissionen an der Universität hierarchisch unterteilt in Bereiche ein. <br \>
-                Die dabei verwendeten Daten stammen aus einer Erhebung zur Klimafreundlichkeit der Thüringer Hochschulen aus dem Jahr 2015.
-            </p>
 
-            <svg id="alphabet"></svg>
+            <svg id="lecturer_network"></svg>
+
+            <p>Diese Visualisierung zeigt das Netzwerk der Kursleiter*innen der Bauhaus-Universität Weimar. <br \>
+                Je mehr Veranstaltungen von einer Person geleitet werden umso größer ist ihr Knoten im Netzwerk. 
+                Falls eine Veranstaltung von mehreren Personen geleitet wird sind diese Personen im Netzwerk mit Kanten verbunden.
+                Je näher zwei Personen beieinander sind, umso mehr Veranstaltungen leiten sie gemeinsam. 
+            </p>
 
             <p>Kurze Tipps zur Interpretation des Diagramms:
                 <ul>
-                    <li>Durch das Diagramm lässt sich durch Klicken auf die unterschiedlich farbigen Ebenen navigieren</li>
-                    <li>Grüne Blätter sind Bereiche, die bereits klimaneutral arbeiten. Zur Vergleichbarkeit wurde der jeweilige Verbrauch in CO2 Emissionen umgerechnet, die bei konventionellen Alternativen ausgestoßen wären.</li>
-                    <li>Bereiche die nicht erfasst wurden (wie z.B. CO2 Emissionen durch die Beschaffung von Büromaterialien) tauchen auch nicht im Diagramm auf.</li>
+                    <li>In das Diagramm lässt sich durch Drehen des Mausrads oder einem Fingerpinch reinzoomen. Und die aktuelle Ansicht kann mit gedrückt gehaltener Maus verschoben werden.</li>
+                    <li>Beim Hovern über eine Person, wird der Name der Person angezeigt und es werden alle Personen farblich markiert die mit dieser Personen verbunden sind.</li>
+                    <li>Ein Klick auf eine Person leitet auf eine Auflistung aller Veranstaltungen, die von der Person geleitet wird, weiter.</li>
+                    <li>Ein Klick auf eine Verbindung zwischen zwei Personen leitet auf eine Auflistung aller Veranstaltungen, die von beiden Personen geleitet werden, weiter.</li>
                 </ul>
             </p>
         </section>
@@ -40,13 +43,14 @@
         <div class="task">
             <h3>Credits</h3>
             <ul>
-                <li>D3 Examples: <a href="https://observablehq.com/@d3/zoomable-circle-packing">https://observablehq.com/@d3/zoomable-circle-packing</a></li>
+                <li>Disjoint Force-Directed Graph von Mike Bostock: <a href="https://observablehq.com/@d3/disjoint-force-directed-graph">https://observablehq.com/@d3/disjoint-force-directed-graph</a></li>
                 <li>Vizualization Course: <a href="https://www.uni-weimar.de/de/medien/professuren/medieninformatik/vr/teaching/ss-2021/course-visualization/">https://www.uni-weimar.de/de/medien/professuren/medieninformatik/vr/teaching/ss-2021/course-visualization/</a></li>
             </ul>
         </div>
 
         <div class="footer">
-            <p>Kontakt: <a href="mailto:ludwig.david.lorenz@uni-weimar.de">ludwig.david.lorenz@uni-weimar.de</a></p>
+            <p>Code (GPL-3): <a href="https://github.com/henicosa/BisonWatch">https://github.com/henicosa/BisonWatch</a></p>
+            <p>Kontakt: <a href="mailto:sophie.alice.grimme@uni-weimar.de">sophie.alice.grimme@uni-weimar.de</a> und <a href="mailto:ludwig.david.lorenz@uni-weimar.de">ludwig.david.lorenz@uni-weimar.de</a></p>
         </div>
     </main>
     <script type="module" src="/code/lecturer_network/main.js"></script>
