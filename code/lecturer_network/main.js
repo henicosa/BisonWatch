@@ -87,6 +87,7 @@ loadBisonDataset().then((bisond) => {
 
     // SVG
 
+    
     const links = data.links.map(d => Object.create(d));
     const nodes = data.nodes.map(d => Object.create(d));
   
@@ -97,9 +98,24 @@ loadBisonDataset().then((bisond) => {
       .force("y", d3.forceY());
     
     const svg = d3.select("#lecturer_network")
-        .attr("viewBox", [-width / 2, -height / 2, width, height]);
+        .attr("viewBox", [-width / 2, -height / 2, width, height])
+    
+    svg.call(d3.zoom()
+      .extent([[0, 0], [width, height]])
+      .scaleExtent([1, 8])
+      .on("zoom", zoomed));
+
+    var zoom = svg.append("g")
+    
+    
   
-    const link = svg.append("g")
+    function zoomed({transform}) {
+      zoom.attr("transform", transform);
+      zoom.transition()
+    .duration(3750)
+    }
+
+    const link = zoom.append("g")
         .attr("stroke", "#999")
         .attr("stroke-opacity", 0.6)
       .selectAll("line")
@@ -107,7 +123,7 @@ loadBisonDataset().then((bisond) => {
       .join("line")
         .attr("stroke-width", d => Math.sqrt(d.value));
   
-    const node = svg.append("g")
+    const node = zoom.append("g")
         .attr("stroke", "#fff")
         .attr("stroke-width", 1.5)
       .selectAll("circle")
