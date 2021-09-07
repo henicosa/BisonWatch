@@ -1,8 +1,7 @@
 import * as d3 from "d3";
 import { sankey as Sankey, sankeyLinkHorizontal as SLH } from 'd3-sankey';
 import { loadTitanicDataset } from "../titanic"; 
-
-
+import { loadBisonDataset } from "../bison";
 
 // Importe für alte Visualisierungen
 /*import { discretize } from "./vislibs/discretize";
@@ -14,14 +13,131 @@ import whatwhyhow from "./whatwhyhow.md";
 import { parallelcoordinates } from "./parallelcoordinates";*/
 
 
+//
+// Parallel Set Bison Daten
+// 
+// Load Bison Data 
+loadBisonDataset().then((bisond) => {
+  console.log(bisond);
 
+    bisond.map((d) => {
+      if (d.sws < 3) d.sws = "0-3"
+      else if (d.sws < 6) d.sws = "4-6"
+      else if (d.sws < 12) d.sws = "8-12"
+      else if (d.sws <= 18) d.sws = "16-18"
+      else d.sws = "Keine Angabe"
+      return d    
+    })
+
+
+    var width = 975
+    var height = 720 
+    var color = d3.scaleOrdinal(d3.schemeTableau10)
+    var data = bisond
+    var keys = ["faculty", "day", "sws", "language"]
+    var svg = d3.select("#parallel_set").attr("width", width).attr("height", height); 
+
+
+    var sankey = Sankey()
+          .nodeSort(null)
+          .linkSort(null)
+          .nodeWidth(4)
+          .nodePadding(20)
+          .extent([[0, 5], [width, height - 5]])
+
+          let index = -1;
+          var nodes = [];
+          const nodeByKey = new Map;
+          const indexByKey = new Map;
+          var links = [];
+        
+          for (const k of keys) {
+            for (const d of data) {
+              const key = JSON.stringify([k, d[k]]);
+              if (nodeByKey.has(key)) continue;
+              const node = {name: d[k]};
+              nodes.push(node);
+              nodeByKey.set(key, node);
+              indexByKey.set(key, ++index);
+            }
+          }
+
+          for (let i = 1; i < keys.length; ++i) {
+            const a = keys[i - 1];
+            const b = keys[i];
+            const prefix = keys.slice(0, i + 1);
+            const linkByKey = new Map;
+            for (const d of data) {
+              const names = prefix.map(k => d[k]);
+              const key = JSON.stringify(names);
+              const value = d.value || 1;
+              let link = linkByKey.get(key);
+              if (link) { link.value += value; continue; }
+              link = {
+                source: indexByKey.get(JSON.stringify([a, d[a]])),
+                target: indexByKey.get(JSON.stringify([b, d[b]])),
+                names,
+                value
+              };
+              links.push(link);
+              linkByKey.set(key, link);
+            }
+          }
+        
+          var graph = {nodes, links};
+
+          var {nodes, links} = sankey({
+            nodes: graph.nodes.map(d => Object.assign({}, d)),
+            links: graph.links.map(d => Object.assign({}, d))
+        });
+  
+        svg.append("g")
+            .selectAll("rect")
+            .data(nodes)
+            .join("rect")
+            .attr("x", d => d.x0)
+            .attr("y", d => d.y0)
+            .attr("height", d => d.y1 - d.y0)
+            .attr("width", d => d.x1 - d.x0)
+            .append("title")
+            .text(d => `${d.name}\n${d.value.toLocaleString()}`);
+      
+        svg.append("g")
+            .attr("fill", "none")
+            .selectAll("g")
+            .data(links)
+            .join("path")
+            .attr("d", SLH())
+            .attr("stroke", d => color(d.names[0]))
+            .attr("stroke-width", d => d.width)
+            .style("mix-blend-mode", "multiply")
+            .append("title")
+            .text(d => `${d.names.join(" → ")}\n${d.value.toLocaleString()}`);
+      
+        svg.append("g")
+            .style("font", "10px sans-serif")
+            .selectAll("text")
+            .data(nodes)
+            .join("text")
+            .attr("x", d => d.x0 < width / 2 ? d.x1 + 6 : d.x0 - 6)
+            .attr("y", d => (d.y1 + d.y0) / 2)
+            .attr("dy", "0.35em")
+            .attr("text-anchor", d => d.x0 < width / 2 ? "start" : "end")
+            .text(d => d.name)
+            .append("tspan")
+            .attr("fill-opacity", 0.7)
+            .text(d => ` ${d.value.toLocaleString()}`);
+
+});
+
+/*
 //
 // Parallel Set Titanic
 // https://observablehq.com/@d3/parallel-sets
 
 // Load Titanic Dataset 
 loadTitanicDataset().then((Titanicdata) => {
-   console.log(Titanicdata);
+   //console.log(Titanicdata);
 
     var width = 975
     var height = 720 
@@ -33,7 +149,7 @@ loadTitanicDataset().then((Titanicdata) => {
     //const svg = d3.create("svg").attr("viewBox", [0, 0, width, height]);
     //const svg = d3.select("parallel_set").attr("viewBox", [-width / 2, -height / 2, width, height])
 
-    var svg = d3.select("#parallel_set").attr("width", width).attr("height", height);
+    var svg = d3.select("#simple_barchart").attr("width", width).attr("height", height);
 
     //Deswegen ging das nicht...
     //var d3 = require("d3@6", "d3-sankey@0.12")
@@ -59,7 +175,7 @@ loadTitanicDataset().then((Titanicdata) => {
               nodes.push(node);
               nodeByKey.set(key, node);
               indexByKey.set(key, ++index);
-              console.log(d)
+              //console.log(d)
             }
           }
         
@@ -86,7 +202,7 @@ loadTitanicDataset().then((Titanicdata) => {
           }
         
           var graph = {nodes, links};
-          console.log(graph)
+          //console.log(graph)
 
     
     var {nodes, links} = sankey({
@@ -94,7 +210,7 @@ loadTitanicDataset().then((Titanicdata) => {
           links: graph.links.map(d => Object.assign({}, d))
       });
       
-      console.log(nodes)
+      //console.log(nodes)
 
       svg.append("g")
           .selectAll("rect")
@@ -134,8 +250,7 @@ loadTitanicDataset().then((Titanicdata) => {
           .text(d => ` ${d.value.toLocaleString()}`);
     
 });
-
-
+*/
 
 //
 /*
