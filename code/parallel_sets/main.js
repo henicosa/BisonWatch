@@ -1,10 +1,8 @@
 import * as d3 from "d3";
-//import * from "d3-sankey";
 import { sankey as Sankey, sankeyLinkHorizontal as SLH } from 'd3-sankey';
 import { loadTitanicDataset } from "../titanic"; 
 
 
-//import { loadBisonDataset } from "../bison";
 
 // Importe für alte Visualisierungen
 /*import { discretize } from "./vislibs/discretize";
@@ -15,6 +13,8 @@ import marked from "marked";
 import whatwhyhow from "./whatwhyhow.md";
 import { parallelcoordinates } from "./parallelcoordinates";*/
 
+
+
 //
 // Parallel Set Titanic
 // https://observablehq.com/@d3/parallel-sets
@@ -23,12 +23,8 @@ import { parallelcoordinates } from "./parallelcoordinates";*/
 loadTitanicDataset().then((Titanicdata) => {
    console.log(Titanicdata);
 
-
-
-
     var width = 975
     var height = 720 
-    //Warum geht das nicht? 
     var color = d3.scaleOrdinal(["Perished"], ["#da4f81"]).unknown("#ccc")
     var data = Titanicdata
     var keys = data.columns.slice(0, -1) 
@@ -37,7 +33,7 @@ loadTitanicDataset().then((Titanicdata) => {
     //const svg = d3.create("svg").attr("viewBox", [0, 0, width, height]);
     //const svg = d3.select("parallel_set").attr("viewBox", [-width / 2, -height / 2, width, height])
 
-    var svg = d3.select("body").append("svg").attr("width", width).attr("height", height);
+    var svg = d3.select("#parallel_set").attr("width", width).attr("height", height);
 
     //Deswegen ging das nicht...
     //var d3 = require("d3@6", "d3-sankey@0.12")
@@ -49,47 +45,51 @@ loadTitanicDataset().then((Titanicdata) => {
           .nodePadding(20)
           .extent([[0, 5], [width, height - 5]])
 
-    var graph = {nodes: [], links: []};
+          let index = -1;
+          var nodes = [];
+          const nodeByKey = new Map;
+          const indexByKey = new Map;
+          var links = [];
+        
+          for (const k of keys) {
+            for (const d of data) {
+              const key = JSON.stringify([k, d[k]]);
+              if (nodeByKey.has(key)) continue;
+              const node = {name: d[k]};
+              nodes.push(node);
+              nodeByKey.set(key, node);
+              indexByKey.set(key, ++index);
+              console.log(d)
+            }
+          }
+        
+          for (let i = 1; i < keys.length; ++i) {
+            const a = keys[i - 1];
+            const b = keys[i];
+            const prefix = keys.slice(0, i + 1);
+            const linkByKey = new Map;
+            for (const d of data) {
+              const names = prefix.map(k => d[k]);
+              const key = JSON.stringify(names);
+              const value = d.value || 1;
+              let link = linkByKey.get(key);
+              if (link) { link.value += value; continue; }
+              link = {
+                source: indexByKey.get(JSON.stringify([a, d[a]])),
+                target: indexByKey.get(JSON.stringify([b, d[b]])),
+                names,
+                value
+              };
+              links.push(link);
+              linkByKey.set(key, link);
+            }
+          }
+        
+          var graph = {nodes, links};
+          console.log(graph)
 
-      let index = -1;
-      const nodeByKey = new Map;
-      const indexByKey = new Map;
     
-      for (const k of keys) {
-        for (const d of data) {
-          const key = JSON.stringify([k, d[k]]);
-          if (nodeByKey.has(key)) continue;
-          const node = {name: d[k]};
-          graph.nodes.push(node);
-          nodeByKey.set(key, node);
-          indexByKey.set(key, ++index);
-        }
-      }
-    
-      for (let i = 1; i < keys.length; ++i) {
-        const a = keys[i - 1];
-        const b = keys[i];
-        const prefix = keys.slice(0, i + 1);
-        const linkByKey = new Map;
-        for (const d of data) {
-          const names = prefix.map(k => d[k]);
-          const key = JSON.stringify(names);
-          const value = d.value || 1;
-          let link = linkByKey.get(key);
-          if (link) { link.value += value; continue; }
-          link = {
-            source: indexByKey.get(JSON.stringify([a, d[a]])),
-            target: indexByKey.get(JSON.stringify([b, d[b]])),
-            names,
-            value
-          };
-          graph.links.push(link);
-          linkByKey.set(key, link);
-        }
-      }
-
-    
-    const {nodes, links} = sankey({
+    var {nodes, links} = sankey({
           nodes: graph.nodes.map(d => Object.assign({}, d)),
           links: graph.links.map(d => Object.assign({}, d))
       });
