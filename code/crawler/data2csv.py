@@ -17,8 +17,8 @@ def strip(word):
     return word
 
 
-def data2csv():
-    with open("../../data/bisondata.csv", 'w', newline='') as csvfile:
+def data2csv(dataset):
+    with open("../../data/bisondata" + dataset + ".csv", 'w', newline='') as csvfile:
         csvwriter = csv.writer(csvfile, delimiter="\t", quotechar="|", quoting=csv.QUOTE_MINIMAL)
         selected_attributes = ["Fakultät", "Veranstaltungstitel", "Bisonlink", "Veranstaltungsart", "SWS", "Sprache", "Tag", "Personen"]
         with_persons = True
@@ -36,6 +36,7 @@ def data2csv():
                     split_line = line.split(delimiter)
                     if split_line[0] in selected_attributes:
                         if split_line[0] in ["Personen"]:
+                            print(filepath)
                             multi_entry = strip(split_line[1])
                             for i in range(2, len(split_line)):
                                 multi_entry += (delimiter + split_line[i])
@@ -47,4 +48,4 @@ def data2csv():
 
 
 if __name__ == "__main__":
-    data2csv()
+    data2csv("20201")
