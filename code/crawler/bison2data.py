@@ -29,22 +29,22 @@ def enumerate_tags(tag_list):
 
 
 def strip(word):
-    word = str(word)\
-        .replace("\\t", "")\
-        .replace("\\n", "")\
+    word = str(word) \
+        .replace("\\t", "") \
+        .replace("\\n", "") \
         .replace("\'", "") \
         .replace("\"", "") \
-        .replace("[", "").\
+        .replace("[", ""). \
         replace("]", "").replace("\\xa0", " ")
     while word and word[0] == " ":
         word = word[1:]
     while word and word[-1] == " ":
         word = word[:-1]
-    #word = " ".join(word.split())
+    # word = " ".join(word.split())
     return word
 
 
-def process_url(url):
+def process_url(url, dataset):
     headers = {'user-agent': 'bisonwatch-vis_project_2021'}
 
     r = requests.get(url, headers=headers)
@@ -55,8 +55,8 @@ def process_url(url):
     tags = soup.find_all(re.compile("td"))
 
     filename = strip(tags[4].contents[0])
-    course_title = str(soup.find("h1").contents)\
-        .removesuffix(" - Einzelansicht\\n        ']")\
+    course_title = str(soup.find("h1").contents) \
+        .removesuffix(" - Einzelansicht\\n        ']") \
         .removeprefix("['\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t        \\t")
 
     if len(filename) < 2:
@@ -64,8 +64,7 @@ def process_url(url):
     else:
         filename = slugify(filename)
 
-
-    f = open("database/" + filename + '.txt', 'w')
+    f = open("database/semester_" + dataset + "/" + filename + '.txt', 'w')
     f.write("Veranstaltungstitel" + delimiter + course_title + "\n")
     f.write("Bisonlink" + delimiter + url + "\n")
     f.write('# Grunddaten' + delimiter + "\n")
@@ -99,8 +98,22 @@ def process_url(url):
     except Exception:
         try:
             faculty = strip(soup.find(attrs={"summary": "Übersicht über die zugehörigen Einrichtungen"}).find("a").contents[-1])
-            if faculty not in ["Bauhaus-Universität Weimar", "Fakultät Bauingenieurwesen", "Fakultät Architektur und Urbanistik", "Fakultät Medien", "Fakultät Kunst und Gestaltung"]:
-                faculty = "missing"
+            if faculty not in ["Bauhaus-Universität Weimar", "Fakultät Bauingenieurwesen",
+                               "Fakultät Architektur und Urbanistik", "Fakultät Medien",
+                               "Fakultät Kunst und Gestaltung"]:
+                r = requests.get(soup.find(attrs={"summary": "Übersicht über die zugehörigen Einrichtungen"}).find("a")["href"], headers=headers)
+                einrichtung_soup = BeautifulSoup(r.text, 'html.parser')
+                try:
+                    faculty = strip(
+                        einrichtung_soup.find_all("h2", string="Strukturbaum")[0].find_next("a").find_next(
+                            "a").contents)
+                except Exception:
+                    faculty = None
+                #print(faculty)
+                if faculty not in ["Bauhaus-Universität Weimar", "Fakultät Bauingenieurwesen",
+                              "Fakultät Architektur und Urbanistik", "Fakultät Medien",
+                               "Fakultät Kunst und Gestaltung"]:
+                    faculty = "missing"
         except Exception:
             faculty = "missing"
     f.write('Fakultät' + delimiter + faculty + "\n")
@@ -108,44 +121,80 @@ def process_url(url):
     try:
         tags = soup.find(attrs={"summary": "Übersicht über alle Veranstaltungstermine"}).find_all("td")
     except Exception:
-        #print("Hinweis: Keine Veranstaltungstermine für " + filename)
+        # print("Hinweis: Keine Veranstaltungstermine für " + filename)
         tags = []
     if tags:
-        for i in range(int((len(tags))/11)):
+        for i in range(int((len(tags)) / 11)):
             f.write('# Zeit' + "\n")
-            day = strip(tags[i*11 + 1].contents)
+            day = strip(tags[i * 11 + 1].contents)
             if len(day) < 1 or day not in ["Mo.", "Di.", "Mi.", "Do.", "Fr.", "Sa.", "So."]:
                 f.write('Tag' + delimiter + "missing" + "\n")
             else:
                 f.write('Tag' + delimiter + day + "\n")
-            f.write('Zeit' + delimiter + strip(tags[i*11 + 2].contents).replace("\\xa0bis\\xa0", " - ") + "\n")
+            f.write('Zeit' + delimiter + strip(tags[i * 11 + 2].contents).replace("\\xa0bis\\xa0", " - ") + "\n")
 
-            f.write('Terminrhythmus' + delimiter + strip(tags[i*11 + 3].contents) + "\n")
-            f.write('Bemerkung' + delimiter + strip(tags[i*11 + 8].contents) + "\n")
+            f.write('Terminrhythmus' + delimiter + strip(tags[i * 11 + 3].contents) + "\n")
+            f.write('Bemerkung' + delimiter + strip(tags[i * 11 + 8].contents) + "\n")
     try:
         tags = soup.find(attrs={"summary": "Verantwortliche Dozenten"}).find_all("td")
     except Exception:
-        #print("Hinweis: Keine Dozenten für " + filename)
+        # print("Hinweis: Keine Dozenten für " + filename)
         tags = []
     f.write('# Personen' + "\n")
     if tags:
         f.write('Personen')
-        for i in range(int((len(tags)/2))):
-            person_entry = strip(tags[i*2].find("a").contents).split(",")
+        for i in range(int((len(tags) / 2))):
+            person_entry = strip(tags[i * 2].find("a").contents).split(",")
             # Teste ob Vor- und Nachname gegeben sind
             if len(person_entry) > 1:
-                f.write(delimiter + strip(person_entry[1]).split(" ")[0] + " " + strip(person_entry[0]))
+                regular_name = strip(person_entry[1]).split(" ")[0] + " " + strip(person_entry[0])
+                faculty = find_teachers_faculty(tags[i * 2].find("a")["href"])
+                # print("Startseite: " + tags[i*2].find("a")["href"])
+                f.write(delimiter + faculty + "," + regular_name)
             else:
-                f.write(delimiter + strip(person_entry[0]))
+                f.write(delimiter + faculty + "," + strip(person_entry[0]))
+                # print("Achtung: " + strip(person_entry[0]))
         f.write("\n")
-    f.write("# Beschreibung" +"\n")
+    f.write("# Beschreibung" + "\n")
     try:
         tags = soup.find(attrs={"summary": "Weitere Angaben zur Veranstaltung"}).find_all("td")
     except Exception:
-        #print("Hinweis: Keine Beschreibung für " + filename)
+        # print("Hinweis: Keine Beschreibung für " + filename)
         tags = []
     if tags and tags[0].find("p"):
         f.write('Beschreibung' + delimiter + strip(tags[0].find("p").contents) + "\n")
 
 
+def find_teachers_faculty(url):
+    headers = {'user-agent': 'bisonwatch-vis_project_2021'}
+    r = requests.get(url, headers=headers)
+    person_soup = BeautifulSoup(r.text, 'html.parser')
+    try:
+        faculty = strip(person_soup.find_all("h2", string="Strukturbaum")[0].find_next("a").find_next("a").contents)
+    except Exception:
+        faculty = None
+    if faculty and faculty != "Startseite":
+        return faculty
+    try:
+        einrichtung_url = \
+        person_soup.find(attrs={"summary": "Übersicht über die Zugehörigkeit zu Einrichtungen"}).find_all("td")[0].find(
+            "a")["href"]
+    except Exception:
+        einrichtung_url = None
+    if einrichtung_url:
+        r = requests.get(einrichtung_url, headers=headers)
+        einrichtung_soup = BeautifulSoup(r.text, 'html.parser')
+        try:
+            faculty = strip(
+                einrichtung_soup.find_all("h2", string="Strukturbaum")[0].find_next("a").find_next("a").contents)
+        except Exception:
+            faculty = None
+        if faculty:
+            return faculty
+    # print("Fakultät fehlt für " + url)
+    return "missing"
 
+
+if __name__ == "__main__":
+    process_url(
+        "https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=51739")

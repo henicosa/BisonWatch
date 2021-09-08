@@ -15,23 +15,26 @@ import { parallelcoordinates } from "./parallelcoordinates";*/
 // Laden der Bison-Daten
 loadBisonDataset().then((bisond) => {
   var blacklist = ["N.N", "N.N.", " N.N.", "missing", "keine öffentliche Person"]
+  var categories = ["Fakultät Architektur und Urbanistik", "Fakultät Bauingenieurwesen", "Fakultät Kunst und Gestaltung", "Fakultät Medien"]
+
   console.log(bisond)
   var lecturers = new Map();
   bisond.forEach(element => {
     element.lecturers.forEach(lecturer => {
-      if (!blacklist.includes(lecturer)) {
-        if (!lecturers.has(lecturer)) lecturers.set(lecturer, {courses: new Set(), colecturers: new Map()})
+      if (!blacklist.includes(lecturer.name)) {
+        if (!lecturers.has(lecturer.name)) lecturers.set(lecturer.name, {courses: new Set(), colecturers: new Map(), 
+          faculty: categories.includes(lecturer.faculty) ? lecturer.faculty: "Sonstiges"})
           // update colectureres
-          var colecturers = lecturers.get(lecturer).colecturers
+          var colecturers = lecturers.get(lecturer.name).colecturers
           element.lecturers.forEach(lecturerB => {
-            if ((lecturerB != lecturer) && (!blacklist.includes(lecturerB))) 
-              if (colecturers.has(lecturerB))
-                colecturers.set(lecturerB, colecturers.get(lecturerB) +1)
+            if ((lecturerB.name != lecturer.name) && (!blacklist.includes(lecturerB.name))) 
+              if (colecturers.has(lecturerB.name))
+                colecturers.set(lecturerB.name, colecturers.get(lecturerB.name) +1)
               else
-                colecturers.set(lecturerB, 1)
+                colecturers.set(lecturerB.name, 1)
           })
           // update course
-          lecturers.get(lecturer).courses.add(element)
+          lecturers.get(lecturer.name).courses.add(element)
         }
       });
   });
@@ -41,6 +44,12 @@ loadBisonDataset().then((bisond) => {
     var height = 800
     var width = 1000
 
+    var colors = new Map().set("Fakultät Architektur und Urbanistik", "#009BB4")
+                  .set("Fakultät Bauingenieurwesen", "#F39100")
+                  .set("Fakultät Kunst und Gestaltung", "#94C11C")
+                  .set("Fakultät Medien", "#006B94")
+                  .set("Sonstiges", "grey")
+
 
     const scale = d3.scaleLinear()
       .domain([0, 16, 50])
@@ -48,11 +57,11 @@ loadBisonDataset().then((bisond) => {
     var color =  d => scale(d.group);
 
     var mdata = {nodes: [], links: []};
-    lecturers.forEach((value, lecturer) => {
-      mdata.nodes.push({id: lecturer, group: value.courses.size})
-      value.colecturers.forEach((lecture_num, colecturer) => {
-        if (lecturer < colecturer) {
-          mdata.links.push({source: lecturer,target: colecturer, value: lecture_num})
+    lecturers.forEach((value, lecturer_name) => {
+      mdata.nodes.push({id: lecturer_name, group: value.courses.size, faculty: value.faculty})
+      value.colecturers.forEach((lecture_num, colecturer_name) => {
+        if (lecturer_name < colecturer_name) {
+          mdata.links.push({source: lecturer_name,target: colecturer_name, value: lecture_num})
         }
       })
     })
@@ -130,7 +139,7 @@ loadBisonDataset().then((bisond) => {
       .data(nodes)
       .join("circle")
         .attr("r", d => 5 + parseInt(Math.log(d.group)/ Math.log(1.5)))
-        .attr("fill", color)
+        .attr("fill", d => colors.get(d.faculty))
         .call(drag(simulation));
   
     node.append("title")
