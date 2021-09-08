@@ -1,4 +1,5 @@
 import * as d3 from "d3";
+//import { convertSkypackImportMapToLockfile } from "snowpack/lib/util";
 import { loadBisonDataset } from "../bison";
 
 
@@ -39,22 +40,48 @@ loadBisonDataset().then((bisond) => {
       });
   });
   console.log(lecturers)
+  const datalist = d3.select("#search")
+  lecturers.forEach((d, lecturer) => {
+    datalist.append("option")
+      .attr("value", lecturer)
+  })
+
+  const attributeSelect = d3.select("#search_input")
+
+  var lecturer_selected = false
+  var force_selection = false
+  var lecturer_selected_name = ""
+
+  attributeSelect.on('input', function(e) {
+    //if (e.key === 'Enter') {
+      var input = d3.select("#search_input").property("value")
+      if (lecturers.has(input)) {
+        lecturer_selected_name = input;
+        lecturer_selected = true
+        force_selection = true
+        select_teacher()
+      } else {
+        force_selection = false
+      }
+    //}
+  });
 
   
-    var height = 800
-    var width = 1000
+    var height = 900
+    var width = 900
 
     var colors = new Map().set("Fakultät Architektur und Urbanistik", "#009BB4")
                   .set("Fakultät Bauingenieurwesen", "#F39100")
                   .set("Fakultät Kunst und Gestaltung", "#94C11C")
                   .set("Fakultät Medien", "#006B94")
                   .set("Sonstiges", "grey")
+    
+    
 
 
     const scale = d3.scaleLinear()
       .domain([0, 16, 50])
       .range(["grey", "blue", "red"]);
-    var color =  d => scale(d.group);
 
     var mdata = {nodes: [], links: []};
     lecturers.forEach((value, lecturer_name) => {
@@ -139,8 +166,24 @@ loadBisonDataset().then((bisond) => {
       .data(nodes)
       .join("circle")
         .attr("r", d => 5 + parseInt(Math.log(d.group)/ Math.log(1.5)))
-        .attr("fill", d => colors.get(d.faculty))
-        .call(drag(simulation));
+        .attr("fill", d => lecturer_selected ? "LightGray" : colors.get(d.faculty))
+        .call(drag(simulation))
+        .on("mouseover", function(d) { if (!force_selection)
+          d3.select(this).attr("r", d => 7 + parseInt(Math.log(d.group)/ Math.log(1.5))).style("fill",d => {
+            lecturer_selected = true
+            lecturer_selected_name = d.id
+            redraw()
+            console.log(d)
+            return colors.get(d.faculty)
+          });
+        })                  
+        .on("mouseout", function(d) { if (!force_selection)
+          d3.select(this).attr("r", d => 5 + parseInt(Math.log(d.group)/ Math.log(1.5))).style("fill", d => {
+            lecturer_selected = false
+            redraw()
+            return colors.get(lecturer_selected ? "LightGray" : colors.get(d.faculty))
+          });
+        });
   
     node.append("title")
         .text(d => d.id);
@@ -157,6 +200,30 @@ loadBisonDataset().then((bisond) => {
           .attr("cy", d => d.y);
     });
   
+    // function to redraw the graph on mouseover event
+    function redraw() {
+      zoom.selectAll("circle")
+      .data(nodes)
+      .join("circle")
+        .attr("r", d => 5 + parseInt(Math.log(d.group)/ Math.log(1.5)))
+        .attr("fill", d => (lecturer_selected && !is_connected(lecturer_selected_name, d.id)) ?  "LightGray" : colors.get(d.faculty))
+        .call(drag(simulation))
+    }
+
+    function select_teacher() {
+      zoom.selectAll("circle")
+      .data(nodes)
+      .join("circle")
+        .attr("r", d => 5 + parseInt(Math.log(d.group)/ Math.log(1.5)))
+        .attr("fill", d => (lecturer_selected && !is_connected(lecturer_selected_name, d.id)) ? lecturer_selected_name == d.id ? "red" : "LightGray" : colors.get(d.faculty))
+        .call(drag(simulation))
+    }
+
+    //function to test if two nodes are connected:
+    function is_connected(lecturer_A_name, lecturer_B_name) {
+      return lecturers.get(lecturer_A_name).colecturers.has(lecturer_B_name)
+    }
+
     //invalidation.then(() => simulation.stop());
 
   });

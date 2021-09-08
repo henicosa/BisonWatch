@@ -21,8 +21,13 @@
         <h1><a href="/index.html">⬅ </a> | BisonWatch - Lecturer Network</h1>
 
         <section>
-
+            <center>Finde eine Lehrperson: <input id="search_input" list="search"></center>
             <svg id="lecturer_network"></svg>
+            
+            
+            
+            <datalist id="search">
+            </datalist> 
 
             <p>Diese Visualisierung zeigt das Netzwerk der Kursleiter*innen der Bauhaus-Universität Weimar. <br \>
                 Je mehr Veranstaltungen von einer Person geleitet werden umso größer ist ihr Knoten im Netzwerk. 
@@ -33,7 +38,8 @@
             <p>Kurze Tipps zur Interpretation des Diagramms:
                 <ul>
                     <li>In das Diagramm lässt sich durch Drehen des Mausrads oder einem Fingerpinch reinzoomen. Und die aktuelle Ansicht kann mit gedrückt gehaltener Maus verschoben werden.</li>
-                    <li>Beim Hovern über eine Person, wird der Name der Person angezeigt und es werden alle Personen farblich markiert die mit dieser Personen verbunden sind.</li>
+                    <li>Über das Suchfeld lässt sich eine bestimmte Lehrperson auswählen. Die Lehrperson wird im Netzwerk rot eingefärbt und alle Personen, die nicht mit der Lehrperson verbunden sind, werden ausgegraut.</li>
+                    <li>Wenn keine bestimmte Lehrperson im Suchfeld ausgewählt ist, wird beim Hovern über eine Person, wird der Name der Person angezeigt und es werden alle Personen farblich markiert die mit dieser Personen verbunden sind.</li>
                     <li>Ein Klick auf eine Person leitet auf eine Auflistung aller Veranstaltungen, die von der Person geleitet wird, weiter.</li>
                     <li>Ein Klick auf eine Verbindung zwischen zwei Personen leitet auf eine Auflistung aller Veranstaltungen, die von beiden Personen geleitet werden, weiter.</li>
                 </ul>
