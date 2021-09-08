@@ -2,3 +2,4 @@ npm-debug.log
 code/crawler/database
 code/crawler/__pycache__
 code/crawler/.idea
+.vscode

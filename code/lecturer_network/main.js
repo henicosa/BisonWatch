@@ -15,14 +15,14 @@ import { parallelcoordinates } from "./parallelcoordinates";*/
 
 // Laden der Bison-Daten
 loadBisonDataset().then((bisond) => {
-  var blacklist = ["N.N", "N.N.", " N.N.", "missing", "keine öffentliche Person"]
+  var blacklist = ["N.N", "N.N.", " N.N.", "missing", "keine öffentliche Person", " ", ""]
   var categories = ["Fakultät Architektur und Urbanistik", "Fakultät Bauingenieurwesen", "Fakultät Kunst und Gestaltung", "Fakultät Medien"]
 
   console.log(bisond)
   var lecturers = new Map();
   bisond.forEach(element => {
     element.lecturers.forEach(lecturer => {
-      if (!blacklist.includes(lecturer.name)) {
+      if (!blacklist.includes(lecturer.name) && lecturer.name != undefined) {
         if (!lecturers.has(lecturer.name)) lecturers.set(lecturer.name, {courses: new Set(), colecturers: new Map(), 
           faculty: categories.includes(lecturer.faculty) ? lecturer.faculty: "Sonstiges"})
           // update colectureres
@@ -67,17 +67,14 @@ loadBisonDataset().then((bisond) => {
   });
 
   
-    var height = 900
-    var width = 900
+    var height = 1000
+    var width = 1000
 
     var colors = new Map().set("Fakultät Architektur und Urbanistik", "#009BB4")
                   .set("Fakultät Bauingenieurwesen", "#F39100")
                   .set("Fakultät Kunst und Gestaltung", "#94C11C")
                   .set("Fakultät Medien", "#006B94")
                   .set("Sonstiges", "grey")
-    
-    
-
 
     const scale = d3.scaleLinear()
       .domain([0, 16, 50])
@@ -126,12 +123,26 @@ loadBisonDataset().then((bisond) => {
     
     const links = data.links.map(d => Object.create(d));
     const nodes = data.nodes.map(d => Object.create(d));
+
+    function get_force(list, faculty) {
+      var diam = 100
+      var index = list.indexOf(faculty)
+      if (index < list.length-2) {
+        var bogen = 2*Math.PI/(list.length-1)
+        return {x: diam*Math.cos(bogen*index), y: diam*Math.sin(bogen*index)}
+      } else return {x: 0, y: 0}
+    }
+
+    categories.push("Sonstiges")
+    var force_map = new Map()
+    categories.forEach((d) => {force_map.set(d, get_force(categories, d))})
+
   
     const simulation = d3.forceSimulation(nodes)
       .force("link", d3.forceLink(links).id(d => d.id))
       .force("charge", d3.forceManyBody())
-      .force("x", d3.forceX())
-      .force("y", d3.forceY());
+      .force("x", d3.forceX(d => force_map.get(d.faculty).x))
+      .force("y", d3.forceY(d => force_map.get(d.faculty).y));
     
     const svg = d3.select("#lecturer_network")
         .attr("viewBox", [-width / 2, -height / 2, width, height])
@@ -142,7 +153,6 @@ loadBisonDataset().then((bisond) => {
       .on("zoom", zoomed));
 
     var zoom = svg.append("g")
-    
     
   
     function zoomed({transform}) {
@@ -173,7 +183,6 @@ loadBisonDataset().then((bisond) => {
             lecturer_selected = true
             lecturer_selected_name = d.id
             redraw()
-            console.log(d)
             return colors.get(d.faculty)
           });
         })                  
