@@ -35,7 +35,23 @@ loadBisonDataset().then((bisond) => {
 
   var width = 975
   var height = 720 
-  var color = d3.scaleOrdinal(d3.schemeTableau10)
+  
+  var colors = new Map().set("Fakultät Architektur und Urbanistik", "#009BB4")
+                  .set("Fakultät Bauingenieurwesen", "#F39100")
+                  .set("Fakultät Kunst und Gestaltung", "#94C11C")
+                  .set("Fakultät Medien", "#006B94")
+                  .set("Sonstiges", "grey")
+
+  function color (faculty) {
+    var color = colors.get(faculty)
+    
+    if (color == undefined){
+      return "grey"
+    }
+    return colors.get(faculty)
+  }
+  
+   
   var data = bisond
   var keys = ["faculty", "day", "sws", "language"]
   var svg = d3.select("#parallel_set").attr("width", width).attr("height", height); 
@@ -44,7 +60,7 @@ loadBisonDataset().then((bisond) => {
   var sankey = Sankey()
         .nodeSort(null)
         .linkSort(null)
-        .nodeWidth(4)
+        .nodeWidth(8)
         .nodePadding(20)
         .extent([[0, 5], [width, height - 5]])
 
@@ -94,14 +110,22 @@ loadBisonDataset().then((bisond) => {
     links: graph.links.map(d => Object.assign({}, d))
   });
 
+  
   svg.append("g")
       .selectAll("rect")
       .data(nodes)
       .join("rect")
+      .attr("fill", "LightGrey")
       .attr("x", d => d.x0)
       .attr("y", d => d.y0)
       .attr("height", d => d.y1 - d.y0)
       .attr("width", d => d.x1 - d.x0)
+      // click function to fill bars
+      .on("click", function(d) { 
+        if (d3.select(this).attr("fill") == "red") {
+          d3.select(this).attr("fill", "LightGrey")
+        } else d3.select(this).attr("fill", "red")
+      })
       .append("title")
       .text(d => `${d.name}\n${d.value.toLocaleString()}`);
 
@@ -117,6 +141,14 @@ loadBisonDataset().then((bisond) => {
       .append("title")
       .text(d => `${d.names.join(" → ")}\n${d.value.toLocaleString()}`);
 
+  // function to redraw graph when clicking on bars 
+  //function redraw() {
+  //  svg.append("g").selectAll("path")
+  //  .data(links)
+  //  .join("path")
+  //  .attr("fill", )
+  //}
+
   svg.append("g")
       .style("font", "10px sans-serif")
       .selectAll("text")
@@ -130,6 +162,9 @@ loadBisonDataset().then((bisond) => {
       .append("tspan")
       .attr("fill-opacity", 0.7)
       .text(d => ` ${d.value.toLocaleString()}`);
+
+
+      
 
 });
 
