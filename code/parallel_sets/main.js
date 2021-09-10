@@ -43,24 +43,28 @@ loadBisonDataset().then((bisond) => {
   var width = 975
   var height = 720 
   
+  // Map to get official color from faculty name
   var colors = new Map().set("Fakultät Architektur und Urbanistik", "#009BB4")
                   .set("Fakultät Bauingenieurwesen", "#F39100")
                   .set("Fakultät Kunst und Gestaltung", "#94C11C")
                   .set("Fakultät Medien", "#006B94")
                   .set("Sonstiges", "grey")
 
-  function color (faculty) {
+  // return faculty color if defined else return grey
+  function color(faculty) {
     var color = colors.get(faculty)
-    
-    if (color == undefined){
+    if (color == undefined) {
       return "grey"
-    }
-    return colors.get(faculty)
+    } else return color
   }
   
-   
+
   var data = bisond
   var keys = ["faculty", "day", "sws", "language"]
+
+  var selection = keys.map(d => new Set())
+
+  
   var svg = d3.select("#parallel_set").attr("width", width).attr("height", height); 
   var svg2 = d3.select("#legend")
 
@@ -129,17 +133,24 @@ loadBisonDataset().then((bisond) => {
       .attr("height", d => d.y1 - d.y0)
       .attr("width", d => d.x1 - d.x0)
       // click function to fill bars
-      .on("click", function(d) { 
+      .on("click", function(e, d) { 
         if (d3.select(this).attr("fill") == "red") {
+          selection[d.depth].delete(d.name)
+          generate_selection()
           d3.select(this).attr("fill", "LightGrey")
-        } else d3.select(this).attr("fill", "red")
+        } else {
+          selection[d.depth].add(d.name)
+          generate_selection()
+          d3.select(this).attr("fill", "red")
+        }
+        redraw()
       })
       .append("title")
       .text(d => `${d.name}\n${d.value.toLocaleString()}`);
 
   svg.append("g")
       .attr("fill", "none")
-      .selectAll("g")
+      .selectAll("path")
       .data(links)
       .join("path")
       .attr("d", SLH())
@@ -148,14 +159,7 @@ loadBisonDataset().then((bisond) => {
       .style("mix-blend-mode", "multiply")
       .append("title")
       .text(d => `${d.names.join(" → ")}\n${d.value.toLocaleString()}`);
-
-  // function to redraw graph when clicking on bars 
-  //function redraw() {
-  //  svg.append("g").selectAll("path")
-  //  .data(links)
-  //  .join("path")
-  //  .attr("fill", )
-  //}
+      
 
   svg.append("g")
       .style("font", "10px sans-serif")
@@ -208,13 +212,62 @@ loadBisonDataset().then((bisond) => {
   
 
   /**
+   * function to evaluate if a path is in the current selection
+   *
+   * @param names An array of the attribute names the path belongs to 
+   */
+  function is_selected(names) {
+    for (var i = 0; i < names.length; i++) {
+      if ((selection[i].size != 0) && (!selection[i].has(names[i]))) return false
+    }
+    return true
+  }
+  
+  /**
+   * function to redraw graph when clicking on attribute 
+   */
+  function redraw() {
+    svg.selectAll("path")
+      .data(links)
+      .join("path")
+      .attr("d", SLH())
+      .attr("stroke", d => (is_selected(d.names)) ? color(d.names[0]) : "Ash")
+      .attr("stroke-width", d => d.width)
+      .style("mix-blend-mode", "multiply")
+      .append("title")
+      .text(d => `${d.names.join(" → ")}\n${d.value.toLocaleString()}`);
+  }
+
+  /**
+   * Generate an array of course objects from the selection
+   */
+  function generate_selection() {
+    var fdata = bisond
+    selection.forEach((category, i) => {
+      var data_per_category = []
+      if (category.size > 0) {
+        category.forEach(selected_item => {
+          var filtered_data = fdata.filter(d => d[keys[i]] == selected_item) 
+          data_per_category = data_per_category.concat(filtered_data)
+        })
+        fdata = data_per_category
+      } 
+    })
+    console.log(fdata)
+    output_selection(fdata)
+  }
+
+  /**
    * Write selection in a table on the html site
    *
    * @param selection An array of course objects
    */
   function output_selection(selection) {
     var table = d3.select("div#result").select("#resulttable")
+    table.selectAll("tr").remove()
     var table_header = table.append("tr")
+
+    console.log(selection)
 
     // generate base url to the lecturer network visualisation
     var lecturer_network_url = window.location.toString().split("/")
