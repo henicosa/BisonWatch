@@ -26,7 +26,10 @@ def data2csv(dataset):
 
         delimiter = " :3 S: "
 
-        txt_folder = Path('database/').rglob("*.txt")
+        if dataset != "":
+            txt_folder = Path('database/semester_' + dataset + '/').rglob("*.txt")
+        else:
+            txt_folder = Path('database/').rglob("*.txt")
         files = [x for x in txt_folder]
         for filepath in files:
             entry = open(filepath, "r")
@@ -36,7 +39,6 @@ def data2csv(dataset):
                     split_line = line.split(delimiter)
                     if split_line[0] in selected_attributes:
                         if split_line[0] in ["Personen"]:
-                            print(filepath)
                             multi_entry = strip(split_line[1])
                             for i in range(2, len(split_line)):
                                 multi_entry += (delimiter + split_line[i])
@@ -46,6 +48,10 @@ def data2csv(dataset):
             # print(next_row)
             csvwriter.writerow(next_row)
 
+            if dataset != "":
+                dataset = ""
+                data2csv(dataset)
+
 
 if __name__ == "__main__":
-    data2csv("20201")
+    data2csv("20202")

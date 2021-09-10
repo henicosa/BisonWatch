@@ -5,9 +5,9 @@ import data2csv as d2c
 
 import re
 numelem = 10000
-year = "2020"
+year = "2021"
 # 1 für Sommer, 2 für Winter
-semester = "2"
+semester = "1"
 dataset = year + semester
 
 payload = {"state": "wsearchv", "search": "1", "subdir": "veranstaltung","veranstaltung.semester": dataset, "P_start": "0", "P_anzahl": str(numelem), "P.sort": "", "_form": "display"}
@@ -35,6 +35,10 @@ for search_link in search_link_queue:
 #print(link_queue)
 
 for link in link_queue:
-    b2d.process_url(link, dataset)
+    try:
+        b2d.process_url(link, dataset)
+    except Exception:
+        print("FATALER FEHLER : " + url)
+
 
 d2c.data2csv(dataset)
