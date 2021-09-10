@@ -19,7 +19,9 @@ import result from "./result.md";
 // Load Bison Data 
 loadBisonDataset().then((bisond) => {
 
-  d3.select("div#result").html(marked(result));
+  //d3.select("div#result").html(marked(result));
+
+  output_selection(bisond.slice(0, 20))
 
   console.log(bisond);
 
@@ -130,6 +132,55 @@ loadBisonDataset().then((bisond) => {
       .append("tspan")
       .attr("fill-opacity", 0.7)
       .text(d => ` ${d.value.toLocaleString()}`);
+
+  /**
+   * Write selection in a table on the html site
+   *
+   * @param selection An array of course objects
+   */
+  function output_selection(selection) {
+    var table = d3.select("div#result").select("#resulttable")
+    var table_header = table.append("tr")
+
+    // generate base url to the lecturer network visualisation
+    var lecturer_network_url = window.location.toString().split("/")
+    lecturer_network_url.pop()
+    lecturer_network_url.pop()
+    lecturer_network_url.push("lecturer_network")
+    lecturer_network_url = new URL(lecturer_network_url.join("/"))
+
+    // generate table header
+    table_header.append("th").text("Veransstaltungstitel")
+    table_header.append("th").text("Lehrpersonen")
+
+    // generate entry for each course in the selection
+    selection.forEach(course => {
+      var table_row = table.append("tr")
+
+      // write course title with link to bison in the table
+      table_row.append("td").append("a")
+        .attr("href", course.internalLink)
+        .text(course.courseTitle)
+
+      // write lecturers with custom query link to our lecturer network in the table
+      var lec_item = table_row.append("td")
+      if (course.lecturers.length > 1) {
+      course.lecturers.forEach((lecturer) => {
+        lecturer_network_url.searchParams.set("lecturer", lecturer.name)
+        lec_item.append("a")
+        .attr("href", lecturer_network_url.href)
+        .text(lecturer.name)
+        lec_item.append("text").text(", ")
+        lec_item.append("br")
+        }
+      )} else {
+        lecturer_network_url.searchParams.set("lecturer", course.lecturers[0].name)
+        lec_item.append("a")
+        .attr("href", lecturer_network_url.href)
+        .text(course.lecturers[0].name)
+      }
+    });
+  }
 
 });
 
