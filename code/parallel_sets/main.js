@@ -168,11 +168,11 @@ loadBisonDataset().then((bisond) => {
 
 
   // Create legend
-  svg2.append("circle").attr("cx",10).attr("cy",30).attr("r", 6).style("fill", "#009BB4")
-  svg2.append("circle").attr("cx",10).attr("cy",50).attr("r", 6).style("fill", "#F39100")
-  svg2.append("circle").attr("cx",10).attr("cy",70).attr("r", 6).style("fill", "#94C11C")
-  svg2.append("circle").attr("cx",10).attr("cy",90).attr("r", 6).style("fill", "#006B94")
-  svg2.append("circle").attr("cx",10).attr("cy",110).attr("r", 6).style("fill", "grey")
+  svg2.append("circle").attr("cx",10).attr("cy",25).attr("r", 6).style("fill", "#009BB4")
+  svg2.append("circle").attr("cx",10).attr("cy",45).attr("r", 6).style("fill", "#F39100")
+  svg2.append("circle").attr("cx",10).attr("cy",65).attr("r", 6).style("fill", "#94C11C")
+  svg2.append("circle").attr("cx",10).attr("cy",85).attr("r", 6).style("fill", "#006B94")
+  svg2.append("circle").attr("cx",10).attr("cy",105).attr("r", 6).style("fill", "grey")
   svg2.append("text").attr("x", 20).attr("y", 30).text("Fakultät Architektur und Urbanistik")
   svg2.append("text").attr("x", 20).attr("y", 50).text("Fakultät Bauingenieurwesen").attr("alignment-baseline","middle")
   svg2.append("text").attr("x", 20).attr("y", 70).text("Fakultät Kunst und Gestaltung",).attr("alignment-baseline","middle")
