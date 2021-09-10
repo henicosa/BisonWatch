@@ -15,6 +15,7 @@ import { parallelcoordinates } from "./parallelcoordinates";*/
 
 // Laden der Bison-Daten
 loadBisonDataset().then((bisond) => {
+
   var blacklist = ["N.N", "N.N.", " N.N.", "missing", "keine öffentliche Person", " ", ""]
   var categories = ["Fakultät Architektur und Urbanistik", "Fakultät Bauingenieurwesen", "Fakultät Kunst und Gestaltung", "Fakultät Medien"]
 
@@ -55,14 +56,7 @@ loadBisonDataset().then((bisond) => {
   attributeSelect.on('input', function(e) {
     //if (e.key === 'Enter') {
       var input = d3.select("#search_input").property("value")
-      if (lecturers.has(input)) {
-        lecturer_selected_name = input;
-        lecturer_selected = true
-        force_selection = true
-        select_teacher()
-      } else {
-        force_selection = false
-      }
+      make_selection(input)
     //}
   });
 
@@ -208,6 +202,13 @@ loadBisonDataset().then((bisond) => {
           .attr("cx", d => d.x)
           .attr("cy", d => d.y);
     });
+
+    // fetch url search parameter for lecturer
+    const urlSearchParams = new URLSearchParams(window.location.search);
+    var searchParam = urlSearchParams.get('lecturer');
+    if (searchParam != undefined) {
+      make_selection(searchParam)
+    }
   
     // function to redraw the graph on mouseover event
     function redraw() {
@@ -226,6 +227,17 @@ loadBisonDataset().then((bisond) => {
         .attr("r", d => 5 + parseInt(Math.log(d.group)/ Math.log(1.5)))
         .attr("fill", d => (lecturer_selected && !is_connected(lecturer_selected_name, d.id)) ? lecturer_selected_name == d.id ? "red" : "LightGray" : colors.get(d.faculty))
         .call(drag(simulation))
+    }
+
+    function make_selection(input) {
+      if (lecturers.has(input)) {
+        lecturer_selected_name = input;
+        lecturer_selected = true
+        force_selection = true
+        select_teacher()
+      } else {
+        force_selection = false
+      }
     }
 
     //function to test if two nodes are connected:
