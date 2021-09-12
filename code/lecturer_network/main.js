@@ -97,7 +97,7 @@ loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
         }
       })
     })
-    console.log(mdata)
+
     // Interaction
     var data = mdata
 
@@ -232,6 +232,10 @@ loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
     const urlSearchParams = new URLSearchParams(window.location.search);
     var searchParam = urlSearchParams.get('lecturer');
     if (searchParam != undefined) {
+      var description = d3.select("#description").text("")
+      description.append("c").text("Diese Visualisierung zeigt die Lehrperson ")
+      description.append("strong").text(searchParam)
+      description.append("c").text(" und alle Lehrpersonen mit gemeinsamen Kursen.")
       make_selection(searchParam)
     }
   
