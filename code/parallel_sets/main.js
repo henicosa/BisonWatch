@@ -150,7 +150,19 @@ loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
     links: graph.links.map(d => Object.assign({}, d))
   });
 
-
+  // Legend
+  d3.select("#legend").attr("width", width).attr("height", 30).append("g")
+  .style("font", "10px sans-serif")
+  .selectAll("text")
+  .data(keys)
+  .join("text")
+  .attr("x", (d, i) => i * width/(keys.length-1) )
+  .attr("y", 20)
+  .attr("dy", "0.35em")
+  .attr("text-anchor", (d, i) => i * width/(keys.length-1) < width / 2 ? "start" : "end")// 
+  .append("tspan")
+  .attr("fill-opacity", 0.7)
+  .text(d => d);
   
   svg.append("g")
       .selectAll("rect")
@@ -203,7 +215,11 @@ loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
       .append("tspan")
       .attr("fill-opacity", 0.7)
       .text(d => ` ${d.value.toLocaleString()}`);
+<<<<<<< HEAD
  
+=======
+  
+>>>>>>> 89e8b58cc19ddedf8a0d0f55f7c6af60fb8b205a
 
   /**
    * function to evaluate if a path is in the current selection
