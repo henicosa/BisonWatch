@@ -53,7 +53,7 @@ loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
     description.append("c").text("Diese Visualisierung zeigt alle Kurse von ")
     description.append("strong").text(searchParam)
     description.append("c").text(" im aktuellen Semester.")
-    keys = ["courseType", "day", "sws", "language"]
+    keys = ["courseType", "language", "day", "sws"]
     var color_keys = []
     bisond.forEach(entry => {
       if (!color_keys.includes(entry[keys[0]])) {
@@ -97,8 +97,33 @@ loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
   
   var svg = d3.select("#parallel_set").attr("width", width).attr("height", height); 
 
+  const weekdays = ["Mo.", "Di.", "Mi.", "Do.", "Fr.", "Sa.", "So.", "missing"]
+  const weekday_sorter = {
+    "Mo.": 1,
+    "Di.": 2,
+    "Mi.": 3,
+    "Do.": 4,
+    "Fr.": 5,
+    "Sa.": 6,
+    "So.": 7,
+    "missing": 8,
+  };
+
+  const sws = ["0-3", "4-6", "8-12", "16-18", "Keine Angabe"]
+  const sws_sorter = new Map()
+  sws.forEach((d, i) => sws_sorter.set(d, i))
+  console.log(sws_sorter)
+
+
   var sankey = Sankey()
-        .nodeSort(null)
+        .nodeSort((a, b) => {
+          if (weekdays.includes(a.name) && weekdays.includes(b.name)) {
+            return weekday_sorter[a.name] > weekday_sorter[b.name];
+          } else if (sws.includes(a.name) && sws.includes(b.name)) { 
+            return sws_sorter.get(a.name) > sws_sorter.get(b.name);
+          } else {
+             return a.name > b.name}
+        })
         .linkSort(null)
         .nodeWidth(8)
         .nodePadding(20)
@@ -176,6 +201,7 @@ loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
       // click function to fill bars
       .on("click", function(e, d) { 
         if (d3.select(this).attr("fill") == "red") {
+          console.log(d)
           selection[d.depth].delete(d.name)
           generate_selection()
           d3.select(this).attr("fill", "LightGrey")
@@ -216,6 +242,7 @@ loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
       .attr("fill-opacity", 0.7)
       .text(d => ` ${d.value.toLocaleString()}`);
  
+  
 
   /**
    * function to evaluate if a path is in the current selection
