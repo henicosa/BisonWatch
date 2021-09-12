@@ -203,28 +203,7 @@ loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
       .append("tspan")
       .attr("fill-opacity", 0.7)
       .text(d => ` ${d.value.toLocaleString()}`);
-
-
-  // Create legend horizontal, not working yet 
-
-  /*
-  svg2.append("circle").attr("cx",10).attr("cy",25).attr("r", 6).style("fill", "#009BB4")
-  svg2.append("circle").attr("cx",(width/5)).attr("cy",25).attr("r", 6).style("fill", "#F39100")
-  svg2.append("circle").attr("cx",(width/5)*2).attr("cy",25).attr("r", 6).style("fill", "#94C11C")
-  svg2.append("circle").attr("cx",(width/5)*3).attr("cy",25).attr("r", 6).style("fill", "#006B94")
-  svg2.append("circle").attr("cx",(width/5)*4).attr("cy",25).attr("r", 6).style("fill", "grey")
-
-  svg2.append("text").attr("x", 20).attr("y", 30).text("Fakultät Architektur und Urbanistik").attr("width", width/5 - 10)
-  svg2.append("text").attr("x", ((width/4)+10)).attr("y", 30).text("Fakultät Bauingenieurwesen")
-  svg2.append("text").attr("x", ((width/4)*1)).attr("y", 30).text("Fakultät Kunst und Gestaltung")
-  svg2.append("text").attr("x", ((width/4)*2)+10).attr("y", 30).text("Fakultät Medien")
-  svg2.append("text").attr("x", ((width/4)*3)+10).attr("y", 30).text("Sonstiges")
-  
-  svg2.selectAll().remove()
-  colors = d3.scaleOrdinal(["Fakultät Architektur und Urbanistik", "Fakultät Bauingenieurwesen", "Fakultät Kunst und Gestaltung", "Fakultät Medien", "Sonstiges"], d3.schemeCategory10)
-  Swatches(colors)
-  */
-  
+ 
 
   /**
    * function to evaluate if a path is in the current selection
