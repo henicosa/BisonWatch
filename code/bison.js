@@ -1,7 +1,7 @@
 import { dsv, isoParse } from "d3";
 
-export async function loadBisonDataset() {
-  return await dsv("\t", "/data/bisondata.csv", (item) => ({
+export async function loadBisonDataset(dataset) {
+  return await dsv("\t", dataset, (item) => ({
     courseTitle: item.Veranstaltungstitel,
     internalLink: item.Bisonlink,
     courseType: item.Veranstaltungsart,

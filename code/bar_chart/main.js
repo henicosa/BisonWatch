@@ -13,7 +13,7 @@ import { parallelcoordinates } from "./parallelcoordinates";*/
 
 
 // Laden der Bisondaten
-loadBisonDataset().then((bisond) => {
+loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
   var height = 500
   var width = 932
 

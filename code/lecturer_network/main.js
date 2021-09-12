@@ -14,7 +14,7 @@ import { parallelcoordinates } from "./parallelcoordinates";*/
 
 
 // Laden der Bison-Daten
-loadBisonDataset().then((bisond) => {
+loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
 
   var blacklist = ["N.N", "N.N.", " N.N.", "missing", "keine öffentliche Person", " ", ""]
   var categories = ["Fakultät Architektur und Urbanistik", "Fakultät Bauingenieurwesen", "Fakultät Kunst und Gestaltung", "Fakultät Medien"]
