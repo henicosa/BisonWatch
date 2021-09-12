@@ -17,7 +17,7 @@ import result from "./result.md";
 // Parallel Set Bison Daten
 // 
 // Load Bison Data 
-loadBisonDataset().then((bisond) => {
+loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
 
   //d3.select("div#result").html(marked(result));
 
@@ -27,11 +27,33 @@ loadBisonDataset().then((bisond) => {
 
   var keys = ["faculty",  "language", "day", "sws",]
 
+    // Map to get official color from faculty name
+  var colors = new Map().set("Fakultät Architektur und Urbanistik", "#009BB4")
+    .set("Fakultät Bauingenieurwesen", "#F39100")
+    .set("Fakultät Kunst und Gestaltung", "#94C11C")
+    .set("Fakultät Medien", "#006B94")
+    .set("Sonstiges", "grey")
+
+  // return faculty color if defined else return grey
+  function color(faculty) {
+    var color = colors.get(faculty)
+    if (color == undefined) {
+    return "grey"
+    } else return color
+  }
+
    // fetch url search parameter for lecturer
   const urlSearchParams = new URLSearchParams(window.location.search);
   var searchParam = urlSearchParams.get('lecturer');
   if (searchParam != undefined) {
-    keys = ["faculty", "courseType", "day", "sws", "language"]
+    keys = ["courseType", "day", "sws", "language"]
+    var color_keys = []
+    bisond.forEach(entry => {
+      if (!color_keys.includes(entry[keys[0]])) {
+        color_keys.push(entry[keys[0]])
+       }
+    })
+    color_keys = d3.sort(color_keys)
     bisond = bisond.filter(d => {
       var inside = false
       d.lecturers.forEach(l => {
@@ -41,6 +63,9 @@ loadBisonDataset().then((bisond) => {
       })
       return inside
     })
+    color = (ckey) => {
+      return d3.interpolateSpectral(color_keys.indexOf(ckey) / (color_keys.length-1))
+    }
   }
 
   bisond.map((d) => {
@@ -54,22 +79,7 @@ loadBisonDataset().then((bisond) => {
 
 
   var width = 975
-  var height = 720 
-  
-  // Map to get official color from faculty name
-  var colors = new Map().set("Fakultät Architektur und Urbanistik", "#009BB4")
-                  .set("Fakultät Bauingenieurwesen", "#F39100")
-                  .set("Fakultät Kunst und Gestaltung", "#94C11C")
-                  .set("Fakultät Medien", "#006B94")
-                  .set("Sonstiges", "grey")
-
-  // return faculty color if defined else return grey
-  function color(faculty) {
-    var color = colors.get(faculty)
-    if (color == undefined) {
-      return "grey"
-    } else return color
-  }
+  var height = 720
   
 
   var data = bisond
