@@ -186,6 +186,17 @@ loadBisonDataset().then((bisond) => {
             redraw()
             return colors.get(lecturer_selected ? "LightGray" : colors.get(d.faculty))
           });
+        })
+        .on("click", function (e, d) {
+          console.log(d.id)
+          // generate base url to the lecturer network visualisation
+          var selector_url = window.location.toString().split("/")
+          if (selector_url[selector_url.length -1] == "") selector_url.pop()
+          selector_url.pop()
+          selector_url.push("parallel_sets")
+          selector_url = new URL(selector_url.join("/"))
+          selector_url.searchParams.set("lecturer", d.id)
+          window.open(selector_url, "_top");
         });
   
     node.append("title")

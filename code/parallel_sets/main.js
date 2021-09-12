@@ -25,10 +25,28 @@ loadBisonDataset().then((bisond) => {
 
   console.log(bisond);
 
+  var keys = ["faculty",  "language", "day", "sws",]
+
+   // fetch url search parameter for lecturer
+  const urlSearchParams = new URLSearchParams(window.location.search);
+  var searchParam = urlSearchParams.get('lecturer');
+  if (searchParam != undefined) {
+    keys = ["faculty", "courseType", "day", "sws", "language"]
+    bisond = bisond.filter(d => {
+      var inside = false
+      d.lecturers.forEach(l => {
+        if (l.name == searchParam) {
+          inside = true
+        }
+      })
+      return inside
+    })
+  }
+
   bisond.map((d) => {
-    if (d.sws < 3) d.sws = "0-3"
-    else if (d.sws < 6) d.sws = "4-6"
-    else if (d.sws < 12) d.sws = "8-12"
+    if (d.sws <= 3) d.sws = "0-3"
+    else if (d.sws <= 6) d.sws = "4-6"
+    else if (d.sws <= 12) d.sws = "8-12"
     else if (d.sws <= 18) d.sws = "16-18"
     else d.sws = "Keine Angabe"
     return d    
@@ -55,7 +73,6 @@ loadBisonDataset().then((bisond) => {
   
 
   var data = bisond
-  var keys = ["faculty", "day", "sws", "language"]
 
   var selection = keys.map(d => new Set())
 
@@ -124,8 +141,8 @@ loadBisonDataset().then((bisond) => {
       .join("rect")
       .attr("fill", "LightGrey")
       .attr("x", d => d.x0)
-      .attr("y", d => d.y0)
-      .attr("height", d => d.y1 - d.y0)
+      .attr("y", d => d.y0 - 5)
+      .attr("height", d => d.y1 - d.y0 + 10)
       .attr("width", d => d.x1 - d.x0)
       // click function to fill bars
       .on("click", function(e, d) { 
@@ -226,7 +243,6 @@ loadBisonDataset().then((bisond) => {
         fdata = data_per_category
       } 
     })
-    console.log(fdata)
     output_selection(fdata)
   }
 
@@ -244,7 +260,7 @@ loadBisonDataset().then((bisond) => {
 
     // generate base url to the lecturer network visualisation
     var lecturer_network_url = window.location.toString().split("/")
-    lecturer_network_url.pop()
+    if (lecturer_network_url[lecturer_network_url.length -1] == "") lecturer_network_url.pop()
     lecturer_network_url.pop()
     lecturer_network_url.push("lecturer_network")
     lecturer_network_url = new URL(lecturer_network_url.join("/"))
