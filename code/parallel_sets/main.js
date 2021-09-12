@@ -96,8 +96,6 @@ loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
 
   
   var svg = d3.select("#parallel_set").attr("width", width).attr("height", height); 
-  var svg2 = d3.select("#legend")
-
 
   var sankey = Sankey()
         .nodeSort(null)
@@ -205,20 +203,6 @@ loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
       .append("tspan")
       .attr("fill-opacity", 0.7)
       .text(d => ` ${d.value.toLocaleString()}`);
-
-  
-  
-  // Create legend vertical 
-  svg2.append("circle").attr("cx",10).attr("cy",25).attr("r", 6).style("fill", "#009BB4")
-  svg2.append("circle").attr("cx",10).attr("cy",45).attr("r", 6).style("fill", "#F39100")
-  svg2.append("circle").attr("cx",10).attr("cy",65).attr("r", 6).style("fill", "#94C11C")
-  svg2.append("circle").attr("cx",10).attr("cy",85).attr("r", 6).style("fill", "#006B94")
-  svg2.append("circle").attr("cx",10).attr("cy",105).attr("r", 6).style("fill", "grey")
-  svg2.append("text").attr("x", 20).attr("y", 30).text("Fakultät Architektur und Urbanistik")
-  svg2.append("text").attr("x", 20).attr("y", 50).text("Fakultät Bauingenieurwesen").attr("alignment-baseline","middle")
-  svg2.append("text").attr("x", 20).attr("y", 70).text("Fakultät Kunst und Gestaltung",).attr("alignment-baseline","middle")
-  svg2.append("text").attr("x", 20).attr("y", 90).text("Fakultät Medien").attr("alignment-baseline","middle")
-  svg2.append("text").attr("x", 20).attr("y", 110).text("Sonstiges").attr("alignment-baseline","middle")
 
 
   // Create legend horizontal, not working yet 
