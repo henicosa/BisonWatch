@@ -26,9 +26,7 @@ loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
 
   //d3.select("div#result").html(marked(result));
 
-  output_selection(bisond.slice(0, 20))
-
-  console.log(bisond);
+  //console.log(bisond);
 
   var keys = ["faculty",  "language", "day", "sws",]
 
@@ -43,7 +41,7 @@ loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
   function color(faculty) {
     var color = colors.get(faculty)
     if (color == undefined) {
-    return "grey"
+      return "grey"
     } else return color
   }
 
@@ -51,6 +49,10 @@ loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
   const urlSearchParams = new URLSearchParams(window.location.search);
   var searchParam = urlSearchParams.get('lecturer');
   if (searchParam != undefined) {
+    var description = d3.select("#description").text("")
+    description.append("c").text("Diese Visualisierung zeigt alle Kurse von ")
+    description.append("strong").text(searchParam)
+    description.append("c").text(" im aktuellen Semester.")
     keys = ["courseType", "day", "sws", "language"]
     var color_keys = []
     bisond.forEach(entry => {
@@ -82,6 +84,7 @@ loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
     return d    
   })
 
+  output_selection(bisond)
 
   var width = 975
   var height = 720
@@ -101,7 +104,7 @@ loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
         .linkSort(null)
         .nodeWidth(8)
         .nodePadding(20)
-        .extent([[0, 5], [width, height - 5]])
+        .extent([[0, 5], [width, height- 5]])
 
   let index = -1;
   var nodes = [];
@@ -148,6 +151,7 @@ loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
     nodes: graph.nodes.map(d => Object.assign({}, d)),
     links: graph.links.map(d => Object.assign({}, d))
   });
+
 
   
   svg.append("g")
@@ -293,7 +297,7 @@ loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
     table.selectAll("tr").remove()
     var table_header = table.append("tr")
 
-    console.log(selection)
+    //console.log(selection)
 
     // generate base url to the lecturer network visualisation
     var lecturer_network_url = window.location.toString().split("/")
