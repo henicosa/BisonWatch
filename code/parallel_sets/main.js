@@ -241,7 +241,11 @@ loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
       .append("tspan")
       .attr("fill-opacity", 0.7)
       .text(d => ` ${d.value.toLocaleString()}`);
+<<<<<<< HEAD
+ 
+=======
   
+>>>>>>> 89e8b58cc19ddedf8a0d0f55f7c6af60fb8b205a
 
   /**
    * function to evaluate if a path is in the current selection
