@@ -187,7 +187,7 @@ loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
         .attr("fill", d => lecturer_selected ? "LightGray" : colors.get(d.faculty))
         .call(drag(simulation))
         .on("mouseover", function(d) { if (!force_selection)
-          d3.select(this).attr("r", d => 7 + parseInt(Math.log(d.group)/ Math.log(1.5))).style("fill",d => {
+          d3.select(this).attr("r", d => 5 + parseInt(Math.log(d.group)/ Math.log(1.5))).style("fill",d => {
             lecturer_selected = true
             lecturer_selected_name = d.id
             redraw()
@@ -244,7 +244,13 @@ loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
       zoom.selectAll("circle")
       .data(nodes)
       .join("circle")
-        .attr("r", d => 5 + parseInt(Math.log(d.group)/ Math.log(1.5)))
+        .attr("r", d =>  5 + parseInt(Math.log(d.group)/ Math.log(1.5)))
+        .attr("stroke", d => (lecturer_selected && lecturer_selected_name == d.id) ? 
+        "red" : 
+        "white")
+        .attr("stroke-width", d => (lecturer_selected && lecturer_selected_name == d.id) ? 
+        3 : 
+        2)
         .attr("fill", d => (lecturer_selected && !is_connected(lecturer_selected_name, d.id)) ?  "LightGray" : colors.get(d.faculty))
         .call(drag(simulation))
     }
