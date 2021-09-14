@@ -4,33 +4,25 @@ import { loadTitanicDataset } from "../titanic";
 import { loadBisonDataset } from "../bison";
 import d3_colorLegend from "https://api.observablehq.com/@d3/color-legend.js?v=3"
 
+var dataset = "/data/bisondata20212.csv"
 
-
-// Importe für alte Visualisierungen
-/*import { discretize } from "./vislibs/discretize";
-import { parallelsets } from "./vislibs/parallelsets";
-import { mosaicplot, sliceAndDice } from "./vislibs/mosaicplot";
-import { createHierarchy } from "./vislibs/hierarchy"; */
-import marked from "marked";
-import result from "./result.md";
-
-
-
+const urlSearchParams = new URLSearchParams(window.location.search);
+var historic_data = urlSearchParams.get('historic');
+if (historic_data != undefined && historic_data == "yes") {
+  historic_data = true
+  dataset = "/data/bisondata.csv"
+  d3.select("#description").text("Diese Visualisierung zeigt alle Kurse der Bauhaus-Universität seit einschließlich WiSe 2019/20.")
+} else historic_data = false
 //
 // Parallel Set Bison Daten
 // 
 // Load Bison Data 
-loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
-
-
-
-  //d3.select("div#result").html(marked(result));
-
-  //console.log(bisond);
+loadBisonDataset(dataset).then((bisond) => {
 
   var keys = ["faculty",  "language", "day", "sws",]
 
-    // Map to get official color from faculty name
+
+  // Map to get official color from faculty name
   var colors = new Map().set("Fakultät Architektur und Urbanistik", "#009BB4")
     .set("Fakultät Bauingenieurwesen", "#F39100")
     .set("Fakultät Kunst und Gestaltung", "#94C11C")
@@ -52,7 +44,7 @@ loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
     var description = d3.select("#description").text("")
     description.append("c").text("Diese Visualisierung zeigt alle Kurse von ")
     description.append("strong").text(searchParam)
-    description.append("c").text(" im aktuellen Semester. (")
+    description.append("c").text(historic_data ? " seit einschließlich WiSe 2019/20. (" : " im aktuellen Semester. (")
     description.append("a").attr("href", "/code/parallel_sets").text("Auswahl aufheben")
     description.append("c").text(")")
     keys = ["courseType", "language", "day", "sws"]
@@ -114,8 +106,6 @@ loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
   const sws = ["0-3", "4-6", "8-12", "16-18", "Keine Angabe"]
   const sws_sorter = new Map()
   sws.forEach((d, i) => sws_sorter.set(d, i))
-  console.log(sws_sorter)
-
 
   var sankey = Sankey()
         .nodeSort((a, b) => sort_attribute(a.name, b.name))
@@ -170,6 +160,14 @@ loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
     links: graph.links.map(d => Object.assign({}, d))
   });
 
+  var translator = {
+    "faculty": "Fakultät",
+    "language": "Sprache",
+    "day": "Tag",
+    "sws": "SWS",
+    "courseType": "Veranstaltungsart"
+  }
+
   // Legend
   d3.select("#legend").attr("width", width).attr("height", 30).append("g")
   .style("font", "10px sans-serif")
@@ -182,7 +180,7 @@ loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
   .attr("text-anchor", (d, i) => i * width/(keys.length-1) < width / 2 ? "start" : "end")// 
   .append("tspan")
   .attr("fill-opacity", 0.7)
-  .text(d => d);
+  .text(d => translator[d]);
   
   svg.append("g")
       .selectAll("rect")

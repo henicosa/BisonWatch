@@ -20,12 +20,9 @@
     <main>
         <h1><a href="/index.html">&#8962; </a> | Lehrendennetzwerk</h1>
 
-        <>
-            <p id="description">Diese Visualisierung zeigt die Lehrenden der Bauhaus-Universität und ihre gemeinsamen Veranstaltungen.</p>
-            <center>Finde eine Lehrperson: <input id="search_input" list="search"> <div id="tip"></div></center>
+            <p id="description">Diese Visualisierung zeigt die Lehrenden der Bauhaus-Universität und ihre gemeinsamen Veranstaltungen im aktuellen Semester. </p>
+            <center>Finde eine Lehrperson: <input id="search_input" list="search"> </center>
             
-             
-
             <svg id="lecturer_network"></svg>
             
             <div>
@@ -40,6 +37,9 @@
                 Falls eine Veranstaltung von mehreren Personen geleitet wird sind diese Personen im Netzwerk mit Kanten verbunden.
                 Je näher zwei Personen beieinander sind, umso mehr Veranstaltungen leiten sie gemeinsam. 
             </p>
+
+            <input type="checkbox" id="historic" value="bool">
+            <label for="historic"> Beziehe Kursdaten seit Wise 2019/20 in die Visualisierung ein.</label>
 
             <p>Kurze Tipps zur Interpretation des Diagramms:
                 <ul>

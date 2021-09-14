@@ -12,9 +12,19 @@ import marked from "marked";
 import whatwhyhow from "./whatwhyhow.md";
 import { parallelcoordinates } from "./parallelcoordinates";*/
 
+var dataset = "/data/bisondata20212.csv"
+
+const urlSearchParams = new URLSearchParams(window.location.search);
+var historic_data = urlSearchParams.get('historic');
+if (historic_data != undefined && historic_data == "yes") {
+  historic_data = true
+  d3.select("#historic")._groups[0][0].checked = true
+  dataset = "/data/bisondata.csv"
+  d3.select("#description").text("Diese Visualisierung zeigt die Lehrenden der Bauhaus-Universität und ihre gemeinsamen Veranstaltungen seit einschließlich WiSe 2019/20.")
+} else historic_data = false
 
 // Laden der Bison-Daten
-loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
+loadBisonDataset(dataset).then((bisond) => {
 
   // generate base url to the lecturer network visualisation
   var selector_url = window.location.toString().split("/")
@@ -68,12 +78,12 @@ loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
   })
 
   const attributeSelect = d3.select("#search_input")
+  const historicSelect = d3.select("#historic")
 
   var lecturer_selected = false
   var force_selection = false
   var lecturer_selected_name = ""
   var lecturer_force_selected_name = ""
-
 
   attributeSelect.on('input', function(e) {
     //if (e.key === 'Enter') {
@@ -81,6 +91,14 @@ loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
       if (lecturers.has(input))
         make_selection(input)
     //}
+  });
+
+  historicSelect.on('change', function(e) {
+    if (d3.select("#historic")._groups[0][0].checked) {
+      window.open("?historic=yes", "_top")
+    } else {
+      window.open("/code/lecturer_network", "_top")
+    }  
   });
 
   
@@ -294,12 +312,13 @@ loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
       var description = d3.select("#description").text("")
       description.append("c").text("Diese Visualisierung zeigt die Lehrperson ")
       description.append("strong").text(input)
-      description.append("c").text(" und alle Lehrpersonen mit gemeinsamen Kursen.")
+      description.append("c").text(" und alle Lehrpersonen mit gemeinsamen Kursen " + (historic_data ? " seit einschließlich WiSe 2019/20."  : "im aktuellen Semeseter."))
 
       selector_url.searchParams.set("lecturer", input)
+      if (historic_data) selector_url.searchParams.set("historic", "yes")
       d3.select("#tip").select("div").remove()
-      var tip = d3.select("#tip").append("div").text("")
-      tip.append("c").text("(")
+      var tip = description//d3.select("#tip").append("div").text("")
+      tip.append("c").text(" (")
       tip.append("a").attr("href", selector_url).text("Erfahre mehr über die Veranstaltungen von " + input)
       tip.append("c").text(")")
       d3.select("#search_input").property("value", input)
