@@ -116,15 +116,8 @@ loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
 
 
   var sankey = Sankey()
-        .nodeSort((a, b) => {
-          if (weekdays.includes(a.name) && weekdays.includes(b.name)) {
-            return weekday_sorter[a.name] > weekday_sorter[b.name];
-          } else if (sws.includes(a.name) && sws.includes(b.name)) { 
-            return sws_sorter.get(a.name) > sws_sorter.get(b.name);
-          } else {
-             return a.name > b.name}
-        })
-        .linkSort(null)
+        .nodeSort((a, b) => sort_attribute(a.name, b.name))
+        .linkSort((a, b) => {return (a.names[0] == b.names[0]) ? sort_attribute(a.names[a.names.length - 1], b.names[b.names.length - 1]): sort_attribute(a.names[0], b.names[0])})
         .nodeWidth(8)
         .nodePadding(20)
         .extent([[0, 5], [width, height- 5]])
@@ -242,8 +235,23 @@ loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
       .attr("fill-opacity", 0.7)
       .text(d => ` ${d.value.toLocaleString()}`);
  
-  
-
+  /**
+   * compare two different attributes
+   *
+   * @param a attribute value
+   * @param b attribute value
+   */
+  function sort_attribute(a, b) {
+    {
+      if (weekdays.includes(a) && weekdays.includes(b)) {
+        return weekday_sorter[a] > weekday_sorter[b];
+      } else if (sws.includes(a) && sws.includes(b)) { 
+        return sws_sorter.get(a) > sws_sorter.get(b);
+      } else {
+         return a > b}
+    }
+  }
+    
   /**
    * function to evaluate if a path is in the current selection
    *
@@ -297,48 +305,53 @@ loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
   function output_selection(selection) {
     var table = d3.select("div#result").select("#resulttable")
     table.selectAll("tr").remove()
-    var table_header = table.append("tr")
-
-    //console.log(selection)
-
-    // generate base url to the lecturer network visualisation
-    var lecturer_network_url = window.location.toString().split("/")
-    if (lecturer_network_url[lecturer_network_url.length -1] == "") lecturer_network_url.pop()
-    lecturer_network_url.pop()
-    lecturer_network_url.push("lecturer_network")
-    lecturer_network_url = new URL(lecturer_network_url.join("/"))
 
     // generate table header
+    var table_header = table.append("tr")
     table_header.append("th").text("Veransstaltungstitel")
     table_header.append("th").text("Lehrpersonen")
 
-    // generate entry for each course in the selection
-    selection.forEach(course => {
+    if (selection.length == 0) {
       var table_row = table.append("tr")
+      table_row.append("td").text("Es konnten keine Veranstaltungen für die aktuelle Auswahl gefunden werden.")
+      table_row.append("td")
+    } else {
 
-      // write course title with link to bison in the table
-      table_row.append("td").append("a")
-        .attr("href", course.internalLink)
-        .text(course.courseTitle)
+      // generate base url to the lecturer network visualisation
+      var lecturer_network_url = window.location.toString().split("/")
+      if (lecturer_network_url[lecturer_network_url.length -1] == "") lecturer_network_url.pop()
+      lecturer_network_url.pop()
+      lecturer_network_url.push("lecturer_network")
+      lecturer_network_url = new URL(lecturer_network_url.join("/"))   
 
-      // write lecturers with custom query link to our lecturer network in the table
-      var lec_item = table_row.append("td")
-      if (course.lecturers.length > 1) {
-      course.lecturers.forEach((lecturer) => {
-        lecturer_network_url.searchParams.set("lecturer", lecturer.name)
-        lec_item.append("a")
-        .attr("href", lecturer_network_url.href)
-        .text(lecturer.name)
-        lec_item.append("text").text(", ")
-        lec_item.append("br")
+      // generate entry for each course in the selection
+      selection.forEach(course => {
+        var table_row = table.append("tr")
+
+        // write course title with link to bison in the table
+        table_row.append("td").append("a")
+          .attr("href", course.internalLink)
+          .text(course.courseTitle)
+
+        // write lecturers with custom query link to our lecturer network in the table
+        var lec_item = table_row.append("td")
+        if (course.lecturers.length > 1) {
+        course.lecturers.forEach((lecturer) => {
+          lecturer_network_url.searchParams.set("lecturer", lecturer.name)
+          lec_item.append("a")
+          .attr("href", lecturer_network_url.href)
+          .text(lecturer.name)
+          lec_item.append("text").text(", ")
+          lec_item.append("br")
+          }
+        )} else {
+          lecturer_network_url.searchParams.set("lecturer", course.lecturers[0].name)
+          lec_item.append("a")
+          .attr("href", lecturer_network_url.href)
+          .text(course.lecturers[0].name)
         }
-      )} else {
-        lecturer_network_url.searchParams.set("lecturer", course.lecturers[0].name)
-        lec_item.append("a")
-        .attr("href", lecturer_network_url.href)
-        .text(course.lecturers[0].name)
-      }
-    });
+      });
+    }
   }
 });
 
