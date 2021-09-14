@@ -21,7 +21,23 @@
         <h1><a href="/index.html">&#8962; </a> | Kurs-Selektor </h1>
 
         <section>
-            <p id="description">Diese Visualisierung zeigt alle Kurse der Bauhaus-Universität im aktuellen Semester. </p>
+            <p id="description">Diese Visualisierung zeigt alle Kurse der Bauhaus-Universität Weimar im aktuellen Semester. 
+                Durch die Auswahl eines Attributs (Klick auf den dazugehörigen Balken im Diagramm) werden die dazugehörigen Kurse dargestellt. 
+                Auf diese Weise kann mit Hilfe dieser Visualisierung die angebotenen Kurse nach Fakultät, Sprache, Tag und SWS gefiltert werden. 
+            </p>
+
+            <p>Kurze Tipps zur Interpretation des Diagramms:
+                <ul>
+                    <li>Beim Hovern über einen "Streifen" werden die zusammenhängenden Attribute und die Anzahl des Auftretens angezeigt. </li>
+                    <li>Durch ein Klick auf einen Balken eines Attributs, werden die Kurse angezeigt, die mit diesem Attribut zusammenhängen. 
+                        Es können beliebig viele Balken ausgewählt werden, die dann rot dargestellt werden. 
+                        Um die Auswahl aufzuheben muss der ausgwählte Balken erneut angeklickt werden.
+                    <li>Die gefilterten Kurse werden in einer Liste unter der Visualisierung angezeigt.
+                        Mit einem Klick auf den Veranstaltungstitel wird die dazugehörige Bisonseite aufgerufen.
+                        Mit einem Klick auf die lehrende Person, wird die Person im Lehrendennetzwerk angezeigt.</li>
+                </ul> 
+            </p>
+
             
             <svg id="legend"></svg>
             <svg id="parallel_set"></svg>
@@ -34,13 +50,7 @@
                 </div>
             </div>
 
-            <p>Kurze Tipps zur Interpretation des Diagramms:
-                <ul>
-                    <li>...</li>
-                    <li>...</li>
-                    <li>...</li>
-                </ul>
-            </p>
+            
         </section>
 
         <div class="task">
