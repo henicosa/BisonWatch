@@ -52,7 +52,9 @@ loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
     var description = d3.select("#description").text("")
     description.append("c").text("Diese Visualisierung zeigt alle Kurse von ")
     description.append("strong").text(searchParam)
-    description.append("c").text(" im aktuellen Semester.")
+    description.append("c").text(" im aktuellen Semester. (")
+    description.append("a").attr("href", "/code/parallel_sets").text("Auswahl aufheben")
+    description.append("c").text(")")
     keys = ["courseType", "language", "day", "sws"]
     var color_keys = []
     bisond.forEach(entry => {
@@ -194,7 +196,6 @@ loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
       // click function to fill bars
       .on("click", function(e, d) { 
         if (d3.select(this).attr("fill") == "red") {
-          console.log(d)
           selection[d.depth].delete(d.name)
           generate_selection()
           d3.select(this).attr("fill", "LightGrey")

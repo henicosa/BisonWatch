@@ -16,6 +16,13 @@ import { parallelcoordinates } from "./parallelcoordinates";*/
 // Laden der Bison-Daten
 loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
 
+  // generate base url to the lecturer network visualisation
+  var selector_url = window.location.toString().split("/")
+  if (selector_url[selector_url.length -1] == "") selector_url.pop()
+    selector_url.pop()
+  selector_url.push("parallel_sets")
+  selector_url = new URL(selector_url.join("/"))
+
   var blacklist = ["N.N", "N.N.", " N.N.", "missing", "keine öffentliche Person", " ", ""]
   var categories = ["Fakultät Architektur und Urbanistik", "Fakultät Bauingenieurwesen", "Fakultät Kunst und Gestaltung", "Fakultät Medien"]
 
@@ -33,7 +40,6 @@ loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
   svg2.append("text").attr("x", 20).attr("y", 90).text("Fakultät Medien").attr("alignment-baseline","middle")
   svg2.append("text").attr("x", 20).attr("y", 110).text("Sonstiges").attr("alignment-baseline","middle") 
 
-  console.log(bisond)
   var lecturers = new Map();
   bisond.forEach(element => {
     element.lecturers.forEach(lecturer => {
@@ -54,7 +60,7 @@ loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
         }
       });
   });
-  console.log(lecturers)
+
   const datalist = d3.select("#search")
   lecturers.forEach((d, lecturer) => {
     datalist.append("option")
@@ -66,11 +72,14 @@ loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
   var lecturer_selected = false
   var force_selection = false
   var lecturer_selected_name = ""
+  var lecturer_force_selected_name = ""
+
 
   attributeSelect.on('input', function(e) {
     //if (e.key === 'Enter') {
       var input = d3.select("#search_input").property("value")
-      make_selection(input)
+      if (lecturers.has(input))
+        make_selection(input)
     //}
   });
 
@@ -186,15 +195,15 @@ loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
         .attr("r", d => 5 + parseInt(Math.log(d.group)/ Math.log(1.5)))
         .attr("fill", d => lecturer_selected ? "LightGray" : colors.get(d.faculty))
         .call(drag(simulation))
-        .on("mouseover", function(d) { if (!force_selection)
+        .on("mouseover", function(d) { 
           d3.select(this).attr("r", d => 5 + parseInt(Math.log(d.group)/ Math.log(1.5))).style("fill",d => {
             lecturer_selected = true
             lecturer_selected_name = d.id
             redraw()
-            return colors.get(d.faculty)
+            return d.id == lecturer_force_selected_name ? "red" : colors.get(d.faculty)
           });
         })                  
-        .on("mouseout", function(d) { if (!force_selection)
+        .on("mouseout", function(d) { 
           d3.select(this).attr("r", d => 5 + parseInt(Math.log(d.group)/ Math.log(1.5))).style("fill", d => {
             lecturer_selected = false
             redraw()
@@ -202,15 +211,11 @@ loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
           });
         })
         .on("click", function (e, d) {
-          console.log(d.id)
-          // generate base url to the lecturer network visualisation
-          var selector_url = window.location.toString().split("/")
-          if (selector_url[selector_url.length -1] == "") selector_url.pop()
-          selector_url.pop()
-          selector_url.push("parallel_sets")
-          selector_url = new URL(selector_url.join("/"))
-          selector_url.searchParams.set("lecturer", d.id)
-          window.open(selector_url, "_top");
+          if (lecturer_force_selected_name == d.id) {
+            remove_selection()
+          } else {
+            make_selection(d.id)
+          }
         });
   
     node.append("title")
@@ -232,10 +237,6 @@ loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
     const urlSearchParams = new URLSearchParams(window.location.search);
     var searchParam = urlSearchParams.get('lecturer');
     if (searchParam != undefined) {
-      var description = d3.select("#description").text("")
-      description.append("c").text("Diese Visualisierung zeigt die Lehrperson ")
-      description.append("strong").text(searchParam)
-      description.append("c").text(" und alle Lehrpersonen mit gemeinsamen Kursen.")
       make_selection(searchParam)
     }
   
@@ -251,7 +252,23 @@ loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
         .attr("stroke-width", d => (lecturer_selected && lecturer_selected_name == d.id) ? 
         3 : 
         2)
-        .attr("fill", d => (lecturer_selected && !is_connected(lecturer_selected_name, d.id)) ?  "LightGray" : colors.get(d.faculty))
+        .attr("fill", d => {
+          if (!force_selection) {
+            if (lecturer_selected && !is_connected(lecturer_selected_name, d.id)) {
+              return "LightGray";
+            } else {
+              return colors.get(d.faculty);
+            }
+          } else {
+            if (d.id == lecturer_force_selected_name) {
+              return "red";
+            } else if (is_connected(lecturer_force_selected_name, d.id)) {
+              return colors.get(d.faculty);
+            } else {
+              return "LightGray";
+            }
+          }
+        }) 
         .call(drag(simulation))
     }
 
@@ -264,15 +281,36 @@ loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
         .call(drag(simulation))
     }
 
+    function remove_selection() {
+      force_selection = false
+      lecturer_selected = false
+      lecturer_selected_name = ""
+      d3.select("#tip").select("div").remove()
+      d3.select("#search_input").property("value", "")
+    }
+    
+
     function make_selection(input) {
-      if (lecturers.has(input)) {
-        lecturer_selected_name = input;
-        lecturer_selected = true
-        force_selection = true
-        select_teacher()
-      } else {
-        force_selection = false
-      }
+      var description = d3.select("#description").text("")
+      description.append("c").text("Diese Visualisierung zeigt die Lehrperson ")
+      description.append("strong").text(input)
+      description.append("c").text(" und alle Lehrpersonen mit gemeinsamen Kursen.")
+
+      selector_url.searchParams.set("lecturer", input)
+      d3.select("#tip").select("div").remove()
+      var tip = d3.select("#tip").append("div").text("")
+      tip.append("c").text("(")
+      tip.append("a").attr("href", selector_url).text("Erfahre mehr über die Veranstaltungen von " + input)
+      tip.append("c").text(")")
+      d3.select("#search_input").property("value", input)
+
+      lecturer_selected_name = input;
+      lecturer_selected = true
+
+      force_selection = true
+      lecturer_force_selected_name = input
+
+      select_teacher()
     }
 
     //function to test if two nodes are connected:
