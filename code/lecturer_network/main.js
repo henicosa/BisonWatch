@@ -309,7 +309,7 @@ loadBisonDataset(dataset).then((bisond) => {
     lecturer_force_selected_name = ""
     d3.select("#tip").select("div").remove()
     d3.select("#search_input").property("value", "")
-    d3.select("#description").text("Diese Visualisierung zeigt die Lehrenden der Bauhaus-Universität und ihre gemeinsamen Veranstaltungen" + (historic_data ? " seit einschließlich WiSe 2019/20."  : "im aktuellen Semester."))
+    d3.select("#description").text("Diese Visualisierung zeigt die Lehrenden der Bauhaus-Universität und ihre gemeinsamen Veranstaltungen" + (historic_data ? " seit einschließlich WiSe 2019/20."  : " im aktuellen Semester."))
   }
   
 
@@ -317,7 +317,7 @@ loadBisonDataset(dataset).then((bisond) => {
     var description = d3.select("#description").text("")
     description.append("c").text("Diese Visualisierung zeigt die Lehrperson ")
     description.append("strong").text(input)
-    description.append("c").text(" und alle Lehrpersonen mit gemeinsamen Kursen " + (historic_data ? " seit einschließlich WiSe 2019/20."  : "im aktuellen Semester."))
+    description.append("c").text(" und alle Lehrpersonen mit gemeinsamen Kursen " + (historic_data ? " seit einschließlich WiSe 2019/20."  : " im aktuellen Semester."))
 
     selector_url.searchParams.set("lecturer", input)
     if (historic_data) selector_url.searchParams.set("historic", "yes")
