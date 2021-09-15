@@ -78,7 +78,11 @@ loadBisonDataset(dataset).then((bisond) => {
     return d    
   })
 
+  if (searchParam != undefined) {
   output_selection(bisond)
+  } else {
+    output_selection([])
+  }
 
   var width = 975
   var height = 720
