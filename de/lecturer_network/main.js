@@ -97,7 +97,7 @@ loadBisonDataset(dataset).then((bisond) => {
     if (d3.select("#historic")._groups[0][0].checked) {
       window.open("?historic=yes", "_top")
     } else {
-      window.open("/code/lecturer_network", "_top")
+      window.open("/de/lecturer_network", "_top")
     }  
   });
 

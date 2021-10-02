@@ -45,7 +45,7 @@ loadBisonDataset(dataset).then((bisond) => {
     description.append("c").text("Diese Visualisierung zeigt alle Kurse von ")
     description.append("strong").text(searchParam)
     description.append("c").text(historic_data ? " seit einschließlich WiSe 2019/20. (" : " im aktuellen Semester. (")
-    description.append("a").attr("href", "/code/parallel_sets").text("Auswahl aufheben")
+    description.append("a").attr("href", "/de/parallel_sets").text("Auswahl aufheben")
     description.append("c").text(")")
     keys = ["courseType", "language", "day", "sws"]
     var color_keys = []

@@ -20,7 +20,7 @@ if (historic_data != undefined && historic_data == "yes") {
   historic_data = true
   d3.select("#historic")._groups[0][0].checked = true
   dataset = "/data/bisondata.csv"
-  d3.select("#description").text("Diese Visualisierung zeigt die Lehrenden der Bauhaus-Universität und ihre gemeinsamen Veranstaltungen seit einschließlich WiSe 2019/20.")
+  d3.select("#description").text("This visualisation shows the lecturers of the Bauhaus University and their shared courses since and including winter semester 2019/20.")
 } else historic_data = false
 
 // Laden der Bison-Daten
@@ -44,11 +44,11 @@ loadBisonDataset(dataset).then((bisond) => {
   svg2.append("circle").attr("cx",10).attr("cy",65).attr("r", 6).style("fill", "#94C11C")
   svg2.append("circle").attr("cx",10).attr("cy",85).attr("r", 6).style("fill", "#006B94")
   svg2.append("circle").attr("cx",10).attr("cy",105).attr("r", 6).style("fill", "grey")
-  svg2.append("text").attr("x", 20).attr("y", 30).text("Fakultät Architektur und Urbanistik")
-  svg2.append("text").attr("x", 20).attr("y", 50).text("Fakultät Bauingenieurwesen").attr("alignment-baseline","middle")
-  svg2.append("text").attr("x", 20).attr("y", 70).text("Fakultät Kunst und Gestaltung",).attr("alignment-baseline","middle")
-  svg2.append("text").attr("x", 20).attr("y", 90).text("Fakultät Medien").attr("alignment-baseline","middle")
-  svg2.append("text").attr("x", 20).attr("y", 110).text("Sonstiges").attr("alignment-baseline","middle") 
+  svg2.append("text").attr("x", 20).attr("y", 30).text("Faculty of Architecture and Urban Studies")
+  svg2.append("text").attr("x", 20).attr("y", 50).text("Faculty of Civil Engineering").attr("alignment-baseline","middle")
+  svg2.append("text").attr("x", 20).attr("y", 70).text("Faculty of Art and Design",).attr("alignment-baseline","middle")
+  svg2.append("text").attr("x", 20).attr("y", 90).text("Faculty of Media").attr("alignment-baseline","middle")
+  svg2.append("text").attr("x", 20).attr("y", 110).text("Other").attr("alignment-baseline","middle") 
 
   var lecturers = new Map();
   bisond.forEach(element => {
@@ -97,7 +97,7 @@ loadBisonDataset(dataset).then((bisond) => {
     if (d3.select("#historic")._groups[0][0].checked) {
       window.open("?historic=yes", "_top")
     } else {
-      window.open("/code/lecturer_network", "_top")
+      window.open("/en/lecturer_network", "_top")
     }  
   });
 
@@ -309,22 +309,22 @@ loadBisonDataset(dataset).then((bisond) => {
     lecturer_force_selected_name = ""
     d3.select("#tip").select("div").remove()
     d3.select("#search_input").property("value", "")
-    d3.select("#description").text("Diese Visualisierung zeigt die Lehrenden der Bauhaus-Universität und ihre gemeinsamen Veranstaltungen" + (historic_data ? " seit einschließlich WiSe 2019/20."  : " im aktuellen Semester."))
+    d3.select("#description").text("This visualisation shows the lecturers of the Bauhaus University and their shared courses" + (historic_data ? " since and including winter semester 2019/20."  : " in the current semester."))
   }
   
 
   function make_selection(input) {
     var description = d3.select("#description").text("")
-    description.append("c").text("Diese Visualisierung zeigt die Lehrperson ")
+    description.append("c").text("This visualisation shows the teacher ")
     description.append("strong").text(input)
-    description.append("c").text(" und alle Lehrpersonen mit gemeinsamen Kursen " + (historic_data ? " seit einschließlich WiSe 2019/20."  : " im aktuellen Semester."))
+    description.append("c").text(" and all teachers with shared courses " + (historic_data ? " since and including winter semester 2019/20."  : " in the current semester."))
 
     selector_url.searchParams.set("lecturer", input)
     if (historic_data) selector_url.searchParams.set("historic", "yes")
     d3.select("#tip").select("div").remove()
     var tip = description//d3.select("#tip").append("div").text("")
     tip.append("c").text(" (")
-    tip.append("a").attr("href", selector_url).text("Erfahre mehr über die Veranstaltungen von " + input)
+    tip.append("a").attr("href", selector_url).text("Learn more about " + input + "'s courses.")
     tip.append("c").text(")")
     d3.select("#search_input").property("value", input)
 
