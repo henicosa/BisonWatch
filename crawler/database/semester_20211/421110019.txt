@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: NAIS – Network Attached Insecurities
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50023&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 10
+Veranstaltungsnummer :3 S: 421110019
+Max. Teilnehmer/-innen :3 S: 5
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Personen
+Personen :3 S: Fakultät Medien,Stefan Lucks :3 S: Fakultät Medien,Nathalie Lang :3 S: Fakultät Medien,Jannis Boßert
+# Beschreibung
+Beschreibung :3 S: Das Internet of Things (IoT) wächst beständig und täglich kommen neue Produkte heraus. Diese bringen verschiedenste Sensoren und Kontrollmechanismen in das Haus der Kunden, welche deren Leben vereinfachen sollen. Jedoch sind diese Geräte oftmals nicht zureichend vor dem Zugriff von Außenstehenden geschützt. In diesem Projekt sollen verschiedene IoT Produkte in dieser Hinsicht untersucht werden.

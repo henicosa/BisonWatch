@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Campus 4 Seasons  - Freiraum Pavillon
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51606&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 121221103
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>,  , <br/>, Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 2020 2-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Wahlpflichtmodul
+Erwartete Teilnehmer/-innen :3 S: 15
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 15:15 bis 18:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Steffen de Rudder
+# Beschreibung
+Beschreibung :3 S: Mit der Workation, einem selbstgebauten Pavillon vor dem Hauptgebäude, , <br>wurde ein Arbeits- und Begegnungsort auf dem Campus <br>geschaffen, der sehr gut angenommen wird und hoch frequentiert als <br>Arbeitsplatz genutzt wird. Der Holzpavillon wurde für das Co-working <br>entworfen, liefert durch zwei Solarpanele auf dem Dach ausreichend <br>Strom, spendet durch Leinwände Schatten und verbessert durch eine <br>Grünwand das Lokal- und Arbeitsklima. So wie die Stehtische den Innen- <br>und Außenraum verbinden, vermittelt der Pavillon als Third Space <br>zwischen Universität und Stadt.<br><br>Entgegen der geplanten Nutzung erfreut sich der Pavillon auch nachts <br>großer Beliebtheit. Diese Aneignung werden wir im nächsten Schritt <br>annehmen, im weiteren Gestaltungsprozess mitdenken und als Anstoß zur <br>Beschäftigung mit dem Campus als Spannungsfeld zwischen Akademie und <br/>Jugendkultur nehmen.<br/><br/>Wird der Pavillon nicht weiterentwickelt, muss er abgebaut werden. Wir <br/>stellen uns dieser Herausforderung, ihn mit interdisziplinärer <br/>Beteiligung zu transformieren und aktiv durch den Winter zu begleiten. <br/>Wir sind der Überzeugung, dass der öffentliche Raum und das <br/>Campus-Leben nicht saisonal beschränkt sein dürfen, sondern möchten uns <br/>auf den Weg begeben, anhand der Workation kreativ und kollaborativ <br/>nicht nur mit den Jugendlichen, sondern auch mit den Jahreszeiten <br/>umzugehen.</br></br></br></br></br></br></br></br></br></br></br></br></br>

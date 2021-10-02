@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Planungsprojekt: Wachstum. Rückzug. Erneuerung - Stadterneuerung und der Hafenstadt Genua
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50270&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 121222702
+Max. Teilnehmer/-innen :3 S: 5
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Urbanistik, M.Sc. PO 2021\r, <br/>, Bachelorvorleistungen - Projekte\r, <br/>, Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Bachelorvorleistungen - Projekte\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Bachelorvorleistungen - Projekte
+Erwartete Teilnehmer/-innen :3 S: 5
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Piero Sassi
+# Beschreibung
+Beschreibung :3 S: Genua, im Mittelalter eine selbständige , <em>repubblica marinara</em>,  (Seerepublik), blickt auf eine lange und bewegte Geschichte als mächtige Hafenstadt am Mittelmeer zurück. Der Hafen und die strategische Lage im internationalen Kontext erwiesen sich am Ende des 19. Jahrhunderts als entscheidend, als sich jener Prozess der Industrialisierung entfaltete, der Genua zu einer der wichtigsten Industriestädte Südeuropas umwandelte. Das damit einhergehende rasante Wachstum der Bevölkerung und der Siedlungsfläche veränderte binnen weniger Jahrzehnte das Bild der gesamten Stadtregion grundlegend. Der Stadtteil Cornigliano, in früheren Zeiten ein gehobener, dem genuesischen Adel vorbehaltener Urlaubsort am Meer, wurde zum wesentlichen Bestandteil der neuen Industrieperipherie umgestaltet. Hier entstanden Stahlwerke und Wohnraum für die neue Arbeiterschaft. Der Rückzug der Schwerindustrie stellte Cornigliano in den letzten Jahrzehnten – ähnlich wie zahlreiche weitere Industrieorte in Europa – vor die Herausforderungen, die mit einem Strukturwandel einhergingen. Einst ein gebautes Symbol des ökonomischen Wachstums, heute zeichnet sich dieser im westlichen Teil der Stadtregion angesiedelte Stadtteil durch die Fragmentierung dessen funktionaler und städtebaulicher Strukturen aus.

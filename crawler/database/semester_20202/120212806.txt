@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: 5. Planungsprojekt: Wer, wie wohnen möchte!
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47566&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 120212806
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Urbanistik, B.Sc. PO 2020\r, <br/>, Wahlpflichtprojekt - 3. Studienjahr\r, <br/>, Urbanistik, B.Sc. PO 14\r, <br/>, Wahlpflichtprojekt - 3. Studienjahr
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2Fwww.uni-weimar.de%2Fde%2Farchitektur%2Fprofessur%2Fstadtforschung&timestamp=1631108633266&hash=23b542ab94c3f5a8c879bb5d14cccece
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:00 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Abschlusspräsentation digital</p>,
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Frank Eckardt
+# Beschreibung
+Beschreibung :3 S: ...Wohnwünsche 2040 Thüringen.

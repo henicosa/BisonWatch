@@ -1,0 +1,38 @@
+Veranstaltungstitel :3 S: Translation: Using the concept in society, culture, knowledge and art production?
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49899&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Wissenschaftliches Modul
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 321130019
+Max. Teilnehmer/-innen :3 S: 19
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:00 bis 13:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 11:00 bis 14:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 12:30 bis 18:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Boris Buden :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: <strong>NOTE: This seminar should be taken in tandem with the workshop ”Sneakey Translator”, led by Gabriel Ben Moshe.</strong>, <br><br>There is no doubt about what has brought the concept of translation into the focus of social researchers, cultural theorists, scientists and, not least, artists – the globalization and the rising complexity of the world in which we live today. Centuries old picture of the world as a cluster of sovereign nation states and different cultures; the concept of knowledge meticulously divided into various disciplines and distributed among separate communities of peers; the idea of art enclosed into its own autonomous sphere, are crumbling before our eyes. The course will explore what has made translation – usually understood as an auxiliary form of a proper linguistic practice – a conceptual remedy for the growing chaos in our minds and lives.</br></br>

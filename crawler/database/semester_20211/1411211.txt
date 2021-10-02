@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Architektur Freihand notiert, zwischen Analyse und Ausdruck
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49093&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Übung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 1411211
+Max. Teilnehmer/-innen :3 S: 40
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Werkzeuge | Methoden\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Werkzeuge | Methoden\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Werkzeuge | Methoden\r, <br/>, Architektur, B.Sc. PO 11\r, <br/>, Wahlpflichtmodul - Werkzeuge | Methoden
+Erwartete Teilnehmer/-innen :3 S: 25
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D19885&timestamp=1631115146709&hash=797e1d6b4a2c54794b797173b72a0e95
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>kann flexibel im Selbststudium bearbeitet werden</p>,
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Sabine Zierold
+# Beschreibung
+Beschreibung :3 S: Der Kurs dient der Vertiefung zeichnerischer Fähigkeiten. Dabei geht es um die Schulung und Sensibilisierung von Auge und Hand bei der intensiven Beobachtung und Aufzeichnung architektonischer Situationen im landschaftlichen und städtischen Raum. Das Freihandzeichnen ist die elementare Sprache des Architekten und Gestalters. Das freie, messende Zeichnen gibt die wesentlichen Faktoren des Raumes wieder durch Konstruktion, Licht und Schatten, Strukturen, Proportionen und die Wahl von Bildausschnitt und Format. Die Suche nach der eigenen Handschrift und den geeigneten Mitteln (Bleistift, Tuschestift, Kreide, Aquarellfarbe) zielt auf den grafischen und farbigen Ausdruck, mit dem Spannung, Kontrast und Betonung in die Zeichnung gelegt werden kann.

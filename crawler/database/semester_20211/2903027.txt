@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Climate Action: Permakultur und lokales Wirtschaften im urbanen Raum/ Climate Action: Permaculture and local economy in urban space
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50096&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 2903027
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Alexandra Toland :3 S: Fakultät Medien,Jutta Emes :3 S: Fakultät Architektur und Urbanistik,Steffen de Rudder :3 S: Fakultät Bauingenieurwesen,Eckhard Kraft :3 S: Fakultät Bauingenieurwesen,Thomas Haupt :3 S: Fakultät Bauingenieurwesen,keine öffentliche Person :3 S: Fakultät Medien,Timo Janson :3 S: Fakultät Medien,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Die Studierenden befassen sich fakultätsübergreifend in gemischten Teams (4-5 Studierende) mit Lösungen zur Klimakrise und erstellen ein Ausstellungsprojekt für die UN-Klimakonferenz 2021 („, <em>United Nations Climate Change Conference”</em>, ). , <br>Die in den verschiedenen Gruppen erarbeiteten Projekte werden in einem Auswahlverfahren von einer Weimarer Jury begutachtet. <br/>Die Gewinnergruppe wird zur Klimakonferenz eingeladen (01. - 12. November 2021 in Glasgow, Großbritannien) und stellt das Projekt dort aus.</br>

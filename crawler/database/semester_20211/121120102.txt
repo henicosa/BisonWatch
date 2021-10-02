@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Die Kunst der Wahrnehmung und die Wahrnehmung von Kunst
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49735&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 121120102
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Projektmodul - projektbegleitendes Seminar oder\r, <br/>, Wahlpflichtmodul - Architektur\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Projektmodul - projektbegleitendes Seminar oder\r, <br/>, Wahlpflichtmodul - Architektur\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Projektmodul - projektbegleitendes Seminar oder\r, <br/>, Wahlpflichtmodul - Architektur\r, <br/>,  , <br/>, MediaArchitecture, M.Sc. PO 2020\r, <br/>, Projektmodul - projektbegleitendes Seminar oder\r, <br/>, Theoriemodul - Gestalten im Kontext\r, <br/>, MediaArchitecture, M.Sc. PO 18\r, <br/>, Projektmodul - projektbegleitendes Seminar oder\r, <br/>, Theoriemodul - Gestalten im Kontext
+Erwartete Teilnehmer/-innen :3 S: 15
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Alexandra Abel
+# Beschreibung
+Beschreibung :3 S: Begleitseminar: „WUNDERKAMMER 4.0” – eine Ausstellungsarchitektur für das BAROCKE UNIVERSUM GOTHA

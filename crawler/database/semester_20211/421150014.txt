@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: (Un-)Bedingtes Schreiben der Institutionen. Die Universität.
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49593&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 421150014
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: BA-Studienmodul: Unbedingte Universität. Eine medienkulturwissenschaftliche Analyse
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Fbildtheorie%2F&timestamp=1631116191218&hash=19824a41a990225f7d9f97c346d2e8a3
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Online via Moodle</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Max Walther
+# Beschreibung
+Beschreibung :3 S: Die Frage danach, was (die) Universität ist, ließe sich womöglich am besten über eine Analyse der Bedingungen und Bedingtheiten der Institution (Universität) beantworten. Welche strukturellen Funktions- und Wirkungsweisen sind wie und wodurch (un-)bedingt? Welche Form oder Formung bedingt wiederum diese Funktion? Und wo stehen ‚wir‘, für die eine solche Analyse zur Selbstbetrachtung mutiert? Mit Kafka immer vor der Tür. Und gleichzeitig inmitten, als Teil der Bedingtheit. Aber das tatsächlich immerzu auch unbedingt? Die Analyse mutiert ein zweites Mal: Sie wird zu einer involvierenden Feldstudie, wobei sich das Feld wie auch das ‚wir‘ (involvierte Forscher*innen) immer wieder neu verschiebt. Was nicht zuletzt dazu führt, dass die Ergebnisse flüchtig bleiben. Fieldnotes, die die Bedingungen weiter- oder fortschreiben und gleichzeitig ein Innen wie Außen adressieren, die es nicht per se gibt. Zumindest nicht unbedingt. Wie also aus diesem immer-vor-der-Tür-inmitten schreiben? – ein Schreibexperiment. Das zwei-mal-zweiteilige Seminar: Erste Semesterhälfte: Im ersten Teil nähern wir uns theoretisch der Frage was Universität ist, sein kann oder (gewesen) sein wird: Ein historischer Parcours, der entlang kanonischer Texte von Kants und Humboldts (Be-)Gründungen, über die kritische Theorie und Institutionskritik, weiter zu Protestformationen (Mai 1968 und Bologna) bis hin zur flüchtigen Planung und damit zu Fred Moten und Stefano Harneys „last words“ einen Bogen zur Frage nach dem S/sein (kann) schlägt. Im zweiten Teil nähern wir uns der Frage nach dem Sein und Werden praktisch: Schreibend. Schreibend, um einerseits die – nicht zuletzt jetztzeitigen – Bedingungen zu er- oder be-schreiben und anderseits, um die Bedingungen des Schreibens – nicht zuletzt im Modus des immer-vor-der-Tür-inmitten – selbst zu reflektieren. Zweite Semesterhälfte: Die zweite Zweiteilung bedeutet eine (im besten Fall auch physische) Umordnung: Der erste Block, entsprechend die erste Semesterhälfte mit oben genanntem Programm, findet regulär statt. Als Seminargruppe erarbeiten wir uns gemeinsam das nötige theoretische und praktische Werkzeug, um daraufhin das ‚Wissen‘ anzuwenden. Als Kooperationsveranstaltung findet an der Leuphana Universität Lüneburg, betreut von Dr. des. Manuela Klaut, ein Seminar mit gleichem Zuschnitt statt. Für ein Wochenende, als Blockveranstaltung am Ende des Semesters, kommen beide Seminargruppen zusammen, um gemeinsam über die verfassten Texte sowie die erarbeiteten Themen zu diskutieren. Ziel dieser Zusammenführung ist es, die Textentwürfe für eine geplante Publikation (aller Wahrscheinlichkeit nach online mit ISSN) zu finalisieren, um darüber ein Außen zu konstituieren, das alternativen Bedingheiten folgt.

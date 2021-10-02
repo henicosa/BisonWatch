@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Seminar Raumkonzepte: Architekturtheorie und Architekturgeschichte - Lehramt Vertiefungsmodul (Wissenschaftsmodul)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49672&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Wissenschaftliches Modul
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fkunst-und-gestaltung%2Fstruktur%2Flehrgebiete-personen%2Fwissenschaftliche-lehrgebiete%2Fdr-thomas-fuchs%2F&timestamp=1631116062959&hash=1080af51583ebc66aab0b33231234713
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Das Seminar findet online über moodle/BBB statt. Bitte hier jeweils nachsehen.</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Thomas Fuchs :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Das Vertiefungsmodul für Lehramtstudierende dient der gemeinsamen Vorbereitung des nötigen allgemeinen Überblicks über die Geschichte und Theorie der Architektur. Anhand von Beispielen aus verschiedenen Epochen wird das Grundgerüst vertieft. Dabei sollen offene Fragen beantwortet werden, grundlegende Methoden geübt und versucht werden das notwendige Verständnis für den Verlauf der Geschichte der Architektur zu vermitteln.

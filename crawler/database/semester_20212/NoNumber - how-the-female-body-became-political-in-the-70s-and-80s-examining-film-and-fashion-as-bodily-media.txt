@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: How the (female) body became political in the 70s and 80s: Examining film and fashion as bodily media
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51600&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Kurs
+SWS :3 S: 3
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 25
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 25
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Lehrveranstaltungen der Bauhaus.Module
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: bis
+Terminrhythmus :3 S: BlockSat.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Hannah Peuker
+# Beschreibung
+Beschreibung :3 S: Delve into the worlds of fashion and film from the 70s and 80s! You will learn to explore and analyse the liminal role of the body in both media.

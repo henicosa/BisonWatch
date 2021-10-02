@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Raumbilder - Zukunftsszenarien in der Landschaftsplanung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49638&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 121122602
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>,  , <br/>, Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Wahlpflichtmodule\r, <br/>, Urbanistik, M.Sc. PO 2020 2-semestrig\r, <br/>, Wahlpflichtmodule\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Wahlpflichtmodule\r, <br/>, Urbanistik, M.Sc. PO 17 2-semestrig\r, <br/>, Wahlpflichtmodule
+Erwartete Teilnehmer/-innen :3 S: 20
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Maria Frölich-Kulik :3 S: Fakultät Architektur und Urbanistik,Atidh Langbein
+# Beschreibung
+Beschreibung :3 S: Das Seminar „Raumbilder – Zukunftsszenarien in der Landschaftsplanung“ befasst sich mit Raumbildern als informelle Raumplanungsinstrumente großräumiger, regionaler Kontexte. Im Lesen und Verstehen von Landschaften werden Potentiale, Risiken und Herausforderungen der jeweiligen Landschaften aufgedeckt. Das kartografische Untersuchen und Aufzeigen von komplexen Zusammenhängen, Akteursnetzwerken und Veränderungsprozesse innerhalb einer Region soll dabei mögliche Zukünfte für regionale Entwicklungen beschreiben. Im Rahmen des Seminars werden Raumbilder sowohl theoretisch als auch praktisch als Raumplanungsinstrument betrachtet. Um zu verstehen, wie „Raumbilder“ uns bei der Planung und Gestaltung helfen können, werden bestehende „Raumbilder“ theoretisch hinsichtlich ihres Hintergrunds, ihrer strategischen Ziele, der beteiligten Akteure, der räumlichen Auswirkungen usw. reflektiert. Aufbauend darauf wird ein „Raumbild“ mittels eines Stegreifentwurfs am Beispiel der „rurbanen“-Landschaft des Vogtlandes in und um Greiz entwickelt.

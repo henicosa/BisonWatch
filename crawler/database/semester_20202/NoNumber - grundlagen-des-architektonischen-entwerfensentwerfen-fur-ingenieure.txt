@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Grundlagen des architektonischen EntwerfensEntwerfen für Ingenieure
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48330&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 50
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 13:30 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Konsultationen + Zwischenpräsentationen --&gt; Termine nach Absprache</p>, <br/>, <p>Teilnahme Pflicht!</p>,
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Jörg Springer :3 S: Fakultät Bauingenieurwesen,Hans-Joachim Bargstädt :3 S: Fakultät Bauingenieurwesen,Martina Mellenthin Filardo :3 S: Fakultät Bauingenieurwesen,Birgit Bode
+# Beschreibung
+Beschreibung :3 S: Teilnehmerzahl auf 50 Studierende begrenzt, davon maximal 10 Studierende im Rahmen der Bauhaus.Module

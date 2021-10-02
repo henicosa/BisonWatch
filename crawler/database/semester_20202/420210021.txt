@@ -1,0 +1,17 @@
+Veranstaltungstitel :3 S: Echo Hiding and Audio Steganography Algorithms
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48562&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 420210021
+Max. Teilnehmer/-innen :3 S: 5
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Medien
+# Personen
+Personen :3 S: Fakultät Medien,Andreas Jakoby :3 S: Fakultät Medien,Rosemary Adejoh
+# Beschreibung

@@ -1,0 +1,38 @@
+Veranstaltungstitel :3 S: Antimodern Movements in Modern Architecture and Urbanism
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49702&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 121122702
+Max. Teilnehmer/-innen :3 S: 14
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>,  , <br/>, European Urban Studies, M.Sc. PO 2020\r, <br/>, elective modules\r, <br/>, European Urban Studies, M.Sc. PO 18\r, <br/>, elective modules\r, <br/>,  , <br/>, Integrated Urban Development and Design, M.Sc. PO 2020\r, <br/>, elective modules\r, <br/>, Integrated Urban Development and Design, M.Sc. PO 18\r, <br/>, elective modules\r, <br/>,  , <br/>, Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 2020 2-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 17 2-semestrig\r, <br/>, Wahlpflichtmodul
+Erwartete Teilnehmer/-innen :3 S: 14
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 17:00 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 17:00 bis 20:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 17:00 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 17:00 bis 20:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Präsentation</p>,
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Marcell Hajdu :3 S: Fakultät Architektur und Urbanistik,Michael Karpf
+# Beschreibung
+Beschreibung :3 S: Mit dem Auftreten der Postmoderne vervielfachten sich die Auseinandersetzungen um die Ideen der architektonischen Moderne und deren Gegensätze sowie die an diesen Debatten beteiligten Akteure. Fragen über den urbanen Raum, die durch diese dichtomen Konflikte gerahmt sind, dienen heute als Schnittpunkt für zahlreiche Professionen und politische Bewegungen – oft völlig losgelöst von ihren historischen Ursprüngen. In einer Ära, in der Fragen nach der Organisation des urbanen Raums, also der räumlichen Organisation unserer Gesellschaften, mehr und mehr als technokratische Belange betrachtet werden, lösen sich die Vorstellungen einer architektonischen und städtebaulichen Moderne und Antimoderne von den einst damit verbundenen politischen Idealen ab.

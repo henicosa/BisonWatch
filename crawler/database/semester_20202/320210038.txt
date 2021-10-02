@@ -1,0 +1,48 @@
+Veranstaltungstitel :3 S: Vom Buch zum Film - Die Kunst des Regieführens (Ma)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48048&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 320210038
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 20
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 12:45 bis 14:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 17:15 bis 19:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 13:30 bis 21:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Sa.
+Zeit :3 S: 09:15 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Sa.
+Zeit :3 S: 10:00 bis 17:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Sa.
+Zeit :3 S: 10:00 bis 17:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Lena Liberta
+# Beschreibung
+Beschreibung :3 S: So kann ich nicht arbeiten! ist zum geflügelten Wort am Set geworden. Wir wollen mit Klischees aufräumen und widmen uns der Frage: Was braucht der künstlerische Leiter eines Filmteams tatsächlich, um aus einer Geschichte einen Film zu erschaffen, und wie gelangt man als RegisseurIn überhaupt zu einer eigenen Vision? Wir widmen uns im Gespräch mit erfahrenen und preisgekrönten RegisseurInnen wie Phillip Stölzl (u.a. Der Medicus, Goethe! Ich war noch niemals in New York), Anne Zohra Berrached (u.a. 24Wochen, Tatort: Der Fall Holdt) und Arne Feldhusen (u.a. Tatortreiniger, Vorsicht vor Leuten, Magical Mystery) den Geheimnissen des Regiehandwerkes. Wir verfolgen den Weg der Entstehung aktueller und prägender Filme der Regisseure vom Buch bis zum fertigen Film und beleuchten dabei, wie es im Detail zu den künstlerischen Entscheidungen kam. Mit eigenen praktischen Übungen werden wir die Perspektive der Regie einnehmen und unterschiedliche Handschriften in den Genres Komödie, Krimi, Drama und Literaturverfilmung kennen lernen. , <br>Bitte bewerbt Euch via E-mail für den Kurs mit Angabe Eurer Vorkenntnisse (eigene Filmarbeiten, Erfahrungen in welchem Bereich) und einer Begründung, weshalb Ihr Euch für den Kurs einschreiben wollt und welche Bereiche Euch dabei besonders interessieren.<br>Präsenztermine: Freitag 20.11.20 um 17.00-19.30 Uhr, Freitag, 27.11.20, 13.30- 19.30 Uhr und Samstag 28.11.2020 10:00 - 17.30 Uhr; Freitag 11.12.2020, 13.30 Uhr - 22:00 und Samstag 12.12.2020, 10:30 Uhr - 17.30 Uhr (Blockveranstaltung) Die Blocktermine für Januar (Freitag/Samstag) werden noch bekannt gegeben. </br></br>

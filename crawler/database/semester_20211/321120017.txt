@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Without blinkers PM
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49784&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 18
+Veranstaltungsnummer :3 S: 321120017
+Max. Teilnehmer/-innen :3 S: 14
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 13:00 bis 19:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Gerrit Babtist :3 S: Fakultät Kunst und Gestaltung,Sarah Böttger :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Fest steht, das Berufsbild des Designers ändert sich im Zeitalter technologischer, ökonomischer, ökologischer, demografischer und sozial-gesellschaftlichen Entwicklungen und die Möglichkeiten, aber auch Anforderungen des Designs sind komplex. Produktdesign entsteht stets im Rahmen von Prozessen und im Umgang mit verschiedenen Interessen der unterschiedlichen Stakeholder und daraus resultierenden Spannungsverhältnissen. Gestalterische Kreativität spielt dabei eine zentrale, jedoch nicht die alleinige Rolle, denn in der Praxis ist sie in unternehmerische Strategien und der herrschenden Marktwirtschaft eingebettet.

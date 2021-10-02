@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Baustoffkunde
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49016&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 1513120
+Max. Teilnehmer/-innen :3 S: 200
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, Pflichtmodul\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, Pflichtmodul\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, Pflichtmodul
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fenrol%2Findex.php%3Fid%3D21289&timestamp=1631115228164&hash=a897a8de65eb1a8d41ac58d7ce9ee5c0
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 13:00 bis 15:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Abschlussprüfung Asbachhalle</p>, <br/>, <p>Anfangsbuchstaben Nachname A - J</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Thomas Baron
+# Beschreibung
+Beschreibung :3 S: Eigenschaften und Anwendungen der wichtigsten Baustoffe im Bauwesen: Holz, Glas, Faserwerkstoffe, Baukeramik, Natursteine, Bindemittel, Mörtel, Estriche, Betone, Metalle, Bitumen, Kunststoffe; Begriffe, Kenngrößen und Beschreibung der Eigenschaften, Spannungs - Dehnungs - Verhalten, Kenngrößenermittlung, Auswahlkriterien und Verwendung, Korrosionsverhalten und Beständigkeit, Anwendungsbeispiele

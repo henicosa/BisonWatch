@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Bauwerkssanierung - Mauerwerkssanierung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49045&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Integrierte Vorlesung
+SWS :3 S: 3
+Veranstaltungsnummer :3 S: 101024
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Das andere Teilmodul heißt Bauwerkssanierung - Mauerwerkssanierung
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D31834&timestamp=1631115235614&hash=c2b0a05be2c329d9accb8ddb30bf0469
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Jens Schneider
+# Beschreibung
+Beschreibung :3 S: Die Studierenden haben typische Herangehensweisen beim Bauen im Bestand hinsichtlich Bauzustands und Bauschadensanalyse erlernt. Sie kennen die wichtigsten organisatorischen und bauplanungsrechtlichen Aspekte bei einem Sanierungsprojekt und überblicken die Vorgehensweise bei einer Objektanamnese und bei einer Schadensdokumentation. Sie besitzen grundlegende Kenntnisse auf dem Gebiet der Mauerwerksinstandsetzung und -ertüchtigung mit dem Ziel einer fachgerechten Ausschreibung.

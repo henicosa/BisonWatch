@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Large-Scale Concept Mining in Scientific Publications
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50017&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 10
+Veranstaltungsnummer :3 S: 421110007
+Max. Teilnehmer/-innen :3 S: 5
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Personen
+Personen :3 S: Fakultät Medien,Benno Stein :3 S: Fakultät Medien,Magdalena Wolska :3 S: Fakultät Medien,Janek Bevendorff :3 S: missing,Tim Gollub :3 S: Fakultät Medien,Nikolay Kolyada
+# Beschreibung
+Beschreibung :3 S: Scientific publications can be regarded as , <br/>, contributions to a complex asynchronous and multi-threaded conversation , <br/>, about specific research questions. Scientists develop and describe their , <br/>, own ideas and relate them to and compare them with previous related , <br/>, ideas and concepts in the field. In this project, you will learn how to , <br/>, apply neural natural language processing technologies and parallel , <br/>, computing to make conceptual relationships explicit in a datastructure , <br/>, called a concept graph. In a concept graph, two concepts are connected , <br/>, by a directed edge if one relates to the other. It can further be , <br/>, developed into a concept prerequisite graph with directed edges if the , <br/>, concepts build upon another. During the project, we would like to create , <br/>, and publish a concept graph as a resource for CORD-19, an open dataset , <br/>, of currently 280K scholarly articles about the coronavirus.

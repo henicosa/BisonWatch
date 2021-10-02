@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: NOVA art space
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48123&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 6
+Veranstaltungsnummer :3 S: 320210044
+Max. Teilnehmer/-innen :3 S: 6
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fkunst-und-gestaltung%2Fprofessuren%2Ffreie-kunst-prof-bjoern-dahlem%2F&timestamp=1631058555034&hash=3b196a0157551bd9866f3daf7ae89cb5
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 11:00 bis 14:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Katharina Wendler :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: NOVA ist eine Plattform für zeitgenössische Kunst und für aktuelle Fragen künstlerischer Praxis und ihrer (Re)Präsentation. In Ausstellungen und anderen experimentellen Formaten widmet sich NOVA dem Diskurs von, mit und über die Künste. Der Ausstellungsraum NOVA wurde im SoSe 2019 unter Leitung von Katharina Wendler in fakultätsübergreifender Zusammenarbeit mit Studierenden entwickelt und verbindet die akademische Lehre mit der praktischen künstlerischen wie kuratorischen Arbeit an konkreten Projekten.

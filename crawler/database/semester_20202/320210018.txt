@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: How to Draw Resistance
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47915&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul/Fachkurs
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 320210018
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 15
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 13:00 bis 15:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Arijit Bhattacharyya :3 S: Fakultät Kunst und Gestaltung,Ina Weise :3 S: missing,Sornrapat Patharakorn :3 S: missing,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: In one of the most well-known quotes, Michel Foucault claims “Where there is power, there is resistance” (1978:95–96). The notion of artistic activism and its relation to power has led to development of new artistic strategies in contemporary art. On the contrary Lila Abu-Lughod states “where there is resistance, there is power” (1990: 42) thus understanding resistance is helpful to recognize power. It seems necessary from the desire of understanding we strengthen resistance studies.

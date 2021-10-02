@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Einführung in die Filmgeschichte: Die internationale Filmgeschichte und das japanische Kino
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49670&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 421150042
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Einführung in die Mediengeschichte
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fadachirabe%2Fwixsite.com%2Fcinema&timestamp=1631115396205&hash=e5febf85c643eacb2b6a170093bb3981
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Gruppe 2</p>, <br/>, <p>Online via Moodle</p>,
+# Personen
+Personen :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N. :3 S: Fakultät Medien,Simon Frisch
+# Beschreibung
+Beschreibung :3 S: <span style=font-size: 12pt;>Der Film ist eine interkulturelle Kunstform. Im Seminar wird das Filmland Japan als Beispiel genommen und dessen Endwicklung im Kontext zur internationalen Filmgeschichte untersucht. Wir werden über verschiedene, mögliche Ansätze diskutieren, wie man überhaupt die Filmgeschichte beschreiben sollte oder kann, um deren Spezifik und Dynamik gerecht zu werden.</span>

@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Architektur- und Baugeschichte, Teil 1: Von den Anfängen bis zur Baukunst des Mittelalters
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=46804&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 1511140
+Max. Teilnehmer/-innen :3 S: 210
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, Pflichtmodul\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, Pflichtmodul\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, Pflichtmodul\r, <br/>,  , <br/>, Urbanistik, B.Sc. PO 2020\r, <br/>, Wahlmodul 3 LP - 1724197\r, <br/>, Urbanistik, B.Sc. PO 14\r, <br/>, Wahlmodul 3 LP - 1724197
+Erwartete Teilnehmer/-innen :3 S: 100
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fde%2Farchitektur%2Fprofessuren%2Fdenkmalpflege-und-baugeschichte%2Flehre%2Fwinter-201314%2Fbachelor-vorlesung%2F&timestamp=1631108702179&hash=8af6cdf93f1a46a6b542758b16bab74c
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Nach- und Wiederholerprüfung (&gt;3. FS) digital</p>,
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Hans-Rudolf Meier
+# Beschreibung
+Beschreibung :3 S: Die Vorlesung bildet den ersten Teil eines zweisemestrigen Zyklus zur Geschichte der Architektur von den Anfängen bis zur Gegenwart. Die Vorlesung des Wintersemesters beginnt mit allgemeinen Überlegungen zum Sinn und zur Bedeutung der Architekturgeschichte für das Studium der Architektur, setzt dann chronologisch mit den Anfängen der Baukunst ein und bietet einen Überblick von der Antike bis ins Spätmittelalter. Ziel ist es, einen Kanon an Bauten zu vermitteln, die ArchitektInnen kennen müssen und zugleich einen Einblick in die wichtigsten geschichtlichen Entwicklungen von Konstruktion und formaler Gestaltung sowie der Baugattungen zu geben, aber auch mit den verschiedenen methodischen Ansätzen und Betrachtungsweisen der Architekturgeschichtsforschung und -historiographie bekannt zu machen.

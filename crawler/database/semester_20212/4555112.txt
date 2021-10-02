@@ -1,0 +1,38 @@
+Veranstaltungstitel :3 S: Lineare Algebra
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50978&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 3
+Veranstaltungsnummer :3 S: 4555112
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fqisserver%2Frds%3Fstate%3Dverpublish%26status%3Dinit%26vmfile%3Dno%26publishid%3D42790%26moduleCall%3DwebInfo%26publishConfFile%3DwebInfo%26publishSubDir%3Dveranstaltung&timestamp=1631111290125&hash=c269c5d33a1db84eb477a4c70c8e08af
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Fitnessraum, Jakobsplan 1</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>(8Wochen)</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>(8Wochen)</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Sebastian Bock :3 S: Fakultät Bauingenieurwesen,Dmitrii Legatiuk
+# Beschreibung
+Beschreibung :3 S: Elementarmathematik: Mengen, Logik, Zahlenbereiche, Rechnen mit Gleichungen und Ungleichungen, Betrag, elementare Funktionen und ihre Umkehrfunktionen, Folgen, Reihen, Grenzwertbegriff, Konvergenz, Differenzierbarkeit; Vektorrechnung und analytische Geometrie in der Ebene und im dreidimensionalen Raum. Die Elementarmathematik wird mit einer Zwischenklausur abgeschlossen, <br><br>Lineare Vektorräume; normierte Räume; Abbildungen; lineare Operatoren; Elemente der analytischen Geometrie; Matrizenrechnung;<br>lineare Gleichungssysteme; Koordinatentransformationen; Invarianten geometrischer Abbildungen; Eigenwertprobleme; Kurven und Flächen zweiter Ordnung<br><br/>Verständnis der Geometrie des n-dimensionalen Raumes, geometrische Interpretation der Matrizenrechnung, Anwendung auf Lösung von Gleichungssystemen, Erkennen von Invarianten, Führen von einfachen Beweisen</br></br></br></br>

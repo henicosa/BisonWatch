@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Forschungsseminar Medienanthropologie
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47410&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 5
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: MA-Studienmodul: Medienphilosophie
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Finstitute%2Fgrama%2F&timestamp=1631058175086&hash=8b05fe5c31292acbd6d4343d4b1bd05e
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Christiane Voss
+# Beschreibung
+Beschreibung :3 S: Einführung in Medienanthropologie der Anthropomedialität aus medienphilosophischer Perspektive

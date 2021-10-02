@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Determinanten der räumlichen Entwicklung. Eine problemorientierte Einführung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47906&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 1724327
+Max. Teilnehmer/-innen :3 S: 40
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>,  , <br/>, Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Wahlpflichtmodule\r, <br/>, Urbanistik, M.Sc. PO 2020 2-semestrig\r, <br/>, Wahlpflichtmodule\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Wahlpflichtmodule
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 08:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Abschlussprüfung digital</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 17:00 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Max Welch Guerra
+# Beschreibung
+Beschreibung :3 S: Stadtplanung und insgesamt die räumliche Planung haben sich entlang bestimmter Kernaufgaben entwickelt. Eine von ihnen ist es, Wirtschaftswachstum sicherzustellen, etwa angesichts des Wandels der Bevölkerungsentwicklung oder der Energiequellen. Eine andere Kernaufgabe besteht darin, politische Herrschaft zu stabilisieren, sei es durch die Entfaltung einer sozialstaatlichen Infrastruktur oder durch die räumliche Regelung allgemeiner Interessenkonflikte. Die - dialogisch ausgerichtete - Vorlesung wird diese Zusammenhänge anhand ausgewählter Problemfelder diskutieren. Dabei werden wir mit der wissenschaftlich gebotenen Skepsis überprüfen, wie diese in Fachbüchern oder Periodika dargestellt wird.

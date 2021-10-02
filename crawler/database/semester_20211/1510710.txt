@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: 2. Planungsprojekt: Gemeinschaftliche Wohnprojekte als Akteure der Quartiersentwicklung am Beispiel von Frankfurt am Main (Ba)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49096&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 1510710
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Urbanistik, B.Sc. PO 2020\r, <br/>, 2. Planungsprojekt\r, <br/>, Urbanistik, B.Sc. PO 14\r, <br/>, 2. Planungsprojekt
+Erwartete Teilnehmer/-innen :3 S: 20
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>digital</p>,
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Carsten Praum :3 S: Fakultät Architektur und Urbanistik,Barbara Schönig
+# Beschreibung
+Beschreibung :3 S: Gemeinschaftliche Wohnprojekte wecken seit jeher eine Vielzahl an wohnungs- und stadtentwicklungspolitischen Hoffnungen. Dabei stehen sie mit ihrem kooperativen Ansatz nicht zuletzt dafür, eine bedeutende Rolle innerhalb der Quartiersentwicklung einnehmen zu können. Demzufolge werden gemeinschaftliche Wohnprojekte in vielen Städten gesondert gefördert.

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Einführung in die Filmgeschichte: Filmgeschichte 1970 bis heute
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49622&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 421150043
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Einführung in die Mediengeschichte / Introduction to Media History
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 17:00 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Gruppe 3</p>, <br/>, <p>Online über Moodle</p>,
+# Personen
+Personen :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N. :3 S: Fakultät Medien,Simon Frisch
+# Beschreibung
+Beschreibung :3 S: Die Filmgeschichte von 1970 bis heute ist von ästhetischen, technischen und geopolitischen Veränderungen geprägt wie wahrscheinlich keine Epoche zuvor. Neue Wellen, Dekolonialisierung/Postkolonialität, Inter- und Transmediales Erzählen, digitaler Wandel und das damit oft zitierte  “Verschwinden des Kinos” kennzeichnen die letzten fünfzig Jahre Filmgeschichte, in der die traditionelle Dichotomie Hollywood/Europa nur noch ein Aspekt unter vielen darstellt. Themen, die in der Vorlesung behandelt werden, sind u.a. New Hollywood, Blockbuster, special effects und die Rückkehr des Kinos der Attraktionen, Dogma 95 und neuer Realismus, Postcolonial- und World Cinema (Schwerpunkt auf Lateinamerika), Nationales/Transnationales Kino sowie die Frage nach dem Ort des Films im digitalen Zeitalter (Filmfestivals/Netflix).

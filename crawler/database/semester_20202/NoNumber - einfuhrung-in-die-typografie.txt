@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Einführung in die Typografie
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=46481&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 20
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Personen
+Personen :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N. :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Typography is the art of manipulating the visual form of language to enrich and control its meaning. It’s an essential area of skill and, <br/>, knowledge for graphic designers. Typography predates modern graphic design by around 500 years; it is rich in rules, conventions,, <br/>, and esoteric terminology – but it remains an exciting space for invention and expression., <br/>, In this introductory course, we will study, name, and measure the characteristics of letterforms. We’ll consider the pragmatic concerns, <br/>, involved in selecting and combining type. We’ll peek into the rich historical, cultural, and aesthetic histories of familiar typefaces. We’ll, <br/>, discuss time-tested conventions and best practices in setting type, as governed by principles of hierarchy and spatial organization. And, <br/>, we’ll explore the expressive, meaning-making potential of type. Lectures will be complemented by a series of assignments. Please, <br/>, note that this is not a software course; a basic working knowledge of Adobe InDesign or other page layout software will be assumed. You, <br/>, will need access to a computer and page layout software, such as InDesign, to complete the assignments.

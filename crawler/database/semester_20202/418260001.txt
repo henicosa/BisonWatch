@@ -1,0 +1,33 @@
+Veranstaltungstitel :3 S: Physiological Computing
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47531&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 3
+Veranstaltungsnummer :3 S: 418260001
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fusability&timestamp=1631058593134&hash=27385be68a5dea069b1b880c25c083f6
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Exercise - online (Moodle)</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Lecture - online (Moodle)</p>,
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: bis
+Terminrhythmus :3 S: Block
+Bemerkung :3 S: , <p>oral exams via Moodle</p>, <br/>, <p>individual appointments: </p>, <br/>, <p>10.02.2021</p>, <br/>, <p>15.02.2021</p>, <br/>, <p>17.02.2021</p>, <br/>, <p>19.02.2021</p>, <br/>, <p> </p>,
+# Personen
+Personen :3 S: Fakultät Medien,Jan Ehlers
+# Beschreibung
+Beschreibung :3 S: Physiological computing applies physiological data (like brain waves, skin conductance changes, pupil dynamics or heart rate variability) to generate user-state representations and enable computer systems to dynamically adapt to changes in cognitive and/or affective processing. By connecting the brain/body to a machine, the boundaries of the nervous system are extended which enables us to communicate with machines directly via processes that underlie our thoughts and emotions.

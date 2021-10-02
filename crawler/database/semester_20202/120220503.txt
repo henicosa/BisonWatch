@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Aktuelle Heritage-Studien / Current Heritage Studies
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47516&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Blockveranstaltung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 120220503
+Max. Teilnehmer/-innen :3 S: 25
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Theorie\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Theorie\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Theorie\r, <br/>,  , <br/>, Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 2020 2-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Wahlpflichtmodul
+Erwartete Teilnehmer/-innen :3 S: 20
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Farchitektur-und-urbanistik%2Fprofessuren%2Fdenkmalpflege-und-baugeschichte%2Flehre%2Fwintersemester-202021%2F&timestamp=1631108663158&hash=be7945f9e560cfcc1bce3c5cd5229032
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Hans-Rudolf Meier
+# Beschreibung
+Beschreibung :3 S: Die Kulturerbe-Debatte umfasst weit mehr als die Denkmalpflege und inzwischen auch ein weites Spektrum an kultur- und sozialwissenschaftlichen Fächern. Auch stehen in der internationalen Diskussion stärker als die Objekte die Akteurskonstellationen im Fokus des Interesses. Die Postdoc-Fellowship von Giorgia Aquilar soll genutzt werden, um in einem Workshop aktuelle Tendenzen der internationalen Heritage-Studien zu diskutieren.

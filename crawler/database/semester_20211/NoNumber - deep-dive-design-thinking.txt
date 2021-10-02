@@ -1,0 +1,22 @@
+Veranstaltungstitel :3 S: »Deep Dive Design Thinking«
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49941&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Blockveranstaltung
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 18
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 18
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fsummerschool%2Fen%2Fcourses%2Fculture-media%2Fdeep-dive-design-thinking%2F&timestamp=1631115333539&hash=25d2f0b92dd7579fedf4265f40b7b7f6
+Sprache :3 S: englisch
+Fakultät :3 S: missing
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: bis
+Terminrhythmus :3 S: Block
+Bemerkung :3 S: 
+# Personen
+# Beschreibung
+Beschreibung :3 S: <strong>Design innovative, user-centred products – with creative techniques, LoFi prototypes, teamwork and lots of fun!</strong>, <br><br>Design Thinking is a process for creating elegant user-centred solutions in multidisciplinary teams. But it’s much more than that: it is a mind-set — another way of tackling challenges: empathetic and hands-on. Implemented in daily work, the problem-solving potential of Design Thinking unfolds into a living innovation culture. A perfect tool when holistic and user-oriented solutions are needed!<br/><br/><strong>Dont just talk, do it!</strong><br/><br/>This two-week intensive course will give you a deep insight into how the Design Thinking-method works in detail. In the workshop you will not only learn how to use and apply this method – but in becoming active yourself by working on an exciting project as part of a multidisciplinary team, you will also acquire the core competencies for working in innovative and creative professions.<br/><br/><strong>Experience &amp; learn the Design Thinking process in small teams</strong><br/><br/>Together we will go through all stages of the Design Thinking process: From the analysis of the problem to field research, idea generation, prototyping and testing to a concrete solution. Teamwork is particularly important here: How can we create and use dynamics, how can we handle and solve conflicts, how can we use the competencies of each team member most effectively? The experienced course instructors will help you with that by sharing with you a broad offer of creative methods, from idea typing to brain warming – exercises full of interaction, fun and intuition.<br/><br/><strong>Design Thinking – a hands-on job</strong><br/><br/>Design Thinking is structured, quick and hands-on. It is always time-timed, which enforces quick decision making, in order to push for wild and spontaneous ideas. This mood is perfect to come up with truly innovative solutions for products or services. We will work with our heads and hands. That means no computer, no endless lectures, no powerpoint slides, no e-mails and no documents, but lots of movement, interaction, intuition and fun – and a sea of post-its.<br/><br/><strong>Learning objectives</strong><br/><br/>At the end of the two weeks, you will have gained a deep insight into the entire Design Thinking process, developed a self-created, innovative solution with experienced support, learned exciting creative methods, acquired innovative problem solving methods, sharpened your team skills – and much more!</br></br>

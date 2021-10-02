@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Begegnungen_ encounter with oneself (Ba)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51571&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Workshop
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 121211602
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Architektur | Planung\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Architektur | Planung\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Architektur | Planung
+Erwartete Teilnehmer/-innen :3 S: 10
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: bis
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Heike Büttner-Hyman :3 S: Fakultät Architektur und Urbanistik,Clemens Helmke
+# Beschreibung
+Beschreibung :3 S: In unserem Workshop erarbeiten Sie anhand von Fragestellungen Schriften und Beobachtungen und ihre Anwendung in der Architektur. Der Workshop, das Testat, ist als zeichnerische/schriftliche Hausarbeit in Form eines Skizzenbuchs/Aufsatz zu erarbeiten. Die Aufgabe besteht darin die sinnliche Anschauung zu analysieren und zu reflektieren und in ihrer Relevanz herauszustellen. Für die Bearbeitung des Workshop WiSe 2021 wird es notwendig sein neue Herangehensweisen und Darstellungstechniken zu entwickeln. Die Teilnahme am Workshop ist als selbständige Hausarbeit zu erarbeiten. Fragen können im ChatRoom oder vor Ort in Weimar erörtert werden. Siehe Zeitplan. Aus unserer Projektliste, siehe Moodle Raum & pdf Einführung, oder aus selbst gewählten Architekturen lassen sich einige Erkenntnisse aktualisieren und weiterbearbeiten. Auch wenn die Architektur mit der Zeit geht, um im Entwurf den veränderten Anforderungen zu entsprechen, so können wir uns immer auf historische, visionäre Konzepte in der Architektur & Kunst & Literatur besinnen.

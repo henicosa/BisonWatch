@@ -1,0 +1,43 @@
+Veranstaltungstitel :3 S: User Centered Design in a Nutshell
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49931&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Kurs
+SWS :3 S: 1.5
+Veranstaltungsnummer :3 S: 421150040
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Start meeting: online (attendance mandatory)</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 15:15 bis 18:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Block 1 (attendance mandatory)</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 15:15 bis 18:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Block 2 (attendance mandatory)</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 15:15 bis 18:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Block 3 (attendance mandatory)</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 15:15 bis 18:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Block 4 (attendance mandatory)</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Eva Hornecker :3 S: missing,Lisa Guth
+# Beschreibung
+Beschreibung :3 S: This is a concentrated ‘crash course’ on User-Centered Design (UCD) for those Master students who need to do the HCI bachelor-level course (as requirement for admission) and have not had the chance to attend it yet.

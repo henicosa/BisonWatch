@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Thinking in tanks - how your ideology will save the world
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47798&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Werk-/Fachmodul
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 320250021
+Max. Teilnehmer/-innen :3 S: 10
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fcloud.uni-weimar.de%2Fs%2F76jKy8mPqK6pWdS&timestamp=1631059032024&hash=5ac540d4f7f7273dd43f3e67e597d4f2
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>online (see link below)</p>,
+# Personen
+Personen :3 S: Universitätsleitung /  Universitätsverwaltung,Bastian Bügler :3 S: Fakultät Kunst und Gestaltung,Julian Chollet :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Our contemporary political landscape as well as public debate is increasingly dominated by extreme positions. Opinions and assumptions are echoed through (social) media, loose their connection to reality and transform into collective imaginations of more or less homogeneous peer groups. All those groups have their own values, a canon of guiding principles, their specific ingroup language and a common externalized enemy.

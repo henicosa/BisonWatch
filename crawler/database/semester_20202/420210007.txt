@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Competitive Programming
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47644&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 420210007
+Max. Teilnehmer/-innen :3 S: 6
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Personen
+Personen :3 S: missing,Rhadames Carmona Suju
+# Beschreibung
+Beschreibung :3 S: Ziel dieses Projekts ist es, Teams von 2 bis 3 Studierenden mit typischen Programmierherausforderungen in Programmierwettbewerben und bei Bewerbungen für IT-Firmen vertraut zu machen. Wir konzentrieren uns auf kurze Programmierwettbewerbe von 1 bis 3 Stunden und auf Probleme in Geometrie, Graphentheorie und Datenstrukturen. Die Studierenden lernen, wie man schnell effiziente Algorithmen und Datenstrukturen für die jeweiligen Probleme entwickelt und implementiert. Sie untersuchen bestehende Probleme und Lösungen sowie klassische Algorithmen und deren Variationen, die bei verschiedenen Programmierproblemen auftreten. Problemsätze werden von Websites wie https://www.spoj.com/, https://www.topcoder.com/, http://www.codeforces.com/ oder https://uva.onlinejudge.org übernommen. Eines der Ziele des Projekts ist es, die Studierenden zu motivieren, sich auf einen Programmierwettbewerb vorzubereiten und daran teilzunehmen. Zum Ende des Projekts werden die Studenten in der Lage sein, effiziente Algorithmen für eine Vielzahl von nicht-trivialen Problemen zu entwerfen und schnell zu implementieren. Dies ist auch eine wichtige Fähigkeit für die Bewerbung bei großen IT-Firmen, die regelmäßig Code Interviews durchführen.

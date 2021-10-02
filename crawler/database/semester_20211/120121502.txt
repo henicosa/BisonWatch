@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: About the Weather
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49105&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Blockveranstaltung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 120121502
+Max. Teilnehmer/-innen :3 S: 8
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Projektmodul - projektbegleitendes Seminar oder\r, <br/>, Wahlpflichtmodul - Architektur\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Projektmodul - projektbegleitendes Seminar oder\r, <br/>, Wahlpflichtmodul - Architektur\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Projektmodul - projektbegleitendes Seminar oder\r, <br/>, Wahlpflichtmodul - Architektur\r, <br/>,  , <br/>, Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 2020 2-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 17 2-semestrig\r, <br/>, Wahlpflichtmodul
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: bis
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Verena von Beckerath :3 S: Fakultät Architektur und Urbanistik,Hanna Schlösser
+# Beschreibung
+Beschreibung :3 S: Die Dynamik des Wetters übt eine faszinierende Kraft auf uns aus. In der täglichen Berichterstattung und Diskussion – von der Wettervorhersage bis hin zum Klimawandel – ist es allgegenwärtig und zunehmend auch bedrohlich. About the Weather ist ein interdisziplinäres projektbegleitendes Seminar für Studierende aller Studiengänge und Fakultäten an der Bauhaus-Universität Weimar. Das Seminar thematisiert die Frage, wie wir innerhalb unserer jeweiligen disziplinären Projektarbeit und gleichermaßen im transdisziplinären Austausch mit anderen Fachrichtungen eine konstruktive Haltung zum Klima entwickeln und uns in die Diskussion um den räumlichen, gesellschaftlichen und ökologischen Wandel einbringen können. Wir erörtern den Zusammenhang von Wetter, Klima und Design und nehmen dabei unterschiedliche Perspektiven ein. Luft, Wärme, Sonne, Wind, Wasser, Evaporation und Transpiration, Atmung, Kälte und Komfort werden mit dem Raum in einen unmittelbaren Zusammenhang gebracht und für die Projektarbeit zugänglich gemacht. Die Ergebnisse des Seminars, das in enger Kooperation mit Nadir Abdessemed / Transsolar durchgeführt wird, sollen während der Summaery 2021 präsentiert werden.

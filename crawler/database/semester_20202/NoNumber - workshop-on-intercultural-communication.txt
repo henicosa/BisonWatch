@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Workshop on Intercultural Communication
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47289&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Workshop
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: missing
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:30 bis 12:30 s.t.
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Universitätsleitung /  Universitätsverwaltung,Anke Schulze
+# Beschreibung
+Beschreibung :3 S: <span style=font-size: 14pt;><strong><span style=font-family: arial, helvetica, sans-serif;>Workshop on Intercultural Communication</span></strong></span>

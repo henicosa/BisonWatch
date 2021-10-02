@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Screenmilieus. Digitale Feldarbeit I (Theorie)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49590&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 421150010
+Max. Teilnehmer/-innen :3 S: 25
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: BA-Studienmodul: Bildtheorie
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Fbildtheorie%2F&timestamp=1631116058598&hash=ae5d8dc14e0a7862ebe03bbabef236e1
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 17:00 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Online via Moodle</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Elisa Linseisen
+# Beschreibung
+Beschreibung :3 S: Diese Veranstaltung widmet sich einer medientheoretischen Einordnung von Screen Milieus, in ihrer historischen Perspektive. In der Traditionslinie von Filmessayismus, Videoessays und anderen dokumentarfilmischen Formen sollen die Ästhetiken und Praktiken der Vermittlung von ‚Wirklichkeit‘ über das Aufhalten und Forschen ‚im‘ und mit dem digitalen Screen analysiert und theoretisch gefasst werden, und zwar vor allem Hinblick auf das Verhältnis von Herstellung und Sichtbarmachung, bildlicher Praxis und bildlicher Repräsentation. Nicht erst seit Corona ist der Computerbildschirm für Medientheoretiker und Videoessayist Kevin B. Lee der Ort an dem sich die „primary experience of our daily lives“ niederschlagen und der als „primary repository of information“ verstanden werden kann (vgl. https://www.alsolikelife.com/premake-1). Wenn sich der Dokumentarfilm darum bemühe, so Lee, Wirklichkeit einzufangen und abzubilden, dann ist die sogenannte Desktop Documentary die filmkritische Praxis, die sich gerade der digitalen Realität widmet, die über die Screens unserer Laptops, Tablets, Smartphones erfahrbar ist. So berichtet Lee z.B. in seiner Desktop Documentary TRANSFORMERS: THE PREMAKE (2014) über die fragwürdigen Produktionsbedingungen von TRANSFORMERS: AGE OF EXTINCTION (Michael Bay, 2014), die u.a. in Chicago, Lees Wohnort, stattfanden. Die Desktop Documentary tut dies nicht etwa, indem sie das Geschehen live, vor Ort nachverfolgt. Für Lee sind es vielmehr der Bildschirm und die digitalen „Spuren“ und Quellen der Blockbusterproduktion – die Amateur*innenvideos, Fernsehberichte, Schnappschüsse, Google-Maps-Ansichten, die es möglich machen, über TRANSFORMERS: AGE OF EXTINCTION zu reflektieren. Der Screen ist dabei nicht nur „Ort des Geschehens“, ein eigenständiges Milieu, sondern Praxis des Dokumentierens selbst: er ist „both a camera lens and a canvas“ (vgl. https://www.alsolikelife.com/premake-1) und ermöglicht den Zugang und zugleich die Inszenierung des Materials, das online gefunden werden kann. Das Modul Screen Milieus fasst die Frage nach digitaler Wirklichkeit über zwei sich gegenseitig befragende jedoch nicht notwendig bedingende Seminare einmal zusammen.

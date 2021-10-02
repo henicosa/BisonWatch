@@ -1,0 +1,48 @@
+Veranstaltungstitel :3 S: visanthrop: Theorie & Praxis des ethnografischen Films
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49956&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Wissenschaftliches Modul
+SWS :3 S: 3
+Veranstaltungsnummer :3 S: 321130020
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 15:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 15:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 15:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 15:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: So.
+Zeit :3 S: 10:00 bis 16:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Alexander Schwinghammer :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person :3 S: Fakultät Kunst und Gestaltung,Max Leimstättner
+# Beschreibung
+Beschreibung :3 S: Seit den ersten anthropologischen Filmen, die vor nicht einmal hundert Jahren in fernen Ländern entstanden, hat sich einiges getan: von der Überwindung des Glaubens an das Kameraauge als objektives Dokumentationswerkzeug über die Entwicklung eigener Stile und Schulen bis hin zu Verquickungen mit dem Experimentalfilm. Der ethnographische Film wurde in den letzten Jahren mehr denn je zu einer medialen Form, dessen Kern die konsequente und präzise Beobachtung von Alltagspraxis darstellt, eine Form, deren radikalste Ausprägungen zur Avantgarde des zeitgenössischen Dokumentarfilms gezählt werden können. Gleichzeitig werden auch ethnographische Themen und Ansätze in der Kunst immer beliebter.

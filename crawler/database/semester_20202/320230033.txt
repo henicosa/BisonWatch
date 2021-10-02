@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Digital Culture 1 – An Introduction for the Design Professions
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48164&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Wissenschaftliches Modul
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 320230033
+Max. Teilnehmer/-innen :3 S: 60
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Jan Willmann :3 S: Fakultät Kunst und Gestaltung,Michael Braun :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: The recent shift in digital technology has substantially affected the design professions and has led to entirely new concepts, tools and processes that were inconceivable just a few years ago. These new possibilities not only foster novel material (and immaterial) practices but also radically challenge the very foundations of the design and engineering disciplines. On that scope, the lecture series ”Digital Culture 1” will provide a fundamental introduction to history and theory of the digital in design and related fields (such as, for example, art, media and architecture) and discusses key paradigms, contexts and challenges. Topics covered include computer origins, interactivity, artificial intelligence, cybernetics, hacker culture, home computer turn, computational design, etc.

@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Visualization - Final Project
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49940&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Independent Study
+SWS :3 S: 1
+Veranstaltungsnummer :3 S: 420160006
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Personen
+Personen :3 S: Fakultät Medien,Bernd Fröhlich :3 S: Fakultät Medien,Gareth Rendle :3 S: Fakultät Medien,Joshua Reibert :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N.
+# Beschreibung
+Beschreibung :3 S: Im Abschlussprojekt der Vorlesung „Visualisierung” sollen die Teilnehmer die erlangten theoretischen und praktischen Fertigkeiten auf den Entwurf, die Implementierung und die Präsentation eines eigenständigen kleinen Forschungsprojektes anwenden. Dazu soll ein Problem ausgewählt, eine Lösung entwickelt, eine effiziente Implementierung realisiert und die Ergebnisse abschließend in einem Vortrag präsentiert werden.

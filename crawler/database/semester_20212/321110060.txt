@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Vom Buch zum Film - Die Kunst des Regieführens (Ma)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51836&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 321110060
+Max. Teilnehmer/-innen :3 S: 10
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 10
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Lena Liberta :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: In diesem Einführungsmodul werden wir auf die wichtigsten Elemente des filmischen Erzählens und der Figurenfindung eingehen: Storytelling/Script, Erfindung und Einführung von Figuren, Drehbucharbeit, Kameraarbeit/Auflösung und die Arbeit mit Schauspieler*innen.

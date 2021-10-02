@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Vertiefung Sozialwissenschaftliche Stadttheorien
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49435&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 1714516
+Max. Teilnehmer/-innen :3 S: 50
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Urbanistik, B.Sc. PO 2020\r, <br/>, Pflichtmodule\r, <br/>, Urbanistik, B.Sc. PO 14\r, <br/>, Pflichtmodule
+Erwartete Teilnehmer/-innen :3 S: 40
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Malena Rottwinkel
+# Beschreibung
+Beschreibung :3 S: Inhalt dieses Modulseminars ist die fokussierte Auseinandersetzung mit verschiedenen Themen an der Schnittstelle von Sozialwissenschaften und Stadtplanung bzw. -entwicklung. Der Schwerpunkt des Seminars liegt wesentlich auf der Heranführung an Techniken sozialwissenschaftlicher Theoriearbeit. Gleichzeitig knüpft das Seminar teilweise an Inhalte aus der Vorlesung an und bietet Gelegenheit, diese zu diskutieren und zu vertiefen. In der Auseinandersetzung mit einem Schwerpunktthema (wird zu Beginn der Veranstaltung bekannt gegeben) wird an Textarbeit, Recherche und abstraktes, strukturelles und konzeptionelles Denken aus sozialwissenschaftlicher Perspektive herangeführt. Gleichzeitig werden inhaltlich insbesondere zeitgenössische Problemstellungen und Themen aufgegriffen, welche die aktuelle Diskussion um Stadt, Urbanität und Gesellschaft wesentlich prägen, und diese aus sozialwissenschaftlicher Perspektive kontextualisiert.

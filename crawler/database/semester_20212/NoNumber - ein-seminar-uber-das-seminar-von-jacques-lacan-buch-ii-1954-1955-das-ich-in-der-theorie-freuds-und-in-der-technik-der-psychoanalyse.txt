@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Ein Seminar über: Das Seminar von Jacques Lacan, Buch II (1954-1955): Das Ich in der Theorie Freuds und in der Technik der Psychoanalyse
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51285&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Projektmodul Kulturtechniken 1
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Fgeschichte-und-theorie-der-kulturtechniken%2Fwillkommen%2F&timestamp=1631111091814&hash=d10c4cc6274c5d4dc061b066f51cf16a
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 17:00 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Moritz Hiller
+# Beschreibung
+Beschreibung :3 S: Ziel des Seminars ist es, die Seminarsitzungen, die Jacques Lacan zwischen 1954 und 1955 am Pariser Sainte-Anne-Krankenhaus gehalten hat, in gemeinsamen Lektüren durchzuarbeiten. Dabei wird es zunächst darauf ankommen, Lacans unter anderem durch Perspektiven der Linguistik, Kybernetik und Informationstheorie angereicherte Auseinandersetzung mit der Freudschen Psychoanalyse nachzuvollziehen. In einem zweiten Schritt soll die Frage gestellt werden, welche Produktivität Lacans – häufig zu Slogans verkommenen – Begriffe und Theoreme heute noch in Medienwissenschaft und Kulturtechnikforschung entfalten können. Erhöhte Lesebereitschaft (eines durchaus anspruchsvollen Textes) ist genauso Grundvoraussetzung zur erfolgreichen Teilnahme wie die Bereitschaft etwa zur Übernahme eines Referats oder zum Schreiben von regelmäßigen Reading Responses.

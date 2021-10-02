@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Griffig
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47789&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 6
+Veranstaltungsnummer :3 S: 320210046
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:00 bis 12:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Susann Paduch :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Wir strecken Gegenständen unsere Hände entgegen und ergreifen sie. Die unbelebten Dinge bieten sich uns ebenso an - konkret oder subtil, in Größe, Form und Oberfläche. Diese Schnittstelle von Hand und Objekt wollen wir gestalten und nennen sie Griff. Die Größenordnung Griff für Hand leitet sich aus dem Herstellungsverfahren ab, welches wir Uni-intern, aber außerhalb der Werkstätten umsetzen können - das wird der Aluminiumguss sein. Verschiedene Varianten des Formbaus können ausprobiert werden, hierbei sind die Kenntnisse eines 3D-Modeling Programms von Vorteil, um die abzuformenden Modelle drucken zu können.

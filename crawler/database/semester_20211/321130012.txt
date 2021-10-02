@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Ruined by Design – How Design Destroyed the World, and What It Can Do to Fix It
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49908&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Wissenschaftliches Modul
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 321130012
+Max. Teilnehmer/-innen :3 S: 18
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fkunst-und-gestaltung%2Fprofessuren%2Ftheorie-und-geschichte-des-design%2F&timestamp=1631116053084&hash=4357cae082bb672998f1ab83b0afabd0
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Jan Willmann :3 S: Fakultät Kunst und Gestaltung,Michael Braun :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Nach Mike Monteiro ist Design alles andere als harmlos oder gar unschuldig, im Gegenteil: Es trägt eine gewaltige Verantwortung für die Gestaltung unserer Lebenswelt und muss insbesondere für die gegenwärtige ökologische Krise und die Erschaffung eines digitalen Überwachungskapitalismus in Haftung genommen werden. Allerdings hat Monteiro keinen rückwärtsgewandten Begriff des Design im Sinn. Die Ansätze, die er in seinem Buch entwickelt, können ebenso als Appell verstanden werden, Design ”besser zu machen” und in seiner ethischen und politischen Bedeutsamkeit ernst zu nehmen. In der Entfaltung seines Arguments ist Monteiros Buch ebenso eine präzise Gegenwartsanalyse wie zugleich eine weit ausholende Designkritik. Im Seminar lesen wir Monteiros Buch, diskutieren „ruinöse” Designbeispiele und entwickeln alternative designethische Denk- und Handlungsansätze. Aufgrund seines pluridisziplinären Charakters richtet sich das Seminar an alle Fachsemester und -bereiche.

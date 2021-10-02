@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Endlich motiviert wissenschaftlich schreiben
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49978&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Career Service
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: missing
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 10:00 bis 16:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N.
+# Beschreibung
+Beschreibung :3 S: Schreiben, auch wissenschaftliches Schreiben, ist ein kreativer Prozess. Damit dieser Prozess in Gang kommt und bleibt, bedarf es eines gewissen Antriebs. Umso mehr, desto besser. In den verschiedenen Schreibphasen kann der Prozess aber aus den unterschiedlichsten Gründen ins Stocken geraten. Im schlechtesten Fall führt dies zu Frustration und zum Verlust der Motivation, kompletter Stillstand inklusive.

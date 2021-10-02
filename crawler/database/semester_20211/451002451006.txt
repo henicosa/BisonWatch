@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Introduction to Optimization / Optimization in Applications (L)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48915&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 3
+Veranstaltungsnummer :3 S: 451002+451006
+Max. Teilnehmer/-innen :3 S: 30
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D31970&timestamp=1631115619237&hash=55aa865395a159693544a947f200b354
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Hybrid</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 07:30 bis 09:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Hybrid</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Tom Lahmer
+# Beschreibung
+Beschreibung :3 S: <span style=text-decoration: underline;><strong>Introduction to </strong><strong>Optimization (</strong><strong>451002): </strong></span>

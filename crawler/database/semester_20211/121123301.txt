@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Introduction to computational thinking using p5.js/Processing and selected media theory texts
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49803&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 121123301
+Max. Teilnehmer/-innen :3 S: 25
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Architektur\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Architektur\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Architektur\r, <br/>,  , <br/>, European Urban Studies, M.Sc. PO 2020\r, <br/>, elective modules\r, <br/>, European Urban Studies, M.Sc. PO 18\r, <br/>, elective modules\r, <br/>,  , <br/>, Integrated Urban Development and Design, M.Sc. PO 2020\r, <br/>, elective modules\r, <br/>, Integrated Urban Development and Design, M.Sc. PO 18\r, <br/>, elective modules\r, <br/>,  , <br/>, MediaArchitecture, M.Sc. PO 2020\r, <br/>, Fachmodul - Digitale Planung\r, <br/>, MediaArchitecture, M.Sc. PO 18\r, <br/>, Fachmodul - Digitale Planung\r, <br/>,  , <br/>, Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 2020 2-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Wahlpflichtmodul
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Reinhard König
+# Beschreibung
+Beschreibung :3 S: Participants of the course will be introduced to a foundation of computational thinking alongside the coding environment of p5.js (Processing for javaScript) and the basics of programming for the browser. Three sections of this course will examine different groups of programming knowledge, helping participants to meaningfully develop basic programming skills through a process of experimentation and iteration. The course will show the various parts of developing a rudimentary agent-system that exhibits behavioral growth, and discuss the various situations in which these computational skills overlap with architectural and design work.

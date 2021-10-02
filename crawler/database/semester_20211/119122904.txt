@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Planungssteuerung 2 (Ma)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48987&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 119122904
+Max. Teilnehmer/-innen :3 S: 5
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Bachelorvorleistungen - Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Bachelorvorleistungen - Wahlpflichtmodul
+Erwartete Teilnehmer/-innen :3 S: 2
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 17:00 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Coudraystr. 9, HS 6</p>,
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Johann Schwind
+# Beschreibung
+Beschreibung :3 S: Im Zentrum des Seminars „Planungssteuerung” steht die Frage, inwieweit räumliche Entwicklung angesichts konfligierender gesellschaftlicher Interessen und der hohen Komplexität planerischer Aufgaben mit den gegebenen Instrumenten, Methoden und Verfahren der Stadtplanung gesteuert werden kann und soll. Berücksichtigt werden vor allem die Besonderheiten der verschiedenen Planungsebenen, regionale und nationale Differenzen sowie die Rolle und das Zusammenspiel der unterschiedlichen, beteiligten Akteure aus Staat, Markt und Zivilgesellschaft. Besonderes Augenmerk richtet das Seminar dabei auch auf die Rolle der institutionalisierten Stadtplanung sowie der planenden Experten.

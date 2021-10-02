@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Michel Serres: Der Parasit
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47620&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 420250025
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: BA-Projektmodul: Kulturtechniken 2
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Fgeschichte-und-theorie-der-kulturtechniken%2Fwillkommen%2F&timestamp=1631058511686&hash=4c6efc5b85a0684fe4cbdfd9d9defa14
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Digital via Moodle</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Moritz Hiller
+# Beschreibung
+Beschreibung :3 S: «Am Anfang ist das Rauschen»: Michel Serres’ 1980 im französischen Original veröffentlichtes Buch , <em>Der Parasit</em>,  entwirft mit seiner titelgebenden Figur ein Kommunikationsmodell, das nicht den reibungslosen Austausch zwischen Sender und Empfänger in den Mittelpunkt stellt, sondern die Störung dieser Beziehung, das Rauschen im Kanal, die Funktion eines Dritten, der oder das dieser Beziehung immer schon parasitär aufsitzt. Mehr noch: Der Parasit geht der Beziehung, jeder Beziehung, zwischen einem Ersten und einem Zweiten, voraus, sei diese nun anthropologisch, politisch oder technisch vermittelt. Der oder das Dritte ist gar «das Sein der Relation.» Damit ist nicht nur eine fundamentale Kritik an den überkommenen Kommunikationstheorien, an den Philosophien und den Ökonomien abendländischer Tradition formuliert, denen je Logiken störfreier und ursprünglicher Übertragung zugrunde liegen. Es ist auch Medientheorie impliziert, die die Kanäle und deren Materialität denkt. Denn, so Serres: «Es gibt stets ein Medium, eine Mitte, ein Vermittelndes.»

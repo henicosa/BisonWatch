@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Open Access: Forschung, Publizieren und Förderung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47317&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Workshop
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 20
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fveranstaltungen.uni-weimar.de%2Fde%2F690&timestamp=1631058568125&hash=cf39e4f9380c567aad19b718cc57137f
+Sprache :3 S: deutsch
+Fakultät :3 S: missing
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: bis
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultätsübergreifende Einrichtungen,Ute Mai :3 S: Fakultätsübergreifende Einrichtungen,Franziska Matthes :3 S: Zentrale Einrichtungen,Dana Horch
+# Beschreibung
+Beschreibung :3 S: Open Access etabliert sich weiter als alternative Publikationsstrategie in der deutschen Wissenschaft, zunehmend auch aufgrund der Förderrichtlinien und -programme von Forschungsorganisationen wie der DFG. Gründe für Open Access sind unter anderem die erhöhte Sichtbarkeit wissenschaftlicher Publikationen sowie vielfältige Nachnutzungsmöglichkeiten für wissenschaftliche Ergebnisse. Doch es gibt auch Vorbehalte in der Wissenschaftscommunity sowie Unsicherheiten - gerade zu Beginn der eigenen Forschungs- und Publikationstätigkeit. Die Veranstaltung wird kompakte Informationen, fachspezifische Werkzeuge und Fördermöglichkeiten für einen sicheren Umgang mit Open Access geben.

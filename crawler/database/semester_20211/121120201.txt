@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: New Urban Approaches for a smarter and healthier Thuringia
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49703&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 121120201
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Projektmodul - Projekt\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Projektmodul - Projekt\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Projektmodul - Projekt\r, <br/>,  , <br/>, Integrated Urban Development and Design, M.Sc. PO 2020\r, <br/>, Study project\r, <br/>, Integrated Urban Development and Design, M.Sc. PO 18\r, <br/>, Study project\r, <br/>,  , <br/>, MediaArchitecture, M.Sc. PO 2020\r, <br/>, Projektmodul - Projekt\r, <br/>, MediaArchitecture, M.Sc. PO 18\r, <br/>, Projektmodul - Projekt\r, <br/>,  , <br/>, Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 2020 2-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 17 2-semestrig\r, <br/>, Wahlpflichtmodul
+Erwartete Teilnehmer/-innen :3 S: 15
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Abschlusspräsentation digital</p>,
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Bernd Nentwig :3 S: Fakultät Architektur und Urbanistik,Shimin Huang
+# Beschreibung
+Beschreibung :3 S: Project description:

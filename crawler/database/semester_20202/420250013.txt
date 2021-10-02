@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Von Daguerre zu Instagram – Zur Kultur- und Wissensgeschichte der Photographie
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47584&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 420250013
+Max. Teilnehmer/-innen :3 S: 30
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: BA-Studienmodul: Bildtheorie
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Fbildtheorie%2F&timestamp=1631059139860&hash=7c87005c77e969525bafbb2d303a7c51
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Digital via Moodle</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Manuela Klaut
+# Beschreibung
+Beschreibung :3 S: Die Geschichte der Photographie wird mit dem Jahr 1990 durch einen Epochenschnitt zwischen analoger und digitaler Photographie erzählbar. Das im Zuge der digitalen Bildwende entstehende unendliche Bildaufkommen lässt sich nur schwer in eine Abfolge chronologisch-technischer Veränderungen einschreiben – es beginnt mit ihr vielmehr eine ausgedehnte Gegenwart, die im Sinne der »Iphoneography« seit 2007 bis hin zur aktuellen Insta-Photography das von Daguerre und Talbot in die Welt gesetzte Medium Fotografie grundlegend neu definiert. Das gilt sowohl für seine Geschichte als auch für seinen kulturellen, ökonomischen, soziologischen und ontologischen Status als Medium der Erschließung von Raum, Zeit und Welt. , <br>Die Fotografie veranlasst seit diesem Epochenschnitt völlig veränderte Handlungsweisen: Aus der im Album, Archiv oder Nachlass ruhenden Fotografie ergibt sich eine neue Bewegung: Das Teilen des Bildes, das nicht länger ruht oder archiviert ist, sondern sich als Motiv überlagert, im unaufhörlichen Capturing und Sharing, oder in der Verweislogik einer persönlichen Archivierung und Verlinkung (mit Hashtag). Die Fotografie verlässt die Schauplätze des erinnernden, dokumentarischen und beweisenden und wird zur sozialen Einheit des unmittelbar Abzubildenden, zum Dekor des Accounts, zur flüchtigen Bewegung des Handgelenks. Wolfgang Hagen schreibt: »Alles Entropische, also z.B. Überlegungen und Gedanken, die überprüft oder hinfällig werden könnten, sind passé. Es gelten nur noch die einfachsten Konventionen für ein Was, Wo, Hier und Da des bilderzeugenden Draufhaltens (»The Best Camera Is The One Thats With You«), um ein neues existentielles »Being There« auf allen Seiten zu eröffnen. Neudaseinsbilder sind deshalb so inhärent kapitalistisch, weil sie ein paradoxales Dasein erzeugen, an dem nichts hängt und zugleich alles, solange es stetig Neues erzeugt, das die sozial-digitalen Netzkanäle füllt. Neudaseins-Fotografie erlaubt in diesem Spiel der Überschreibungen und Ersetzungen ungeahnte soziale Profilierungen und Regime des Selbst, weil es ohne Entropie und völlig angstlos mit den Diskursen des Bildlich-Unbewussten zu rechnen scheint. Noch das Erschreckendste, das dabei auftauchen mag (weil es ja auch das Unbewusste selbst ist, das rechnet), kann jederzeit wieder weggerechnet werden, spurenlos durch ein neues Bild oder die Delete-Taste.«<br/>Diesen Fragen an die Fotografie widmen wir uns anhand exemplarischer Texte, die wir uns durch Lektüre und Diskussion erschließen. </br>

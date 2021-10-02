@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Abstrahierte Räume
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48171&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 320210001
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 19:00 bis 20:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Moodle/BBB</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Pablo Saray :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Die Rolle von Architekten und Künstlern ist der Schlüssel zum Aufbau einer globalen Beziehung zwischen den Gemeinschaften, denen sie als Individuen angehören, und dem Zeitgeist. Somit sind die gegebenen Werke ein Zeugnis ihrer Wahrnehmung der Vergangenheit und der Gegenwart, während sie eine Vorstellung für die Zukunft aufbauen.

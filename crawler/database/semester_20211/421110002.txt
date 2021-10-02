@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: DESIGNING OUT OF THE BOX
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50014&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 10
+Veranstaltungsnummer :3 S: 421110002
+Max. Teilnehmer/-innen :3 S: 6
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fcloud.uni-weimar.de%2Fs%2F4XxT2797sFxXp6y&timestamp=1631115336239&hash=6e11629fbd9adef30189ee2588e1d6f0
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 10:00 bis 15:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Projekttreffen</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Michaela Honauer :3 S: Fakultät Medien,Eva Hornecker :3 S: Fakultät Medien,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Research through Design (RtD) is an approach to employ design practices and generate new knowledge. The design inquiries carried out by RtD result in a critical reflection of the state of the art. RtD provides a base for reflective practice by reinterpreting and reframing existing problems through creating and revising artifacts. These artifacts act as proposed solutions to the raised issues, investigating how we can change or improve the world.

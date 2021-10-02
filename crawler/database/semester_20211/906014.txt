@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Geo- and hydrotechnical engineering - Part: "Geotechnical Engineering" (L + E)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48950&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 3
+Veranstaltungsnummer :3 S: 906014
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fenrol%2Findex.php%3Fid%3D31346&timestamp=1631115513524&hash=deb659e8200adf5beb7f4d0dc1d0aa6e
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Exercise</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: gerade Wo
+Bemerkung :3 S: , <p>Lecture</p>, <br/>, <p>Digital</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Torsten Wichtmann :3 S: Fakultät Bauingenieurwesen,Guido Morgenthal :3 S: Fakultät Bauingenieurwesen,Cristian Rodríguez Lugo :3 S: Fakultät Bauingenieurwesen,Patrick Staubach
+# Beschreibung
+Beschreibung :3 S: The objective of this module is focused on deepening the basics of soils mechanics, the fundamentals of analysis in applications for static and dynamic analysis as well as the basics of soil-structure interaction analysis. The students should be able to apply the strategies and methods to arbitrary engineering problems in the given fields. To fix the theoretical background the student has to apply the methods independently at given tasks during several projects.

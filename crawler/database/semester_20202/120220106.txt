@@ -1,0 +1,43 @@
+Veranstaltungstitel :3 S: perma.change – performative Architektonik_Part 1
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48290&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 120220106
+Max. Teilnehmer/-innen :3 S: 8
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Architektur\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Architektur\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Architektur\r, <br/>,  , <br/>, MediaArchitecture, M.Sc. PO 2020\r, <br/>, Wahlmodul\r, <br/>, MediaArchitecture, M.Sc. PO 18\r, <br/>, Wahlmodul\r, <br/>,  , <br/>, Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 2020 2-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Wahlpflichtmodul
+Erwartete Teilnehmer/-innen :3 S: 7
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: bis
+Terminrhythmus :3 S: BlockWE
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: bis
+Terminrhythmus :3 S: BlockWE
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: bis
+Terminrhythmus :3 S: BlockWE
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: bis
+Terminrhythmus :3 S: BlockWE
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: bis
+Terminrhythmus :3 S: BlockWE
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Luise Nerlich
+# Beschreibung
+Beschreibung :3 S: Ein Lehrangebot der Professur Bauformenlehre , <br>in der Reihe der Bauhaus-Module <br>unter der Leitung von Luise Nerlich und Massimo Gerardi<br> <br>Die Sensibilisierung von Studierenden für Bewegung und Raumgefühl, um so Gestaltungsideen für Objekte und Räume zu generieren, ist das Ziel der Zusammenarbeit der Architektin Luise Nerlich und des Tanzpädagogen und Choreografen Massimo Gerardi. <br>Die von Gerardi geleiteten Übungen von Tanz und Körperbewegung sollen als Inspirationsquelle zum Entwurf einer Baustruktur dienen. Diese Erfahrung will zukünftigen Gestaltern und Architekten Impulse geben, außergewöhnliche Konzepte und persönliche Strategien für Architektur und Raumgestaltung neu zu überlegen und zu entwickeln.<br> <br>Gerardi wird den Studierenden der Bauhaus-Universität drei umfassende Workshops anbieten, um an eigenen Bewegungsmöglichkeiten und an wirkungsreichen Positionierungen im Raum zu arbeiten. Dabei wird versucht werden, anatomische und gedankliche Grenzen abzubauen. Dieser Prozess steht einer tradierten Aneignung von rein theoretischen und anatomischen Kenntnissen gegenüber, um körpergerechte architektonische Elemente zu entwerfen.<br> <br>Ziel/Abgabeleistung ist zum einen eine Erarbeitung einer performativen Architektonik unter dem Titel „perma.change” (anhaltender Wechsel) in Bewegungsarbeit <br>und zum anderen die Dokumentation des Arbeitsprozesses und eine im Film festgehaltene  Präsentation. <br>Es besteht die Möglichkeit, auf Basis der gemachten Erfahrung im ersten Semester Bachelor Architektur eine Mikroarchitektur/Pavillon für das Erste Kernmodul zu entwickeln.<br> <br>Testat mit 3 credits.</br></br></br></br></br></br></br></br></br></br></br></br></br>

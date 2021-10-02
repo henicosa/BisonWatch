@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Filmkulturen der Peripherie
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49747&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 421150003
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: EMK 3, Europäischen Kino
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Feuropaeische-medienkultur%2Fwillkommen%2F&timestamp=1631115467206&hash=e8b93af63a2ef96783e560f098dd122d
+Sprache :3 S: deutsch/französisch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Eva Krivanec
+# Beschreibung
+Beschreibung :3 S: Das europäische Kino war lange Zeit geprägt von einer Vielzahl von durchaus unterschiedlichen nationalen Filmkulturen mit ihren je eigenen Genealogien, theoretischen Anleihen, ästhetischen und thematischen Schwerpunkten, gesellschaftlichen und politischen Rahmenbedingungen, staatlichen Förderstrukturen und Produktions-, Vertriebs- und Vorführungslogiken. Doch ein Blick in die Frühzeit des Kinos zeigt uns bereits die von Anfang an wesentlichen grenzüberschreitenden Verflechtungen dieser internationalen Branche - gerade in der Zeit des Stummfilms. Doch während sich in den USA ab etwa 1920 mit Hollywood ein (fast) monolithisches Produktionszentrum herausbildete, das spätestens mit der Durchsetzung des Tonfilms auch international fast konkurrenzlos an der Spitze des weltweiten Filmverleihs lag, brachte im vielsprachigen Europa der Tonfilm eine zunehmend nationale Ausrichtung hervor, die sich erst in den späten 30er, frühen 40er Jahren durch Synchronfassungen auf der Ebene der Rezeption und mit den sich langsam herausbildenden europäischen Koproduktionen ab den 1980er Jahren und Instrumenten der europäischen Filmförderung in der EU (insbesondere seit dem Inkrafttreten des Vertrags von Maastricht 1992) auf der Ebene der Produktion wieder stärker zusammenwuchs. Doch auch bei europäischen Koproduktionen stehen meist einzelne zentrale europäische Filmländer wie Frankreich, Deutschland oder Italien im Zentrum. Ein etwas genauerer Blick auf die Länder an der Peripherie Europas, zeigt jedoch auch dort sehr lebendige und sowohl formal-ästhetisch als auch inhaltlich sehr interessante Filmkulturen mit einer durchweg langen Geschichte, etwa in Portugal, Griechenland, den Ländern Osteuropas und des Balkans, im Baltikum, in Island etc. Dem Kino in diesen (und eventuell weiteren) Ländern wird sich das Seminar Filmkulturen der Peripherie zuwenden und auch versuchen, einen theoretischen Rahmen, etwa ausgehend von Jurij Lotmans kultursemiotischem Peripherie-Begriff, dafür zu entwickeln.

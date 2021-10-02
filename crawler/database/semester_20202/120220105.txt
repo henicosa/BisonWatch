@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Mind, Body, and Everything in Between: Implementing mindfulness in public performance _ Part 2
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48288&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 120220105
+Max. Teilnehmer/-innen :3 S: 8
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlmodul\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlmodul\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlmodul\r, <br/>,  , <br/>, MediaArchitecture, M.Sc. PO 2020\r, <br/>, Wahlmodul\r, <br/>, MediaArchitecture, M.Sc. PO 18\r, <br/>, Wahlmodul\r, <br/>,  , <br/>, Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 2020 2-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Wahlpflichtmodul
+Erwartete Teilnehmer/-innen :3 S: 7
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.mindbodymodule.com&timestamp=1631058515101&hash=295de96f43f905e3b2d31b33e561b262
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: bis
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Martin Schmidt :3 S: Fakultät Architektur und Urbanistik,Milad Rezaei
+# Beschreibung
+Beschreibung :3 S: 

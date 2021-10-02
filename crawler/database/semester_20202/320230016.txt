@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Ware und Schein
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48186&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Wissenschaftliches Modul
+SWS :3 S: 3
+Veranstaltungsnummer :3 S: 320230016
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fenrol%2Findex.php%3Fid%3D26913&timestamp=1631059173431&hash=54321b74fb498535adf63b954d5c31be
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 17:00 bis 19:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Wöchentlich, BBB</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Alexander Schwinghammer :3 S: missing,Friedrich Sperling :3 S: missing,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: <strong>Lehrender: Friedrich Sperling, M.A.</strong>

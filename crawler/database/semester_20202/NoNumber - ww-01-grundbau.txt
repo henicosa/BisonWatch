@@ -1,0 +1,17 @@
+Veranstaltungstitel :3 S: WW 01 - Grundbau
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47685&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Kurs
+SWS :3 S: 1
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 60
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 20
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fwbbau&timestamp=1631059223817&hash=588ff3ee629635b1da1f1a83176f1768
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,keine öffentliche Person :3 S: Fakultät Bauingenieurwesen,keine öffentliche Person
+# Beschreibung

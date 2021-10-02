@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Atelierprojekt Radierung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50645&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 18
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 8
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fkunst-und-gestaltung&timestamp=1631110913631&hash=b27b902a334fb56fce6849f3d607b5e3
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: bis
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Peter Heckwolf :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Das Projekt dient dazu die eigene gestalterische Haltung weiter zu entwickeln und das Medium Grafik innovativ und zeitgemäß anzuwenden. , <br/>, Begleitet wird das Projekt durch Besuche von Graphischen Sammlungen und Ausstellungen., <br/>, Das Projekt ist eine Fortsetzungsveranstaltung aus dem SS 2021., <br/>, Voraussetzung für die Teilnahme ist der erfolgte Besuch des Fachkurses Radierung.

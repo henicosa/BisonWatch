@@ -1,0 +1,43 @@
+Veranstaltungstitel :3 S: Projekt Konstruktiver Ingenieurbau
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=46901&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 6
+Veranstaltungsnummer :3 S: 2204004
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de&timestamp=1631058660231&hash=d2c9497b9fcb3fa3820637d44059b884
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 07:30 bis 09:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Teil Stahlbau - Poolübung (Beginn wird in der Vorlesung bekannt gegeben)</p>,
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 07:30 bis 09:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Teil Stahlbau</p>,
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Teil Massivbau - digital/online</p>,
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Teil Stahlbau</p>,
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Teil Stahlbau - Poolübung (Beginn wird in der Vorlesung bekannt gegeben)</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Guido Morgenthal :3 S: Fakultät Bauingenieurwesen,Matthias Kraus :3 S: Fakultät Bauingenieurwesen,Hans-Georg Timmler :3 S: Fakultät Bauingenieurwesen,Christopher Taube :3 S: Fakultät Bauingenieurwesen,Silvio Mämpel :3 S: Fakultät Bauingenieurwesen,Alexander Stanic
+# Beschreibung
+Beschreibung :3 S: Die wesentlichen Schwerpunkte sind:

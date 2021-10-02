@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Begleitkurs „Einführung in die Medienökonomik“
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49665&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 418150013
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Online via Moodle</p>, <br/>, <p><a href=https://moodle.uni-weimar.de/enrol/index.php?id=32639>https://moodle.uni-weimar.de/enrol/index.php?id=32639</a></p>, <br/>, <p> </p>,
+# Personen
+Personen :3 S: Fakultät Medien,Björn Kuchinke
+# Beschreibung
+Beschreibung :3 S: Im Begleitkurs zur Vorlesung „Einführung in die Medienökonomik“ werden die zentralen Aspekte der Vorlesung aufgegriffen, vertiefend wiederholt und ausgeweitet. Im Fokus stehen dabei mikroökonomische Grundlagen, die grundlegende Bedeutung der Medienökonomik sowie die speziellere Themen wie Lock-In-Effekte, Standards, indirekte und direkte Netzeffekte. Den Studierenden wird die Möglichkeit gegeben, anhand konkreter Fallbeispiele dessen Anwendungsfelder nachzuvollziehen und darüber hinaus ein ökonomisches Verständnis für die Besonderheiten von Medienmärkten entwickeln zu können.

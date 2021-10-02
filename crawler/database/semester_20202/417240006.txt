@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Begleitkurs BWL: Einführung in das Medienmanagement
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47824&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 417240006
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Weimar Halle, Kleiner Saal</p>, <br/>, <p>Zugang über die Nordseite (Bauhaus Museum) - Bitte der Beschilderung folgen.</p>,
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 10:00 bis 11:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Wiederholungsklausur</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Marcel Drescher
+# Beschreibung
+Beschreibung :3 S: Die Veranstaltung macht Studierende mit den Grundlagen des Medienmanagements vertraut. Anhand praktischer Beispiele soll ein grundlegender und breiter Überblick über Theorien und Modelle der Medienökonomie geboten werden. Auf diese Weise werden Kenntnisse vermittelt, die ein Verständnis sowohl von Medienmärkten als auch von Unternehmen im Mediensektor ermöglichen.

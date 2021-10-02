@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Doktorhut
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47076&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Informationsveranstaltung
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fde%2Funiversitaet%2Fforschung-und-kunst%2Fwissenschaftlicher-nachwuchs%2Fbauhaus-research-school%2Fveranstaltungen%2Fdoktorhut%2F&timestamp=1631058060073&hash=a046a9bb15505d9a33b74ddbb7044856
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: missing
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 10:00 bis 14:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultätsübergreifende Einrichtungen,Ute Mai :3 S: Fakultätsübergreifende Einrichtungen,Marion Hensel :3 S: Fakultätsübergreifende Einrichtungen,Franziska Matthes
+# Beschreibung
+Beschreibung :3 S: Der Doktorhut ist eine halbjährliche Informationsveranstaltung. Sie richtet sich vor allem an Studierende, die eine Promotion in Erwägung ziehen. Wir informieren über Wege in die wissenschaftliche Tätigkeit, Voraussetzungen und Aussichten, die Promotionsprogramme unserer Universität und Finanzierungsmöglichkeiten. Im Wintersemester werden außerdem regelmäßig die aktuellen Stipendienausschreibungen an der Bauhaus-Universität Weimar vorgestellt. Mit dem Doktorhut wollen wir Studierende ermutigen, nach ihrem Studium den Schritt in die Wissenschaft zu gehen.

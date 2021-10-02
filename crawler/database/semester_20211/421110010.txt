@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Projekt (VR) CreatIVE
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50041&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 10
+Veranstaltungsnummer :3 S: 421110010
+Max. Teilnehmer/-innen :3 S: 3
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Findex.php%3Fid%3D60483&timestamp=1631115878814&hash=d0550b9f9b6b639e552662041c596d42
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Personen
+Personen :3 S: Fakultät Medien,Bernd Fröhlich :3 S: Fakultät Medien,Ephraim Schott :3 S: Fakultät Medien,André Kunert :3 S: Fakultät Kunst und Gestaltung,Alexander Kulik :3 S: Fakultät Medien,Sebastian Stickert
+# Beschreibung
+Beschreibung :3 S: Die Erstellung digitaler 3D-Inhalte bewegt sich langsam von Desktop-Arbeitsplätzen zu immersiveren Umgebungen, in denen Benutzer ihre erlebte Welt, einschließlich interaktiver Verhaltensweisen, verändern können. Eine zunehmende Anzahl von Modellierungsanwendungen baut auf den Potenzialen der virtuellen Realität (VR) auf, aber Standards müssen sich erst noch herausbilden. Die 3D-Eingabegesten sind zwar ausdrucksstärker, aber die Benutzer müssen im Vergleich zu Desktop-Oberflächen an Präzision und vielleicht sogar an Komfort einbüßen. Dies erfordert andere Ansätze bei der Erstellung und Verwaltung von Inhalten, z. B. intelligente Korrekturen der ungefähren Platzierung von Inhalten oder die Anwendung verschiedener Stile auf in Bezug stehende geometrische Strukturen.

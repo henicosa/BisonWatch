@@ -1,0 +1,33 @@
+Veranstaltungstitel :3 S: Globalisation of the built environment: geographies and histories
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49740&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 121124003
+Max. Teilnehmer/-innen :3 S: 16
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Theorie\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Theorie\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Theorie\r, <br/>,  , <br/>, European Urban Studies, M.Sc. PO 2020\r, <br/>, elective modules\r, <br/>, European Urban Studies, M.Sc. PO 18\r, <br/>, elective modules\r, <br/>,  , <br/>, Integrated Urban Development and Design, M.Sc. PO 2020\r, <br/>, elective modules\r, <br/>, Integrated Urban Development and Design, M.Sc. PO 18\r, <br/>, elective modules\r, <br/>,  , <br/>, MediaArchitecture, M.Sc. PO 2020\r, <br/>, Theoriemodul - Stadtsoziologie\r, <br/>, MediaArchitecture, M.Sc. PO 18\r, <br/>, Theoriemodul - Stadtsoziologie\r, <br/>,  , <br/>, Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 2020 2-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 17 2-semestrig\r, <br/>, Wahlpflichtmodul
+Erwartete Teilnehmer/-innen :3 S: 16
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 11:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 11:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 11:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N. :3 S: Fakultät Architektur und Urbanistik,Elodie Vittu
+# Beschreibung
+Beschreibung :3 S: This seminar combines approaches from different historical and social sciences in order to investigate the global complexity of the built environment. With four groups of students, each guided by one of the researchers from the Leibniz Institute for Research on Society and Space we would like to work on four regional foci, using a range of research methods. Instead of pursuing a fixed schedule we intend to explore various topics in a form of a research laboratory.

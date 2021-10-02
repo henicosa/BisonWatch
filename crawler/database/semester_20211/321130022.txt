@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: ASK\xa0ME\xa0ANYTHING\xa0- (Ringvorlesung)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49780&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Wissenschaftliches Modul
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 321130022
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 18:00 bis
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Findet nur online per Videokonferenz statt.</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Katharina Wendler :3 S: Fakultät Kunst und Gestaltung,Roman Liska :3 S: Fakultät Kunst und Gestaltung,Florian Schmidt :3 S: Fakultät Kunst und Gestaltung,Katrin Steiger :3 S: Fakultät Kunst und Gestaltung,Raul Walch :3 S: Fakultät Kunst und Gestaltung,Ina Weise :3 S: Fakultät Kunst und Gestaltung,Boris Buden :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Für die montägliche Ringvorlesung ASK ME ANYTHING werden von allen künstlerischen Mitarbeiter*innen der Freien Kunst im Sommersemester 2021 wöchentlich wechselnd Expert*innen aus der Kunstwelt eingeladen, um ihre Arbeit, , <br/>, ihren Werdegang und ihr Berufsfeld vorzustellen und sich im Anschluss den Fragen der Studierenden zu stellen.

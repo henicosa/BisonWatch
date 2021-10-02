@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Studie zum Umgang mit bewusst gestreuten Fehlinformationen zum Klimawandel
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50153&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 951005
+Max. Teilnehmer/-innen :3 S: 3
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Mark Jentsch
+# Beschreibung
+Beschreibung :3 S: Trotz des breiten wissenschaftlichen Konsenses darüber, dass ein globaler Klimawandel stattfindet und dieser eine Bedrohung für unsere Lebenswelt darstellt, bestreiten Teile der Öffentlichkeit dessen Existenz respektive den menschlichen Einfluss darauf. Diese medial oft als „Klimawandelleugner” betitelten Akteure nutzen unterschiedliche Argumente, um den menschengemachten Klimawandel entweder gänzlich in Abrede zu stellen oder zu verharmlosen und internationale Klimaschutzmaßnahmen wie das Pariser Klimaabkommen als unverhältnismäßig zu charakterisieren. Aus Sicht der Wissenschaft erlaubt die derzeitige Entwicklung der Erderwärmung jedoch keinen Aufschub des Handelns. Für die Definition und Durchsetzung von Klimaschutzmaßnahmen im politischen Aushandlungsprozess stellen die Angriffe der Klimawandelleugner damit eine Herausforderung dar, der es mit den Mitteln des demokratischen Diskurses zu begegnen gilt.

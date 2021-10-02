@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Kunstgeschichte - Vertiefungsmodul
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51310&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Wissenschaftliches Modul
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fkunst-und-gestaltung%2Fstruktur%2Flehrgebiete-personen%2Fwissenschaftliche-lehrgebiete%2Fdr-thomas-fuchs%2F&timestamp=1631111271387&hash=7a385c351d568eac40c7cd667d8f353a
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Falls kein vollständiger Präsenzunterricht möglich ist: nur online (moodle)</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Thomas Fuchs :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Das Vertiefungsmodul für Lehramtstudierende dient der gemeinsamen Vorbereitung des nötigen allgemeinen Überblicks über die Geschichte und Theorie der Kunst. Anhand von Beispielen aus verschiedenen Epochen wird das Grundgerüst vertieft. Dabei sollen offene Fragen beantwortet werden, grundlegende Methoden geübt und versucht werden das notwendige Verständnis der Kunstgeschichte zu vermitteln.

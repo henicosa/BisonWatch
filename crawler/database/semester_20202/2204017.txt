@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Wind Engineering (Exam)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48732&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Prüfung
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 2204017
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 15:00 bis 16:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p><strong>Final exam</strong></p>, <br/>, <p><span style=color: #ff0000;><strong>Change of location!</strong></span><br><br><strong>location: <span style=color: #ff0000;>Seminarraum 1+2 Weimarhalle, Unesco-Platz 1, <span style=color: #000000;><a href=https://www.weimarhalle.de/fuer-veranstalter/tagungen-kongresse/seminargebaeude/ style=color: #000000;>https://www.weimarhalle.de/fuer-veranstalter/tagungen-kongresse/seminargebaeude/</a></span></span></strong></br></br></p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Guido Morgenthal :3 S: Fakultät Bauingenieurwesen,Igor Kavrakov :3 S: missing,Tajammal Abbas
+# Beschreibung
+Beschreibung :3 S: <span><span style=font-family: LTSyntax Bold; color: #000000; font-size: small;>Wind Risk Mitigation in Structural Engineering </span></span>

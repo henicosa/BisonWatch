@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Mind, Body, and Everything in Between_Part 2
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48062&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Übung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 120210102
+Max. Teilnehmer/-innen :3 S: 8
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Werkzeuge | Methoden\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Werkzeuge | Methoden\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Werkzeuge | Methoden\r, <br/>,  , <br/>, Urbanistik, B.Sc. PO 2020\r, <br/>, Wahlmodul\r, <br/>, Urbanistik, B.Sc. PO 14\r, <br/>, Wahlmodul
+Erwartete Teilnehmer/-innen :3 S: 7
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.mindbodymodule.com&timestamp=1631058518182&hash=06473e11973a9180bdcb1256e1abc658
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 15:30 bis 17:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 15:30 bis 17:30
+Terminrhythmus :3 S: gerade Wo
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Milad Rezaei :3 S: Fakultät Architektur und Urbanistik,Martin Schmidt
+# Beschreibung
+Beschreibung :3 S: Lecturer:

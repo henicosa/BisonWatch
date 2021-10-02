@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Vorlesung Fundamentals 1: Einführung in  die Geschichte und Theorie des Design
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51433&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 60
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fkunst-und-gestaltung%2Fprofessuren%2Ftheorie-und-geschichte-des-design%2F&timestamp=1631112675790&hash=6b2a31301801ce285b329f0ca1bbf9b0
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Jan Willmann :3 S: Fakultät Kunst und Gestaltung,Michael Braun :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Die Lehrveranstaltung Fundamentals 1 zielt auf die Einführung in die Geschichte und Theorie des Design. Hierzu vermittelt die Vorlesung einen grundlegenden Überblick über zentrale gestalterische Positionen ab dem 18. Jahrhundert bis hin zum Zweiten Weltkrieg. Ziel ist es, ein Verständnis für Gestaltung als interkulturelles Wissens- und Handlungsfeld aufzubauen, welches unterschiedliche ästhetische, politische, wissenschaftliche, wirtschaftliche und technische Bezüge integriert und zugänglich macht. Die Lehrveranstaltung versteht sich daher als Grundlagenvorlesung und richtet sich an alle Fakultäten, Fachsemester und -bereiche. Sie ist in jeweils unterschiedliche Themenblöcke untergliedert und wird wöchentlich angeboten. Die Vorlesungen werden zudem digital dokumentiert und stehen auf Moodle zur Verfügung. Alle eingeschriebenen Studierenden erhalten vorab alle Details zum weiteren Ablauf.

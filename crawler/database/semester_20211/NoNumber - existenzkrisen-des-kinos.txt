@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Existenzkrisen des Kinos
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49583&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: MA-Projektmodul „Filmkulturen - Extended Cinema“
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fmartin.siegler%40uni-weimar.de&timestamp=1631115445209&hash=755687b6dabce25e5cf74125a295aa18
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Online via Moodle</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Martin Siegler
+# Beschreibung
+Beschreibung :3 S: Leere Säle und weiße Leinwände: Nicht erst seit den Kinoschließungen im Lockdown ist allerorten von einer Existenzkrise des Kinos die Rede. Vielmehr lässt sich die Kinogeschichte insgesamt als Krisengeschichte schreiben: Seit seinen Anfängen ist das Kino immer wieder fundamentalen Erschütterungen ausgesetzt, die seine Identität und Hegemonie in Frage stellen: Von der Etablierung des Tonfilms, über die Konkurrenz zu Fernsehen und Home Video, bis zur digitalen Wende und zur Gefährdung des analogen Filmerbes. „Kino“ erscheint hier nicht länger als unumstößliche Institution, sondern als instabile und lose Kopplung von Elementen, die immer wieder neu arrangiert und stabilisiert werden müssen, um ihren Fortbestand zu sichern. Ausgehend von solchen Krisenmomenten und -diskursen wollen wir im Kurs die prekäre Existenzweise des Kinos erforschen und an konkreten Filmbeispielen diskutieren: Wie überlebt das Kino seine unzähligen Todeserklärungen? Werden Superheldenfilme das Kino retten? Oder ist das Kino längst über sich hinausgewachsen? Ob der Kurs digital oder in Präsenz stattfindet, wird rechtzeitig bekanntgegeben. Bitte melden Sie sich auf jeden Fall vorher für den Moodle-Kurs an.

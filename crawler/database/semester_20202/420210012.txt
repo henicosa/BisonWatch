@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: How to Track Eyes Online (Fast)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47640&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 10
+Veranstaltungsnummer :3 S: 420210012
+Max. Teilnehmer/-innen :3 S: 8
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fusability&timestamp=1631058308829&hash=d0ea085e3a6f6475b65686cbf66d5222
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Personen
+Personen :3 S: Fakultät Medien,Jan Ehlers
+# Beschreibung
+Beschreibung :3 S: Physiological data (like brain waves, skin conductance changes, pupil dynamics or heart rate variabilities) can be applied to determine user-states and enable computer systems to dynamically adapt to changes in cognitive or affective processing. Usually, controlled laboratory experiments are carried out to investigate basic mechanisms of bodily activations and to specify connections between physiologic arousal and cognitive processing. However, hygiene regulations and social distancing currently make it difficult to collect such data in the usual way. This gives rise to the question of how recent advances in webcam technology can be applied to conduct eye-tracking studies or to remotely collect other types of physiological data like changes in facial blood flow. The current project aims to evaluate state-of-the-art webcams during remote psychophysiological testing. We will review the current literature, discuss experimental designs and carry out an empirical study to determine the measurement accuracy of selected physiological variables during both cognitive and affective tasks.

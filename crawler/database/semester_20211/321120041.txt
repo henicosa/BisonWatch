@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Visualisierte Musik und Performance im 360-Grad Fulldome Medium – Teil 2
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49977&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 16
+Veranstaltungsnummer :3 S: 321120041
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 12
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: gerade Wo
+Bemerkung :3 S: , <p>Online Meeting</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Micky Remann :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Die Veranstaltung baut auf dem Projekt im Wintersemester auf, aber motivierte Neueinsteiger sind ebenfalls willkommen. , <br>Thema des Projekts ist die Konzipierung von Klang-, Musik- und Performance-Elementen für den 360-Grad-Raum. Untersucht wird die Frage, wie sich musikalisch und visuell illustrierte Performances in eine den Besonderheiten des Fulldome-Theaters angemessene Dramaturgie einbinden lassen.<br/>In Tutorials und praktischen Übungen werden den Projektteilnehmern Grundkenntnisse der digitalen Fulldome-Produktion, Spatial Sound-Gestaltung und 360-Grad Medienkunst vermittelt .<br/>Das junge Genre des Fulldome Theaters, bzw. des immersiven Musiktheaters, entstanden im Kontext des klassischen Planetariums, hat sich im Wechselspiel neuer technologischer und ästhetischer Bezugspunkten rasant entwickelt. Da diese Entwicklung längst nicht abgeschlossen ist, öffnen sich experimentelle Räume, die von Studierenden und freien Künstlern gemeinsam erkundet werden.<br/>Die in der Honorarprofessur Immersive Medien in den Vorjahren gesammelten Erfahrungen mit digitaler Fulldomeprojektion, Musikvisualisierung und performativem Fulldome-Theater im 360-Grad-Raum werden mit neuen Aufgaben erweitert und fortgesetzt.<br/>Dieses Projektseminar ist als Hybridveranstaltung geplant, in Form von Online-Meetings und Exkursionen zum Zeiss-Planetarium Jena, um professionelle Fulldome-Filme, aber auch die eigenen Arbeiten ansehen und evaluieren zu können. Termine nach Verfügbarkeit.<br/>Es besteht die Möglichkeit, dass Teile der entstehenden Arbeiten im Rahmen des FullDome Festivals im Zeiss-Planetarium Jena aufgeführt, bzw. als Wettbewerbsbeitrag eingereicht werden.</br>

@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Lesen urbaner Strukturen – Straßen und lineare öffentliche Räume
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49839&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 121121202
+Max. Teilnehmer/-innen :3 S: 16
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>,  , <br/>, Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 2020 2-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 17 2-semestrig\r, <br/>, Wahlpflichtmodul
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: bis
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Abgabe/ Präsentation</p>,
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Stefan Signer :3 S: Fakultät Architektur und Urbanistik,Pola Koch
+# Beschreibung
+Beschreibung :3 S: Straßen, Gassen, Promenaden und Boulevards bilden zusammen die Gruppe der linearen öffentlichen Räume. Da ihr Anteil an den öffentlichen Räumen 80 bis 90 % beträgt, prägen sie die Erscheinung der Städte wie kaum eine andere Freiraumtypologie. Im Gegensatz zu Parkanlagen und Plätzen, die aufgrund ihrer räumlichen Begrenztheit und Bündelungsfunktion zumeist Sonderräme darstellen, bilden Straßen das grundlegende Gerüst einer Stadt. Neben den generellen Eigenschaften von Straßen, Orte miteinander zu verbinden und den Transport von Menschen und Gütern zu gewährleisten, dienen sie vor allem dem Wohnen, dem Handel und der Arbeit. Aus diesem Grund beeinflussen sie die kulturelle, soziale, ökonomische und zunehmend auch ökologische Beschaffenheit von Städten und sind kontinuierlichen Veränderungsprozessen unterworfen.

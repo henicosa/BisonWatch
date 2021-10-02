@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Nachhaltigkeit als Formproblem
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49690&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 121123001
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Projektmodul - Entwurf\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Projektmodul - Entwurf\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Projektmodul - Entwurf
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Jasper Cepl
+# Beschreibung
+Beschreibung :3 S: Ausgehend von der gleichnamigen Theorie-Vorlesung im Wintersemester 2020/21 bietet das Projekt allen, die sich weiter mit den aufgeworfenen Fragen beschäftigen möchten, einen Rahmen, dies zu tun — und zwar entweder im Rahmen eigener Forschungen oder durch entwurfliche Experimente oder auch im Rahmen eines konkreten Projekts., <br>Mit anderen Worten: Das Thema ist gesetzt, aber darüberhinaus haben Sie alle Freiheit, sich mit dem zu befassen, was Sie umtreibt. <br>Sie können sich in ein Thema vertiefen, ein neues erkunden, entwurfliche Einzelfragen bearbeiten (etwa durch Studien zur Fassadengestaltung oder zum Thema Typologie) oder auch den Entwurf eines konkreten Gebäudes in Angriff nehmen.</br></br>

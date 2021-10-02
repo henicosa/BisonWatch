@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Academic Skills
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=46969&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Übung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 118223501
+Max. Teilnehmer/-innen :3 S: 18
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Intergrated Urban Development and Design, M.Sc. PO 2020\r, <br/>, Research Methods and Professional Communication\r, <br/>, Intergrated Urban Development and Design, M.Sc. PO 18\r, <br/>, Research Methods and Professional Communication
+Erwartete Teilnehmer/-innen :3 S: 18
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Julia von Mende
+# Beschreibung
+Beschreibung :3 S: At the beginning we will deal with the process of production of scientific knowledge as such considering basic ‘rules’ of scientific work. As learning by doing is usually a successful way which makes us experiencing the specific demands of a research process you will work in the course in small teams defining and planning your own research project. Starting the practical work we will first deal with different sources of information, how to decode and evaluate them as wells as how to quote and organize them properly in scientific working and writing. Now having an idea how and where to gather information you will define your own research question and develop a research concept step by step going from a proper wording of the research question to the selection of fitting research methods, time planning and documentation.

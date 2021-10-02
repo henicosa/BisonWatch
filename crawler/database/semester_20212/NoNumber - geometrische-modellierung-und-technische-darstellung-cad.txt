@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Geometrische Modellierung und technische Darstellung - CAD
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50974&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Übung
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fiib%2Flehre%2Fgeometrische-modellierung-und-technische-darstellung%2F&timestamp=1631111159804&hash=1dcc503a5409098be50757f9a898c16e
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Bauingenieurwesen - Seminargruppe A-online/digital</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Kristina Doycheva :3 S: Fakultät Bauingenieurwesen,Reinhard Illge :3 S: Fakultät Bauingenieurwesen,Daniel Luckey :3 S: Fakultät Bauingenieurwesen,Benjamin Burse :3 S: Fakultät Bauingenieurwesen,Jens-Uwe Wagner
+# Beschreibung
+Beschreibung :3 S: Eine von 2 Übungen (Übung 1: Darstellende Geometrie)  zur Vorlesung Geometrische Modellierung und technische Darstellung des gleichnamigen Moduls!

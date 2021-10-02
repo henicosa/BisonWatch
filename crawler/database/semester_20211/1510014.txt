@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: 5. Kernmodul: Gröninger Hof - Eine entwurfliche Begleitforschung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49676&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Entwurf
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 1510014
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, 5. Kernmodul - Individuelle Vertiefung\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, 5. Kernmodul - Individuelle Vertiefung\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, 5. Kernmodul
+Erwartete Teilnehmer/-innen :3 S: 12
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Farchitektur-und-urbanistik%2Fprofessuren%2Fwohnungsbau%2Flehre%2F&timestamp=1631115099404&hash=edb14c9c0bf49e86a210a37eb1255cbe
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:00 bis 17:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Hanna Schlösser :3 S: Fakultät Architektur und Urbanistik,Verena von Beckerath :3 S: Fakultät Architektur und Urbanistik,Till Hoffmann
+# Beschreibung
+Beschreibung :3 S: Welche Grundrisse und Raumkonfigurationen müssen gedacht werden, um in einem ehemaligen Parkhaus in der Hamburger Innenstadt, das eine Genossenschaft im Erbbaurecht entwickelt, eine gesunde und ökologische Lebensweise zu ermöglichen?

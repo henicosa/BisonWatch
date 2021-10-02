@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Planungsprojekt: Wer, wie wohnen möchte! Wohnwünsche 2040 Thüringen.
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48114&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 120222804
+Max. Teilnehmer/-innen :3 S: 5
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Bachelorvorleistungen - Projekte\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Bachelorvorleistungen - Projekte
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2Fwww.uni-weimar.de%2Fde%2Farchitektur%2Fprofessur%2Fstadtforschung&timestamp=1631058609539&hash=cc5d97a43ca6bc187a7fa4af1be74d32
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:00 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Abschlusspräsentation digital</p>,
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Frank Eckardt
+# Beschreibung
+Beschreibung :3 S: Eine Untersuchung der sich verändernden Wohnbedürfnisse und Wohnwünsche in Thüringen. Seit Jahre wird die Bevölkerung Thüringens älter, weniger und bunter, trotzdem die Wanderungersbilanzen der jüngsten Vergangenheit ausgeglichen bzw. ins Positive gehen. Neben der Abwanderung insbesondere junger Erwachsener aus Thüringen werden gleichzeitig Zuzüge als auch Rückkehrer nach Thüringen verzeichnet. Die Alterung und Schrumpfung der Thüringen Bevölkerung wird sich gemäß den Bevölkerungsvorausberechnungen des statistischen Landesamtes (TLS) jedoch noch einige Jahre fortsetzen. Gleichzeitig ist Thüringen in Deutschland das Bundesland mit den niedrigsten Durchschnittsmieten und einer hohen Eigentümerquote. Abgesehen von den Städten Jena, Weimar und Erfurt ist der Wohnungsmarkt relativ entspannt. Insbesondere in den Räumen mit besonderen Entwicklungsaufgaben (gem. LEP), den i.d.R. peripher gelegenen strukturschwachen Regionen, gibt es hohe Leerstandsquoten. Insbesondere aufgrund der nationalen und globalen demografischen, gesellschaftlichen, sozialen und wirtschaftlichen Veränderungen und Entwicklungen haben sich die Wohnbedürfnisse und Wohnwünsche in den letzten Jahrzehnten verändert. Haushaltsgrößen und -formen haben sich gewandelt. Während es auf nationaler Ebene und insbesondere für urbanere Räume und die institutionalisiere Wohnungswirtschaft einzelne Untersuchungen gibt, fehlt bislang eine konkretere Untersuchung dieser Bedürfnisse, Wünsche aber auch Tendenzen für das ländlich geprägte Flächenland Thüringen, der Mieter als auch Eigenheim- bzw. Wohnungsbesitzer. Treffen auch in Thüringen die bundesweiten Trends: kleiner, flexibler, gemeinschaftlicher zu? Welche Wohnwünsche hat die Jugend, haben jungen Erwachsenen in Erfurt, Altenburg, Pößneck oder Kirchheilingen? Welche Wohnformen stellen sie sich für Ihre Zukunft vor? Wie möchten die älteren Generationen, die „jungen Alten” aber auch die Hochbetagten zukünftig wohnen? Welche Wünsche haben Singlehaushalte oder Familien in den Städten und im Land? Welche Wohnangebote werden in Thüringen vermisst? Das Projekt soll dazu beitragen, diese Forschungslücke zu füllen. Anhand verschiedener Erhebungsmethoden sollen ausgewählte Bevölkerungsgruppen in unterschiedlichen Lebensphasen, Lebenslagen und räumlichen Gegebenheiten nach Ihren Wohnwünschen und Bedürfnissen befragt werden. Die Ergebnisse des Projektes sollen multimedial (Text, Bild, Video) dokumentiert und aufbereiteten werden und in eine Ausstellung der Stiftung Baukultur Thüringen zur „Zukunft des Wohnens” im Jahr 2021 einfließen. Über das Projekt „Plattform Wohndebatte” der Stiftung Baukultur Thüringen und die daran eingebundenen Wohnbauräte des Landes Thüringen (Vertreterinnen und Vertreter der Architektenkammer Thüringer, des Bauindustrieverbandes Hessen-Thüringen, der Ingenieurkammer Thüringen, LEG Thüringen, STIFT, Thüringer Aufbaubank (TAB) und des Verbandes der Thüringer Wohnungswirtschaft (vtw) können Kontakte und Gesprächspartner vermittelt werden.

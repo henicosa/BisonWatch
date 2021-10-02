@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Masse, Menge, Mimesis
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49577&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 421150005
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Gesellschaft von unten
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Online via Moodle</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Michael Cuntz
+# Beschreibung
+Beschreibung :3 S: <span style=font-size: 12pt;>Man kann über Massenmedien reden, aber auch die Masse oder die Menge selbst lässt sich als Medium begreifen. Waren die ersten Jahre des 21. Jahrhunderts von großen Hoffnungen in die innovativen Potentiale von Massen und Mengen geprägt, ist die Euphorie mittlerweile einer gewissen Ernüchterung gewichen – die Aktualität der Auseinandersetzung mit der großen Zahl und ihren unkontrollierbaren oder kontrollierbaren Dynamiken aber ist geblieben. Anlass genug für eine neue Beschäftigung mit grundlegenden, klassischen und aktuelleren Texten – das Spektrum reicht etwa von LeBon, Freud und Tarde über Girard und Foucault zu Hardt/Negri und Rancière und darüber hinaus.</span>

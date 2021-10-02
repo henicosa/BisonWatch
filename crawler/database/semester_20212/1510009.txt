@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: 5. Kernmodul: Ein neuer Ort für Musik und Oper (Studio Mecklenburg-Vorpommern) II (Ba)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51352&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Entwurf
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 1510009
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, 5. Kernmodul - individuelle Vertiefung\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, 5. Kernmodul - individuelle Vertiefung\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, 5. Kernmodul
+Erwartete Teilnehmer/-innen :3 S: 12
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Farchitektur%2Fraumgestaltung%2F&timestamp=1631110860381&hash=c5aa89008b6aa4126a6d4ef843480684
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Jose Gutierrez :3 S: Fakultät Architektur und Urbanistik,Steve Liem :3 S: Fakultät Architektur und Urbanistik,Lorenz Kirchner :3 S: Fakultät Bauingenieurwesen,Juliane Steffen
+# Beschreibung
+Beschreibung :3 S: Auf dem Gelände eines alten Gutshofs in Mecklenburg-Vorpommern entsteht ein neuer Ort für Kultur. Die früheren Funktionsbauten sollen als Gefäße für eine neue Nutzung dienen, die das Proben und Aufführen von Musik und Oper ermöglichen., <br><br>Das Entwurfsprojekt wird in einem Studio durchgeführt, in dem Bachelor und Master-Studierende jeweils unterschiedliche Bestandsgebäude bearbeiten, die aber in einem Ensemble miteinander in Beziehung stehen. Der Entwurf basiert auf einer realen Bauaufgabe, die vom Büro BFM Architekten bearbeitet wird, so daß Experten für Statik, Akustik, Dramaturgie für Vorträge zur Verfügung stehen.<br><br>Das kontextuelle Arbeiten im Bauen im Bestand setzt eine genaue Kenntnis des Ortes und seiner Strukturen voraus. Grundlage für die Entwurfsarbeit ist eine Erforschung der Situation auf verschiedenen Maßstäben. Die relevanten Dimensionen (baulich, historisch, soziologisch, landschaftlich, etc.) sollen durch eine Bestandsaufnahme vor Ort erfasst und zeichnerisch kartiert werden.<br><br>Aspekte des regionalen und nachhaltigen Bauens sollen mit einer Fokussierung auf die Konstruktionsmethoden Lehmbau und Holzbau untersucht werden.</br></br></br></br></br></br>

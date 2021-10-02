@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Heißbemessung - Berechnungsbeispiele
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49063&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Integrierte Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 204027
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fenrol%2Findex.php%3Fid%3D30903&timestamp=1631115556844&hash=74724e3095f3e747510d653e7678d6e9
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: gerade Wo
+Bemerkung :3 S: , <p>Vorlesung</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: gerade Wo
+Bemerkung :3 S: , <p>Pooltermine werden in der Vorlesung bekanntgegeben</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Marcus Achenbach :3 S: Fakultät Bauingenieurwesen,Christopher Taube
+# Beschreibung
+Beschreibung :3 S: - Einführung in das mehrstufige Nachweiskonzept der Eurocodes

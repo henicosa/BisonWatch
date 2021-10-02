@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Type & Tools
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49328&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 18
+Veranstaltungsnummer :3 S: 321120025
+Max. Teilnehmer/-innen :3 S: 17
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 10:00 bis 16:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Stefanie Schwarz :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Schriftformen und Typografie sind seit jeher von Werkzeugen und Technologien geprägt. Was kann dies im Jahr 2021 bedeuten? Wir suchen nach neuen bzw. alternativen Werkzeugen, um Formen und eine Systematik für den weiteren Gestaltungsprozess zu generieren. Dabei entwickeln wir Schriftentwürfe und (typo)grafische Elemente, die in verschiedenen Medien (Plakate und Broschüren) eingebunden werden., <br>Das Projektmodul ist als online Veranstaltung geplant. Falls es die Corona-Situation erlaubt, können ggf. optional Konsultationen in kleineren Gruppen in Präsenz stattfinden.<br/>Konsultationen: dienstags, 14:00 –16.00 Uhr<br/>Das Projektmodul wird von einem Tutorium begleitet, das praktisch-technische Methoden für das Arbeiten mit Schrift und Typografie vermittelt, sowie Hilfestellung bei der Umsetzung der Projektarbeit bietet.<br/>Begleitendes Tutorium: mittwochs, 14.00 –16.00 Uhr<br/><br/> </br>

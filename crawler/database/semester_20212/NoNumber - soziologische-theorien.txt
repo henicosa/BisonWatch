@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Soziologische Theorien
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51193&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Studienmodul Soziologische Theorie
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Fmediensoziologie%2F&timestamp=1631112545532&hash=48fd46382abb3c77e01b27e3f7d853ee
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Diese Vorlesung findet online statt.</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Andreas Ziemann
+# Beschreibung
+Beschreibung :3 S: <span style=font-size: 10pt;>Die Vorlesung vermittelt Handlungs- und Gesellschaftstheorien in der Spannbreite von den soziologischen Klassikern (Weber, Simmel) bis zu wichtigen Gegenwartsautoren. Fokussiert wird dabei auf die jeweils zentrale Problemstellung und die leitenden Grundbegriffe. Ein systematischer Vergleichspunkt liegt in der jeweiligen Beschreibung (spät-)moderner Handlungslogiken, Kommunikationsformen und Gesellschaftsstrukturen.</span>

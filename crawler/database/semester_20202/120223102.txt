@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Material und Form I  –  Lakewatch Station
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=46883&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 120223102
+Max. Teilnehmer/-innen :3 S: 10
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Technik\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Technik\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Technik
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Jürgen Ruth :3 S: Fakultät Architektur und Urbanistik,Stephan Schütz :3 S: Fakultät Bauingenieurwesen,Larissa Daube :3 S: Fakultät Architektur und Urbanistik,Katrin Linne
+# Beschreibung
+Beschreibung :3 S: Der Umgang mit nachhaltigen Materialien, effizienten konstruktiven Strukturen und adaptiven Systemen ist von steigender Relevanz. Im Entwurfsseminar Material und Form I werden Vorlesungen und Stegreifentwürfe verknüpft, um theoretische und praktische Inhalte anhand realer Aufgabenstellungen zu vertiefen.

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: EASY CYCLER ... born to ride wild
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51469&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 121223101
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Projektmodul - Projekt\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Projektmodul - Projekt\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Projektmodul - Projekt
+Erwartete Teilnehmer/-innen :3 S: 12
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Jürgen Ruth :3 S: Fakultät Architektur und Urbanistik,Katharina Elert :3 S: Fakultät Architektur und Urbanistik,Katrin Linne
+# Beschreibung
+Beschreibung :3 S: Vor dem Hintergrund der Gefahren des Klimawandels und schlechter Luftqualität durch dichten Autoverkehr in den Städten erscheint insbesondere die stärkere Förderung der Fahrradnutzung als effektive Möglichkeit, diesen negativen Entwicklungen entgegenzuwirken. Dazu müsste allerdings durch Schaffung von eigenen Radwegen die Attraktivität dieser Form von Mobilität stark erhöht werden. Ein möglicher Lösungsansatz könnte z. B. ein durch erhöhte Lage kreuzungsfreies Netz mit geringen Steigungen sein. In Kombination mit einer geschickten Anbindung an ÖPNV-Haltestellen würde dies vermutlich viele dazu verleiten, auch längere Strecken mit dem Fahrrad schnell und ohne Gefährdung durch Autoverkehr zurückzulegen.

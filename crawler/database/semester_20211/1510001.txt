@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: 5. Kernmodul - WUNDERKAMMER 4.0
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49617&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Entwurf
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 1510001
+Max. Teilnehmer/-innen :3 S: 5
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, 5. Kernmodul - Individuelle Vertiefung\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, 5. Kernmodul - Individuelle Vertiefung\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, 5. Kernmodul
+Erwartete Teilnehmer/-innen :3 S: 5
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Abschlusspräsentation</p>,
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Luise Nerlich :3 S: Fakultät Architektur und Urbanistik,Bernd Rudolf
+# Beschreibung
+Beschreibung :3 S: Begleitseminare: Cinema4d / Prof. Andreas Kästner

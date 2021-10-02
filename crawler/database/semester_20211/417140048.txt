@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Innovationsmanagement und heterogene Regime des Neuen
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49607&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 417140048
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>digital über Moodle</p>, <br/>, <p><a href=https://moodle.uni-weimar.de/course/view.php?id=30712>https://moodle.uni-weimar.de/course/view.php?id=30712</a></p>, <br/>, <p> </p>,
+# Personen
+Personen :3 S: Fakultät Medien,Matthias Maier
+# Beschreibung
+Beschreibung :3 S: Die Veranstaltung setzt sich zunächst mit gesellschaftlichen Entwicklungen der Kulturalisierung des Ökonomischen und einer damit verbundenen Innovationspermanenz auseinander. Daran anschließend geht es um die Frage nach den besonderen Herausforderungen für das Innovationsmanagement durch das Zusammentreffen von heterogenen Regimen des Neuen. Dabei wird deutlich, wie Innovationen aus dem Bereich der Technologien mit Prozessen der Ästhetisierung und mit neuen sozialen und medialen Praktiken zusammentreffen. Während die technologischen Innovationsprozesse unter den Bedingungen der Zweckrationalität stehen, sind ästhetische Prozesse auf eigendynamische und zuweilen schwer kalkulierbare sinnliche Wahrnehmung und Affektivität gerichtet. Die technologischen und ästhetischen Momente sind wiederum eingebunden in heterogene Praktiken der Mediennutzung. Ziel der Veranstaltung ist es, unter Bezugnahme auf die heterogenen Regime des Neuen einen konzeptionellen Rahmen für das Innovationsmanagement zu erstellen und passende Organisations- und Managementkonzepte zu identifizieren.

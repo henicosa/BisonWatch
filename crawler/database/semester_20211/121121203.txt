@@ -1,0 +1,33 @@
+Veranstaltungstitel :3 S: Planungsprojekt: Unterm Asphalt der Campus
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49841&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 121121203
+Max. Teilnehmer/-innen :3 S: 5
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Bachelorvorleistungen - Projekte\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Bachelorvorleistungen - Projekte
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Abschlusspräsentation</p>,
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Abschlusspräsentation</p>,
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Steffen de Rudder :3 S: Fakultät Architektur und Urbanistik,Pola Koch :3 S: Fakultät Architektur und Urbanistik,Martina Maldaner Jacobi :3 S: Fakultät Architektur und Urbanistik,Stefan Signer
+# Beschreibung
+Beschreibung :3 S: Der Südcampus der Bauhaus-Universität ist 2015 komplett durchasphaltiert worden um Platz für Stellplätze zu schaffen. Es ist das perfekte Beispiel dafür, wie Städtebau im Zeichen der Klimakrise NICHT aussehen soll. Aufgabe im städtebaulichen Entwurf des Sommersemesters ist es, diesen Ort in sein Gegenteil zu verkehren: ein Musterbeispiel Fallbeispiel Modell Referenz für Dekarbonisierung, Entsiegelung und nachhaltiges Bauen. Nebenbei kann dabei ein Treffpunkt für die gesamte Universität enstehen, ein Campus, der den Namen verdient hat, ein gemeinschaftlicher Ort mit allen denkbaren Nutzungen und Qualitäten. Diskutiert wird dabei die Frage, welche Bilder nachhaltiges Bauen erzeugt, die das absolut Notwendige – die radikale Reduktion von CO2 –wünschenswert und begehrenswert erscheinen lassen.

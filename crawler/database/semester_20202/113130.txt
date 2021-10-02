@@ -1,0 +1,27 @@
+Veranstaltungstitel :3 S: Prüfung: GL der Bauwirtschaft
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49490&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Prüfung
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 113130
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:00 bis 10:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Sporthalle Falkenburg</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:00 bis 10:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Sprthalle Innenstadt-Sporthalle</p>,
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Bernd Nentwig :3 S: Zentrale Einrichtungen,Alexandra Pommer
+# Beschreibung

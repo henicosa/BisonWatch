@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Traffic Data and Simulation
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51508&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 5
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Uwe Plank-Wiedenbeck :3 S: Fakultät Bauingenieurwesen,Marco Fedior :3 S: Fakultät Bauingenieurwesen,Fabian Post :3 S: Fakultät Bauingenieurwesen,Oliver Singler :3 S: Fakultät Bauingenieurwesen,Julius Uhlmann
+# Beschreibung
+Beschreibung :3 S: The project consists of a seminar during the semester. The project provides practical information on traffic data acquisition, preparation, and processing and microscopic traffic simulation. Students work on a project including a term paper during the semester, which concludes with a presentation. , <br><br/>The participants work on a practical problem within the research project ”Bauhaus.Mobility Lab”.  <br/><br/>Using trajectories to calibrate microscopic traffic simulations is a promising field of research. In groups, the students receive and generate vehicle trajectory data. The own data will be generated via UAVs and traffic surveys at an intersection in Erfurt. The participants examine and process the trajectories using Machine Learning. Furthermore, they set up microscopic traffic models and investigate different calibration parameters for realistic driving behaviour simulation.</br>

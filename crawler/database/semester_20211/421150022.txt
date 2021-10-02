@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Künstlerisch-kuratorische Projektarbeit:  Horizonte – Konzeption und Realisation eines künstlerischen Projektes
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49561&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Werk-/Fachmodul
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 421150022
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Werkmodul
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.alexandersteig.de&timestamp=1631115663652&hash=14e6e8b3d2c776a5edf38492e47c6e3d
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: unger. Wo
+Bemerkung :3 S: , <p>Dieses Werkmodul findet wöchentlich statt - 1 Woche Präsenz, 1 Woche Online via Moodle</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Alexander Steig
+# Beschreibung
+Beschreibung :3 S: Man spricht vom Denk- und Wissenshorizont, kennt den nautischen, optischen, mathematischen, künstlichen Horizont; der natürliche oder landschaftliche Horizont nun definiert die Grenzen unseres Gesichtsfeldes oder -kreises, er „befindet“ sich dort, wo unsere Augen das scheinbare Zusammentreffen von Himmel und Erde bzw. Wasser als „Endlinie“ erkennen. Alles läuft auf ihn zu, verjüngt sich (nicht erst seit der Renaissance) zentralperspektivisch und doch definiert er kein Ende, bleibt quasi unerreichbar. , <br><br/>Der Topos wurde und wird literarisch, musikalisch und künstlerisch sinnbildlich für Sehnsüchte, für Utopien verwendet, sein inflationärer Gebrauch macht ihn „kitschanfällig“ – trotz der ihm a priori zustehenden Erhabenheit. Was reizt an der anhaltenden Auseinandersetzung mit der Tiefe des Raumes, warum betrachtet man die Weite zu Wasser und zu Land, will sie malerisch, fotografisch oder filmisch (bildwürdig) „einfangen“ bzw. festhalten und wiedergeben? Bietet der Horizont nach einer Zeit der pandemiebedingten erzwungenen Enge und des Rückzugs einen neuen „Fluchtpunkt“, kann er, obgleich er visuell eine Grenze zieht (Altgr. ὁρίζων = Grenze, Grenzstein), paradoxer Weise für Entgrenzung sorgen, den Blick der Zeit voraus ermöglichen? Schafft er trotz fehlender Fixpunkte Orientierung, Halt, Ruhe? <br/><br/>Das Blockseminar gibt Einblick in aktuelle künstlerische Verfahrensweisen, Strategien und Ansätze (künstlerisches Schaffen) wie auch ins Ausstellungswesen, den Kunstbetrieb (kuratorisches Handeln), ergänzt um den Seitenblick auf Marktmechanismen und -macht, um das komplexe interdependente und interdisziplinäre Feld zeitgenössischer Kunst näher kennen zu lernen. Das geschieht theoretisch und praxisnah: Die Studierenden entwickeln ein (diskursives) Projekt- bzw. Ausstellungsthema ausgehend vom Begriff des Horizontes wie auch seiner Konnotationen und eigene künstlerische Konzepte, realisieren also Arbeiten für eine abschließende Ausstellung zum „Summaery 21“ und durchlaufen dabei Prozesse künstlerischen und kuratorischen Arbeitens/Agierens und begleitender kommunikativer Vermittlungsstrategien.</br>

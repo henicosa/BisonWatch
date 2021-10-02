@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Städtebau
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47061&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 119221106
+Max. Teilnehmer/-innen :3 S: 80
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>,  , <br/>, Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Pflichtmodul - Planungs- und Gesellschaftswissenschaften\r, <br/>, Urbanistik, M.Sc. PO 2020 2-semestrig\r, <br/>, Pflichtmodul - Planungs- und Gesellschaftswissenschaften\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Pflichtmodul - Planungs- und Gesellschaftswissenschaften
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 17:00 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Steffen de Rudder :3 S: Fakultät Architektur und Urbanistik,Max Weisthoff :3 S: Fakultät Architektur und Urbanistik,Andreas Garkisch
+# Beschreibung
+Beschreibung :3 S: Die Vorlesungsreihe setzt sich intensiv mit den städtebaulichen und architektonischen Gestaltungsmöglichkeiten auseinander. Unbestritten hat Städtebau innerhalb des vielstimmigen Konzerts der an der Abstimmung zu Beteiligenden, aber auch der zu beachtenden Themen immer mehr an Bedeutung in der heutigen Stadtplanung verloren. Darüber können auch die fast verzweifelt anmutenden Abwehrkämpfe im Namen der Stadtbaukunst und der Europäischen Stadt nicht hinwegtäuschen. Städtebau wirkt wie eine verlorene Disziplin.

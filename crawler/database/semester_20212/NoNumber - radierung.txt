@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Radierung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50668&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 6
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 6
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 10:00 bis 16:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Peter Heckwolf :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Der Fachkurs dient dazu eine eigene gestalterische Haltung zu entwickeln., <br>Gefragt ist die eigene Handschrift, die sich aus dem Gebrauch der verschiedenen<br/>Werkzeuge und Techniken wie Ätzradierung, Kaltnadel, Weichgrundätzung<br/>und Aquatinta entwickeln soll. <br/>Der Fachkurs richtet sich an Studierende mit und ohne Vorkenntnisse.<br/>Bitte stellen Sie ihre Ideen bzw. ihre bisherige gestalterische Arbeit in der Projektwoche zu den Konsultationen vor.</br>

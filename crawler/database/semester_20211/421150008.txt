@@ -1,0 +1,33 @@
+Veranstaltungstitel :3 S: Minor Cinemas, Experimentelle und emanzipatorische Filmpraktiken
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49985&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 421150008
+Max. Teilnehmer/-innen :3 S: 30
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Subalterne Perspektiven
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Feuropaeische-medienkultur%2Fwillkommen%2F&timestamp=1631115774047&hash=4722122f3fd66e849d352b9e68e7010b
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Sa.
+Zeit :3 S: 10:00 bis 13:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Dieses Seminar findet online statt.</p>,
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: 10:00 bis 15:30
+Terminrhythmus :3 S: BlockWE
+Bemerkung :3 S: , <p>Dieses Seminar findet online statt.</p>,
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: 10:00 bis 15:30
+Terminrhythmus :3 S: BlockWE
+Bemerkung :3 S: , <p>Dieses Seminar findet online statt.</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Manuela Klaut
+# Beschreibung
+Beschreibung :3 S: In dem Seminar »Minor Cinemas« werden wir uns mit den Bildern der filmischen Bewegung der L.A. Rebellion, bzw. der Los Angeles School of Black Filmmakers eine innere Kartographie von Los Angeles erarbeiten. Der Begriff »Minor Cinemas« als »kleines Kino« mag zunächst irreführend sein, doch gewinnt er in der Ablösung von den gewohnten Filmbildern Hollywoods an Positivität – welche Details, welche »kleinen« Veränderungen subversiver Stadtwahrnehmung im Kino/ im Film ermöglichen uns eine Erneuerung von Sichtweisen, die nicht nur ein verändertes visuelles Erleben nach sich ziehen, sondern an der Erfahrbarkeit politischer Umstände arbeiten, dem bisher Gesehenen entgegen stehen und – nicht nur im Vergleich – ein ungebundenes Kino schaffen, dass sich von diskursbestimmenden Kategorien löst und die Möglichkeit eröffnet, an neuen Begriffen dieser Bild- und Welträume mitzuarbeiten: , <br>»Indem Filmemacher wie Haile Gerima, Julie Dash, Larry Clark, Charles Burnett und Billy Woodberry ihre Kamera auf den heruntergekommenen Stadtteil Watts richten, schaffen sie zugleich ein Bewusstsein für die sozialen Missstände in einem hochgradig segregierten urbanen Raum, der nur ein Jahrzehnt zuvor, im August 1965, zum Schauplatz der Watts Rebellion geworden war. In ihren dichten Porträts eines umstrittenen und umkämpften urbanen Raums wird die Stadt zu einer Membran, welche die Risse und Wunden der Rebellion immer noch offen trägt. Sie zeigen einen verletzlichen urbanen Raum, in den sich die Krise auf deutliche Weise eingeschrieben hat. In diesem Zuge entwerfen die Filme der L.A. Rebellion zugleich eine subtile Kritik der Sichtbarkeit, oder präziser gefasst, eine Kritik der Dominanz des Visuellen, das gerade im Bereich des Stadtfilms von Beginn an zum zentralen Fokus jeglicher Stadtdarstellung wurde.« (Laura Frahm, »A Moment of Radical Thought«, Zum kritischen urbanen Kino der L.A. Rebellion) <br><br>Das Seminar wird an folgenden Terminen online stattfinden:<br/><br/>Samstag, 24. April, 10:00 – 13:30 Uhr<br/>Samstag, 15.Mai, 10:00 – 15:30 Uhr <br/>Sonntag, 16.Mai, 10:00 – 15:30 Uhr <br/>Samstag, 05.Juni, 10:00 – 15:30 Uhr<br/>Sonntag, 06.Juni, 10:00 – 15:30 Uhr</br></br></br>

@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Academic Self-presentation on the Web
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47664&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 10
+Veranstaltungsnummer :3 S: 420210006
+Max. Teilnehmer/-innen :3 S: 3
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Personen
+Personen :3 S: Fakultät Medien,Benno Stein :3 S: Fakultät Medien,Michael Völske :3 S: Fakultät Medien,Magdalena Wolska
+# Beschreibung
+Beschreibung :3 S: Personal web pages are the figurehead for academics worldwide to showcase their work to the scientific community at large. In this project we explore a large collection of academic web pages collected from web archives and university department sites. Using the contemporary data analysis toolbox, we will investigate questions concerning language use in such pages and how it changes over time, how bibliometric and scientometric indicators correlate with attributes of self-presentation, as well as issues of publication ethics and how they might be studied in the context of self-presentation.

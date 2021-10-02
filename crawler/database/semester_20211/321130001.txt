@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: ATELIERBESUCHE: Kunstlehrende*r sein | Künstler*in sein (FD1-Modul)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50007&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Wissenschaftliches Modul
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 321130001
+Max. Teilnehmer/-innen :3 S: 24
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 17:00 bis 19:00
+Terminrhythmus :3 S: unger. Wo
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Dominic Dives :3 S: Fakultät Kunst und Gestaltung,Friederike Meier-Menzel :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Wohnzimmerkonzerte, digitale Chortreffs und Livekonzerte in leeren Häusern sind an der Tagesordnung. Museen und Galerien werden zu stillen Orten. Die Kunst wird dadurch unsichtbar und manche*r Künstler*in muss neue Formen des Ausdrucks entdecken und erarbeiten., <br>Der BDK e.V. Fachverband für Kunstpädagogik, Landesverband Thüringen hat daher ein Konzept des Atelierbesuches (Studio Visit) für die Gruppe von Kunstlehrenden in Thüringen erarbeitet, die auch als Künstler*innen tätig sind. Dieses wird nun von Studierenden der Bauhaus-Universität umgesetzt. Ein zentrales Element des Seminars ist es, die Künstler*innen in ihren jeweiligen Doppelrollen zu portraitieren. Dazu können verschiedene Formen zeitbasierter Medien (Video-Interviews, Podcasts, Social-Media-Formate, Hybrid-Formate, etc.) Anwendung finden. Dabei stehen die pädagogische Profession der Einzelpersonen sowie deren künstlerisches Werk gleichermaßen im Fokus. Eine persönliche Auseinandersetzung ist also sowohl aus fachdidaktischer und gestalterischer Perspektive erwünscht. Die Entscheidungen über das mediale Format werden gemeinsam mit den Interviewpartner*innen getroffen. <br/>Die vorausgewählten Kunstlehrenden sind Personen, die schulischen Lehre mit dem „Künstler*in-Sein” verbinden. Die Besuche werden – unter entsprechender Rücksichtnahme auf die jeweils aktuellen Corona-Schutz-Verordnungen - im gleichnamigen Fachmodul vor- und nachbereitet. Dort erfolgt ebenfalls die Vermittlung grundlegender Fähigkeiten und Kenntnisse zum Umgang mit Kamera und Schnittsoftware.</br>

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Audiobaukasten 1
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49818&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Werk-/Fachmodul
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 321110030
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>BBB &amp; Moodle</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Eleftherios Krysalis :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Im Audiobaukasten 1 geht es um das Kennenlernen der Arbeit in einem professionellen Ton- und Radiostudio. Im Audiobaukasten 1 lernen wir die technischen Grundlagen eigener Radiosendungen. Von der Aufnahme und dem Schnitt bis zur Live-Sendung im Radio und dem Betrieb eines Radiostudios. , <br><br/>Während des Kurses werden wir uns darauf konzentrieren, wie man all das mit dem Einsatz von professionellem Equipment machen kann, aber auch wie man einen Radiosender von Zuhause einrichten und Audiobeiträge vom eigenen Zimmer aus produzieren kann.<br/><br/>Die Teilnahme am Audiobaukasten 1 qualifiziert zur selbstständigen Arbeit in den Studios des Experimentalradios und ermöglicht die Produktion eigener Audiobeiträge. <br/><br/>Die erfolgreiche Teilnahme am Kurs erfordert neben der eigenen künstlerischen Arbeit und der regelmäßigen Anwesenheit auch die Teilnahme an der 48-Stunden-Sendung von bauhausFM.</br>

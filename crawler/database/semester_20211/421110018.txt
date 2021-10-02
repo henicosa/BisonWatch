@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Weimar: Berechnen/Beschreiben ... Umrechnen/Umschreiben
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49606&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Plenum
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 421110018
+Max. Teilnehmer/-innen :3 S: 40
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Projektmodul Elementare Kulturtechniken
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Farchiv-und-literaturforschung%2Fwillkommen%2F&timestamp=1631116297591&hash=17fd115de4465cf6f4da37283ead8441
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 15:15 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Digital via Moodle</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Jörg Paulus
+# Beschreibung
+Beschreibung :3 S: <span style=font-size: 12pt;>In welchen Formen und Konstellationen bilden sich die allgemeine Geschichte und die kanonisierten Geschichten des Schreibens und Rechnens an einem bestimmten Ort ab? Dieser Frage geht das Plenum am Beispiel der Stadt Weimar nach, wobei der Stadtraum in seiner ganzen Vieldeutigkeit und Vieldimensionalität Berücksichtigung findet: zum Beispiel in der Permanenz und Flüchtigkeit von Straßen- und Gebäude-Beschriftungen, in den Schrift- und Rechnungs-Einfaltungen der Archive, in der praktischen Allgegenwart und gleichzeitigen Unzugänglichkeit von Rechenzentren. Mit anderen Worten: Wenn man sich ein Bild von der „Kulturstadt Weimar“ als einem Ort vielfältiger Schreib- und Rechenszenen zu machen versucht, dann wird man die Vielfalt der Schriftformen und Schreibweisen in Weimar ebenso wie die Vielfalt der „Rechenweisen“ und „Rechenformen“ zu bedenken haben, in die sich die Kalküle des barocken und die Schemata des klassischen Weimar ebenso eingetragen haben wie die Praktiken des Rechnens und Schreibens am Bauhaus, aber auch die menschenverachtende Mathematik des Lagers Buchenwald</span>

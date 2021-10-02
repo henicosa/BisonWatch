@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Freies Projekt - Wohnungsbau
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50162&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 118221501
+Max. Teilnehmer/-innen :3 S: 3
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Projektmodul - Projekt\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Projektmodul - Projekt\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Projektmodul - Projekt
+Erwartete Teilnehmer/-innen :3 S: 3
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Verena von Beckerath :3 S: Fakultät Architektur und Urbanistik,Till Hoffmann
+# Beschreibung
+Beschreibung :3 S: Studierende im M.Sc. Architektur können sich mit einem Exposé für die Bearbeitung eines freien Projekts an der Professur Entwerfen und Wohnungsbau bewerben. Die Erarbeitung der jeweiligen Aufgabenstellung erfolgt in enger Abstimmung mit der Professur.

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Spezialwasserbau
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51150&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Integrierte Vorlesung
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 204029
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fmessage%2Findex.php%3Fuser%3D2972%26id%3D21431&timestamp=1631116083721&hash=53e70a51beefb6951a8b252d7a66182a
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: bis
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Die Lehrveranstaltung findet extern an der BTU-Cottbus statt.</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Konrad Thürmer
+# Beschreibung
+Beschreibung :3 S: 

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Schizo-Medien
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47632&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: MA-Projektmodul: Mediale Welten 2
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Ftheorie-medialer-welten%2F&timestamp=1631058878445&hash=801c2bc1d07a63b0c0ff79005ebc96de
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Digital via Moodle</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Henning Schmidgen
+# Beschreibung
+Beschreibung :3 S: Die Arbeit von Félix Guattari entsteht und entwickelt sich im Kontext der „Institutionellen Psychotherapie“. Diese reformorientierte Richtung der Psychiatrie wurde im Frankreich der 1940er und 1950er Jahre definiert, u.a. durch François Tosquelles und Jean Oury. Der Gebrauch von Medien (Zeitung, Film, Tonband usw.) spielte dabei eine besondere Rolle – sowohl in der therapeutischen Praxis wie auch in der analytischen Theorie. Das Seminar untersucht diese Rolle der Medien anhand von ausgewählten Beispielen. Die Bereitschaft zum Umgang mit fremdsprachigen Quellen wird vorausgesetzt. Erste Sitzung am 6.11. Zur Vorbereitung: „La Borde, le droit à la folie“ (https://www.youtube.com/watch?v=iDh6mMTqORQ).

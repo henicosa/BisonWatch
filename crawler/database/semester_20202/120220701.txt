@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: KLANGKÖRPER
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48041&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 120220701
+Max. Teilnehmer/-innen :3 S: 24
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 18\r, <br/>, Projektmodul - Entwurf\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Projektmodul - Entwurf\r, <br/>, Architektur, M.Sc. PO 13\r, <br/>, Projektmodul - Entwurf\r, <br/>, Architektur, M.Sc. PO 11\r, <br/>, Projektmodul - Entwurf
+Erwartete Teilnehmer/-innen :3 S: 20
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Johannes Kühn :3 S: Fakultät Architektur und Urbanistik,Marlene Külz :3 S: Fakultät Architektur und Urbanistik,Marie-Theres Weiß :3 S: Fakultät Architektur und Urbanistik,Robert Ochsenfarth
+# Beschreibung
+Beschreibung :3 S: Im Zentrum von Weimar, auf dem Zeughof-Areal, östlich des geplanten Zubaus für das Haus der Demokratie, vis-à-vis des Palais und des Platzes mit dem Donndorf-Brunnen, soll ein Zentrum für experimentelle Klangkunst entstehen. Das Haus dient als Veranstaltungsort und Experimentierraum für experimentelle Musik und Medienkunst, und verschafft diesen Kunstrichtungen eine Bühne im kulturellen Zentrum der Stadt. Es gilt dabei neue Ausführungsformen zu suchen, da die Musik aus Lautsprechern kommt und keiner im klassischen Konzertsaal existierenden Bühne bedarf. Der Raum ist Produktionsstätte und Klangkörper gleichermaßen. Ergänzt wird das Raumprogramm durch Ausstellungsflächen, Studios und einen Ort zum Dialog.

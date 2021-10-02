@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Formen subalternen Wissens
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49749&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 421150007
+Max. Teilnehmer/-innen :3 S: 30
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: freies Studienmodul Subalterne Perspektiven
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Feuropaeische-medienkultur%2Fwillkommen%2F&timestamp=1631115474068&hash=db133a51c1857d3f6a6033889efe1cae
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Online Seminar via Moodle</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Eva Krivanec
+# Beschreibung
+Beschreibung :3 S: Aus der postkolonialen Theoriebildung und den vor allem in Großbritannien und Indien entwickelten subaltern studies seit den 1980er Jahren hat sich ein Teil der Auseinandersetzung zunehmend der Frage nach epistemischer Gewalt (G.C. Spivak) gewidmet, sowie nach der Hegemonie nördlicher Epistemologien, denen andere, südliche Epistemologien (B. de S. Santos) gegenübergestellt bzw. ergänzend daneben gestellt und sowohl in ihren Leistungen gewürdigt als auch in ihrer Andersartigkeit anerkannt werden sollen. Vor allem in historischer und soziologischer Perspektive wird auch zunehmend die Hybridität von Wissensformationen im kolonialen bzw. post-kolonialen Kontext, wie auch im Kontext der Migrationsgesellschaften untersucht., <br>Der Begriff subaltern hat sich aber auch außerhalb unmittelbar postkolonialer Fragestellungen zu einem wichtigen Überbegriff für aufgrund verschiedener Faktoren (race, class, gender, sexual orientation, ethnicity, religion, illness etc.) benachteiligte Gruppen entwickelt.<br/>In diesem Seminar wollen wir nun anhand klassischerer und neuerer Texte zum subalternen Wissen und zu verwandten Konzepten des minoritären Wissens (Butler, Deleuze/Guattari), situierten Wissens (Haraway), des epistemischen Ungehorsams (Mignolo) und vor allem auch anhand von Beispielen zu verschiedenen Spielarten des oral, traditional, tacit oder embodied knowlegde, zum Wissen ästhetischer und künstlerischer, handwerklicher und alltäglicher, körperlicher und virtueller Praktiken, den verschiedenen Formen subalternen Wissens nachgehen, also einem Wissen, das tendenziell von Unsichtbarmachung, Marginalisierung und Abwertung betroffen ist.</br>

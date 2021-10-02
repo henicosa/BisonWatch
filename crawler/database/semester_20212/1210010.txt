@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: 3. Planungsprojekt: Industrielandschaften. Identitätsstiftung, Erbe, Transformation
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51535&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 1210010
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Urbanistik, B.Sc. PO 2020\r, <br/>, Wahlpflichtprojekte\r, <br/>, Urbanistik, B.Sc. PO 14\r, <br/>, Wahlpflichtprojekte
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Farchitektur-und-urbanistik%2Fprofessuren%2Fdenkmalpflege-und-baugeschichte%2Flehre%2Fwinter-202122%2F&timestamp=1631110849573&hash=c92f84d8d95188d33f17331e2dd68fb1
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Hans-Rudolf Meier :3 S: Fakultät Architektur und Urbanistik,Kirsten Angermann :3 S: Fakultät Architektur und Urbanistik,Christine Dörner
+# Beschreibung
+Beschreibung :3 S: Im Zusammenhang mit der im März 2022 vom IfEU organisierten Winterschule der deutschen Stadtplanungsstudiengänge, die dem Thema „Die identitätsstiftende Region –Möglichkeiten und Grenzen regionaler Identitätsbildung“ gewidmet ist beschäftigen wir uns auch im Urbanist:innenprojekt mit räumlichen Identitätskonstruktionen im regionalen Maßstab. Unser Ansatz ist das Konzept der (historischen) Kulturlandschaft, verstanden als im geschichtlichen Wandel anthropogen veränderte Landschaft. In den Fokus nehmen wir dabei in unterschiedlicher Weise industriell geprägte Kulturlandschaften, beschreiben deren Prägungen und untersuchen, wie diese in der Region wahrgenommen und nach Außen dargestellt werden, d.h. welche Prägungen für das Selbstbild und die Außensicht dominant sind. Daran knüpft die Frage, welche Elemente der vormaligen industriellen Nutzung erhalten wurden oder auch zukünftig erhaltenswert sind, um diese Zeitschicht nachvollziehbar zu belassen.

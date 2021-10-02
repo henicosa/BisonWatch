@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Instrumente und Verfahren der Stadt- und Regionalplanung (Ma)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49119&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 119122902
+Max. Teilnehmer/-innen :3 S: 10
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Bachelorvorleistungen - Wahlpflichtmodule\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Bachelorvorleistungen - Wahlpflichtmodule
+Erwartete Teilnehmer/-innen :3 S: 5
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Steubenstr. 6f, Audimax</p>,
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Barbara Schönig
+# Beschreibung
+Beschreibung :3 S: Instrumente und Verfahren sind ein Schlüssel für die Erarbeitung, aber vor allem für die Umsetzung von Planungsvorstellungen in die baulich-räumliche Wirklichkeit der Kommune oder Region. In der Vorlesung wird ein Überblick über Instrumente und Verfahren der Stadt- und Regionalplanung sowie deren historische Entwicklung gegeben. Insbesondere werden politische und verwaltungsorganisatorische Aspekte von Planungsaufgaben umrissen. Es werden sowohl die formellen wie auch die informellen Instrumente und Verfahren vorgestellt und an konkreten Beispielen vertieft. Die Vorlesung weckt Sensibilität für direkte und indirekte Formen planerischen Handelns. Sie vermittelt ferner, wie unterschiedlich Instrumente und Verfahren der Stadt- und Regionalplanung formalisiert sind, wie sehr deren Verbindlichkeit variiert und wie unterschiedlich auch deren Zeithorizont sein kann.

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Begleitkurs „Regulierungs- und Datenökonomik“
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49669&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 419140042
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Online via Moodle</p>, <br/>, <p><a href=https://moodle.uni-weimar.de/enrol/index.php?id=31258>https://moodle.uni-weimar.de/enrol/index.php?id=31258</a></p>, <br/>, <p> </p>,
+# Personen
+Personen :3 S: Fakultät Medien,Thomas Schäfer
+# Beschreibung
+Beschreibung :3 S: In dem Begleitkurs werden die Inhalte der Vorlesung nochmal aufgegriffen und weiterführend diskutiert. Mit Hilfe der in der Vorlesung erlernten Theorien sollen regulatorische Fragestellungen in der Praxis untersucht werden. Anhand von Aufgaben wird Vorlesungsstoff vertieft und geübt. Die Studierenden werden somit zielführend auf die Klausur vorbereitet.

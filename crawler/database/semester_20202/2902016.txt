@@ -1,0 +1,52 @@
+Veranstaltungstitel :3 S: Bachelorprojekt
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=46829&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 3
+Veranstaltungsnummer :3 S: 2902016
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 13:30 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Zwishenpräsentation - Teilnahme Pflicht !</p>,
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 13:30 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Abschlusspräsentation - Teilnahme Pflicht !</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Startveranstaltung  --&gt; Teilnahme Pflicht!</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Hans-Joachim Bargstädt :3 S: Fakultät Bauingenieurwesen,Martina Mellenthin Filardo :3 S: Fakultät Bauingenieurwesen,Birgit Bode
+# Beschreibung

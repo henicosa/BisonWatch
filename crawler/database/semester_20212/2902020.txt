@@ -1,0 +1,27 @@
+Veranstaltungstitel :3 S: Financial Modelling
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50785&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 1
+Veranstaltungsnummer :3 S: 2902020
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fcms%2Fbauing%2Forganisation%2Fbwl-im-bauwesen%2Flehre%2Flehrveranstaltungen%2Ffinancial-modelling.html&timestamp=1631111127354&hash=d928093e14e2ad7ee8253ba51aab45cf
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 13:30 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Sa.
+Zeit :3 S: 08:30 bis 15:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: missing,Ansgar Bendiek :3 S: Fakultät Bauingenieurwesen,Andrea Lück
+# Beschreibung

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Sanitation Systems
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48036&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: B01-903006/02
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fbauingenieurwesen%2Fprofessuren%2Fsiedlungswasserwirtschaft%2F&timestamp=1631058873012&hash=10cda13c99970db56bed745a1cfee74f
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Jörg Londong
+# Beschreibung
+Beschreibung :3 S: <strong>1       Introduction</strong>,  , <br>The introduction will give an overview over the situation of sanitation world wide. The aim of this introduction is to show the importance of sanitation for hygiene and food security and point out necessary actions to be taken.  <br/><strong>2       Development of sanitation technologies since industrialisation end of 18<sup>th</sup> Century in England and Germany <br/></strong>Short historical excursus to the development of sanitation. Aim is, to present the lessons learned from the experiences with the technology developed in the industrialised countries over the last 100 years. It will give a short overview over the technologies, which we have today and will show, that many of these technologies and their application is not sufficient for the whole world.  <br/><strong>3       Paradigm resource utilisation</strong> <br/>The idea of making use of resources of wastewater will be presented. Potential resources like water, nutrients, humus, energy content will be named and explained. The general consequences for appropriate technologies will be derived from this paradigm. Boundary conditions like hygiene, food security, save re-use of resources from waste water in agriculture, maintainability, acceptance ... will be named. The concept of source separation will be introduced.<br/>4<strong>       Technical solutions in detail</strong> <br/>The first part will introduce general processes, which must be known to understand the following description of devices and modules. The second part will be a tool box, presenting devices and modules, which might be part of a sanitation system. The third part will give examples of systems, derived from the tool boxes content. The examples will show a broad variety of different boundary conditions and their link to technology.<br/><strong>5       Design parameters <br/></strong>To plan systems and to construct devices for sanitation some fundamental design parameters must be known. Hinds to identify those parameters will be given. Typical concentrations of different source separated waste streams (grey, black, brown or yellow water) will be presented as well as those of traditionally mixed sewage. The aim is to provide numbers for educated guessing of design parameters.  <br/><strong>6       Construction details<br/></strong>As the necessary functioning is depending on the proper construction of devices construction details will be presented.  <br/><strong>7       Management: Planning, implementation, operation<br/></strong>A sanitation system consists of the technical part, which was described before, and of its proper implementation and operation. The aim of chapter 7 is to highlight different non technical aspects and present options.    </br>

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Forecast Engineering
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48900&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul/Fachkurs
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 40
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fsummerschool%2Fde%2Fkurse%2Ftechnik-umwelt%2Fforecast-engineering%2F&timestamp=1631115473193&hash=27826f1764651a5f776c2088adcdb43f
+Sprache :3 S: englisch
+Fakultät :3 S: missing
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: bis
+Terminrhythmus :3 S: BlockWE
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Lars Abrahamczyk
+# Beschreibung
+Beschreibung :3 S: Die Planung von Ingenieurbauwerken erfolgt heute wie auch in der Vergangenheit auf der Grundlage von statischen Berechnungen, wobei mit Entwicklung der Bauweisen und neuen Nutzungsanforderungen die Betrachtung von Unsicherheiten in der Modellqualität an Bedeutung gewinnen. In Ergänzung zu den traditionellen kräftebasierten Ansätzen ermöglichen die Erfahrungen und Beobachtungen zum Verformungsverhalten von Bauteilen bzw. dem Gesamttragwerk unter unterschiedlichen Einwirkungsbedingungen die Einführung neuartiger Nachweis- bzw. Bewertungskriterien.

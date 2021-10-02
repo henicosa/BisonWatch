@@ -1,0 +1,43 @@
+Veranstaltungstitel :3 S: Special Project (Introduction)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=46984&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: NHM17-5000
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 80
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Digital via BBB</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>First meeting SP - EDAC</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>First meeting SP - EDAC</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Meetings SP - EDAC as per schedule in moodle</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Meeting SP - EDAC</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Silke Beinersdorf
+# Beschreibung
+Beschreibung :3 S: <strong>Introduction</strong>,  to Special projects in , <strong>LH 6, C9A</strong>

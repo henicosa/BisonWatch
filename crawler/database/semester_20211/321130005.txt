@@ -1,0 +1,22 @@
+Veranstaltungstitel :3 S: Blockseminar zum Thema „Kunst in Berlin“ - mit Exkursion in Berliner Museen
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50086&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Wissenschaftsmodul/Seminar
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 321130005
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: bis
+Terminrhythmus :3 S: Block
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Gesine Borcherdt :3 S: Fakultät Kunst und Gestaltung,Björn Dahlem :3 S: Fakultät Kunst und Gestaltung,Florian Schmidt :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung

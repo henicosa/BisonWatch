@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Projektplenum Kunst und sozialer Raum
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48100&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 18
+Veranstaltungsnummer :3 S: 320220013
+Max. Teilnehmer/-innen :3 S: 30
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 13:30 bis 20:30
+Terminrhythmus :3 S: unger. Wo
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Christine Hill :3 S: Fakultät Kunst und Gestaltung,Katrin Steiger :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: In der Lehre legt die Professur „Kunst & sozialer Raum” Wert auf das Experimentieren in verschiedensten Ausdrucksformen, welche zwischen Kunst, Alltag und Gesellschaft zu verorten sind. Ein Schwerpunkt liegt in der experimentellen, crossmedialen Recherche. Die Studierenden lernen über den Umgang mit Arbeitsmethoden und Werkzeugen, wie Archiven, Sammlungen, Notizbüchern, Musterkoffern, Mindmaps, Moodboards, etc. ihre Ideen zu sortieren und geordnet darzustellen, wobei nicht ausgeschlossen ist, dass die Darstellung der Recherche selbst zur individuellen, künstlerischen Ausdrucksform wird. Diesbezüglich wird permanent auf thematisch passende, zeitgenössische und historische Positionen in der Kunst verwiesen und diese zum Teil im Selbstversuch durch die Studierenden in individuellen oder Gruppenarbeiten erprobt. Das didaktisch reversible Unterrichts- und Studienkonzept der Professur erzwingt nicht unbedingt eine Verwertung von Ideen, Konzepten, Entwürfen sowie Gegenentwürfen — vielmehr wird selbstständiges Experiment, Versuchsanordnung, ergebnisoffenes Forschen und eine interdisziplinäre Ausbildung gefördert. Hilfestellung wird geleistet, wo sie beim autodidaktischen Lernen benötigt wird. Hierbei erscheint eine vorsichtige, individuelle Identitätsbildung und eine daraus folgende Stellungnahme der Studierenden sowie Lehrenden, in dem sich ständig verändernden gesellschaftlichen und technologischen Kontext unserer absoluten Gegenwart als, <br>unabdingbar.</br>

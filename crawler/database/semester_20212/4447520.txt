@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Einführung in die Volkswirtschaftslehre
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51161&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 4447520
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>digital via Moodle</p>, <br/>, <p> </p>, <br/>, <p> </p>,
+# Personen
+Personen :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N.
+# Beschreibung
+Beschreibung :3 S: In der Veranstaltung „Einführung in die Volkswirtschaftslehre“ erfolgt eine Einführung in die Bereiche Mikroökonomie, Makroökonomie und Wirtschaftspolitik. Ziel ist es, BA-Studierenden aus nicht ökonomischen Studiengängen einen breiten, ersten Einblick in die Volkswirtschaftslehre zu geben. Die Vorlesung verbindet hierbei Theorie (Mikroökonomie, Makroökonomie) und Anwendung (Wirtschaftspolitik). Damit sollen die Studierenden am Ende der Veranstaltung in der Lage sein, volkswirtschaftliche Fragestellungen, auch mit aktuellem Bezug, einordnen und beantworten zu können.

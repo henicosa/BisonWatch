@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Stadt- und Landschaftsökologie
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50835&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 117222604
+Max. Teilnehmer/-innen :3 S: 10
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Projektmodul - Begleitveranstaltung oder\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Projektmodul - Begleitveranstaltung oder\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Projektmodul - Begleitveranstaltung oder\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>,  , <br/>, Urbanistik, M.Sc. PO 2021\r, <br/>, Bachelorvorleistungen - Wahlplfichtmodule\r, <br/>, Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Bachelorvorleistungen - Wahlplfichtmodule\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Bachelorvorleistungen - Wahlplfichtmodule
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Sigrun Langner :3 S: Fakultät Architektur und Urbanistik,Pia Müller
+# Beschreibung
+Beschreibung :3 S: In der Vorlesung Stadtökologie wird ein Verständnis von urbanen Landschaften als komplexes System sozio-ökologischer Prozesse vermittelt. Zusammenhänge zwischen naturräumlichen Bedingungen und Urbanisierungsprozessen werden aufgezeigt. Diese Kenntnisse sind Voraussetzung, um ökosystemare Zusammenhänge in die Planung und Gestaltung einer nachhaltigen Stadtentwicklung einbinden zu können., <br> <br>Es werden Grundlagen zum Erkennen ökologischer Zusammenhänge in urbanen Räumen vermittelt (urbaner Wasserhaushalt, urbane Vegetation, Stadtböden, Stadtklima, urbane Biodiversität etc.) und anhand von Beispielen urbane Räume hinsichtlich ihrer naturräumlichen Grundlagen und deren Wechselwirkungen mit menschlichen Handeln entschichtet.<br> <br>Handlungsfelder eines ökosystemaren Entwerfens im urbanen Raum und einer resilienten Stadtentwicklung werden anhand von Beispielprojekten aufgedeckt und diskutiert (z.B. Hochwasserschutz und Siedlungsentwicklung, innerstädtische Brachflächenentwicklung, Klimaanpassungsstrategien im urbanen Raum)<br> <br>Programm:<br>- Einführung: Stadt und Landschaft<br>- Grundlagen I: Methode - Landschaften lesen<br>- Grundlage II: Ökologie der Stadt<br>- Grundlage III: ökosystemares Entwerfen<br>- Spezielle Themengebiete: Stadt und Wasser, Stadt und Klima, Stadt und Biodiversität</br></br></br></br></br></br></br></br></br></br></br>

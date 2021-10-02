@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Bachelor-Kolloquium Denkmalpflege und Baugeschichte
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47085&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Kolloquium
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 118110501
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Urbanistik, B.Sc. PO 14\r, <br/>, Pflichtmodul Planung in Forschung und Praxis
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Hans-Rudolf Meier
+# Beschreibung
+Beschreibung :3 S: Das Bachelor-Kolloquium wird begleitend zur Bachelor-Thesis durchgeführt. Das Kolloquium dient der intensiven Auseinandersetzung mit der eigenen Thesis, in dem der Arbeitsstand vor den Betreuern der Thesis und weiteren Studierenden, die an der Bachelor-Thesis schreiben, präsentiert und diskutiert wird. Hierbei geht es um die Reflexion der eigenen und der Arbeit der Kommilitonen

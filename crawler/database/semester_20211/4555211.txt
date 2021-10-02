@@ -1,0 +1,38 @@
+Veranstaltungstitel :3 S: Algorithmen und Datenstrukturen
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49041&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 4555211
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Vorlesung / Lecture (online)</p>, <br/>, <p><a href=https://moodle.uni-weimar.de/course/view.php?id=31390>https://moodle.uni-weimar.de/course/view.php?id=31390</a></p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 10:00 bis 12:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Prüfung / exam</p>, <br/>, <p>Falkenburg / Innensporthalle</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Übung / Exercise (online)</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Übung / Exercise (online)</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Charles Wüthrich :3 S: Fakultät Medien,Francesco Andreussi :3 S: Fakultät Medien,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Das Lernziel dieser Veranstaltung soll zum einen der generelle Umgang und die selbstständige Entwicklung, Analyse, und Optimierung von Algorithmen und Datenstrukturen sein. Zum anderen soll ein Überblick über gängige problemspezifische Verfahren und deren Anwendung in der Praxis vermittelt werden.

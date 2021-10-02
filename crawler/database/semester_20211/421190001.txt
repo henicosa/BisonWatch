@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Exp. - Questions of Perception in Art and Science
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50025&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Blockveranstaltung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 421190001
+Max. Teilnehmer/-innen :3 S: 16
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.yutakamakino.com%2F&timestamp=1631115453808&hash=5defda9d07d79b6009562d7c4a078f3f
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: BlockSat.
+Bemerkung :3 S: , <p>Digital via Moodle</p>, <br/>, <p>Erster Termin: Freitag, 23.04.2021</p>,
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: BlockSat.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Henning Schmidgen :3 S: Fakultät Medien,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Exp. - Questions of Perception in Art and Science

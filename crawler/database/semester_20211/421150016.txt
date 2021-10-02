@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: „Maker Movement und Innovation“
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49642&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 421150016
+Max. Teilnehmer/-innen :3 S: 30
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Online via Moodle</p>, <br/>, <p><a href=https://moodle.uni-weimar.de/course/view.php?id=31025>https://moodle.uni-weimar.de/course/view.php?id=31025</a></p>, <br/>, <p> </p>,
+# Personen
+Personen :3 S: Fakultät Medien,Marcel Drescher
+# Beschreibung
+Beschreibung :3 S: Seit Beginn des 21. Jahrhunderts zieht eine Kultur des „Selbermachens” und „Mitmachens” immer mehr Aufmerksamkeit auf sich: Das Maker Movement. Deren Anhängerinnen und Anhänger – sogenannte Maker - nutzen neuste Technologien, das Web 2.0 und offene Werkstätten, um Projektideen intrinsisch motiviert und mit Unterstützung der Maker-Community umzusetzen. Grundlegend geht es darum, unter Einsatz von aktueller Fertigungstechnik Probleme zu lösen bzw. selbst Produkte zu entwickeln und zu fertigen. Verwurzelt ist die Maker Bewegung im Arts and Crafts Movement des späten 19. Jahrhundert. Sie speißt sich darüber hinaus aus verschiedensten Strömungen und Einflüssen, unter anderem der Do It Yourself sowie Hacker- und Reparierkultur, der Sharing Economy, der Open Source Bewegung, den Creative Commons und der Peer Produktion. Untrennbar verbunden mit dem Maker Movement ist die Etablierung von Makerspaces, Hackerspaces und Fab Labs. Es handelt sich um physische Orte, an denen Maker gemeinschaftlich Zugriff auf Werkzeuge und Maschinen (z.B. 3D-Drucker, CNC-Fräsen, Lasercuter, CAD-Software, Arduino) haben. Neben der Nutzung der Tools steht der Austausch zwischen den Makern, die gegenseitige Unterstützung und das spielerische Lernen im Mittelpunkt des Tuns. Um sich einem holistischen Verständnis des Maker Movements anzunähern, werden im Rahmen der Lehrveranstaltung unterschiedliche Diskurse, Artefakte, Akteure und Praktiken der Bewegung exemplarisch diskutiert. Des Weiteren werden die Einflüsse des Maker Movements auf die produzierende Industrie beleuchtet und die steigende wirtschaftliche Bedeutung der Bewegung in Richtung Innovationen diskutiert. Die Veranstaltung verfolgt die Ziele, Studierenden diverse Facetten der Maker Bewegung nahe zu bringen und sie für die Maker Kultur zu sensibilisieren. Darüber hinaus lernen die Studierenden neue Formen der Entwicklung von Innovationen kennen, welche auf den Prinzipien der Zusammenarbeit, Kreativität, Demokratisierung, Inklusion, Offenheit und Dezentralisierung beruhen.

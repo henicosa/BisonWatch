@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Französisch 4 (A 2.2)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47232&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Kurs
+SWS :3 S: 3
+Veranstaltungsnummer :3 S: 5142200
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fde%2Funiversitaet%2Fstruktur%2Fzentrale-einrichtungen%2Fsprachenzentrum%2F&timestamp=1631058177978&hash=a8c0d38c5db2d6342dec71e0ece7357e
+Sprache :3 S: französisch
+Fakultät :3 S: missing
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: missing,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Wenn Sie sich für diesen Kurs interessieren, wechseln Sie bitte auf die Internetseiten des Sprachenzentrums (s. obiger Link).

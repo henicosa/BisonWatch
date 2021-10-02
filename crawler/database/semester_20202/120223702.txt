@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: GIS Basics for Integrated Urban Development
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48397&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 120223702
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Integrated Urban Development and Design, M.Sc. PO 2020\r, <br/>, elective modules\r, <br/>, Integrated Urban Development and Design, M.Sc. PO 18\r, <br/>, elective modules
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N.
+# Beschreibung
+Beschreibung :3 S: Geographic Information Systems (GIS) are a useful tool for multiple disciplines and user groups. In urban development and planning, different constituencies like local authorities interact through GIS e.g. applying it in environmental agencies, transportation, energy, resource and waste management, retail, disaster management, and socio-economics. Collecting, managing, analysing and visualising data with GIS as an information sharing tool can help in different stages of planning processes – from identifying problems to evaluating different planning proposals. Working with GIS allows to create easy understandable maps and to enable communication processes.

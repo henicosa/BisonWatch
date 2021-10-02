@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Existenzweisen - Lektüren
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49584&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Projektmodul „Filmkulturen - Extended Cinema“
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fmartin.siegler%40uni-weimar.de&timestamp=1631115445998&hash=ab8c1afccc1562bd50cfd52e2078b9e4
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Online via Moodle</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Martin Siegler
+# Beschreibung
+Beschreibung :3 S: Dass es Berge, Autos und Menschen gibt, scheint unbezweifelbar. Aber was ist mit Fabelwesen, dunkler Materie oder Romanfiguren? Was mit der Zahl Pi, der Wilden 13 oder der unvollendeten 10. Sinfonie von Beethoven? Unsere Welt ist voll von Entitäten, die nicht dem gängigen Maßstab von ‚Wirklichkeit‘ zu entsprechen scheinen. Aber was heißt es überhaupt ‚wirklich zu existieren‘? Folgt man Philosophen wie Etienne Souriau, Gilbert Simondon oder Bruno Latour, so gibt es mehr als nur eine Art zu existieren: Romanfiguren haben ganz andere Existenzbedingungen als technische Objekte, religiöse Wesen existieren anders als menschliche Körper. Statt ein einziges, ungeteiltes „Sein“ muss man also verschiedene „Modi des Seins“ unterscheiden. Diese These wollen wir im Kurs anhand eingehender Textlektüren erarbeiten und an konkreten Phänomenen aus der Medienkultur und Ästhetik diskutieren. Denn gerade Bilder, Fiktionen, Kunstwerke oder digitale Simulationen besitzen einen prekären Wirklichkeitsstatus, den es genauer zu erforschen gilt.

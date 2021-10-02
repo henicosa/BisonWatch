@@ -1,0 +1,33 @@
+Veranstaltungstitel :3 S: Atelierprojekt Radierung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49324&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 18
+Veranstaltungsnummer :3 S: 321120000
+Max. Teilnehmer/-innen :3 S: 10
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fkunst-und-gestaltung&timestamp=1631115156590&hash=da8f673b4bebc25e85ec6b696ec8ef74
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 10:00 bis 12:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 10:00 bis 16:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 10:00 bis 16:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Peter Heckwolf :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Das Projekt dient dazu die eigene gestalterische Haltung weiter zu entwickeln und das Medium Grafik innovativ und zeitgemäß anzuwenden., <br>Die klassische Druckgrafik wird erweitert durch selbst entwickelte experimentelle Abbildungsverfahren die teils schon im vorangegangenen Semester erprobt wurden. Geplant sind «Arbeitsexkursionen» zu verschiedenen Orten außerhalb der Werkstatt. Wir werden uns eine fahrbare Werkstatt einrichten und auf Spurensicherung gehen Als Arbeitsmethoden sind performative Ansätze, fotografische Dokumentationen, Zeichnungen, Direktdruckverfahren, Materialdrucke etc. möglich.</br>

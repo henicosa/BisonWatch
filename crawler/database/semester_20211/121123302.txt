@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Urban Modeling and Simulation (UMS) - Advanced
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49802&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 121123302
+Max. Teilnehmer/-innen :3 S: 25
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: European Urban Studies, M.Sc. PO 2020\r, <br/>, elective modules\r, <br/>, European Urban Studies, M.Sc. PO 18\r, <br/>, elective modules\r, <br/>,  , <br/>, Integrated Urban Development and Design, M.Sc. PO 2020\r, <br/>, elective modules\r, <br/>, Integrated Urban Development and Design, M.Sc. PO 18\r, <br/>, elective modules\r, <br/>,  , <br/>, Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Wahlpflichtmodul
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Reinhard König
+# Beschreibung
+Beschreibung :3 S: Im Rahmen des Seminars werden die Teilnehmer in Methoden der Stadtsimulation eingeführt. Wir werden uns mit der Modellierung komplexer räumlicher Systeme auf regionaler und urbaner Ebene befassen. Es werden Analyse zur Nutzung urbaner Strukturen eingeführt (z.B. Fußgängerströme oder ökonomische Potentiale) sowie Modelle für Interaktionen von Flächennutzungen vorgestellt. Es wird vorgestellt, wie mittels System Dynamics Modellen zeitliche Veränderungen von „Stocks and Flows“ simuliert werden können.

@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Free Hugs (Ba)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48108&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 16
+Veranstaltungsnummer :3 S: 320220017
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 6
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Nicola Hens :3 S: Fakultät Kunst und Gestaltung,Wolfgang Kissel :3 S: Fakultät Kunst und Gestaltung,Lena Liberta :3 S: Fakultät Kunst und Gestaltung,Franka Sachse :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Ob fiktionaler, Dokumentar- oder Animationsfilm – präsentieren Sie ihre Filmideen, Treatments oder Drehbücher und setzen Sie diese innerhalb des Semesters um. Unterschiedliche Genres und Stile sind willkommen, ebenso wie Anfänger und erfahrene Filmschaffende.

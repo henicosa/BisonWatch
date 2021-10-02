@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Bauprozesssteuerung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48885&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Integrierte Vorlesung
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 2901013
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 25
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D30826&timestamp=1631115224691&hash=ae0c2cd9770b0baadd5179dc24736709
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 15:15 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Hans-Joachim Bargstädt :3 S: Fakultät Bauingenieurwesen,Rolf Steinmetzger :3 S: Fakultät Bauingenieurwesen,Sebastian Seiß :3 S: Fakultät Bauingenieurwesen,Birgit Bode
+# Beschreibung
+Beschreibung :3 S: Ausgehend von einer ganzheitlichen Sicht (Systemansatz) werden Grundlagen vermittelt, um Bauproduktionsprozesse effizient gestalten zu können. Nach einer Einführung in die Systemtechnik werden die Grundlagen der Modellierung technologischer Prozesse gelegt und anhand von Beispielen und Modellierungstools vertieft: Produktion, Technologie und technologische Prozesse, Bau- und Materialflussprozesse, Systemwissenschaft, Prozessmodellierung, Grundlagen der Simulation von Bauabläufen, Anwendung der Simulation und Optimierung im Baubetrieb

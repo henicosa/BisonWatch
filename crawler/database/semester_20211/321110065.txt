@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: ["\n\t\t\t\t\t\t\t\t\t\t        \tIch möcht' einmal am Sender steh'n. Liveradio-Labor. - Einzelansicht\n        "]
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49821&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 321110065
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>BBB/Moodle</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Frederike Moormann :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Im Liveradio kann Unvorhergesehenes geschehen. Eine Eilmeldung. Eine ungewöhnliche Antwort. Eine plötzliche Assoziation. Gerade in Zeiten von On Demand und Videkonferenzen hat die lineare Liveness des Radios eine neue Relevanz., <br><br/>Ein Kurs über die Kuration von Radiostücken, die Organisation eines eigenen Live-Senders und Live-Techniken: Von Interview-Führung und Moderation bis Redaktion. Zum Gespräch sind unterschiedliche Generationen von Gründer:innen und Betreiber:innen freier Radiosender eingeladen. Wie kann man seinen eigenen Sender organisieren? Wie kann man künstlerisch mit Live-Senden umgehen? Zusätzlich werden Gäste des Kultursymposiums unter dem Motto Generationen Weimar zum Interview eingeladen.<br/><br/>Ziel des Kurses ist einmal selbst am Sender zu stehen. Ganz konkret heißt das: Wir wollen eigene Live-Sendungen zum Thema Generationen entwickeln, die Teil des Sendeprogramms von generation.fm werden. Dieses spezielle Sendeprogramm ist Teil des Kultursymposiums Weimar, das unter dem Motto Generationen stattfindet. Mehr Infos: www.goethe.de/prj/ksw/de/index.html<br/><br/>Anmeldung bis 6. April: Bitte ein Motivationsschreiben sowie vorbereitete Fragen/ ein Interview-Skript mit jemandem, den er/sie idealerweise zum Thema Generationen interviewen würde an frederike.moormann@uni-weimar.de </br>

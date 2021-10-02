@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Contemporary Theories of the Urban: From Planetary Urbanization to Southern Urbanism
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51387&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 121222903
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: European Urban Studies, M.Sc. PO 2020\r, <br/>, Urban and Landscape Design\r, <br/>, European Urban Studies, M.Sc. PO 18\r, <br/>, Urban and Landscape Design\r, <br/>,  , <br/>, Urbanistik, M.Sc. PO 2021\r, <br/>, Wahlpflichtmodule\r, <br/>, Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Wahlpflichtmodule\r, <br/>, Urbanistik, M.Sc. PO 2021 2-semestrig\r, <br/>, Wahlpflichtmodule\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Wahlpflichtmodule
+Erwartete Teilnehmer/-innen :3 S: 20
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Johann Schwind
+# Beschreibung
+Beschreibung :3 S: This seminar sheds light on how to understand, theorize, and analyze , <em>the</em>,  , <em>urban </em>, by unpacking important and controversial debates in urban theory. Early 20, <sup>th</sup>,  century thinking about the urban was dominated by the question: what is the city? Today, scholars have turned to theorize the , <em>urban</em>,  in light of global transformations and the changing relation between the urban and the agrarian. This seminar offers a thorough overview of historical and contemporary theoretical perspectives on , <em>the urban</em>,  and their underlying epistemological assumptions. Starting from German and American urban sociological perspectives on the city, we will move to materialist, critical, and postcolonial as well as , <em>southern</em>,  perspectives that each conceptualize the urban differently in the context of worldwide (capitalist) urbanization. We will learn and critically engage with concepts, such as ”Planetary Urbanization”, ”Ordinary Cities”, or ”Southern Urbanism”. Our weekly sessions draw from scholars, such as Louis Wirth, Friedrich Engels, David Harvey, Neil Brenner, Ananya Roy and Jennifer Robinson, amongst others. After systematizing the different theories of the urban, their premises and significance for different regional contexts, we will further explore their fruitfulness for empirical urban research. In a micro-case study on Weimar and its surrounding villages, we will put the concepts into practice and explore how each of them can shed light on our current urban condition and inform future urban planning practice.

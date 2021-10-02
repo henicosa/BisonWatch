@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Plenum: Übertragungen
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49587&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Plenum
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Projektmodul Medienphilosophie Übertragungen
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Fphilosophieavmedien%2F&timestamp=1631115838636&hash=34f2c2c1d0cb743a701635eea62cd048
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 17:00 bis 20:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Online via Moodle</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Jan Völker
+# Beschreibung
+Beschreibung :3 S: <span style=font-size: 12pt;>Im Plenum werden wir uns mit den grundlegenden Formen und Funktionen der Übertragungen auseinandersetzen: Wir versuchen, die Übertragbarkeit der Übertragung aus psychoanalytischer Sicht in die Übertragung aus medienphilosophischer Perspektive zu buchstabieren – und umgekehrt. Dazu gilt es zunächst einem erweiterten Begriff der Übertragung aus der Psychoanalyse zu folgen. Übertragung bezieht sich hier sowohl auf Affektverlagerungen zwischen verschiedenen Vorstellungen als auch auf das Geschehen in der einzelnen Sitzung. In der Übertragung gewinnt jedoch etwas eine Gestalt, das sich nicht auf die beiden Pole, zwischen denen sich die Übertragung ereignet, reduzieren lässt. In einem zweiten Schritt werden wir diese Konzeption der Übertragung mit medialen Übertragungsszenarien kurzschließen, anhand einzelner, konkreter Auseinandersetzungen: Mit dem Fernsehen, dem Radio, der Metapher, der Übersetzung u.a.<br>Das Plenum bietet Platz zur Diskussion Ihrer Ansätze für die Projektarbeiten, die dann zunehmend stärker mit eingebunden werden wird. </br></span>

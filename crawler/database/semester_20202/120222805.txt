@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Cities for Climate Action? The Politics of Translocal Climate Governance
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47568&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 120222805
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: European Urban Studies, M.Sc. PO 2020\r, <br/>, Urban Sociology\r, <br/>, European Urban Studies, M.Sc. PO 18\r, <br/>, Urban Sociology
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2Fwww.uni-weimar.de%2Fde%2Farchitektur%2Fprofessur%2Fstadtforschung&timestamp=1631057945924&hash=d442190ac35646ae5a7e020d2a1d48ec
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Anton Brokow-Loga
+# Beschreibung
+Beschreibung :3 S: Over the last decade, cities have proclaimed themselves as relevant actors in the global climate change regime. In sharp contrast to what is often considered as nation states failure of combating the increasingly severe climate change, cities seem to take the lead in using knowledge transfer, implementing solutions and participating in transnational municipal networks. An engagement, that civil society or international donors are more and more expecting and promoting. This seminar aims to investigate cities as actors of global environmental and climate governance. While connecting approaches from urban studies, international relations and environmental policy, it sheds light on notions of translocality, scale and multi-level-governance. After reaching a common understanding of the basic theories in this regard, structure and implications of translocal climate networks, such as C40 or Climate Alliance, are analysed. Thus, the seminar is conceptualized as thorough scientific text analysis in combination with discussion and text visualisation methods, which are skills that might be helpful for the students’ research projects in the next semesters.

@@ -1,0 +1,68 @@
+Veranstaltungstitel :3 S: Planungsprojekt: Planen mit dem wilden Tier?
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48360&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 120222702
+Max. Teilnehmer/-innen :3 S: 4
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Bachelorvorleistungen - Projekte\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Bachelorvorleistungen - Projekte
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 13:00 bis 15:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:00 bis 12:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:00 bis 11:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 08:00 bis 12:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 08:00 bis 10:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:00 bis 11:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:00 bis 10:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Abschlusspräsentation digital</p>,
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Julia Gamberini
+# Beschreibung
+Beschreibung :3 S: Es war einmal… die Rückkehr des Wolfes und des Luchses in Thüringen. Seit einigen Jahren hat sich ein besonderer Gast in der räumlichen und politischen Sphäre in Deutschland ohne Einladung wieder eingefunden: der große Beutegreifer. Nachdem er in Mitteleuropa Anfang des 20. Jahrhunderts verschwunden war bzw. vernichtet und vertrieben wurde, kehrte der Luchs (, <em>Lynx lynx</em>, ) 2004 nach Thüringen zurück. 1904 wurde offiziell der letzte Eurasische Wolf (, <em>Canis lupus</em>, ) in Deutschland erschossen. Nach ca. 100 Jahren kam er zurück und mittlerweile hat er sich in sechs Bundesländern fest angesiedelt. 2014 wurde zum ersten Mal in Thüringen die Präsenz einer Wölfin (Ohrdruf) festgestellt. Dies führte 2015 zur Erstellung eines Wolfmanagementplans und zur Veröffentlichung der Richtlinie Wolf/Luchs.

@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Data Perspectives. Physical Representations of Everyday Data
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47552&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 10
+Veranstaltungsnummer :3 S: 420210020
+Max. Teilnehmer/-innen :3 S: 6
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedieninformatik%2Fhuman-computer-interaction%2Flehre%2F&timestamp=1631057985128&hash=d45412df52188136de5cd9608a5b6879
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:00 bis 11:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:00 bis 12:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Eva Hornecker :3 S: Fakultät Medien,Hannes Waldschütz :3 S: Fakultät Medien,Rosa van Koningsbruggen
+# Beschreibung
+Beschreibung :3 S: Since the beginning of time, humankind has been generating data. From cave paintings, to stories, to sculptures, to pictures, to social media posts, to the notion of the ‘quantified self’: our data generation has become faster, easier, and more ubiquitous. But what can we do with all this data? What to do with the data which we are generating ourselves in our everyday lives? And how can we represent this data?

@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Indiegame Development Lab
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51728&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Prüfung
+SWS :3 S: 10
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 6
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedieninformatik%2Fgrafische-datenverarbeitung%2F&timestamp=1631111213850&hash=174b6b006e6d46d7913b52005ae99ba7
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Medien
+# Personen
+Personen :3 S: Fakultät Medien,Charles Wüthrich :3 S: Fakultät Kunst und Gestaltung,Wolfgang Kissel :3 S: Fakultät Medien,Gianluca Pandolfo
+# Beschreibung
+Beschreibung :3 S: Indiegame Development Lab ist ein interdisziplinäres Projekt zwischen Studierende der Fakultät K&G und der Medieninformatik, das sich in diesem Jahr mit der praktischen Entwicklung von Computerspielen befasst. Studierende der Medieninformatik sollten Programmierkenntnisse mitbringen. Studierende der Fakultät K&G hingegen Erfahrungen im Bereich Sounddesign, Illustration, Animation, 3D-Modelling oder Storytelling. Bemerkung: Ort und Zeit werden zur Projektbörse bekannt gegeben., <br/>,  , <br/>, <br/>

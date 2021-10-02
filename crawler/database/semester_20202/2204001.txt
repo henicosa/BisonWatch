@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Grundlagen des Konstruktiven Ingenieurbaus
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=46906&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Integrierte Vorlesung
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 2204001
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D28135&timestamp=1631058281947&hash=a9ee8e6f7e9cef3a4c6060e90b93284c
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p><strong>vor Beginn der Lehrveranstaltung in den MOODLE-Kurs eintragen!</strong></p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p><strong>vor Beginn der Lehrveranstaltung in den MOODLE-Kurs eintragen!</strong></p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Guido Morgenthal :3 S: Fakultät Bauingenieurwesen,Christopher Taube :3 S: Fakultät Bauingenieurwesen,Martin Kästner :3 S: Fakultät Bauingenieurwesen,Paul Winkler
+# Beschreibung
+Beschreibung :3 S: <span style=color: #000000; font-family: Arial;>Die wesentlichen Schwerpunkte sind:</span>

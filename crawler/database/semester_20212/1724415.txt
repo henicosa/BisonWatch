@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Urban Sociology (Introduction)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51260&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 1724415
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: European Urban Studies, M.Sc. PO 2020\r, <br/>, Urban Sociology\r, <br/>, European Urban Studies, M.Sc. PO 18\r, <br/>, Urban Sociology\r, <br/>,  , <br/>, Integrated Urban Development and Design, M.Sc. PO 2020\r, <br/>, Urban Sociology\r, <br/>, Integrated Urban Development and Design, M.Sc. PO 18\r, <br/>, Urban Sociology\r, <br/>,  , <br/>, MediaArchitecture, M.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Theoriemodul - Stadtsoziologie\r, <br/>, MediaArchitecture, M.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Theoriemodul - Stadtsoziologie
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Frank Eckardt
+# Beschreibung
+Beschreibung :3 S: Life in German cities has undergone substantial changes in the last decade. Not only the East German cities had to address new challenges after the reunification of the German nation in 1990, but also the West German cities had to reformulate their place in the complex urban networks. Cities are mirroring wider changes in German society where new social and political developments can be observed. Economic and cultural globalization has had a major impact on many aspects of urban life. This lecture will give an overview about major developments in German cities since the German reunification in 1990. It will provide both a sound source of information on the most important issues of German society and reflect important discussion of the international debate on urban studies. After delivering a historical overview of German cities, basic concepts of urban sociology will developed by discussing subjects like gentrification, segregation, migration, life style diversity and others. The lecture provides an insight view into classical theories of urban sociology as deriving from Max Weber, Georg Simmel and the Chicago School.

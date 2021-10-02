@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Ressourcen und Recycling der Baustoffe - Angewandte technische Mineralogie
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47038&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Integrierte Vorlesung
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 101019
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Vorlesung</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: unger. Wo
+Bemerkung :3 S: , <p>Übung</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Holger Kletti
+# Beschreibung
+Beschreibung :3 S: Vermittlung von Grundkenntnissen der allgemeinen und speziellen angewandten Mineralogie. Hierzu zählen die Mineraldefinition und die Klassifizierung der Minerale, sowohl natürlicher als auch technischer Herkunft, Kenntnisse über den Aufbau und die Genese sowie die chemischen und physikalischen Eigenschaften von Mineralen. Zusätzlich werden Grundkennt-nisse der für die Charakterisierung mineralischer Baustoffe notwendigen Untersuchungsverfahren vermittelt. Weiterhin werden Grundkenntnisse der mechanischen Verfahrenstechnik in der Rohstoff- und Abfallaufbereitung vermittelt und ein Überblick über das Baustoffrecycling gegeben., <br>Lehrinhalte: Spezielle Mineralogie natürlicher, gesteinsbildender und baustofflich relevanter Minerale, Definitionen zu Kristall und Mineral; physikalische und chemische Eigenschaften der Minerale; mineralogisch-materialanalytischeUntersuchungsverfahren (Lichtmikroskopie, Röntgenbeugung, Mikroanalyse, Röntgenfluoreszenz u.a.); Grundlagen der ange-wandten Mineralogie in der Baustoffkunde</br>

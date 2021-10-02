@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Applied Deep Learning for Computer Vision
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50149&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 421110000
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedieninformatik%2Fcomputer-vision%2Flehre%2Fhot-topics-in-computer-vision%2F&timestamp=1631115136733&hash=1a29df35c0889eb0f58c0ca1a9748969
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Personen
+Personen :3 S: Fakultät Medien,Volker Rodehorst :3 S: Fakultät Medien,Jan Eick :3 S: Fakultät Medien,David Tschirschwitz
+# Beschreibung
+Beschreibung :3 S: During this practice-oriented Deep Learning project, we will implement current state-of-the-art models for solving difficult tasks in the field of computer vision. During the course of the project the participants will learn how to implement and adapt models for image classification, segmentation, etc to varying problem domains. The landscape of data driven approaches is rapidly changing and researchers need a good understanding of the required tools, publicly available datasets and methods. The students will learn the design and evaluation of existing models, and how to leverage these skills to adapt and implement own models.

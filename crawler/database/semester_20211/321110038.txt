@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: How to present short films/ SUMMER REEL/ Weimar Triangle (Ma)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49975&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Werk-/Fachmodul
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 321110038
+Max. Teilnehmer/-innen :3 S: 8
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 8
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 15:00 bis 16:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Online Meeting</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Lena Liberta :3 S: Fakultät Kunst und Gestaltung,Regina Reusch :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Auch in diesem Sommer werden mit dem SUMMER REEL ausgewählte Filmarbeiten aus den Studiengängen Medienkunst/Mediengestaltung und Visuelle Kommunikation präsentiert. Nach einem ersten Online-Screening zur summaery2021 am 16.07.21 wird die Filmrolle erstmalig auch am 07.08.21 im Rahmen der Feierlichkeiten zum 30. Jubiläum des Weimarer Dreieck als Open Air Kino Event in Kooperation mit der Stadt Weimar und dem Lichthaus Kino auf dem Platz der Demokratie gezeigt., <br>Neben der Sichtung und Vorauswahl der Kurzspielfilme, Animationen und dokumentarischen Arbeiten soll in Anlehnung an die CI der diesjährigen SUMMAERY ein grafisch-animiertes Design für das SUMMER REEL entstehen. Weitere Aufgabenbereiche, die die Studierenden eigenverantwortlich übernehmen, werden die Produktion von Interviews mit den Filmemacher*innen, sowie die Bereiche PR/Kommunikation und Organisation sein. Diese Prozesse werden wir in diesem Modul begleiten und die gestalterischen und organisatorischen Kompetenzen stärken. Wir erwarten von Ihnen eine motivierte und verantwortungsvolle Arbeitsweise mit allen Partnern des Projektes. Bitte beachten Sie, dass der letzte Präsenztermin des Moduls mit der öffentlichen Open-Air-Präsentation des SUMMER REEL auf den 07.08.21 in die vorlesungsfreie Zeit fällt. Der Kick-Off Termin zum Modul findet deshalb erst am 04.05.21 um 15.30Uhr statt. Neben den Plenumsterminen an den Dienstagen werden im Juni und Juli verstärkt weitere Gruppentermine unter der Woche stattfinden. Bitte beachten Sie dies bei der Planung ihres Semesters.<br/>Um sich für den Kurs zu bewerben, schicken Sie uns bitte ein kurzes! Motivationsschreiben mit Erfahrungshintergrund und der Angabe der Bereiche(Organisation, Gestaltung Print / Motion Design, Interviewproduktion), in die Sie sich neben der Filmsichtung verstärkt einbringen wollen, bis zum 06.04.2021 an lena.liberta@uni-weimar.de (Professur Medien-Ereignisse) sowie an regina.reusch@uniweimar.de (Professur Crossmediales Bewegtbild) </br>

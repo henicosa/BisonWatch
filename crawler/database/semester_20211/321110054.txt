@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: AUDIO- On Air On Line
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49815&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 321110054
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>BBB &amp; moodle</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Tobias Barth :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Seit 100 Jahren sendet Radio - und wer Radio macht, stapft unvermeidlich in den Fußspuren der Vorgänger. Das betrifft Darstellungsformen, Sendeformate und -strukturen ebenso wie handwerkliche und künstlerische Gestaltungsmöglichkeiten. Aber ist es nicht das Recht und die Lust einer neuen Generation, alles anders zu machen? Zumal wenn die alte Tante Radio gerade abgelöst wird von neuen Formen des Audios im Netz?, <br><br/>Anspruchsvolles Radio und gut gemachter Podcast ist Kino im Kopf. Beim Hören entstehen Bilder und Assoziationen. Möglich wird das unter anderem durch den Einsatz von Original-Tönen. Sie stellen ein Stück abgelauschte Wirklichkeit dar. Konfrontiert mit einer authentischen Klangwelt baut sich vor dem inneren Auge des Hörers eine ganz eigene Bildwelt auf.<br/><br/>In diesem Seminar soll der Faszination des Original-Tons auf den Grund gegangen werden – mit verschiedenen Hörbeispielen und der Produktion eigener Radio-Beiträge vom einfachen Bericht mit O-Ton bis zum Mini-Feature. <br/>Die Teilnehmer*innen erhalten eine theoretische Einführung in die Geschichte des Original-Tons, in O-Ton-Archive und in den Einsatz verschiedener Mikrofontypen und Aufnahmegeräte.<br/><br/>Daneben geht es um das Schreiben fürs Hören, um die Dramaturgie von Beiträgen in verschiedenen Längen, um Sendeformate und um Formen des story-tellings on air und online.<br/><br/>Ziel ist es, eigene Beiträge in das Sendeprogramm von „generation.fm“ einzuspeisen. Als Teil des Kultursymposiums Weimar, das dieses Jahr unter dem Motto Generationen stattfindet. Mehr Infos: www.goethe.de/prj/ksw/de/index.html<br/><br/>Anmeldung bis 6. April an tobias.barth@gmx.ch : Ein Motivationsschreiben mit einer kurzen Idee, wie er/sie ein Hörstück/Feature/Reportage/Collage mit O-Tönen über “Generationen” gestalten würde.</br>

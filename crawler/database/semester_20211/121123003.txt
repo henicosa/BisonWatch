@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Entangled Modernities. Perspectives of a Global History of Architecture
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49866&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 121123003
+Max. Teilnehmer/-innen :3 S: 50
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Theorie\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Theorie\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Theorie\r, <br/>,  , <br/>, European Urban Studies, M.Sc. PO 2020\r, <br/>, elective modules\r, <br/>, European Urban Studies, M.Sc. PO 18\r, <br/>, elective modules\r, <br/>,  , <br/>, Integrated Urban Development and Design, M.Sc. PO 2020\r, <br/>, elective modules\r, <br/>, Integrated Urban Development and Design, M.Sc. PO 18\r, <br/>, elective modules\r, <br/>,  , <br/>, MediaArchitecture, M.Sc. PO 2020\r, <br/>, Theoriemodul - Architekturtheorie\r, <br/>, MediaArchitecture, M.Sc. PO 18\r, <br/>, Theoriemodul - Architekturtheorie\r, <br/>,  , <br/>, Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 2020 2-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 17 2-semestrig\r, <br/>, Wahlpflichtmodul
+Erwartete Teilnehmer/-innen :3 S: 25
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 16:00 bis 17:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Ulrike Kuch :3 S: Fakultät Architektur und Urbanistik,Claudius Torp
+# Beschreibung
+Beschreibung :3 S: Die zweisprachige, digital durchgeführte Ringvorlesung „, <strong>Entangled Modernities. Perspectives of a Global History of Architecture</strong>, ” wird das aus der Geschichtswissenschaft stammende Konzept der Globalgeschichte auf seine Anschlussfähigkeit für eine räumlich und zeitlich reflektierte Positionsbestimmung der modernen Architektur hin diskutieren., <br><br> Das Konzept der Globalgeschichte möchte weltweite Verflechtungen von historischen Entwicklungen nachvollziehbar machen und das insbesondere für die Moderne virulente Spannungsfeld von Prozessen der Globalisierung und Lokalisierung beleuchten. Im vorliegenden Projekt soll mit Blick auf die Architektur dabei nicht eine universalhistorische Makroperspektive – im Sinne einer Weltgeschichte der Architektur – im Zentrum stehen, sondern vielmehr ein Zugang gewählt werden, der regionale Architekturentwicklungen in den Kontext globaler Austauschprozesse einordnet und diese sichtbar macht. Gegenstand können dabei sowohl Architekturen und städtebauliche Anordnungen als auch Architekt*innen, Techniken, Materialien, Medien, Entwurfspraktiken oder anderes sein. Ziel des Vorhabens ist es, den eurozentrischen Blick auf die Architekturgeschichte zu überwinden ebenso wie einer teleologischen oder linearen Auffassung von Architekturgeschichte eine im Ansatz globale, regionale und vernetzte Auffassung entgegenzusetzen.<br><br> Im Rahmen der Ringvorlesung werden Wissenschaftler*innen verschiedener Disziplinen (Geschichte, Architekturgeschichte, Kunstgeschichte, Architektur, Urbanistik und andere) sowohl die theoretischen Grundlagen als auch konkrete Fallbeispiele in den Blick nehmen und auf diese Weise die Konturen einer multiperspektivischen Globalgeschichte der modernen Architektur umreißen.</br></br></br></br>

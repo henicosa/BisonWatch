@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Masterthesis SoSe 2021
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49732&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,keine öffentliche Person :3 S: Fakultät Architektur und Urbanistik,Heike Büttner-Hyman :3 S: Fakultät Architektur und Urbanistik,Daniel Guischard :3 S: missing,Laura Stroszeck :3 S: Fakultät Architektur und Urbanistik,Clemens Helmke
+# Beschreibung
+Beschreibung :3 S: <strong>Masterthesis SoSe 2021</strong>

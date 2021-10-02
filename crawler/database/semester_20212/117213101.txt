@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Tragwerkslehre - Modul I
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50935&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Integrierte Vorlesung
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 117213101
+Max. Teilnehmer/-innen :3 S: 160
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, Pflichtmodul\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, Pflichtmodul\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, Pflichtmodul - 1513170 Tragwerkslehre
+Erwartete Teilnehmer/-innen :3 S: 100
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Pflichtvorlesung</p>,
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 07:30 bis 09:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Jürgen Ruth :3 S: Fakultät Architektur und Urbanistik,Katrin Linne
+# Beschreibung
+Beschreibung :3 S: Statik und Bemessung von Bauteilen - Einwirkungen / Lasten - Gleichgewicht der Kräfte und Momente - Statische Bestimmtheit - Auflagerkräfte - Schnittgrößen - Bemessung von Biegeträgern in Stahl und Holz

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Allgemeines Bau- und Planungsrecht
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51737&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 118221801
+Max. Teilnehmer/-innen :3 S: 5
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Urbanistik, M.Sc. PO 2021\r, <br/>, Bachelorvorleistungen - Wahlpflichtmodule\r, <br/>, Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Bachelorvorleistungen - Wahlpflichtmodule\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Bachelorvorleistungen - Wahlpflichtmodule
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Dogan Yurdakul
+# Beschreibung
+Beschreibung :3 S: Die Vorlesung „Bau- und Planungsrecht“ behandelt das 1. Kapitel des Baugesetzbuches, das sogenannte Allgemeine Städtebaurecht. Ein besonderer Schwerpunkt liegt in der Auseinandersetzung mit der vorbereitenden und verbindlichen Bauleitplanung (Flächennutzungsplan und Bebauungsplan). Die Studierenden werden sich in diesem Zusammenhang auch mit der Baunutzungsverordnung (BauNVO) beschäftigen und lernen ausgewählte Fachgesetze kennen (Bundesnaturschutzgesetz, Energiefachrecht, Bundesimmissionsschutzgesetz), die Einfluss auf die Bauleitplanung haben. Neben dem Bauplanungsrecht werden wesentliche Grundlagen des Bauordnungsrechts gelehrt.

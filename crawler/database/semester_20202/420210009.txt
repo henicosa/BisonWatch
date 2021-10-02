@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Detecting Ideologies on Online Forums
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47663&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 10
+Veranstaltungsnummer :3 S: 420210009
+Max. Teilnehmer/-innen :3 S: 3
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Personen
+Personen :3 S: Fakultät Medien,Benno Stein :3 S: Fakultät Medien,Nikolay Kolyada :3 S: Fakultät Medien,Janek Bevendorff
+# Beschreibung
+Beschreibung :3 S: Convincing an audience with a stance on a topic, e.g. penalizing plastic bags benefits from knowing their stance on similar topics, for example, climate change. We define an ideology as a set of topic-stance pairs that correlate with each other, where a stance can be pro or con. To identify ideologies, we first identify the topics and stances of arguments posted by a set of users on an online forum using machine learning. A user is then represented as a vector of topics with their corresponding stances. We cluster then the users into groups using their topic vectors and analyze the clusters to identify their ideologies.

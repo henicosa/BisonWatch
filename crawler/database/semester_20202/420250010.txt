@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Alte Medien. Zu medienhistorischen Asynchronien und Anachronismen
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47658&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 420250010
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Studienmodul / Bauhausmodul: Alte Medien
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fstruktur%2Ffachbereich-medienwissenschaft%2F&timestamp=1631108668534&hash=86aeee950bb0abe0c2cde21eb519aaad
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 19:00 bis 20:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Digital via Moodle</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Eva Krivanec
+# Beschreibung
+Beschreibung :3 S: So scheinbar klar umrissen das heutige Feld der Neuen Medien nach seiner Konsolidierung seit der Jahrtausendwende auch sein mag, häufig identifiziert mit dem Digitalen, das nun den alten, analogen Medien als Hort der Innovation gegenübergestellt wird, so sehr muss doch eingeräumt werden, dass es zu jeder historischen Epoche je neue und alte Medien gegeben hat. Diese spezifischen Konstellierungen von alten und neuen Medien ergaben (und ergeben) häufig Ungleichzeitigkeiten, Zeitsprünge, die – als Unterbrechungen – Räume hin zum Nostalgischen, zur Reappropriation „alter“ Technologien aber auch hin zum Antizipieren, zum flüchtigen In-Anschein-Nehmen des Zukünftigen, öffneten (und öffnen)., <br>Ziel dieser Ringvorlesung, die im Wintersemester 20/21, jeweils am Dienstag von 19h bis 20h30 stattfindet, ist es, jeweils im Mikrokosmos einer spezifischen historischen Konstellation von altem/n und neuem/n Medium/en, diese Asynchronien oder Anachronismen aufzuspüren und diese sowohl theoretisch als auch am (historischen oder gegenwärtigen) Material entlang zu untersuchen. Idealerweise sollte so, in der Verbindung der einzelnen Beiträge, ein Kaleidoskop je historisch spezifischer Medien-Ökosysteme entstehen, in denen alte und neue Medien auf ganz bestimmte Weise zusammenwirken bzw. auseinandergehalten werden, und uns zur Reflexion dessen führen, was wir selbstverständlich „alte“ und „neue Medien“ nennen. <br/>Dafür scheint es sinnvoll, den Fokus in dieser Ringvorlesung auf die Seite des „alten Mediums“ zu richten, da dieses sowohl als Vorbild und Modell eine wichtige Funktion einnehmen, als auch als Folie, vor der sich die Spezifika des neuen Mediums erst in Abgrenzung abzeichnen, dienen kann.</br>

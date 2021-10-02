@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Recent Results in Cryptographic Research
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50022&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 421150038
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Personen
+Personen :3 S: Fakultät Medien,Stefan Lucks
+# Beschreibung
+Beschreibung :3 S: In dem Seminar werden aktuelle Veröffentlichungen aus dem Feld der Kryptographie gelesen und erarbeitet. Der Schwerpunkt dieses Seminars wird im ersten Treffen bekanntgegeben.

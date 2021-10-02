@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Räumliche Planung und Politik
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49117&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 118122704
+Max. Teilnehmer/-innen :3 S: 10
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Bachelorvorleistungen - Wahlpflichtmodule\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Bachelorvorleistungen - Wahlpflichtmodule
+Erwartete Teilnehmer/-innen :3 S: 2
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fde%2Farchitektur-und-urbanistik%2Fprofessuren%2Fraumplanung-und-raumforschung%2Flehre%2F&timestamp=1631116015601&hash=33918f6feb758820e81ec8fc23e218bf
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Steubenstraße 6f, Audimax</p>, <br/>, <p>hybrid</p>,
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Max Welch Guerra
+# Beschreibung
+Beschreibung :3 S: Modul: Räumliche Planung und Politik , <br>Gezielte Stadtentwicklung und Städtebaupolitik bilden in der Bundesrepublik Kernelemente der räumlichen Planung. Dieses Politikfeld soll idealerweise zuweilen sehr konträre gesellschaftliche Zielsetzungen derart miteinander verbinden, dass dem jeweils definierten Gemeinwohl entsprochen wird.<br> <br>Stadtentwicklung und auch Städtebaupolitik sind indessen ständig in einem kaum übersichtlichen Wandel begriffen. Programme und Instrumente verändern sich periodisch, unterschiedliche Raumtypen (etwa Innenstädte, Metropolregionen oder Suburbia) lösen sich als bevorzugte Handlungskulisse ab. Lebenschancen und Wohlstand, aber auch Benachteiligungen einzelner Bevölkerungsgruppen verteilen sich nach unterschiedlichen Mustern im Raum, auch als Konsequenz von räumlicher Planung. Gleiches gilt für die Beeinträchtigung oder den Schutz der natürlichen Grundlagen.<br> <br>Die Vorlesung kombiniert Ereignisse und Tendenzen der räumlichen Planung der allerjüngsten Vergangenheit mit Fragen und Problemen der Planungspolitik der Gegenwart.</br></br></br></br></br>

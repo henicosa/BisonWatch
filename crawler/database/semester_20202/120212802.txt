@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Beirut Stunde Null: Shaping the Reconstruction. (Ba)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48071&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 120212802
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Theorie | Geschichte\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Theorie | Geschichte\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Theorie | Geschichte\r, <br/>,  , <br/>, Urbanistik, B.Sc. PO 2020\r, <br/>, Wahlmodule\r, <br/>, Urbanistik, B.Sc. PO 14\r, <br/>, Wahlmodule
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Frank Eckardt
+# Beschreibung
+Beschreibung :3 S: Nach der verheerenden Explosionen im Hafen von Beirut am 04. August 2020 ist der zuvor schon von wirtschaftlichen und politischen Krisen geprägte Libanon auf internationale Hilfe für den Wiederaufbau angewiesen. Im Rahmen der Kooperation zwischen BUW und der Notre-Dame-University in Beirut wollen wir diesen Prozess gemeinsam kritisch begleiten und einen Beitrag für einen Wiederaufbau im Sinne einer nachhaltigen bzw. resilienten Stadt leisten.

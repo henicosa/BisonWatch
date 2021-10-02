@@ -1,0 +1,38 @@
+Veranstaltungstitel :3 S: Introduction to Machine Learning
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47657&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 4439110
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fen%2Fmedia%2Fchairs%2Fcomputer-science-department%2Fwebis%2Fhome%2F&timestamp=1631058356850&hash=5b72a0b1728ddb83ac8bff80a0fcc622
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Vorlesung - online (Moodle)</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Übung</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 15:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p> </p>, <br/>, <p>Online-Prüfung</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Benno Stein :3 S: Fakultät Medien,Janek Bevendorff :3 S: Fakultät Medien,Michael Völske
+# Beschreibung
+Beschreibung :3 S: Students will learn to understand machine learning as a guided search in a space of possible hypotheses. The mathematical means to formulate a particular hypothesis class determines the learning paradigm, the discriminative power of a hypothesis, and the complexity of the learning process. Aside from foundations of supervised learning also an introduction to unsupervised learning is given. The lecture introduces concepts, algorithms, and theoretical backgrounds. The accompanying lab treats both theoretical and applied tasks to deepen the understanding of the field. Team work (2-3 students) is appreciated.

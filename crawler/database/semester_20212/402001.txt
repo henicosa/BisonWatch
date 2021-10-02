@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Mechanik I - technische Mechanik - Vorlesung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50916&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 402001
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fcms%2Findex.php%3Fid%3D5950&timestamp=1631111322649&hash=17321d8d5d961e29f3c50065a4c6e4df
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>VL BIB+MBB+UIB, <strong>Weimarhalle, kleiner Saal</strong></p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 07:30 bis 09:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>VL BIB+MBB+UIB</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Volkmar Zabel
+# Beschreibung
+Beschreibung :3 S: In der Veranstaltung werden Grundlagen vermittelt, die Bestandteil der meisten ingenieurwissenschaftlichen Studiengänge sind. Für Studierende anderer Studiengänge öffnet die Teilnahme den Zugang zu ingenieurtechnischem Denken sowie zum Verstehen vielfältiger Systeme unserer technischen Umwelt. Mit diesem ingenieurtechnischen Grundverständnis ausgestattet erhöht sich die eigene Kommunikationskompetenz in der Zusammenarbeit mit Ingenieurinnen und Ingenieuren im beruflichen Umfeld.

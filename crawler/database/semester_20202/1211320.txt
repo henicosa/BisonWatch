@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Umweltplanung/ Umweltschutz
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47003&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 1211320
+Max. Teilnehmer/-innen :3 S: 45
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Architektur | Planung\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Architektur | Planung\r, <br/>,  , <br/>, Urbanistik, Bachelor of Science PO 14\r, <br/>, Pflichtmodul - Landschaftsplanung
+Erwartete Teilnehmer/-innen :3 S: 40
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: unger. Wo
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Joachim Hartlik :3 S: Fakultät Architektur und Urbanistik,Sigrun Langner
+# Beschreibung
+Beschreibung :3 S: <strong>„Grundlagen der Umweltprüfung“ – Vorlesung mit begleitender Übung </strong>

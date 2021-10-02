@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Einführung in die Medienwissenschaft für Medienkünstler/Mediengestalter & Medieninformatiker
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48969&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 4345010
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: B. A. Service-Studienmodul Medienwissenschaft für MKG/MI
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Ffilmwissenschaft&timestamp=1631115403281&hash=63e40dfbf5927187c214a2035b28407a
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p><strong>Erster Termin:</strong> 15.04.2021</p>, <br/>, <p><strong>Raum:</strong> digital via Moodle</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Simon Frisch :3 S: Fakultät Medien,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: <span style=font-size: 12pt;>Das Modul führt ein in die Praxis der medienwissenschaftlichen Theoriebildung. Daher erlernen wir vor allem Arbeitsweisen und Methoden wissenschaftlichen Arbeitens, dessen Praxis im Wesentlichen im Lesen und Schreiben besteht. Voraussetzung für geisteswissenschaftliches Arbeiten ist die Herausbildung theorieorientierter Wahrnehmungen und Fragestellungen.</span>

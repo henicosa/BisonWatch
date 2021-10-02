@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Nachhaltiger Siedlungsbau
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50159&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 120221205
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Projektmodul - Projekt begleitendes Seminar oder\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Projektmodul - Projekt begleitendes Seminar oder\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Projektmodul - Projekt begleitendes Seminar oder\r, <br/>, Wahlpflichtmodul - Planung
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: bis
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Steffen de Rudder
+# Beschreibung
+Beschreibung :3 S: Für den zukünftigen Umgang mit neuen Wohnvierteln in den Randzonen der Städte wird es immer wichtiger, sich mit Modellen des nachhaltigen Siedlungsbaus auseinanderzusetzen. Auch wenn sich zunehmend die Erkenntnis durchsetzt, dass Einfamilienhausviertel auf der grünen Wiese ein Siedlungsmodell der Vergangenheit sind, so bleibt die Nachfrage nach eben dieser Wohnform ungebrochen. Im Seminar wird anhand gebauter Referenzen und neuer Erkenntnisse aus der Nachhaltigkeitsforschung untersucht, unter welchen Bedingungen der verbreitete Wunsch nach dem Wohnen im Grünen mit Strategien eines nachhaltigen Siedlungsbaus vereinbar wäre.

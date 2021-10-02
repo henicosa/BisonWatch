@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Soziologie der Religion
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51147&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Studienmodul Soziologische Theorie
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Fmediensoziologie%2F&timestamp=1631112544871&hash=7dcecb0ee1016b34326c3f2152723e35
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Dieses Seminar findet online statt.</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Andreas Ziemann
+# Beschreibung
+Beschreibung :3 S: Das Plenum gibt einen Überblick über wichtige soziologische Theorien und Analysen zur Religion. Es fragt dabei u.a. nach der Funktion, den Strukturen und der Organisationsfähigkeit von Religion und Kirche in der (spät-)modernen Gesellschaft sowie nach deren Wertbindung für den Einzelnen, aber auch nach den Effekten zunehmender Privatisierung/Individualisierung religiöser Praktiken. Darüber hinaus soll zu eigenständigen Forschungsfragen angeregt werden., <br><br/>Das Seminar bildet zusammen mit der Vorlesung Soziologische Theorien das Studienmodul Soziologische Theorie.<br/><br/>Ich bitte um Anmeldung via E-Mail (andreas.ziemann@uni-weimar.de) und sende Ihnen dann das Moodle-Passwort zu. Das Seminar findet ausschließlich online statt.</br>

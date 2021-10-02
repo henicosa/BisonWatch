@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Einführung in die Stadt- und Regionalplanung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51739&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 118222907
+Max. Teilnehmer/-innen :3 S: 5
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Urbanistik, B.Sc. PO 2021\r, <br/>, Bachelorvorleistungen - Wahlpflichtmodul\r, <br/>, Urbanistik, B.Sc. PO 2020 4-semestrig\r, <br/>, Bachelorvorleistungen - Wahlpflichtmodul\r, <br/>, Urbanistik, B.Sc. PO 17 4-semestrig\r, <br/>, Bachelorvorleistungen - Wahlpflichtmodul
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>HS A</p>,
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Barbara Schönig
+# Beschreibung
+Beschreibung :3 S: Die Vorlesung bietet einen ersten strukturierten Überblick über Genese, gesellschaftliche Funktion, aktuelle Herausforderungen und institutionelle Organisation der Stadtplanung. Sie beinhaltet die Darstellung und Diskussion ausgewählter aktueller Themen der Stadtentwicklung und Stadtplanung, und führt so an das thematische Feld sowie das Aufgaben- und Kompetenzspektrum der Stadtplanung heran, das zukünftige Stadtplaner/innen erwartet. Anhand ausgewählter Beispiele und der Diskussion aktueller Herausforderungen von Stadtentwicklung werden die Besonderheiten planerischer Problemstellungen und die daraus resultierenden methodischen Herausforderungen an Stadtplanung als Disziplin herausgearbeitet.

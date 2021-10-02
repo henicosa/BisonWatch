@@ -1,0 +1,43 @@
+Veranstaltungstitel :3 S: Gehren - Wald.Land.Zukunft
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48011&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 120222601
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Projektmodul - Projekt\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Projektmodul - Projekt\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Projektmodul - Projekt
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Zwischenkritik 1</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Zwischenkritik 2</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Zwischenkritik 2</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Abschlusspräsentation digital</p>,
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Hinnerk Utermann :3 S: Fakultät Architektur und Urbanistik,Sigrun Langner :3 S: Fakultät Architektur und Urbanistik,Atidh Langbein :3 S: Fakultät Architektur und Urbanistik,Pia Müller
+# Beschreibung
+Beschreibung :3 S: Gehren liegt am Fuße des Thüringer Waldes und des Thüringer Schiefergebirges und ist von Wald umgeben. Durch seine unmittelbare Nähe zum Bau- und Werkstoff Holz hat es eine lange Tradition im holzverarbeitenden Gewerbe., <br>Wie kann, basierend auf der ‘Ressource Landschaft’ mit ihren räumlichen Qualitäten und dem Bezug zum Rohstoff Holz, der Einbettung in stadtlandschaftliche Gefüge und den bisher noch unentdeckten Potenzialen, ein zukunftsfähiges und nachhaltiges Bild für den Ort entwickelt werden?<br>Dieser Frage wollen wir in Kooperation mit der IBA Thüringen in dem städtebaulich- freiraumplanerischen Entwurfsprojekt Gehren – Wald. Land. Zukunft nachgehen.<br>Um regionale Wertschöpfungsketten zu etablieren, soll ein Holzverarbeitungscluster als Modellprojekt entwickelt werden. In diesem Rahmen ist die Ansiedlung moderner holzverarbeitender Betriebe, die gezielte Förderung der Holzbaukultur und eine Quartiersentwicklung, die zukunftsfähige Wohnformen im ländlichen Raum fördern soll, angedacht.<br>Der Semesterentwurf schließt thematisch an diese Überlegungen an und es sollen Konzepte für ein nachhaltiges, kreislauforientiertes, produktives Gehren entwickelt werden. Abhängig von der Konzeptidee, können unterschiedliche Baugrundstücke gewählt werden. Diese reichen von der `Grünen Wiese` am Waldrand bis zur Baulücke im Zentrum Gehrens oder der nachträglichen Qualifizierung des bestehenden Industrie- und Gewerbegebietes. Entsprechend unterschiedlich können die Konzepte von der Entwicklung einer neuen, nachhaltigen Siedlung mit Modellcharakter im ländlichen Raum bis hin zur Nachverdichtung und Qualifizierung im Bestand und Stärkung des Ortszentrums sein.<br>Ausgehend von den landschaftlichen Qualitäten der Region und den Möglichkeiten, die die nachwachsenden Ressource Holz bietet, ist ein Zukunftsbild für Gehren zu entwickeln, das eine neue Verbindung zwischen Wald und Dorf aufzeigt, dabei auf regionale Stoffkreisläufe fokussiert, auf neue mögliche Verbindungen von Arbeiten und Wohnen im digitalen Zeitalter eingeht, Energie sinnvoll nutzt, Mobilität neu denkt und die Gemeinschaft stärkt und das Miteinander fördert.<br>Gehren soll als ein durchlässiges, vernetztes, produktives und zugängliches „Dorf der Zukunft“ gedacht werden. Ziel ist es, einen offenen Möglichkeitsraum zu entwerfen, der die Produktivität dieses Ortes befördert und vielfältige Schnittstellen und Übergänge zwischen Gehren und der umgebenden Landschaft und des Waldes herstellt.</br></br></br></br></br></br>

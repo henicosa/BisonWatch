@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Sozialer Wohnungsbau in der postneoliberalen Stadt
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51385&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 121222905
+Max. Teilnehmer/-innen :3 S: 25
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>,  , <br/>, Urbanistik, M.Sc. PO 2021\r, <br/>, Pflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Pflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 2020 2-semestrig\r, <br/>, Pflichtmodul
+Erwartete Teilnehmer/-innen :3 S: 25
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Barbara Schönig
+# Beschreibung
+Beschreibung :3 S: Fast drei Jahrzehnte galt sozialer Wohnungsbau als Auslaufmodell und wurde im Zuge der Transformation wohlfahrtsstaatlicher Politiken, Neoliberalisierung von Stadtentwicklung und breiter Kritik am fordistischen Massenwohnungsbau und der Abschaffung der gemeinnützigen Wohnungswirtschaft zu einem bedeutungslosen Segment am Rande des Wohnungsmarkts. Doch angesichts des Mangels an bezahlbaren Wohnungen erlebt öffentlich geförderter Wohnungsbau seit einigen Jahren wieder eine Konjunktur – und reiht sich ein in eine Vielzahl lokaler wohnungspolitischer Strategien, über die in der Stadtforschung als Bausteine einer postneoliberalen Stadtpolitik nachgedacht wird wie z.B. die Förderung gemeinschaftlichen Bauens, Mietendeckel oder Rekommunalisierung. Was aber ist sozialer Wohnungsbau heute? Wer baut für wen, zu welchen Preisen? Welche Wohnungen, Wohngebäude und Quartiere entstehen nun mit öffentlicher Förderung – und wie passen sie sich in derzeitige Konzepte der Stadtentwicklung, der Wohnungspolitik und des Wohnungsbaus ein?

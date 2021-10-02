@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Baustoffprüfung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47031&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Übung
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 102009
+Max. Teilnehmer/-innen :3 S: 16
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fbauingenieurwesen%2Finstitute%2Ffib%2F&timestamp=1631057888884&hash=c12f6fe2b7381c6a05dec6287938a260
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Ulrike Schirmer :3 S: Fakultät Bauingenieurwesen,Alexander Flohr
+# Beschreibung
+Beschreibung :3 S: Durchgeführt werden Übungen zur experimentellen Betsimmung von Werkstoffeigenschaften (Metalle, Holz, Kunststoffe, Bindemittel, Mörtel, Beton); Identifikation anorganischer und organischer Baustoffe; zerstörungsfreie Prüfverfahren

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: 3. Kernmodul: Wohnungsbau
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51449&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Entwurf
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 1510120
+Max. Teilnehmer/-innen :3 S: 50
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, 3. Kernmodul\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, 3. Kernmodul\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, 3. Kernmodul
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Farchitektur-und-urbanistik%2Fprofessuren%2Fwohnungsbau%2F&timestamp=1631110848366&hash=25094b022489f919b7b2587fcace5758
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Till Hoffmann :3 S: Fakultät Architektur und Urbanistik,Hanna Schlösser :3 S: Fakultät Architektur und Urbanistik,Verena von Beckerath
+# Beschreibung
+Beschreibung :3 S: Aktuelle Informationen werden auf der Website der Professur Entwerfen und Wohnungsbau veröffentlicht: , <a href=../de/architektur-und-urbanistik/professuren/wohnungsbau/>https://www.uni-weimar.de/de/architektur-und-urbanistik/professuren/wohnungsbau/</a>, .

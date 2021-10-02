@@ -1,0 +1,33 @@
+Veranstaltungstitel :3 S: Bachelorkolloquium Professur Stadtplanung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50384&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Kolloquium
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 118112903
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Urbanistik, B.Sc. PO 14\r, <br/>, Pflichtmodul zur Thesis
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 08:00 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 08:00 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 08:00 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Barbara Schönig
+# Beschreibung
+Beschreibung :3 S: Das Bachelorkolloquium dient der vertieften gemeinsamen Diskussion von Forschungsfragen, Methoden und Forschungsansätzen von Abschlussarbeiten im Studiengang Urbanistik, die an der Professur Stadtplanung in Erst- oder Zweitbetreuung erarbeitet werden.  Darüber hinaus werden konkrete Fragen des wissenschaftlichen Arbeitens und Schreibens, Strategien der Arbeitsplanung und -organisation anhand der konkreten Abschlussarbeiten diskutiert. Das Kolloquium dient sowohl der individuellen Forschungssupervision als auch der gemeinsamen Diskussion spezifischer Fragen und Forschungsprobleme der Studierenden. Es integriert daher unterschiedliche Formate (Gruppenkonsultation, sowie Vorträge und Diskussionen im Plenum). Am Kolloquium nehmen alle Studierenden teil, die im laufenden Semester ihre Abschlussarbeit anmelden.

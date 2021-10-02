@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Von Einsen und Nullen. Grund und Repräsentation des Digitalen
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49597&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: M.A.-Studienmodul Kulturtechniken
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Fgeschichte-und-theorie-der-kulturtechniken%2Fwillkommen%2F&timestamp=1631116248035&hash=a58e6da4d094cd02f8f38ecb75804a29
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Online via Moodle</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Moritz Hiller
+# Beschreibung
+Beschreibung :3 S: Zu den wohl wirkmächtigsten Bildern, die uns eine Vorstellung von all dem geben, was ,digital‘ ist, gehören die endlosen Aneinanderreihungen von Einsen und Nullen. Ob in populären Darstellungen oder wissenschaftlichen Diskursen: Der Binärcode, der eine historische Grundlage der Digitaltechnik war, ist zum Symbol ,des Digitalen‘ schlechthin geworden. Scheinbar unauflöslich verknüpft mit dem Dualsystem sind – in solchen Texten, die als grundlegend für die Entwicklung digitaler Computer gelten, aber auch in ihren philosophischen, psychoanalytischen oder medienwissenschaftlichen Interpretationen – seit jeher Dichotomien, die unser Wissen strukturieren und Kulturen produzieren: Präsenz und Absenz, Sein und Nichts, Mann und Frau … Und diese Dichotomien, so die These, werden in und mit unserem Bild vom Wesen des Digitalen laufend reproduziert. Dieses Rückkopplungsverhältnis ist umso denkwürdiger, als dass, was im Formalismus der Logik so eindeutig zweiwertig strukturiert ist, sich bereits schaltungstechnisch ganz anders darstellt: Die logische Null etwa wird in den Bauteilen eines Computers mitnichten durch die rigide Abwesenheit elektrischer Spannung implementiert (sondern mit Eingangsspannungen in einem Toleranzbereich bis 0,8 V). Diese Diskrepanz gilt es, im Seminar für eine kritische Bewertung unserer Vorstellungen vom Digitalen herauszuarbeiten. Diskutiert werden historische Quellen wie zeitgenössische Positionen (von etwa Leibniz, Shannon, Lacan und Plant). Ausgehend davon fahndet das Seminar nach den Ursprüngen der Einsen und Nullen des Binärcodes, verfolgt ihre logische und technische Entwicklung bis zum heutigen Digitalcomputer und fragt nach den – teils reduzierenden, teils schlicht falschen – Zuschreibungen solcher Dichotomien, die das Digitale heimsuchen und auf einen Begriff festlegen, der schon (schaltungs-)technisch seiner anhaltenden Dekonstruktion ausgesetzt ist.

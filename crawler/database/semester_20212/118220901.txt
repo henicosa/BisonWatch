@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Bauhaus-Gespräche / Einführungskurs Master Architektur
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50836&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 118220901
+Max. Teilnehmer/-innen :3 S: 180
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Pflichtmodul\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Pflichtmodul
+Erwartete Teilnehmer/-innen :3 S: 120
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 18:00 bis 20:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Jörg Springer :3 S: Fakultät Architektur und Urbanistik,Bernd Rudolf :3 S: Fakultät Architektur und Urbanistik,Johannes Kühn :3 S: Fakultät Architektur und Urbanistik,Jose Gutierrez :3 S: Fakultät Architektur und Urbanistik,Verena von Beckerath :3 S: Fakultät Architektur und Urbanistik,Heike Büttner-Hyman :3 S: Fakultät Bauingenieurwesen,Juliane Steffen :3 S: Fakultät Architektur und Urbanistik,Fritz Barth
+# Beschreibung
+Beschreibung :3 S: Das offene Gespräch zwischen zwei praktizierenden Architekten eröffnet den Zuhörern Einblicke in das Denken beider, in das des Gastes natürlich, aber auch in das Denken des Einladenden. Die Gespräche werden durch eine kurze Einführung des Gastes zu einigen seiner Arbeiten eingeleitet. Kern der Veranstaltung ist dann eine gemeinsame, öffentliche Reflektion über das Entwerfen von Architektur und über die Themen, die unser Gestalten leiten.

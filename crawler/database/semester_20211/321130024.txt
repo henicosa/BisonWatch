@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Is this the (sinister) past coming from the future? Right-wing appropriation of public space
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49795&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Wissenschaftliches Modul
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 321130024
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 12
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 16:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Boris Buden :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Today’s western societies live in the conviction that the worst is behind them, in the horrible past of the World Wars, Gulags, murderous fascist regimes and Nazi concentration camps. The past seems to have been finally brought under total control. Germany in particular – with its concept of , <em>Vergangenheitsbewältigung</em>,  – is believed to have most successfully overcome its traumatic Nazi past. But is that really true? The Post-Cold-War era has witnessed a dramatic rise of right-wing populist forces even in the most developed countries of the liberal democratic West. Moreover, the politics of nationalism, xenophobia, white supremacism, and racism has recently begun to take shape of what some social theorists call neo- or post-fascism that becomes increasingly violent. For the Neo-Nazi terrorists we might even say that they literally live among us – all members of the so-called NSU (National Socialist Underground) come from Jena.

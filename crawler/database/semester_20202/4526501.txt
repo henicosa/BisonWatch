@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Academic English Part One
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47268&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Kurs
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 4526501
+Max. Teilnehmer/-innen :3 S: 25
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 17:00 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Online (Moodle) -  <a href=https://moodle.uni-weimar.de/course/view.php?id=27453>https://moodle.uni-weimar.de/course/view.php?id=27453</a></p>,
+# Personen
+Personen :3 S: Fakultät Medien,Geoffrey Atkinson
+# Beschreibung
+Beschreibung :3 S: This is the first part of a two-part course which aims to improve your ability to express yourself clearly in written English and to develop a suitably coherent academic writing style. Part One concentrates mainly on structure in writing academic articles, essays and reports. We begin by examining the structure of individual paragraphs and move on to extended texts of various types (e.g. process essays, cause/effect, comparison/contrast, etc.). Particular attention is paid to connectives, i.e. transitional phrases and constructions which help you link ideas and paragraphs in a logical, systematic way.

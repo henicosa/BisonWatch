@@ -1,0 +1,48 @@
+Veranstaltungstitel :3 S: Die Kunst des Regieführens/ "ménage a trois" (Ma)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49969&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 16
+Veranstaltungsnummer :3 S: 321120038
+Max. Teilnehmer/-innen :3 S: 16
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 16
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 13:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 13:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 13:00 bis 20:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 13:00 bis 20:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Sa.
+Zeit :3 S: 10:00 bis 17:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Sa.
+Zeit :3 S: 10:00 bis 17:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Lena Liberta :3 S: Fakultät Kunst und Gestaltung,Wolfgang Kissel :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Im August 2021 jährt sich die Gründung des Weimarer Dreiecks zum 30. Mal. 1991 beschlossen die damaligen Außenminister der drei Länder Polen, Frankreich und Deutschland bei einem gemeinsamen Treffen in Weimar ein Gesprächsforum für europäische Zukunftsfragen zu gründen. Im Rahmen des Sommersemesters werden wir uns anlässlich des Jubiläums deshalb Kurzspielfilme oder narrative Musikvideos zum Thema Ménage à trois realsieren. Die Preisgekrönten Filmregisseure Arne Feldhusen (u.a. Tatortreiniger, Vorsicht vor Leuten, Magical Mystery und Phillip Stölzl (u.a. Der Medicus, Goethe! Ich war noch niemals in New York) werden die Arbeiten an den von den Studierenden entwickelten Stoffen in der Vorbereitungsphase der Realisierung begleiten und Tipps im Bereich Schauspielführung, Kameraführung und Schnitt geben.  Neben den festen Terminen wird es weitere Konsultationstermine für die Teams geben. Drehzeitraum ist Juni, Schnittzeitraum Juli. Die Präsentation ausgewählter Filme findet in Zusammenarbeit mit dem LICHTHAUS.Kino bei einem Open Air Event am 07.08.21 statt. Die Bewerbungen für den Kurs erfolgen bitte bis zum 06.04.21 um 18Uhr mit einer Ideenskizze/Pitch/Kurzexposé (Halbe-1 Seite), einer writers note (höchstens 10 Zeilen) und einer kurzen Beispielszene (1 Seite) an , <a href=mailto:lena.liberta@uni-weimar.de>lena.liberta@uni-weimar.de</a>,

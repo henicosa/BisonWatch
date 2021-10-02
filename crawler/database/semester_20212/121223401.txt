@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Mensch, Maschine, Interface: Zur Wissensgeschichte (post)industrieller Arbeit.
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51697&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 121223401
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Theorie\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Theorie\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Theorie\r, <br/>,  , <br/>, MediaArchitecture, M.Sc. PO 2020\r, <br/>, Wahlmodul\r, <br/>, MediaArchitecture, M.Sc. PO 18\r, <br/>, Wahlmodul
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Maximilian Stadler
+# Beschreibung
+Beschreibung :3 S: Die alte Weisheit, daß der Mensch »das Maß aller Dinge« sei, die Dinge, Werkzeuge und Maschinen also möglichst an Körper, Sinne, Psyche angepasst sein sollten – solche An- und Einsichten etablierten sich in den Jahren um 1920. Sie institutionalisierten sich – etwa als Ergonomie, Industriesoziologie, Produktgestaltung – zwischen Hochmoderne und Industriegesellschaft. Und sie zogen weitere Kreise im Zuge postindustrieller Umbrüche: Computerisierung, »Humanisierung« der Arbeit, »Umweltdesign«, u.ä.

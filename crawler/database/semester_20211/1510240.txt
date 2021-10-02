@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: 5. Kernmodul: Abraham Geiger- Haus
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49713&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Entwurf
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 1510240
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, 5. Kernmodul - Individuelle Vertiefung\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, 5. Kernmodul - Individuelle Vertiefung\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, 5. Kernmodul
+Erwartete Teilnehmer/-innen :3 S: 20
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Farchitektur-und-urbanistik%2Fprofessuren%2Fentwerfen-und-komplexe-gebaeudelehre%2Faktuelles%2F&timestamp=1631115094568&hash=203ad0fd7fdfe6dc347565728ef937ed
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Abschlusspräsentation</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Jörg Springer :3 S: Fakultät Architektur und Urbanistik,Manuel Aust :3 S: Fakultät Architektur und Urbanistik,Sebastian Schröter :3 S: Fakultät Architektur und Urbanistik,Martin Pasztori :3 S: Fakultät Bauingenieurwesen,Juliane Steffen
+# Beschreibung
+Beschreibung :3 S: Mit dem Wiederaufbau der Synagoge am Bornplatz rückt auch das lange vernachlässigte Fragment des Israelitischen Tempels in der Poolstraße in den Blick. Den Plänen, die Fragmente mit einem modernistischen Wohnhaus zu überbauen, schlägt inzwischen zu Recht erheblicher Widerstand entgegen.

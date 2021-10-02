@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Geschichte und Theorie der modernen Architektur
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50640&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 1511150
+Max. Teilnehmer/-innen :3 S: 150
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, Pflichtmodul\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, Pflichtmodul\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, Pflichtmodul
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Jasper Cepl
+# Beschreibung
+Beschreibung :3 S: Die Vorlesungsreihe (die sich in ihrem ersten Teil sowohl an Student:innen der Architektur und der Urbanistik richtet) befasst sich mit grundlegenden Fragestellungen, die für die moderne Architektur maßgebend werden. Mit anderen Worten: Wir werden uns mit Themen beschäftigen, an denen sich die Moderne abarbeitet. Erst wenn die bekannt sind, wird verständlich, worum es in Bauten und Entwürfen geht und woran die sich messen lassen. (Der Betrachtung einzelner Werke widmen sich dann die für die Architektur-Student:innen vorgesehenen Vorlesungen im vierten Semester.), <br><br>Die Theorie steht also zunächst im Vordergrund. Wir beginnen mit der Frage, was Moderne überhaupt bedeutet und was für ein Problem da aufgeworfen wird. <br>Und wir verfolgen dann weiter, wie sich die Architektur seit Mitte des 18. Jahrhunderts entwickelt und wie die »Moderne« dabei klarere Züge erkennen lässt. Allmählich ändert sich der Blick auf die Welt, und es eröffnen sich auch für die Architekten neuen Sichtweisen. Auch die Gesellschaft wandelt sich. Neue Bauaufgaben zeichnen sich ab — für die angemessene Antworten gefunden werden müssen. Neue Techniken und Materialien kommen ins Spiel und fordern ein neues Nachdenken über das Zustandekommen und den Ausdruck der Architekturformen. Es bedarf auch neuer Antworten für das explosionsartige Wachstum der Städte, die neu geordnet und, da sie sich nicht mehr allmählich entwickeln, mehr denn je bewusst gestaltet werden müssen. Es fragt sich, ob es eine Stadtbaukunst geben könne, und welche Gestaltungsprinzipien die haben solle.<br><br>Mit diesen Fragen befasst sich die Moderne, doch die Antworten sind alles andere als klar. Die Suche nach ihnen bleibt nicht ohne Misserfolge; und so ist die Geschichte der modernen Architektur auch — notwendigerweise — eine von Experimenten, die nicht immer glücken, und von Kurskorrekturen, die dann unausweichlich sind. In diese widerspruchsreiche Geschichte einzuführen und zu zeigen, wie sie sich im Wechselspiel von Theorie und Praxis fortschreibt — das ist der Gedanke, auf den die Vorlesungsreihe aufbaut. Wir verfolgen dazu, wie sich neue Denkfelder auftun, und wie diese immer wieder neu besetzt werden. Denn es entstehen immer wieder neue Ansätze, die — teils sich überlagernd, teils einander ablösend — versuchen, eine moderne Architektur ins Werk zu setzen. <br>Die Hoffnung ist, dass es uns gelingt, aus dieser Geschichte zu lernen, damit wir für die Aufgaben, die sich uns heute stellen, gewappnet sind.</br></br></br></br></br></br>

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Technical & Scientific English (Niveau B2)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47231&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Kurs
+SWS :3 S: 3
+Veranstaltungsnummer :3 S: 5134153
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fcms%2Funiversitaet%2Fzentrale-einrichtungen%2Fsprachenzentrum%2Fkursangebot-fremdsprachen.html&timestamp=1631059000397&hash=cfe8fb687add0569f83f1c215d591d37
+Sprache :3 S: englisch
+Fakultät :3 S: missing
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Zentrale Einrichtungen,Elizabeth Watts
+# Beschreibung
+Beschreibung :3 S: Wenn Sie sich für diesen Kurs interessieren, wechseln Sie bitte auf die Internetseiten des Sprachenzentrums (s. obiger Link).

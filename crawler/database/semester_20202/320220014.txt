@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: reinhard franz: meisterklasse!
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48034&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 320220014
+Max. Teilnehmer/-innen :3 S: 6
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Reinhard Franz :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: betreuung und korrektur ihrer eigenständigen künstlerischen arbeit., <br/>, ich bitte darum, im vorfeld der einschreibung mit mir (reinhard.franz@uni-weimar.de) kontakt aufzunehmen und mir ein abstrakt, bzw. den bisherigen stand ihrer arbeit vorzustellen.

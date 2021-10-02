@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Data Science for Mobility and Transport
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48250&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Integrierte Vorlesung
+SWS :3 S: 1.5
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fvsp&timestamp=1631057988052&hash=d09e1b3537e0a96c818e7cbb468ee136
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: gerade Wo
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Uwe Plank-Wiedenbeck :3 S: Fakultät Bauingenieurwesen,Maximilian Wunsch :3 S: Fakultät Bauingenieurwesen,Julius Uhlmann
+# Beschreibung
+Beschreibung :3 S: Anwendungsorientierte Data-Science-Grundlagen, Quellen und Qualität von Mobilitäts- und Verkehrsdaten, Arbeit mit Data-Science-Werkzeugen, Datenanalyse mit Methoden der künstlichen Intelligenz und des maschinellen Lernens, Bewertung und Diskussion von Ergebnissen. Die Studierenden werden in datenorientierte Arbeitsweisen eingeführt und sollen ein Verständnis für die künftige Bedeutung von Mobilitäts- und Verkehrsdaten entwickeln. Sie lernen den Umgang mit Data-Science-Werkzeugen und werden zur kritischen Diskussion von Datenanalyseergebnissen befähigt.

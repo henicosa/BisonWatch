@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Kuratieren von Kunstausstellungen
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50071&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Wissenschaftliches Modul
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 321130010
+Max. Teilnehmer/-innen :3 S: 25
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Ort: Kunsthalle Erfurt, 99084 Erfurt, Fischmarkt 7</p>,
+# Personen
+Personen :3 S: missing,Kai Schierz :3 S: missing,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Seit wann gibt es Kunstausstellungen? Wie wurde früher Kunst präsentiert, wie präsentiert man Kunst heute? Alte Kunst anders als zeitgenössische, Malerei anders als Bildhauerei oder Fotografie. Für Kinder präsentiert man Kunst anders als für Kunstkritiker, Künstler und Sammler, eine Blockbuster-Ausstellung anders als eine Stipendiaten-Ausstellung. Das Kuratieren von Kunstausstellungen ist ein weites Feld mit einer Vielzahl von Fragen, die zu beantworten sind. Seit wann gibt es eigentlich die Rolle von Kuratorinnen/ Kuratoren für Kunstausstellungen? Was zeichnet diese Rolle aus? Neben inhaltlichen Anforderungen spielen organisatorische und finanzielle Fragen eine Rolle für die Weise, wie eine Kunstausstellung kuratiert, organisiert und durchgeführt wird. Wie erstellt man einen Kosten- und Finanzierungsplan für eine Kunstausstellung? Wie spricht man welche potentiellen Förderer an?, <br>Diese Fragen rund um das Thema „Kuratieren von Kunstausstellungen“ stehen im Zentrum des Seminars. Vorgestellt werden die Geschichte von Kunstausstellungen und exemplarisch kuratierte Kunstausstellungen. Analysiert werden aktuelle und dokumentierte Kunstausstellungen. Geübt wird das Entwickeln von Konzeptionen, Kosten- und Finanzierungsplänen.<br/>Das Seminar umfasst Präsenzunterricht und Selbststudium. Das Seminar findet in deutscher Sprache statt. Diskussionen in englischer Sprache sind möglich.</br>

@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: WW 92 Neuartige Sanitärsysteme
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50048&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 60
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 30
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Funi-weimar.de%2Fwbbau&timestamp=1631116320565&hash=e055887d033f8beafa9f0e00b3da487e
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 12:00 bis 16:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: 09:00 bis 17:00
+Terminrhythmus :3 S: Block
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Jörg Londong :3 S: Fakultät Bauingenieurwesen,keine öffentliche Person :3 S: Fakultät Bauingenieurwesen,Konrad Irmisch :3 S: Fakultät Bauingenieurwesen,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Das Modul richtet sich vor allem an Ingenieure, die auf dem Gebiet der Siedlungswasserwirtschaft tätig sind und ein spezifisches Interesse an den neuesten innovativen Konzepten, insbesondere an kreislauforientierten Systemen zur Abwasserbewirtschaftung haben. Abwasser und Fäkalien werden hierbei als Werstoffe betrachtet, die im erforderlichen Umfang aufbereitet und wieder gewonnen sowie entsprechend verwertet werden können. Die Regenwasserbewirtschaftung wird in diese Konzepte einbezogen.

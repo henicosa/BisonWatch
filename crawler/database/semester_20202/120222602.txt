@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Begleitseminar "Stadt.Land.Utopie"
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48013&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 120222602
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Projektmodul - Begleitveranstaltung oder\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Projektmodul - Begleitveranstaltung oder\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Projektmodul - Begleitveranstaltung oder\r, <br/>, Wahlpflichtmodul - Planung
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Hinnerk Utermann
+# Beschreibung
+Beschreibung :3 S: Das Seminar Gehren – Stadt. Land. Utopie untersucht visionäre, städtebauliche Entwürfe, die nachhaltige, kreislauforientierte, und produktive Siedlungsmodelle thematisieren und neue Bilder für das Verhältnis von Stadt und Land sowie Bauwerk und Landschaft entwerfen., <br>Für die Untersuchung werden gebaute Projekte der frühen 20.Jhd. und aktuelle Beispiele herangezogen. Vor dem Hintergrund der Industriellen Revolution und den katastrophalen Lebensbedingungen der Arbeiter in den Städten hatten sich zu Beginn des 20.Jhd. verschiedene Reformbewegungen entwickelt, um die Missstände zu beheben. Hierbei spielte die Gartenstadtbewegung und das Neue Bauen eine zentrale Rolle. Erstere propagierte die Errichtung neuer Kleinstädte, die als Planstädte in einer weitläufigen Landschaft angelegt waren und wollte die jeweils positiv konnotierten Seiten von Stadt und Land verbinden. Ihre Größe und Dichte sowie die Nähe zur Natur waren von Vornherein festgelegt und sollten Spekulation ausschließen und eine hohe Lebensqualität sicherstellen. Zweitere suchte nach einem neuen Verhältnis von bebauter und unbebauter Fläche, von Landschaft und Bauwerk um die Lebensumstände durch „Licht, Luft und Sonne“ zu verbessern.<br>Während die Gartenstadt Bewegung einen Rückgriff auf das handwerkliche und traditionelle Bauweisen propagierte, forderten die Architekten des Neuen Bauens eine Industrielle Fertigung und eine klare Formensprache, die das Material und die Machart in den Hintergrund drängte.<br>Neben den Siedlungen des frühen 20. Jhd. gibt es eine wachsende Anzahl von zeitgenössischen Projekten, die sich auf neue Weise mit der Landschaft und dem Ländlichen auseinandersetzt. Durch die digitalen Technologien werden neue Formen des Wohnens und Arbeitens möglich, die steigenden Mieten in den Ballungsräumen führen zu einer Stadtflucht und die Sehnsucht nach einem bewussteren Leben steigen beständig. Diese Entwicklung hat durch die Corona Pandemie eine neue Dynamik erhalten und macht eine vertiefte Auseinandersetzung mit dem „Dorf der Zukunft“ um so wichtiger.<br>Als Begleitseminar zum Entwurf Gehren – Wald. Land. Zukunft. wird der programmatische Zugang zum Entwurf gestärkt.</br></br></br></br>

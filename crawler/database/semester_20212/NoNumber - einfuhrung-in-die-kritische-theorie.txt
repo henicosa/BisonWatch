@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Einführung in die kritische Theorie
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51340&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Studienmodul - Mediale Welten
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Ftheorie-medialer-welten%2F&timestamp=1631111075051&hash=19e2908402b115d10b6981bb577f3758
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Henning Schmidgen :3 S: Fakultät Medien,Volker Bernhard
+# Beschreibung
+Beschreibung :3 S: Die multiplen Krisen unserer Gegenwart (Klima, Pandemie, Rechtsruck, etc.) haben in den letzten Jahren zu einer vorsichtigen Repolitisierung wissenschaftlicher Erkenntnis geführt. Vor diesem Hintergrund möchte das Seminar in das Denken der frühen Kritischen Theorie einführen: Auf welche Weise versuchten ihre Vertreter welcher historischen Situation zu begegnen? Wir befragen den wissenschaftspolitischen Einsatz einer normativen und interdisziplinären Theoriebildung sowie die Produktivität eines sozial grundierten Technikdenkens auf ihre Aktualität für medien- und kulturwissenschaftliche Diskurse. Weitere Themen könnten, je nach Interesse, das Verhältnis von Theorie und Praxis oder Parallelen und Differenzen zum kritischen Diskurs in Frankreich sein. Wir lesen Aufsätze aus der „Zeitschrift für Sozialforschung” sowie weitere Schlüsseltexte von Theodor W. Adorno, Max Horkheimer, Erich Fromm, Walter Benjamin, Friedrich Pollock, Kurt Goldstein und Herbert Marcuse.

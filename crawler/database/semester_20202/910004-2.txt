@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Wasserbau
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48210&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Integrierte Vorlesung
+SWS :3 S: 1
+Veranstaltungsnummer :3 S: 910004-2
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D26923&timestamp=1631059181096&hash=20f9b7e299c4eda3995e0f3955962e3d
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Jörg Londong :3 S: Fakultät Bauingenieurwesen,keine öffentliche Person :3 S: Fakultät Bauingenieurwesen,Ralf Englert
+# Beschreibung
+Beschreibung :3 S: Flussentwicklung in der Kulturlandschaft, Flussbau (Ufer, Sohle, Vorland, Deiche, Polder), hydraulische Berechnung naturnah gestalteter Fließgewässer, Wehre und naturnahe Sohlenbauwerke, Energieumwandlung, Ausleitungsbauwerke, Wasserkraftanlagen (Aufstau und Mindestwasser, Planung und Betrieb, Kleinwasserkraft), Binnenverkehrswasserbau (Schifffahrtskanäle und schiffbare Flüsse,Schleusen, Schiffshebewerke, Hafenanlagen)

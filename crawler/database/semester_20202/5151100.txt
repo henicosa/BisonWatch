@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Italienisch 1 (A 1.1)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47236&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Kurs
+SWS :3 S: 3
+Veranstaltungsnummer :3 S: 5151100
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fde%2Funiversitaet%2Fstruktur%2Fzentrale-einrichtungen%2Fsprachenzentrum%2F&timestamp=1631058371532&hash=b9c6037dd696be0322d85fc3c8af0837
+Sprache :3 S: missing
+Fakultät :3 S: missing
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Zentrale Einrichtungen,Giovanna Paradisi
+# Beschreibung
+Beschreibung :3 S: Wenn Sie sich für diesen Kurs interessieren, wechseln Sie bitte auf die Internetseiten des Sprachenzentrums (s. obiger Link). Hier finden Sie eine Übersicht über die angebotenen Kurse sowie die  Einschreibeformulare.

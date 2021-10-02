@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: The childfriendly city
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47565&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 120222803
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Theorie\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Theorie\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Theorie\r, <br/>,  , <br/>, European Urban Studies, M.Sc. PO 2020\r, <br/>, elective modules\r, <br/>, European Urban Studies, M.Sc. PO 18\r, <br/>, elective modules\r, <br/>,  , <br/>, Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 2020 2-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Wahlpflichtmodul
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2Fwww.uni-weimar.de%2Fde%2Farchitektur%2Fprofessur%2Fstadtforschung&timestamp=1631059010779&hash=ee135debba2caa938758220c611b3bf0
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 17:00 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Frank Eckardt
+# Beschreibung
+Beschreibung :3 S: The aim of this seminar is to promote the topic of child-friendly urban planning. It will look at theoretical discourses on childhood in history, pedagogy, sociology and urban studies. Built upon a profound understanding on the needs of children, examples of childfriendly cities and examples of children’s participation in planning will be looked at in a second part of the seminar. In a third part, the subject will be looked at in a comperative view between two cities in Poland (to be decided later after a desk study) and Germany (Altenburg) which, under conditions of shrinkage, shape the living conditions for children. It is being explored how small towns can actively deal with the fact that there are fewer children on the ground and many young people want to leave these cities. How can institutions such as schools, sports clubs or kindergartens act in such a way that children do not suffer from vacancy, emigration and missing educators, teachers and friends? How could be chances fort he social and intellectual development for young poeople strenghten? The project is to be implemented with local partners who are actively involved in working with children and thus can provide insight into the everyday lives of the adults. It is linked to the ongoing debate about the inclusive city. It is also intended to encourage both cities to benefit from the experiences of the UNESCO network Childfriendly city. The mutual exchange should sensitize to existing scope in the city for more participation of children in everyday life and their special needs in the center. The exchange will be organized with one visit of Polish students in january and a visit of our seminar to Poland. This excursion will be financially supported by the Polish-German Foundation of Academic Exchange. Nevertheless, costs of ca. 120 Euro pp will remain.

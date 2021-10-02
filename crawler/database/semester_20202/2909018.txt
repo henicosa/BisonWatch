@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Advanced Transportation Planning and Socio-Economic Assessment
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47932&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Integrierte Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 2909018
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Advanced Transportation Planning and Public Transport
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fvsp&timestamp=1631108654043&hash=bfd69d2865467063eaf2f3ff04b790fe
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: unger. Wo
+Bemerkung :3 S: , <p>Raum 305 M13</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Uwe Plank-Wiedenbeck :3 S: Fakultät Bauingenieurwesen,Maximilian Wunsch :3 S: Fakultät Bauingenieurwesen,Johannes Vogel :3 S: Fakultät Bauingenieurwesen,Julius Uhlmann
+# Beschreibung
+Beschreibung :3 S: Kapitalwert, Annuität, Diskontsatz, Nutzen etc. als mikro-ökonomische Grundlagen für Bewertungsrechnungen. Vorstellung von Zielsystemen, Indikatoren und Wertsyntheseverfahren (Nutzen-Kosten-Analyse (NKA), Nutzwertanalyse (NWA), etc.) als Komponen¬ten von Bewertungsver¬fahren. Aufbereitung von Umlegungsergebnissen der Verkehrsmodelle als Input für Bewertungsverfahren (Ganglinien etc.). Berechnung von Indikatoren und Herleitung von Monetarisierungs¬ansätzen. Deutscher Bundesverkehrswegeplan 2030 (BVWP) und europäisches Bewertungsverfahren für Fußgänger- und Radverkehr mit vorbereiteten Praxisbeispielen

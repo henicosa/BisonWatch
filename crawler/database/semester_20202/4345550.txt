@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Cryptographic Hash Functions
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47807&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 4345550
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Vorlesung</p>,
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Übung</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Stefan Lucks :3 S: Fakultät Medien,Nathalie Lang :3 S: Fakultät Kunst und Gestaltung,Nicolai Ruckel
+# Beschreibung
+Beschreibung :3 S: Kryptographische Hashfunktionen sind unübliche kryptographische Algorithmen, da sie, im Gegensatz zu Blockchiffren und MACs ohne geheimen Schlüssel auskommen. Dennoch, sie gehören zu den Arbeitstieren in vielen Algorithmen und werden in so gut wie allen kryptographischen Protokollen verwendet (z. B.: SSH, SSL/TLS, RSA-OAEP). Seit dem Jahre 2000, haben Kryptographen kritischen Sicherheitslücken in alltäglich genutzen Hashfunktionenwie MD5 oder SHA-1 gefunden. Nur die SHA-2-Familie scheint gegen solche Angriffe resistent zu sein. Jedoch, da die Strukture von SHA-2 der von SHA-1 sehr ähnelt, hat das NIST einen Wettbewerb ausgerufen, um einen neuen Hashfunktionen-Standard (SHA-3) zu finden. Zwei der eingereichen Kandidaten für den Wettbewerb stammen vom Lehrstuhl für Mediensicherheit der Bauhaus-Universität Weimar, wobei einer (Skein) es sogar ins Finale geschafft hat. Im ersten Teil wird es um die Einführung und praktische Nutzung kryptographischer Hashfunktionen gehen. Der zweite Teil beschäftigt sich mit generischen Angriffen und deren Einfluss in der Praxis. Der dritte Teil wird sich um die SHA-3-Kandidate drehen. Basieren auf den Erkenntnissen und Kandidate des Password-Hashing-Wettbewerbs (PHC), wird es einen möglichen vierten Teil der Vorlesung geben, der sich mit Password-Hashing und den darunterliegenden Problemstellungen, sowie mit den Kandidaten des Wettbewerbs beschäftigt.

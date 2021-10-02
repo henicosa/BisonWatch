@@ -1,0 +1,43 @@
+Veranstaltungstitel :3 S: anfängerglück animation - drehbuch
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49961&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Werk-/Fachmodul
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 321110028
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 12
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 11:00 bis 15:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Online Meeting</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 11:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Online Meeting</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 11:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Online Meeting</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 11:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Online Meeting</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 11:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Online Meeting</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Franka Sachse :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Im Verlauf des Semesters werden die Kursteilnehmer*innen jeweils ein eigenes Drehbücher für einen narrativen Animationskurzfilm schreiben. Der Kurs beginnt mit der Entwicklung einer Filmidee, welche in gemeinsamen Übungen verfeinert und in Drehbuchform gebracht wird. Es wird nicht möglich sein, bereits vorhandene Filmideen auszuarbeiten, da uns das geplante Format des Kurses eine bestimmte Arbeitsweise vorgibt. Wir starten gemeinsam am Punkt Null.

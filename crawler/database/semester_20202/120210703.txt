@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Fassadenseminar (Ba)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48536&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Übung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 120210703
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Konstruktion | Technik\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Konstruktion | Technik\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Konstruktion | Technik
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Johannes Kühn :3 S: Fakultät Architektur und Urbanistik,Marlene Külz :3 S: Fakultät Architektur und Urbanistik,Marie-Theres Weiß :3 S: Fakultät Architektur und Urbanistik,Robert Ochsenfarth
+# Beschreibung
+Beschreibung :3 S: Durch die Bearbeitung von Themen aus Architekturtheorie und konstruktiver Praxis wird den Teilnehmern des Seminars die Fassade als ein entscheidender Teil im Entwurf eines Gebäudes nähergebracht. In diskursiver Form entwickelt sich das Seminar über die Betrachtungen von 150 Jahren Architekturtheorie zum Umgang mit der äußeren Erscheinung von Gebäuden hin zu einem Überblick materialbezogener Konstruktionsformen. Das Seminar bleibt den Teilnehmern des Kernmoduls KLANGkollektion im Bachelor-Studiengang vorbehalten und ist integrierter Bestandteil dieses Entwurfes.

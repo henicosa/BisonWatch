@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Was heißt "extended cinema"? Theoretische Perspektiven
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49580&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Basismodul MA Filmkulturen - extended cinema
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Fphilosophieavmedien%2F&timestamp=1631116287009&hash=711de7ef2bad8789e6dd86218e1b1499
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Online via Moodle</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Sebastian Lederle
+# Beschreibung
+Beschreibung :3 S: <span style=font-size: 12pt;><span style=font-size: 12pt;>Ausgehend von Gene Youngbloods namens- und diskursstiftendem Buch Expanded cinema von 1970 soll das mediale Feld eines expanded cinema bis hin zum post cinema in seinen Hauptkoordinaten mittels exemplarischer Texte und Praktiken thematisiert und abgesteckt werden. Die Theoriebildung ist insbesondere in ein Verhältnis zu ausgewählten medialen, technischen, künstlerischen Entwicklungen der Jahrzehnte in den späten 60igern und 70igern zu setzen, vor allem zur einsetzenden Migration des Filmischen aus dem Kino in eine immer stärker technisierte und medialisierte Lebens- und Alltagswelt, in der es dann an vielen Stellen an einer Pluralität von Formbildungsprozessen teilhat, die sich auf intermediale Konstellationen, soziale Einbettungen und politischen Vektorisierungen beziehen. Vom Filmstreifen und Amiga bis zum GIF und Morphingeffekt auf dem Handydisplay: Film ist nicht gleich Film, sondern ständig in neuen Formaten, Kontexten und technischen Settings anzutreffen. So können Autor*innen wie Jenkins, Denson, Deleuze, Foucault, Mulvey, Williams, Deuber-Mankowsky oder Feige auf Youngbloods Buch als Differenzfolie und die Frage orientiert werden Was gibt das Konzept des expanded cinema auch heute noch zu denken, wo hat sich die digitale ludische Kultur im Verein mit dem postcinema anders entwickelt als dies in den 70igern vorhersehbar war?. <br/></span></span>

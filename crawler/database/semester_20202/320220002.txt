@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Earth, Wind and Fire - Material & Process Experience and Experiments with natural forces
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47790&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 18
+Veranstaltungsnummer :3 S: 320220002
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fkunst-und-gestaltung%2Fstruktur%2Flehrgebiete-personen%2Fproduktdesign%2Fgastwiss-katrin-krupka%2F&timestamp=1631058065766&hash=15500cb79eabcd79e501061b438c579f
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:00 bis 18:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Katrin Krupka :3 S: Fakultät Kunst und Gestaltung,Susann Paduch :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: - Einblicke in aktuellen Diskurs zu Material, Herstellungsmethoden und Umwelt im Kontext Design, Industrie, Handwerk, Forschung und Kunst, <br>- Analyse und Evaluation von Informationen im Bereich Umwelt, Material und Nachhaltigkeit<br/>- Auseinandersetzung mit aktuellen Tendenzen in den Bereichen Umwelt und<br/>  Nachhaltigkeit<br/>- präzise Entwurfsentwicklung mit diversen Methoden und Tools analog und digital, unter anderem Materialexperiment als Entwurfsmethode<br/>- Überführung eines Entwurfsansatzes im Kontext Material und Umwelt in ein adäquates Produkt<br/>- Angewandter Entwurf in Gruppenarbeit, Präsentation und Evaluation analog und digital<br/>- Kommunikation des eigenen Entwurfes im Kontext der Themenstellung Umwelt; Formulierung einer eigenen Entwurfsaufgabe nach Maßgabe der Diskussion zum Projekt <br/>- das konkrete Entwurfsthema wird später bekannt gegeben</br>

@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: co.ro.na. - conscious `round nations -> ein Utopie-Seminar_Teil 2
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47871&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 120220103
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Architektur\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Architektur\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Architektur\r, <br/>,  , <br/>, MediaArchitecture, M.Sc. PO 2020\r, <br/>, Fachmodul - Gestalten im Kontext\r, <br/>, MediaArchitecture, M.Sc. PO 18\r, <br/>, Fachmodul - Gestalten im Kontext
+Erwartete Teilnehmer/-innen :3 S: 20
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D21745&timestamp=1631057959445&hash=6ee53f63f6faa274be65855888c695ce
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Ines Escherich :3 S: Fakultät Architektur und Urbanistik,Julia Heinemann
+# Beschreibung
+Beschreibung :3 S: Die Utopie bestimmt die Prognose. Zukunftsforschung* durch Kreieren von Szenarien, auf die dann hingearbeitet werden kann... . Das sich aus verschiedenen Sparten, Fakultäten und Expertisen sich zusammensetzende „Forscherteam” agiert (zunächst fiktiv) als Teil einer weltweiten Bewegung mit dem Akronym co.ro.na – conscious `round nations. Diese Bewegung sieht in der aktuellen Krise die Chance, eines Bewusstseins- und Verhaltenswandels, der die gesamte Menschheit in der Evolution auf die nächste Entwicklungsstufe hebt. „Co.ro.na” ist weltweit im „Untergrund” aktiv. Ziel der Bewegung ist das Gewahrwerden der eigenen Handlungsfähigkeit sowie der damit verbundenen Verantwortung aktiv in das aktuelle Weltgeschehen eingreifen zu können. Wir werden die (durch den Corona-Virus weltweit verursachte) Krankheit als Anlass nehmen, einen Weg der Heilung einzuschlagen und konstruktive Zukunftsforschung* zu betreiben. Im Laufe des Wintersemesters werden wir als Forschungsteam Zukunftsszenarien entwickeln, aufbereiten und Handlungsangebote bereitstellen. Dafür nutzen wir unsere, eigens dafür angelegten socialmedia Formate samt Internetseite www.corona.soy, über die, die im Seminar entwickelten Forschungsinhalte veröffentlicht werden. Außerdem kann über die Website der Co.ro.na.-Anstecker bestellt werden, um sich selbst und andere mit dieser Idee anzustecken. Der Erlös fließt in die Realisierung der Konzepte. Gearbeitet wird je nach Expertise und Interesse an der Entwicklung eines Zukunftsszenarios oder der medialen Aufbereitung dieser, vorzugsweise in 2er-Teams. Die Ausrichtrichtung Architekturvermittlung ist möglich, aber nicht zwingend erforderlich. In Zusammenarbeit mit Radio Lotte können die Entwürfe über das Radio dem Weimarer Publikum vorgestellt werden. Es ist möglich, auf bereits bestehende Initiativen zurückzugreifen, diese weiterzudenken oder für die Zukunftsforschung aufzubereiten. Ziel ist es, die Zukunft vorzuzeichnen und in den schönsten Farben auszumalen.

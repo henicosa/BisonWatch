@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Bachelor-Kolloquium Experimentelles Radio
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47914&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Kolloquium
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Moodle/BBB-Termine</p>, <br/>, <p>Präzenztermine nach Absprache<br>R. 206 M5</br></p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Nathalie Singer
+# Beschreibung
+Beschreibung :3 S: Für alle, die ihren Bachelor beim Experimentellen Radio machen oder ein freies Projekt umsetzen wollen. , <br><br/></br>

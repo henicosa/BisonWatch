@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Verkehrsplanung: Teil Methoden der Verkehrsplanung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=46977&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Integrierte Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 2909025
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Verkehrsplanung
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fvsp&timestamp=1631059105459&hash=e483d71e6a9485240876f47182fbcf51
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Fabian Post :3 S: missing,Nadja Seiler :3 S: Fakultät Bauingenieurwesen,Julius Uhlmann :3 S: Fakultät Bauingenieurwesen,Uwe Plank-Wiedenbeck
+# Beschreibung
+Beschreibung :3 S: Die Veranstaltung Methoden der Verkehrsplanung gibt einen Überblick über das Aufgabengebiet der Verkehrsplanung, wobei die umweltgerechte, nachhaltige Gestaltung im Fokus steht. Dazu werden die grundlegenden Begrifflichkeiten, Mobilitätskenngrößen und verkehrsplanerischen Fragestellungen mit einem Schwerpunkt auf die methodische Vorgehensweise betrachtet. Mobilität als Zusammenhang zwischen Aktivitäten und Ortsveränderungen wird als Schnittstelle zwischen Stadt- und Verkehrsentwicklung thematisiert. Vorgestellt werden u.a. Instrumente der integrierten Verkehrsplanung (z. B. intermodale Konzepte, Parkraumbewirtschaftung etc.), Plangrundlagen (Nahverkehrspläne/ Radverkehrskonzepte etc.) und verkehrliche Erhebungsmethoden. Der Praxisbezug wird u.a. durch die Behandlung von Verkehrsentwicklungsplänen und Beispielen geplanter bzw. umgesetzter Vorhaben hergestellt.

@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Learning Machines - Einführung in die "Künstliche Intelligenz"
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51414&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Personen
+Personen :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N.
+# Beschreibung
+Beschreibung :3 S: Der Kurs gibt eine Einführung in das Maschinelle Lernen und dessen Programmierung in Python, unter Verwendung der Tensorflow-Bibliotheken. Das Ziel des Kurses ist es, ein kritisches Verständnis von maschinellem Lernen und dessen Anwendung zu erlangen. , <br/>, Der Kurs konzentriert sich dabei auf die Analyse von Verhaltensdaten und die Vorhersage von Trends und Meinungen, die die Kernanwendung der KI bilden. Die Studierenden sollen wöchentlich Aufgaben entwickeln, die die Grundlage für zukünftige Machine Learning Anwendungen bilden.

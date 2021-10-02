@@ -1,0 +1,33 @@
+Veranstaltungstitel :3 S: Erzählen mit der Kamera - Auflösung, Perspektive und Bewegung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51687&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Werk-/Fachmodul
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 15
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 15:00 bis 19:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:00 bis 18:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:00 bis 18:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person :3 S: Fakultät Kunst und Gestaltung,Achim Dunker
+# Beschreibung
+Beschreibung :3 S: Der Film entsteht im Schnitt, so lautet eine gängige Lehrmeinung. Wahr ist aber auch: Nur das lässt sich zu einem Film montieren, was gedreht worden ist. Der visuelle Erzählfluss der Kamera gelingt durch die inhaltsgerechte Auswahl der Einstellungsgrößen, der Perspektiven und der Bewegung. In der Lehrveranstaltung geht es darum das richtige Material für den Filmschnitt zu liefern: Das Staging - Bewegungskontinuität - Die Einstellungsgrößen - Perspektiven - Kamerabewegungen., <br>Darüber hinaus beschäftigen wir uns mit Fehlern, Entwicklungen und Innovationen, Entwicklung der szenische Auflösung in der Filmgeschichte, Entwicklungsstufen und Brüchen und Unterschieden in den Genres und Stilen.</br>

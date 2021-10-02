@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Seminar Kunstgeschichte (Einführungsmodul Lehramt)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47899&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Wissenschaftliches Modul
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 320230025
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fkunst-und-gestaltung%2Fstruktur%2Flehrgebiete-personen%2Fwissenschaftliche-lehrgebiete%2Fdr-thomas-fuchs%2F&timestamp=1631058894078&hash=2c7eee67d8b085b8896ad25cf9f66f71
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Das Seminar findet online über moodle statt. Bitte hier jeweils nachsehen.</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Thomas Fuchs :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Einführungsmodul nur für Studienanfänger Lehramt Kunsterziehung.

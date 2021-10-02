@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Spazieren, Fotografieren — Fotografisches Erkunden      von äußeren und inneren Räumen
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48832&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 6
+Veranstaltungsnummer :3 S: 321110094
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 10:00 bis 16:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>ODER mit Moodle/BBB</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Yana Wernicke :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: <br>Ob in der Stadt oder in der Natur, ein Spaziergang bedeutet eine Konfrontation unserer Körpers mit der Welt. Gleichzeitig birgt jeder Spaziergang auch die Chance zur Selbstreflexion: welchen Einfluss hat meine Umgebung auf meine Wahrnehmung, meine Psyche und Stimmung, mein Verhalten?<br/>Unsere Kamera mit auf den Spaziergang zu nehmen (oder: unsere Kamera auszuführen) kann diese äußeren und inneren Eindrücke verstärken und uns zu neuer Konzentration verhelfen. Die Kamera wird hier zum Instrument zur Erforschung unserer alltäglichen Lebensumwelt. Sie erlaubt uns gewohnte wie auch ungewohnte Umgebungen mit neuen Augen zu betrachten, Dinge zu entdecken, die wir vorher übersehen haben und so den Raum zum Sprechen zu bringen. Der fotografische Spaziergang kann dabei zu einem Moment der Selbstreflexion, aber auch der investigativen Beobachtung werden.<br/>Die Teilnehmer:innen dieses Kurses werden dazu eingeladen, im Rahmen des »fotografischen Spaziergangs« ein eigenes Thema zu finden und entsprechend eine Serie umsetzen. Dabei können Sie sich sowohl mit einem besonderen Ort, einer Person, einer Gruppe, sich selbst oder einer freien Idee auseinandersetzen.<br/>Weitere Themen des Kurses können sein:<br/>• Der Flaneur: Dichter, Spurenleser, Traumdeuter, Voyeur<br/>• Sich treiben lassen oder auch verlaufen, um sich neuen Entdeckungen, Erfahrungen und Zusammentreffen auszusetzen (dérive)<br/>• Der Fotograf als Detektiv und stiller Beobachter<br/>• Erkundung durch Zufall und strategische Begrenzung<br/>• „Auf den Spuren von …“: einer (literarischen) Vorlage folgen<br/>• Straßenfotografie (»street photography«)<br/>• Wie verändert die Pandemie die Orte unseres Alltags?<br/>• Lockdown und Spazieren in der eigenen Wohnung: Die eigene Innenwelt erkunden? Hospitalismus im eigenen Kiez?<br/>• Geschwindigkeit: das Gehen als kritische Alternative zu mechanisierter Mobilität<br/>• Architektur und Psychogeografie: Einfluss der (urbanen) Umgebung auf Wahrnehmung, Psyche und Verhalten<br/>• Öffentlicher Raum: Wem gehört er und was machen wir damit?<br/>• Virtuelle Spaziergänge: Wo und wie läuft der Flaneur des 21. Jahrhunderts?<br/>Dabei werden uns u.a. die Arbeiten von Fotografen wie z.B. Sophie Calle, Eugène Atget, Federico Clavarino, Andrea Grützner, Xiaoxiao Xu, Alan Huck, John Gossage, Mark Ruwedel, Grégoire Pujade-Lauraine, Ron Jude, Seth Lower, Louis de Belle, Ulrich Wüst und weitere als Inspiration und Diskussionsgrundlage dienen.</br>

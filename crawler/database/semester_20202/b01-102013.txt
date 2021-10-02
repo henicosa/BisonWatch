@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Chemie - Chemie für Ingenieure
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47042&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Integrierte Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: B01-102013
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fenrol%2Findex.php%3Fid%3D27500&timestamp=1631057943576&hash=881e2b74706af395260e9ef805739ac0
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>digital</p>,
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>digital</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Jens Schneider
+# Beschreibung
+Beschreibung :3 S: Lehrinhalte: Aufbau der Atome und des Periodensystems der Elemente; Stöchiometrie: Aufstellen und Ausgleichen chemischer Formeln und Reaktionsgleichungen; Bindungsarten: Ionenbindung, kovalente Bindung, Metallische Bindung; Eigenschaften idealer Gase: ideales Gasgesetz, Gasvolumina Eigenschaften von Flüssigkeiten und Feststoffen: intermolekulare Anziehungskräfte, Wasserstoff-Brückenbindung, Dampfdruck, Siedepunkt-Erhöhung, Gefrierpunkterniedrigung, Phasendiagramme, Kristallstruktur; Lösungschemie: Auflösung, Bestimmung der Lösungszusammensetzung, Löslichkeitsprodukt, Säure-Basen-Theorie, pH-Wert; Redoxreaktionen; Organische Chemie: homologe Reihen und Funktionelle Gruppen, Nomenklatur organischer Verbindungen, <br>Semesterbegleitend wird eine Belegarbeit angefertigt. Die Einreichung und das Bestehen der Belegarbeit ist Voraussetzung für die Teilnahme an der Prüfung.</br>

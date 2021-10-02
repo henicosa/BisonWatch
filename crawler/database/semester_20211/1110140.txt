@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: 2. Kernmodul - INCIPIT Schloss Friedenstein Gotha
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49612&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Entwurf
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 1110140
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, 2. Kernmodul\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, 2. Kernmodul\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, 2. Kernmodul
+Erwartete Teilnehmer/-innen :3 S: 15
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 10:00 bis 17:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Abschlussrundgang</p>,
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Sabine Zierold :3 S: Fakultät Architektur und Urbanistik,Bernd Rudolf
+# Beschreibung
+Beschreibung :3 S: Für die Sammlungen der Stiftung Schloss Friedenstein Gotha ist ein temporärer Pavillon zu entwerfen, der als Vitrine an verschiedenen Standorten Einblick in das barocke Universum Gotha gewährt. Er sucht seinen Platz entlang touristischer Pfade und an wichtigen Knotenpunkten als Orientierungshilfe und Informationsquelle. Die mobile Mikroarchitektur orientiert sich an einer im Stegreif entworfenen Box barocker Raumkunst und führt deren Grundidee in einer modularen Konstruktion fort, die den Standortwechsel und die Ergänzung weiterer Elemente ermöglicht. Die INCIPIT-Vitrine enthält wechselnde Informationen zu aktuellen Ausstellungs- und Veranstaltungsinhalten sowie Verweise auf die umfangreichen Sammlungsbestände. Eine Wandlungs- und Anpassungsfähigkeit an verschiedene Standorte und Inhalte der Information soll gewährleistet werden.

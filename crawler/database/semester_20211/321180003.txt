@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Introduction to Methodology
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49887&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Wissenschaftliches Modul
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 321180003
+Max. Teilnehmer/-innen :3 S: 8
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fkunst-und-gestaltung%2Fprofessuren%2Ftheorie-und-geschichte-des-design%2F&timestamp=1631115615302&hash=92a24ecf97d3e9af20621f82ebedeb72
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Jan Willmann :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Mit dem Ph.D.-Seminar werden grundlegende Konzepte, Techniken und Methoden der Designforschung vorgestellt. Zentral steht die systematische Einordnung und Diskussion unterschiedlicher theoretischer und praktischer Ansätze und vor allem deren wechselseitige Verschränkung in der aktuellen Designforschung, u.a. qualitative Ansätze, quantitative Verfahren, Mixed Methods etc. Hierzu wird das Seminar unterschiedliche Definitionen und Methoden untersuchen und deren „Operationalität“ anhand ausgewählter Fallbeispiele vertiefen. Die Lehrveranstaltung richtet sich explizit an die Designstudierenden des Ph.D.-Studiengangs und findet in (zwei) Blockseminaren im Rahmen der Ph.D.-Wochen statt.

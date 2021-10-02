@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Datenbasiertes Medienmanagement
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49611&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 421150026
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p><a href=https://moodle.uni-weimar.de/course/view.php?id=30560>https://moodle.uni-weimar.de/course/view.php?id=30560</a></p>, <br/>, <p> </p>,
+# Personen
+Personen :3 S: Fakultät Medien,Christopher Buschow
+# Beschreibung
+Beschreibung :3 S: Kann künstlerische Leistung durch Algorithmen erbracht werden? Schreiben bald Roboter Musikstücke, Drehbücher und journalistische Reportagen? Alles Science Fiction? Empfehlungsalgorithmen, Inhaltepersonalisierung, Roboterjournalismus: Mit Datafizierung und Verfahren der sog. „Künstlichen Intelligenz“ verbinden sich gegenwärtig große Hoffnungen auf neue Wertschöpfungspotenziale in der Medienwirtschaft. Sowohl Start-ups als auch etablierte Konzerne formulieren hohe Erwartungen an diese technologische Neuerungen: Sie sollen helfen, Prozesse in Medienunternehmen zu automatisieren und Entscheidungen auf fundierter Datengrundlage zu treffen, in der Entwicklung von Produkten und Services unterstützen oder gänzlich neue Geschäftsmodelle ermöglichen. Im Seminar setzen wir an der Beobachtung dieses Hypes um Datafizierung und Künstliche Intelligenz in der Medienwirtschaft an. Auf Grundlage von im Plenum gemeinsam erschlossenen Ansätzen der Organisationsforschung und des (Medien-)Managements werden Verfahrensweisen eines Datenbasierten Medienmanagements auf ihre Leistungsfähigkeit hin überprüft. Hierzu befassen sich die Teilnehmer*innen im Laufe des Semesters tief gehend mit dem Datenbasierten Medienmanagement in einer selbstgewählten Medienbranche (z.B. Verlagswesen, Buchmarkt, Musikbranche, Filmindustrie, Gaming). Die erarbeiteten Branchenfallstudien werden in Referaten präsentiert und mit den Kommiliton*innen im Plenum diskutiert.

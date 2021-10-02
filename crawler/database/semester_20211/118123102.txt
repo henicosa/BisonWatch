@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Tragwerk-Workshop
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49706&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Workshop
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 118123102
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Projektmodul - projektbegleitende Veranstaltung oder\r, <br/>, Wahlpflichtmodul - Technik\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Projektmodul - projektbegleitende Veranstaltung oder\r, <br/>, Wahlpflichtmodul - Technik\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Projektmodul - projektbegleitende Veranstaltung oder\r, <br/>, Wahlpflichtmodul - Technik
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Katrin Linne :3 S: Fakultät Architektur und Urbanistik,Hansjörg Lehmkuhl
+# Beschreibung
+Beschreibung :3 S: Angegliedert an das Projektmodul Laboratorium Lignum wird den Studierenden die Möglichkeit gegeben, ihre Gedanken zur Architektur im Bereich der Tragwerks-Vordimensionierung zu vervollständigen. Einen Tag lang werden die Qualitäten der Tragwerke diskutiert.

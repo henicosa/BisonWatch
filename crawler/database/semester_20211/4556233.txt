@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Computer Graphics II: Fundamentals of Imaging
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48884&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 4556233
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Vorlesung(online)</p>, <br/>, <p>Moodle- Link: <a href=https://moodle.uni-weimar.de/course/view.php?id=31374>https://moodle.uni-weimar.de/course/view.php?id=31374</a></p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Übung (online)</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Charles Wüthrich
+# Beschreibung
+Beschreibung :3 S: Algorithmen und Datenstrukturen

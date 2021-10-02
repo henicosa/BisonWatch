@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Green Dreams of Suburbia: Climate Change, Sustainability, the COVID-19 pandemic and Urban Form
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47781&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 120220601
+Max. Teilnehmer/-innen :3 S: 30
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Theorie\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Theorie\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Theorie\r, <br/>,  , <br/>, Integrated Urban Development and Design, M.Sc. PO 2020\r, <br/>, compulsory module - Urban Sociology\r, <br/>, Integrated Urban Development and Design, M.Sc. PO 18\r, <br/>, compulsory module - Urban Sociology
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Bernhard Stratmann
+# Beschreibung
+Beschreibung :3 S: <strong>Green Dreams of Suburbia: Climate Change, Sustainability, the COVID-19 pandemic and Urban Form</strong>, <br>Suburbanisierung ist zu einem globalen Trend in der Stadtentwicklung geworden. Angesichts des drohenden Klimawandels, zur Neige gehender Erdölreserven und gleichzeitig noch ansteigendem globalen Energieverbrauch stellt sich jedoch die Frage, ob suburbane Räume mit dem Ziel nachhaltiger Stadtentwicklung vereinbar sind. In dem Seminar wird der Diskussion um Nachhaltigkeit und Stadtstruktur nachgegangen, denn aktuell liegen neue Erkenntnisse zu dieser Thematik vor, die auch Architekten und Städtebauern neue Betätigungsfelder eröffnen.<br>Die aktuelle Corona-Krise wie auch zukünftige Pandemie-Risiken werfen die Fragen auf, ob eine weitere Ballung von Bevölkerungen in ohnehin schon dichten Metropolen sinnvoll ist, ob Strategien der Nachverdichtung nicht (enge) Grenzen zu setzen sind und ob dezentralere Siedlungsstrukturen und geringere urbane Dichte tatsächlich eine Schutzwirkung haben.</br></br>

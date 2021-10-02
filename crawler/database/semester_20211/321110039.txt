@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Kettenreaktion – Entwicklung einer Podcast-Miniserie
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49824&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Werk-/Fachmodul
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 321110039
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>BBB-Sitzungen</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Elena Zieser :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Ist ein Podcast eine Serie? Was ist ein Podcast überhaupt? Welche Rolle spielt das Element der Wiederholung? Dient ein fortlaufendes Format möglicherweise einer inhaltlichen Fragestellung? Wie stellt sich Serialität her? Und was ist das überhaupt? , <br>In diesem Werkmodul wollen wir das Format einer Miniserie bespielen. Wir beschäftigen uns mit bestehenden Formaten: fiktiven, narrativen, investigativen und rein informativen Podcasts und Serien. Wir untersuchen serielles Storytelling und experimentelle Formen des Geschichtenerzählens. Wir machen uns auf die Suche nach Inhalten, Atmospähren und Zeitebenen. Und wir entwickeln und produzieren gemeinsam unsere ganz eigene Miniserie. <br/>Inhaltlich wollen wir uns an der Thematik des diesjährigen Kultursymposium Weimar orientieren: unter dem Motto „Generationen“ veranstaltet das Goethe-Institut zum dritten Mal sein diskursives Festival für neue Netzwerke und Ideen, diesmal mit einem speziellen Sendeprogramm, generation.fm, das gemeinsam mit bauhaus.fm und Radio Lotte am 16. Und 17. Juni sowie zur Summaery senden wird. Welche Herausforderungen entstehen im Miteinander der Generationen, welche Chancen ergeben sich aus dem Blick in die Vergangenheit und welche Fragen für eine nachhaltige Zukunft? Was prägt uns – und welche Geschichten wollen wir kommenden Generationen erzählen?<br/><br/>https://www.goethe.de/prj/ksw/de/index.html<br/><br/>Anmeldung mit Exposé/Ideenskizze für eine Kurzformatserie bitte bis 06.04.2021 an: elena.zieser@uni-weimar.de</br>

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: 1. Kernmodul: Darstellen und Gestalten
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50884&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Entwurf
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 1210120
+Max. Teilnehmer/-innen :3 S: 120
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Architektur, B.Sc.  PO 2020\r, <br/>, 1. Kernmodul - Grundlagen des Gestaltens\r, <br/>, Architektur, B.Sc.  PO 18\r, <br/>, 1. Kernmodul - Grundlagen des Gestaltens
+Erwartete Teilnehmer/-innen :3 S: 120
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Martin Schmidt :3 S: Fakultät Architektur und Urbanistik,Julia Heinemann :3 S: Fakultät Architektur und Urbanistik,Luise Nerlich :3 S: Fakultät Architektur und Urbanistik,Sabine Zierold :3 S: Fakultät Architektur und Urbanistik,Martin Ahner
+# Beschreibung
+Beschreibung :3 S: <strong>Ein Weg zur Architektur</strong>

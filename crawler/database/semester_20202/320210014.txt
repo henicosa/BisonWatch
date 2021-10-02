@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Filmton
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48182&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 320210014
+Max. Teilnehmer/-innen :3 S: 14
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Personen
+Personen :3 S: missing,William Amsler
+# Beschreibung
+Beschreibung :3 S: Der Kurs ist in Praxis und Theorie unterteilt. Themen sind Mikrofontechnik (Anwendung beim Film), Video Postproduktion (Mixing, Editing, Restauration), Sounddesign/Foleys (das Geräusch zum Bild), Voice Over/ADR und Final Mix für Kino.

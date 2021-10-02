@@ -1,0 +1,27 @@
+Veranstaltungstitel :3 S: Fachstudienberatung Management [Bau Immobilien Infrastruktur]
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50353&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Sonstige Veranstaltung
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D30806&timestamp=1631111117778&hash=d96ae924103c72ad9113fef505c0ebf2
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 16:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Begrüßung Erstsemester MBM2020 - Veranstaltung digital über BigBlueButton</p>,
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 17:00 bis 18:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Begrüßung Erstsemester MBB2020 - Veranstaltung digital über BigBlueButton</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Hans-Joachim Bargstädt :3 S: Fakultät Bauingenieurwesen,Birgit Bode
+# Beschreibung

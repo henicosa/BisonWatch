@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Barock zwischen Epoche und Stil, Moderne und A-Moderne
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49578&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: MA-Modul Barock
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Online via Moodle</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Michael Cuntz
+# Beschreibung
+Beschreibung :3 S: <span style=font-size: 12pt;>Wie der Seminartitel andeutet, gibt es vielfältige Versuche und Vorschläge, Spezifika der Epoche des Barock, ihrer Künste und Denkweisen für die Beschreibung von zeitgenössischen oder modernen Phänomenen heranzuziehen, wie es sich exemplarisch im Begriff des Neobarocken manifestiert. Dabei ist vielleicht nicht einmal unumstritten ob das Barockzeitalter überhaupt existiert (und wo), jedenfalls aber, was es ausmacht. Nicht zuletzt aus der Art und Weise, wie auf diese Frage geantwortet wird, ergibt sich dann auch, ob das Barocke als die Antizipation des Modernen wahrgenommen wird oder vielmehr als ein ästhetisch wie politisch interessanter Gegenentwurf. Neben der Beschäftigung mit der Produktivität künstlerischer und theoretischer Anknüpfungen an das Barocke auf verschiedenen Feldern (Literatur, Musik, Serie, Film, Philosophie, Kolonialismustheorie) könnte uns also auch die Frage interessieren, wie Epochenbegriffe überhaupt konstruiert werden.</span>

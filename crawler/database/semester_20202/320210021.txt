@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Interpretation akusmatischer Musik (Spezialkurs Computermusik)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48183&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 320210021
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Personen
+Personen :3 S: missing,Tim Helbig :3 S: Fakultät Kunst und Gestaltung,Robert Rehnig
+# Beschreibung
+Beschreibung :3 S: Dieses Blockseminar ist in drei Teile gegliedert. Im ersten Teil werden Repertoirewerke gehört und analysiert. Im zweiten Kurs wird es eine intensive Auseinandersetzung mit dem Lautsprecherorchester des SeaM und der damit verbundenen Technik geben. , <br/>, Anschließend sollen im dritten Teil ausgewählte Stücke geprobt werden um diese zum Ende des Semesters innerhalb eines Repertoire-Konzerts für akusmatische Musik zu präsentieren. Die Block-Termine werden zu Beginn des Semesters bekannt gegeben.

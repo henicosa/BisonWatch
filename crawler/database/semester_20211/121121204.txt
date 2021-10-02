@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: 10m2 Stadt  - Design-Build-Projekt auf dem Campus
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50148&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 121121204
+Max. Teilnehmer/-innen :3 S: 5
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>,  , <br/>, Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 2020 2-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 17 2-semestrig\r, <br/>, Wahlpflichtmodul
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: 08:00 bis 20:00
+Terminrhythmus :3 S: BlockSat.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Steffen de Rudder
+# Beschreibung
+Beschreibung :3 S: Als Testraum für alternative Nutzungen des Campus-Geländes soll ein „Parklet“ entworfen, gebaut und anschließend evaluiert werden. Ein Parklet ist eine temporäre Installation, die auf einem Parkplatz positioniert wird, um die Fläche anstatt für parkende Autos, für Menschen als Aufenthaltsraum bzw.als Experimentierfeld zu nutzen (“tactical urbanism”). In einem zweiwöchigen Workshop können zehn Teilnehmer*innen das Parklet mit einer Fläche von zehn Quadratmetern (2 x 5Meter) entwickeln und bauen. Die genaue Nutzungsmischung und Funktionsverteilung des Parklets soll selbst festgelegt und anschließend über einen Zeitraum von drei Monaten getestet und evaluiert werden. Vor dem Hintergrund nachhaltiger Baustoffe und wiederverwendbarer Konstruktionen werden die Potenziale von Holz ausgelotet. Dabei sind vor allem Strukturen, Module und Verbindungen von Interesse, die einfach herzustellen und wiederverwendbar sind.

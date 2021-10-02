@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Diskrete Strukturen
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50977&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 4555133
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Vorlesung</p>, <br/>, <p>Fitnessraum, Jakobsplan 1</p>,
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Übung</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Stefan Lucks :3 S: Fakultät Medien,Jannis Boßert
+# Beschreibung
+Beschreibung :3 S: Mathematische Strukturen sind diskret, wenn nur endliche oder abzählbar unendliche Mengen auftreten, z.B. die natürlichen Zahlen. Dies entspricht den Abstraktionen, die für die Informatik gebraucht werden. Die Veranstaltung Diskrete Strukturen behandelt die Diskrete Mathematik und Algorithmen, die auf derartigen Strukturen aufbauen.

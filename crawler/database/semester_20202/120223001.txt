@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: (Cautionary) Tales of Disappearing Offices
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47852&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 120223001
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Projektmodul - Projekt/ Entwurf\r, <br/>, Architektur, M.Sc. PO 2018\r, <br/>, Projektmodul - Projekt/ Entwurf\r, <br/>, Architektur, M.Sc. PO 2014\r, <br/>, Projektmodul - Projekt/ Entwurf\r, <br/>,  , <br/>, MediaArchitecture, M.Sc. PO 18\r, <br/>, Projektmodul - Projekt
+Erwartete Teilnehmer/-innen :3 S: 10
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Abschlusspräsentation digital</p>,
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Jasper Cepl :3 S: Fakultät Architektur und Urbanistik,Dulmini Perera
+# Beschreibung
+Beschreibung :3 S: <span style=font-size: 10pt;>In the Architectural Design issue for December 1971, Superstudio, the Italian Design Agency, published ”Twelve Cautionary Tales for Christmas” — dystopian miniatures governed by ludicrous ideas — that were introduced as ”twelve visions of ideal cities, the supreme achievement of twenty thousand years of civilization, blood, sweat and tears; the final haven of Man in possession of Truth, free from contradiction, equivocation and indecision; totally and for ever replete with his own PERFECTION”. While clearly meant to entertain, they were also disturbing, and obviously wanted you to think further. In their ambivalence, Superstudio’s ”Cautionary Tales” give a good idea of the approach we will also be pursuing in this project. </span>, <br><span style=font-size: 10pt;>We’ll be staging clashes of ideas and reality — this time of ideas to transform our cities in light of the manifold ways in which workplaces are changing. By analyzing existing patterns, amplifying weak signals and extrapolating them to their logical extremes, we’ll conceive our own dystopian miniatures. In other words: We’ll be telling ”(Cautionary) Tales of Disappearing Offices”.</span></br>

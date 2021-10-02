@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Langzeitbindung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48813&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 121120702
+Max. Teilnehmer/-innen :3 S: 6
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Projektmodul - Projekt begleitendes Seminar oder\r, <br/>, Wahlpflichtmodul - Technik\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Projektmodul - Projekt begleitendes Seminar oder\r, <br/>, Wahlpflichtmodul - Technik\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Projektmodul - Projekt begleitendes Seminar oder\r, <br/>, Wahlpflichtmodul - Technik
+Erwartete Teilnehmer/-innen :3 S: 6
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Johannes Kühn :3 S: Fakultät Architektur und Urbanistik,Marie-Theres Weiß :3 S: Fakultät Architektur und Urbanistik,Robert Ochsenfarth
+# Beschreibung
+Beschreibung :3 S: Als entwurfsbegleitende Veranstaltung wird sich das Seminar mit den konstruktiven Eigenheiten und Grenzen des Werkstoffs Holz auseinandersetzen. Die Relevanz des Materials, als nachhaltiger Rohstoff, soll dabei als Diskussionsgrundlage immer mitgeführt werden. Die aktuellen Tendenzen im Blick behaltend, werden wir zeitgenössische Konstruktionsmethoden, neue Holzwerkstoffe, Fortschritte in der modernen Bauteilentwicklung und im Speziellen die Anwendung von hybriden Konstruktionen in Überkreuzung mit Beton und Stahl kennenlernen. In Studierendenvorträgen werden wir uns Fragen zum Tragverhalten, dem konstruktiven Aufbau einfacher und komplexer Bauweisen, den Vor- und Nachteilen bewährter und moderner Konstruktionsformen sowie deren Einbringen in zeitgenössischer Architektur stellen. Als Ergebnis unserer Recherchen und Diskussionen sollen die gewonnenen Erkenntnisse für die Arbeit am Entwurf nutzbar gemacht werden.

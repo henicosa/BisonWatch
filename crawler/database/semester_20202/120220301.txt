@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Klimalabor Ackerbürgerscheune
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48239&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 120220301
+Max. Teilnehmer/-innen :3 S: 14
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Technik\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Technik\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Technik
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Thomas Möller :3 S: Fakultät Bauingenieurwesen,Conrad Völker :3 S: Fakultät Architektur und Urbanistik,Lia Becher :3 S: Fakultät Bauingenieurwesen,Hayder Alsaad
+# Beschreibung
+Beschreibung :3 S: Die Professur Bauphysik strebt den Aufbau eines neuen Klimalabors in der noch zu sanierenden Ackerbürgerscheune (Coudraystraße 1, 3, 5) an. Dabei soll das Klimalabor insbesondere zur Untersuchung bauphysikalisch relevanter Fragestellungen eingesetzt werden. Der Fokus liegt auf raumklimatischen Messungen, wobei aktiv an zukunftsweisenden, energieeffizienten und thermisch behaglichen Klimatisierungsstrategien geforscht werden soll. Durch den Einbau von leistungsfähiger Gebäudetechnik soll das Klimalabor einen forschungsweisenden Charakter aufweisen. Temperiert werden soll die innere Klimakammer des Klimalabors mit Hilfe von wasserführenden Kapillarrohrmatten, die auf die Oberflächen der Kammer aufgebracht sind. Alle Flächen (vier Wände, Fußboden, Decke) sollen separat ansteuerbar sein. Zusätzlich soll die Klimakammer mit Raumlufttechnik ausgestattet werden, die einen angemessenen Luftwechsel in einem passenden Temperaturspektrum fahren kann.

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Abfallbehandlung und -ablagerung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48938&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Integrierte Vorlesung
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: B01-903003
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D30789&timestamp=1631115109610&hash=2189a8ca22f9aeef6ddce1029e490fae
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Eckhard Kraft :3 S: Fakultät Bauingenieurwesen,Thomas Haupt :3 S: Fakultät Bauingenieurwesen,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: <span lang=DE>Die Vorlesung besteht aus den zwei Teilbereichen der Abfallbehandlung und der Abfallablagerung. </span>, <span lang=DE>Im ersten Teilbereich lernen die Studierenden Anlagen für die Behandlung von Siedlungsabfällen zu entwerfen. Besonderes Augenmerk wird hierbei auf die Datenakquise an sich, sowie der Einfluss von sich verändernden Rahmenbedingungen (bspw. rechtlich oder finanzieller Art) auf die Abfallmengen, -fraktionen und -zusammensetzung gelegt. Basierend auf zu erstellenden Prognosen zu den Inputströmen werden Anlagen zur Bio- und Restabfallbehandlung entworfen und mittels Fließschemata, Massenbilanzen und Flächenbedarfsrechnungen auf ihre Funktionalität und standortbezogene Eignung hin beurteilt. </span>, Schwerpunkte sind:

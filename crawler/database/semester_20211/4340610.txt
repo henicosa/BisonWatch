@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Mediengeschichte
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48986&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Plenum
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 4340610
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: B. A. Einführungsmodul Mediengeschichte
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmediensoziologie%2F&timestamp=1631115761339&hash=667d6332014d56eb494b4f9a273700d0
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Online via Moodle</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Ekkehard Knopke :3 S: Fakultät Medien,Andreas Ziemann
+# Beschreibung
+Beschreibung :3 S: Dieses Plenum bildet zusammen mit der „Einführung in die Filmgeschichte“ (Frisch) und der Vorlesung „Mediengeschichte“ (Gregory) das Einführungsmodul „Mediengeschichte“; obligatorisch für BA-(E)MK im 2. Semester, mit einem Umfang von 8 LVS und 12 Credits. Das Plenum verfolgt zwei Ziele. Zum ersten gilt es anhand ausgewählter Ereignisse und medientechnologischer Erfindungen/Innovationen einen Überblick über Epochen, Evolutionen und Zäsuren der Mediengeschichte zu gewinnen. Was endet eigentlich mit einer neuen Erfindung? Und welche Entwicklungen und Folgeeffekte bringt schließlich das neue Medium hervor? Zum zweiten wird sich das Plenum den Fragen widmen, wie man treffend über Ereignisse der Mediengeschichte schreiben kann und wie sich Gesellschaftsgeschichte als Mediengeschichte schreibt. Welche methodischen (Selektions-)Strategien, was für Denkfiguren, welche Technologien finden dabei Verwendung? Im Sommersemester 2021 findet das Plenum ausschließlich in digitaler Form statt. In den ersten beiden Veranstaltungswochen werden zwei Webinare unter anderem zum historischen Bewusstsein, dem Geschichtsbegriff und Varianten der (Medien-)Geschichtsschreibung stattfinden. Anschließend sollen die Studierenden vier einschlägige medienhistorische Bücher lesen und pro Text einen Review-Essay anfertigen.

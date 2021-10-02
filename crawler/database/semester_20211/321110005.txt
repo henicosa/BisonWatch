@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Creative Circuit Boards
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49829&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Werk-/Fachmodul
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 321110005
+Max. Teilnehmer/-innen :3 S: 16
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 15:15 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Moodle/BBB</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Max Neupert :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Kaum ein industrieller Prozess ist so optimiert und perfektioniert, und dabei individualisierbar und komplex wie die Produktion von Leiterplatten. Gleichzeitig ist dieser Prozess für jeden zugänglich, ob Eletroniker*in oder Hobbyist*in, Enthusiast*in oder Künstler*in - dank einem starken Wettbewerb, erschwinglichen Preisen und einfach nutzbaren Werkzeugen. Die Dateien für die Produktion können hochgeladen werden um ein sofortiges Angebot zu erhalten. Nach dem Bezahlen kann der Kunde in Echtzeit den Produktionsverlauf nachverfolgen.

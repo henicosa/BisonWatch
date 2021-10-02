@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Freies Projekt - Typografie - Master
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47306&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 18
+Veranstaltungsnummer :3 S: 320220053
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 13:30 bis 18:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Online-Veranstaltung</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Stefanie Schwarz :3 S: Fakultät Kunst und Gestaltung,Ricarda Löser
+# Beschreibung
+Beschreibung :3 S: Nach Absprache können freie Themen und Projekte mit dem Schwerpunkt Typografie und/oder Schriftgestaltung in diesem Rahmen bearbeitet und diskutiert werden. Vorraussetzung ist ein vorher mit den Lehrenden abgestimmtes Exposé zum Vorhaben, aus dem das Thema und das Ziel innerhalb eines Zeitrahmens ersichtlich wird.

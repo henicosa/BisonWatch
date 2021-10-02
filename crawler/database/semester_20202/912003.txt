@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Projekt Infrastrukturökonomik und -management
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=46974&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 3
+Veranstaltungsnummer :3 S: 912003
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 10
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D27483&timestamp=1631058658055&hash=1b69be87fb37b0e9cd6301befa42a867
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Präsenztermine nach Ansage - ansonsten Online!</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Thorsten Beckers :3 S: Fakultät Bauingenieurwesen,Marten Westphal :3 S: Fakultät Bauingenieurwesen,Stefan Menges :3 S: Fakultät Bauingenieurwesen,Tim Becker :3 S: Fakultät Bauingenieurwesen,Birgit Bode
+# Beschreibung
+Beschreibung :3 S: Die Studierenden haben in dem (Studien-)Projekt „Infrastrukturökonomik und -management” als Gruppenarbeit unter Rückgriff auf Erkenntnisse der Neuen Institutionenökonomik, der Theorien des Strategischen Managements und der Finanzierungstheorie konkrete Fragestellungen in Infrastruktursektoren aus Sicht von Unternehmen und öffentlichen Akteuren (wie Regulierer, Ministerialverwaltungen, Akteure in der Legislative) zu untersuchen. Die in einem konkreten Semester zu untersuchenden Themen werden in einer Auftaktveranstaltung vorgestellt bzw. gemeinsam festgelegt. Siehe zu den Themen dieses Studienprojektes in einem konkreten Semester auch etwaige (Vor-)Ankündigungen auf der Internetseite der Professur Infrastrukturwirtschaft und -management (IWM) - , <a href=http://www.uni-weimar.de/iwm>www.uni-weimar.de/iwm</a>, .

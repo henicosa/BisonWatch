@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: "Slow Photography - Arbeiten mit der Fachkamera"
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51603&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 10
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Personen
+Personen :3 S: Universitätsleitung /  Universitätsverwaltung,Jascha Fibich :3 S: Universitätsleitung /  Universitätsverwaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Die Fachkamera ist den normalen Digitalkameras mit seinen unzähligen Verstellmöglichkeiten in einigen Anwendungsbereichen noch überlegen. Immer mehr Fotograf*innen nutzen diese Möglichkeiten für künstlerische Ansätze. , <br/>, Die Kursteilnehmer*innen erhalten im Fachkurs alle notwendigen technischen Einführungen in der Fotowerkstatt. Ziel des Kurses ist mit kleinen Übungen über das gesamte Semester die Freude an kameratechnischen Feinheiten und dem fotografischen Motiv zu entdecken. Neben einer Einführung in die Porträtfotografie, Architekturfotografie, Stillleben/Makro und Experimenteller Fotografie bekommen die Kursteilnehmer*innen die Möglichkeit ihre eigenen künstlerischen Ideen mit der Fachkamera umzusetzen. Wir setzen uns zudem mit Künstler*innen der zeitgenössischen Fotografie auseinander, die mit der Fachkamera arbeiten.

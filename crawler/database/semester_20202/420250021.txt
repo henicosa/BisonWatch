@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Marktorientiertes Management von Medienunternehmen
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48038&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 420250021
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Jonas Steffl
+# Beschreibung
+Beschreibung :3 S: Im Rahmen der Veranstaltung werden den Studierenden Marketing- und Managementkonzepte vermitteln, die diese auf reale Unternehmenssituationen übertragen.  Auf Basis von Fallstudien (Case Studies) erarbeiten und präsentieren die Studierenden in Teams Lösungsvorschläge für aktuelle Herausforderungen von Medienunternehmen. Sie nehmen sich in Gruppen jeweils bestimmter Themen (u. a. Marktforschung, Dienstleistungsmarketing, Marketingstrategie) an und bereiten sie für die anderen Teilnehmer des Seminars vor. Zudem entwickeln sie zu ihrem spezifischen Fall Fragestellungen für die anderen Teams.

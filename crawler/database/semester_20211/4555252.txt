@@ -1,0 +1,38 @@
+Veranstaltungstitel :3 S: Web-Technologie (Grundlagen)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48876&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 4555252
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Vorlesung (online)</p>, <br/>, <p>Moodle-Link: <a href=https://moodle.uni-weimar.de/enrol/index.php?id=32357>https://moodle.uni-weimar.de/enrol/index.php?id=32357</a></p>,
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 10:00 bis 12:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>schriftl. Prüfung</p>,
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 10:00 bis 12:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>schriftl. Prüfung</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Übung (online)</p>, <br/>, <p> </p>, <br/>, <p> </p>,
+# Personen
+Personen :3 S: Fakultät Medien,Benno Stein :3 S: Fakultät Medien,Janek Bevendorff :3 S: Fakultät Medien,Marcel Gohsen :3 S: Fakultät Medien,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Lernziel: Vermittlung von Kenntnissen über den Aufbau und die Funktion von Web-basierten Systemen. Hierfür ist es notwendig, die Sprachen, die zur Entwicklung von Web-Anwendungen benutzt werden, zu verstehen, anzuwenden und zu beurteilen. Weiterhin vermittelt die Vorlesung Grundwissen aus benachbarten Gebieten. Inhalt: Einführung, Rechnerkommunikation und Protokolle, Dokumentsprachen, Client-Technologien, Server-Technologien, Architekturen und Middleware-Technologien.

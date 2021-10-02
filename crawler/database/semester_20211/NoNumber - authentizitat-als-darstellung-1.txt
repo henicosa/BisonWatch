@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Authentizität als Darstellung 1
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49634&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 30
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: MA-Studienmodul: Bildwissenschaft
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Ffilm-und-medienwissenschaft%2F&timestamp=1631115175909&hash=edbce8db534ae01dfdbfa7feae670d39
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 17:00 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Online via Moodle</p>,
+# Personen
+Personen :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N. :3 S: Fakultät Medien,Simon Frisch
+# Beschreibung
+Beschreibung :3 S: Das Problem der Authentizität ist nur vordergründig auf den Bereich des Dokumentarischen beschränkt. Authentifiziernde Verfahrensweisen liegen allen Aussagen, Ereignissen und Artefakten insofern zugrunde, als sie Geltungsansprüche und Geltungsbereiche organisieren. Authentizität nicht mehr als Gegenbegriff, sondern zugehörig zum Bereich der Darstellung gefasst, ermöglicht erst den Blick auf die Grundstrategien artifizieller Darstellung im Weiteren, im Bereich der Ästhetik im Engeren Sinne., <br>Gerade aus den Kategorien, die beim Inszenierten mit Argwohn verbunden werden, lässt sich herausarbeiten, mit welchen Strategien Artefakte arbeiten, denen Authentizität zugesprochen wird: Topoi wie Interesselosigkeit, Herausgeberfiktionen, Unbestechlichkeit, Leidenschaftslosigkeit oder Zwangsdarstellung (z. B. durch körperliche Besonderheit, Überforderung oder Kontrollverlust) ziehen sich durch die gesamte Kulturgeschichte. Die antike Anrufung der Musen, die mittelalterliche Metapher des Predigers als „Mundstück Gottes”, die „gefundenen” Märchen und Sagen in der Romantik, die „Entdeckung” der Tiefenstrukturen der Seele im Namen des Sinns in der Psychoanalyse bis hin zur Leidenschaftslosigkeit des Apparats in Film und Fotografie sind nur wenige Beispiele, ganz zu schweigen vom gesamten Bereich des Spektatorischen und Spektakulären vom Jahrmarkt bis zum Autorentheater.<br/>Anhand ausgewählter Texte der Kulturgeschichte werden authentifizierende Konstruktionen und Verfahrensweisen vorgestellt und analysiert.</br>

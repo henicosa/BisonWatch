@@ -1,0 +1,83 @@
+Veranstaltungstitel :3 S: Störungen im System - Einführungsprojekt und Probelauf für Erstsemestler im Lehramt Kunsterziehung an Gymnasien
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48199&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 12
+Veranstaltungsnummer :3 S: 320220032
+Max. Teilnehmer/-innen :3 S: 24
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 08:00 bis 10:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 19:00 bis 20:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 19:00 bis 20:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 10:00 bis 16:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 18:30 bis 21:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 18:30 bis 21:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 18:30 bis 21:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 19:00 bis 20:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 18:30 bis 21:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 17:00 bis 21:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 08:00 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 10:00 bis 16:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 08:00 bis 09:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Francis Zeischegg :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Im Zeitalter digitaler Vernetzung ist es scheinbar möglich, jeglicher Information in Sekundenschnelle habhaft zu werden. Alles sieht perfekt aus und scheint ohne Fehler und ohne Makel zu sein. Es ist üblich, Bilder und Texte mit Copy und Paste aus dem Internet herunterzuladen und in eigene Texte und Bilder zu überführen. Hingegen lässt sich das Vorhaben, eine Box aus Holz zu bauen oder einen Kopf mit Acryl oder Eitempera auf eine Leinwand zu malen, nicht mit Copy und Paste bewerkstelligen und birgt zudem so manche Überraschung. Fehler und Störungen begleiten den Prozess des Machens und führen so zu unvorhergesehenen Ergebnissen. Das „Machen” und das entsprechend „physische Erleben” wird in Zeiten der Corona-Pandemie nicht nur schwieriger. Das Verhältnis von Wahrnehmung über digitale Medien zu physisch-haptischem Erleben dreht sich quasi um. Der eben noch ungeübte Umgang mit den technischen Geräten und der virtuellen Kommunikation über Internet wird zum Normalfall , während die Praxis mit realen Handwerkszeugen und der entsprechend sinnlichen Wahrnehmung in der Lehre zum Ausnahmefall wird. - Die Pandemie fordert uns heraus, die technische Ungeübtheit zu überwinden und uns den Herausforderungen der digitalen Möglichkeiten zu stellen und über sie neues Erleben zu generieren. Das Beherrschen von Foto- und Videokameras wie auch der Schnitt- und Desktop-Publishing-Programme wird zunehmend Grundvoraussetzung für die Lehre via Conference-tools (BigBlueButton). Das Projekt „Störungen im System” bietet die Möglichkeit mit einfachen, visuellen Übungen online und in Präsenz, Grundlagen der Gestaltung und das experimentelle, künstlerische Arbeiten kennen zu lernen. Nicht nur einzeln sondern auch in kleinen Gruppen wird es möglich, auch online den experimentellen Umgang mit Farbe und plastischen Elementen im Raum künstlerisch zu erproben. In den Wochen bis zum Jahreswechsel werden anhand von praktischen Übungen grundlegende Fragen zu Ordnungssystemen, Anordnungsmodi, zu Material, zu Raum und Farbe erörtert. Performative Übungen in Präsenz dienen dem Training visueller Wahrnehmung, wodurch sich Wege zu individuellen, künstlerischen Arbeitsstrategien erschließen.

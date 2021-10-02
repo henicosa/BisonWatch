@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: LOCOMOTION/MEROTOP
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50154&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Andreas Aicher
+# Beschreibung
+Beschreibung :3 S: Entwicklung von modularen NASS-Bausteinen (Interfaces/frontends/backends), die universal in verschiedenen progressiven architektonischem Entwürfen eingebettet verschiedene Behandlungsschritte dezentral abbilden können.

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Housing, crises, and catastrophes
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49641&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 121123901
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: European Urban Studies, M.Sc. PO 2020\r, <br/>, European Cities\r, <br/>, European Urban Studies, M.Sc. PO 18\r, <br/>, European Cities
+Erwartete Teilnehmer/-innen :3 S: 20
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 15:15 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Daniela Zupan
+# Beschreibung
+Beschreibung :3 S: The dissolution of the Soviet Union, the global financial crisis, the refugee crisis, natural catastrophes, the care crisis and the current pandemic – these and other events had and have tremendous effects on housing. This seminar invites students to engage with the field of housing from the perspective of crises and catastrophes: What did the above-mentioned events entail and which effects did they have on different dimensions and aspects of housing, such as the everyday practices of habitation, the built environments, housing provision and housing policies, the dwellers and the providers of housing, and the housing market? Through the lens of crises and catastrophes students will acquire profound knowledge on different aspects related to housing as well as on innovative theoretical positions and conceptual approaches for scholarly engagement into this field. Based on an engagement with joint readings/material, discussions as well as on presentations on selected topics we will explore how people and policy makers reacted to them and learn about coping mechanisms, adaption strategies and unexpected positive outcomes.

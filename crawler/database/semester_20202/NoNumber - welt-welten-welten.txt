@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Welt, Welten, welten
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47579&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: MA Studienmodul Medienphilosophie: Welt, Technik, Subjekt
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Fphilosophieavmedien%2F&timestamp=1631059194843&hash=d60a2db4e734d1bce4e016ae82044944
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 17:00 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Digital via Moodle</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Jan Völker
+# Beschreibung
+Beschreibung :3 S: Dieses Seminar stellt den Begriff der Welt in den Vordergrund: Im alltäglichen Gebrauch denken wir zu wissen, was das ist – die Welt, weil wir sie mit dem Erdkörper gleichsetzen. Aus unzähligen Redewendungen und politischen Einteilungen wissen wir aber auch, dass es möglich ist, in einer anderen Welt zu leben. Es gibt die Umwelt und das Weltall, weltliches und unterweltliches: Die Welt ist ein Begriff, der mit Einschreibungen und Markierungen überlagert ist, der sich ändert und wandelt, mit verschiedenen Geschwindigkeiten agiert und letztlich uns vor die Frage stellt, ob alle verschiedenen Begriffe der Welt in einer Welt zusammenfallen. Es gibt somit nicht nur die Welt, sondern Welten und es gibt Handlungen, die Welt bilden, die ‚welten‘. In der Gegenwart der Phänomene der sogenannten Globalisierung und globaler Herausforderungen wie der Klimakatastrophe oder der Pandemie scheint es heute entscheidend, mit welchem Begriff der Welt wir denken – im Seminar werden wir verschiedene Begriffe der Welt testen. Zum einen klassische Konzeptionen bei Platon, Hegel, Kant und Heidegger, dann spezifischere Konzeptionen in Bezug auf politische Fragen bei Fanon und Arendt, in Bezug auf technologische und ökologische Fragen bei Malabou, Stengers, Nancy und Badiou., <br>Das Seminar findet voraussischtlich online statt, die genauen Modalitäten werden in der ersten Sitzung besprochen. Bitte im entsprechenden moodle-Raum anmelden.</br>

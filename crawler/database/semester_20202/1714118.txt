@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: 5. Planungsprojekt: Planung im Kontext von Populismus und Postpolitik
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48334&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 1714118
+Max. Teilnehmer/-innen :3 S: 5
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Urbanistik, B.Sc. PO 14\r, <br/>, Wahlpflichtprojekte - 3. Studienjahr
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:00 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Abschlusspräsentation digital</p>,
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Frank Eckardt
+# Beschreibung
+Beschreibung :3 S: Ein roter Faden in unserem Studienalltag ist das Nachdenken über die politischen Implikationen planerischen Handelns:, <br>Wir beobachten stetig die politischen Entwicklungen und sehen uns in der Universität, in Weimar, in Thüringen mit den Resultaten (lokal-)politischer Entscheidungen konfrontiert. Den in der Öffentlichkeit diskutierten Themenkomplexen – etwa Klimakatastrophe, Rechtsextremismus oder, für uns im Folgenden besonders relevant, Populismus – nähern wir uns jedoch in der Regel zunächst als (engagierte) Bürger*innen und erst dann ggfs. als Planer*innen. Wir wollen daher in einem selbstbestimmten Projekt diese Perspektive einnehmen und explizit als Planer*innen fragen: Wie wird unsere Arbeit als Planer*innen durch populistische Diskussionen in der Öffentlichkeit beeinflusst? Welche Auswirkungen hat die aktuelle postpolitische Situation auf das planerische Handeln? Und inwiefern haben Planung und Planer*innen Postpolitik bzw. Populismus vielleicht (mit-)geprägt? Diese Fragestellungen stehen als Ausgangspunkt einer Reflektion und Hinterfragung unserer planerischen Tätigkeit, die wir uns innerhalb eines selbstbestimmten Forschungsprojektes stellen. Ziel unseres Projektvorhabens ist es, über die Auseinandersetzung mit aktuellen Debatten und Forschungen zum Themenkomplex Populismus, Postpolitik und Planung ein besseres Verständnis von der unserer Disziplin zugrundeliegenden Theorien zu erlangen und somit gleichzeitig Rückschlüsse auf unsere eigenen Aufgaben und Handlungsspielräume zu schließen. Für die konkretere Analyse dieses Themenkomplexes haben wir das Fallbeispiel der Kohleabbaugebiete und dem damit einhergehenden Strukturwandel in der Lausitz gewählt.</br>

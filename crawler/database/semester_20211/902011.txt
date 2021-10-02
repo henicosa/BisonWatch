@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Strategisches Management und Organisationsentwicklung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49009&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 902011
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D30562&timestamp=1631116115477&hash=522b57f7c205b3a1575d979135e7b8f8
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Thorsten Beckers :3 S: Fakultät Bauingenieurwesen,Stefan Menges :3 S: Fakultät Bauingenieurwesen,Tim Becker :3 S: Fakultät Bauingenieurwesen,Marten Westphal :3 S: Fakultät Bauingenieurwesen,Birgit Bode
+# Beschreibung
+Beschreibung :3 S: Ziel ist die Vermittlung der Methoden und Verfahren des strategischen Managements und der Organisationsentwicklung in Abgrenzung zur Gesamtmanagementkonzeption in einer Unternehmung, insbesondere unter Berücksichtigung der Belange der Bau- und Immobilienwirtschaft.

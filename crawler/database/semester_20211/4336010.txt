@@ -1,0 +1,38 @@
+Veranstaltungstitel :3 S: Image Analysis and Object Recognition
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48877&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 3
+Veranstaltungsnummer :3 S: 4336010
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:00 bis 12:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>repeat exam (written exam)</p>,
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Lecture (online,recorded sessions) </p>, <br/>, <p> Moodle: <span style=font-family: Calibri, sans-serif; color: black; font-size: 10pt;><span style=color: #0563c1;><a href=https://moodle.uni-weimar.de/course/view.php?id=30890>https://moodle.uni-weimar.de/course/view.php?id=30890</a>      </span></span></p>, <br/>, <p>(Registration will be open from March 29, 2021 onwards.)</p>,
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:00 bis 11:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>written exam</p>, <br/>, <p>Location: Falkenburg</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: unger. Wo
+Bemerkung :3 S: , <p>Lab (online)</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Volker Rodehorst :3 S: Fakultät Medien,Mariya Kaisheva
+# Beschreibung
+Beschreibung :3 S: Bildanalyse und Objekterkennung

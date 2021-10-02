@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Visualisierte Musik und Performance im 360-Grad Fulldome Medium
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48068&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 16
+Veranstaltungsnummer :3 S: 320220029
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 20
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Online Meeting wird perMail bekannt gegeben</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Micky Remann :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Thema des Projekts ist die Konzipierung von Klang-, Musik- und Performance-Elementen für den 360-Grad-Raum. Untersucht wird die Frage, wie sich musikalisch und visuell illustrierte Performances in eine den Besonderheiten des Fulldome-Theaters angemessene Dramaturgie einbinden lassen.

@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Understanding Social Investing Hype
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50020&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 10
+Veranstaltungsnummer :3 S: 421110015
+Max. Teilnehmer/-innen :3 S: 3
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Personen
+Personen :3 S: Fakultät Medien,Benno Stein :3 S: Fakultät Medien,Matti Wiegmann :3 S: Fakultät Medien,Nikolay Kolyada :3 S: Fakultät Medien,Michael Völske
+# Beschreibung
+Beschreibung :3 S: The last few years have seen an unprecedented , <br/>, boom in retail investment, driven largely by decentralized coordination , <br/>, in active online communities and a new breed of easy-to-use, extremely , <br/>, low-barrier-to-entry investment apps. This new level of public , <br/>, participation both liberated the investment business and opened new , <br/>, markets but also created several new, large-scale economic phenomena. In , <br/>, this project we will analyze social media datasets with an eye to , <br/>, large-scale economic phenomena, and tackle research questions related to , <br/>, social media analysis, author profiling, computational ethics, and the , <br/>, interplay between social media and market sentiment. We will employ big , <br/>, data tools, machine learning, and natural language processing.

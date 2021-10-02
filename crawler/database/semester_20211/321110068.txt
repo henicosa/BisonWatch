@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Klangerzählung in Immersiven Räumen
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49823&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 321110068
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Moodle/BBB</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Jason Langheim :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Die Gegenwart sieht momentan doch etwas düster aus. Klimakrise und Pandemie bedrohen weltweit das Leben, wie wir es kennen. Doch statt uns pessimistisch der Zukunft zu ergeben, wollen wir in diesem Modul darüber fabulieren, wie die Welt im Jahr 2121 klingen könnte. Werden elektrische Autos den Lärm der Straße dämpfen, Roboter uns schwere arbeiten abnehmen und Tiere zurück in die Städte kommen?, <br> Inhalt des Kurses ist nicht nur das Fabulieren, sondern auch die Auseinandersetzung mit immersiven Klangumgebungen. Dabei geht es zum einen um klanggestalterische Konzepte, zum anderen um die Arbeit mit Ambisonics zur Erstellung von binauralen Klangräumen.</br>

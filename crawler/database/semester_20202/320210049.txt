@@ -1,0 +1,33 @@
+Veranstaltungstitel :3 S: Code & Type - Generative reading experiences in Sound & Space
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47292&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 6
+Veranstaltungsnummer :3 S: 320210049
+Max. Teilnehmer/-innen :3 S: 18
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fcloud.uni-weimar.de%2Fs%2Fdrnn7ftL4eoe4By&timestamp=1631057946772&hash=818503bd5943d7ee563bc148075dc0ad
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 10:00 bis 16:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Online-Veranstaltung</p>,
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: 10:00 bis 16:00
+Terminrhythmus :3 S: Block
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: 10:00 bis 16:00
+Terminrhythmus :3 S: BlockSat.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: missing,Ephraim Wegner :3 S: missing,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Im Rahmen des Fachkurs verknüpfen wir mit den Mitteln des Creative Coding die Medien Schrift, Klang und Raum. Das Ziel ist es crossmediale Interaktionen zu entwickeln und in diesem Zuge neue Potentiale für die Visualisierung von Texten zu erforschen., <br>Im Zentrum steht die Fragestellung, wie durch generative Gestaltungsansätze klassische typografische Methoden erweitert werden können. Wie lassen sich textbasierte Informationen mit interaktiven und spielerischen Elemente gestalten, um auf diese Weise dem/der „LeserIn“ einen erweiterten, erlebnisreichen Zugang zu Information zu ermöglichen?<br>Im Rahmen der Veranstaltung nähern wir uns in Praxis und Theorie diesen Fragestellungen. Wir entwickeln in der open-source Programmier-Sprache Processing und besprechen die visualisierten Ergebnisse gemeinsam. In Phase 1 werden digitale Anwendungen entwickelt, die in Phase 2 in Form von Installationen in den realen Raum erweitert werden.<br>Für die Teilnahme sind keine Programmierkenntnisse erforderlich.</br></br></br>

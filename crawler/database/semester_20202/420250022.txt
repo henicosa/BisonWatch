@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Methodenwerkstatt: Soziologische Film- und Fernsehanalyse
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47536&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 420250022
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: BA-Projektmodul: Kultursoziologie 2
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Fmediensoziologie%2Fpersonen%2Fwiss-mitarbeiter-ekkehard-coenen-ma%2F&timestamp=1631058510884&hash=6f6620c07e7953517635d89837fdf3f6
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Digital via Moodle</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Ekkehard Knopke
+# Beschreibung
+Beschreibung :3 S: Die Methodenwerkstatt führt in die soziologische Film- und Fernsehanalyse als Teil der interpretativen Forschung ein. Hierfür wird zunächst das methodische Vorgehen diskutiert – von den methodologischen Grundannahmen über das Sampling und die Protokollanfertigung bis hin zur Ergebnisdarstellung. Daraufhin werden gemeinsam an einem Filmbeispiel die Transkription, Analyse und Interpretation eingeübt. Abschließend bringen die Studierenden eigenes Material ein, das gemeinsam bearbeitet und diskutiert wird. Da die Methodenwerkstatt eng an das Seminar „Soziologie des Tötens“ (Coenen) und das Plenum „Kulturen der Gewalt“ (Ziemann) geknüpft ist, liegt der Schwerpunkt der Analysen auf der Frage, wie die Film- und Fernsehprodukte durch ihre Gestaltung zur kommunikativen Konstruktion von Gewalt beitragen und somit den gesellschaftlichen Wissensvorrat über Gewalt prägen., <br>Das Seminar wird ausschließlich in digitaler Form via Moodle stattfinden. Zur Anmeldung senden Sie bitte eine E-Mail an: ekkehard.coenen@uni-weimar.de</br>

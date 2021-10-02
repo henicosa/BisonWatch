@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Planungsgrundlagen-CAAD
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51683&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 1212130
+Max. Teilnehmer/-innen :3 S: 210
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, Pflichtmodul\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, Pflichtmodul\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, Pflichtmodul\r, <br/>,  , <br/>, Urbanistik, B.Sc. PO 2021\r, <br/>, Pflichtmodul\r, <br/>, Urbanistik, B.Sc. PO 2020\r, <br/>, Pflichtmodul
+Erwartete Teilnehmer/-innen :3 S: 140
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Sven Schneider
+# Beschreibung
+Beschreibung :3 S: Die Disziplinen Architektur und Stadtplanung stehen heute vor großen Herausforderungen. Globalisierung, Urbanisierung, Automatisierung, steigende Lebenserwartung und weltweites Bevölkerungswachstum erzeugen einen hohen Bedarf an Wohnraum, sozialen Einrichtungen, sowie städtischer und internationaler Infrastruktur. Vor dem Hintergrund zunehmender Ressourcenverknappung und eines beständig hohen Kosten- und Zeitdrucks stehen Planer vor Aufgaben, welche eine nie zuvor dagewesene Komplexität aufweisen. Die Vorlesungsreihe „Planungsgrundlagen” gibt einen Überblick über diese aktuellen Herausforderungen und vermittelt Methoden, mit Hilfe derer sich Planungsprozesse sinnvoll unterstützen lassen. Diese Methoden zielen nicht allein auf eine Steigerung der Effizienz von Arbeitsprozessen ab, sondern liefern einen wesentlichen Beitrag zur Steigerung der Qualität der Planungsergebnisse. Begleitet wird die Vorlesungsreihe von praktischen Übungen, in denen die Studenten einen Einblick in die verschiedenen Planungsmethoden erlangen.

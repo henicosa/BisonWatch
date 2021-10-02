@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: General English: Pre-intermediate (B 1.3)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47188&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Kurs
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 5133123
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fcms%2Funiversitaet%2Fzentrale-einrichtungen%2Fsprachenzentrum%2Fkursangebot-fremdsprachen.html&timestamp=1631058227503&hash=864e5f6639340d1568ba2e39b9ba5ab3
+Sprache :3 S: englisch
+Fakultät :3 S: missing
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Universitätsleitung /  Universitätsverwaltung,Kathryn Arsenault
+# Beschreibung
+Beschreibung :3 S: Wenn Sie sich für diesen Kurs interessieren, wechseln Sie bitte auf die Internetseiten des Sprachenzentrums (s. obiger Link). Hier finden Sie eine Übersicht über die angebotenen Kurse und die Einschreibeformulare.

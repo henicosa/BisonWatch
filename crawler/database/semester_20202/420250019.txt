@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Soziologische Zeitdiagnosen
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47559&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 420250019
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: BA Studienmodul: Soziologische Theorie
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Fmediensoziologie%2F&timestamp=1631058915682&hash=faa1a95aba8714931978b48815f976a6
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Digital via Moodle</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Andreas Ziemann
+# Beschreibung
+Beschreibung :3 S: Neben Theoriebildung und -reflexion gehört das Geschäft der Zeitdiagnose von Anfang an zur Domäne und Disziplin der Soziologie dazu. Die Zeitdiagnose ist eine eigene, populär ausgerichtete Wissensform, die besondere Charakteristika der gesellschaftlichen Entwicklung bzw. Veränderung auf den Punkt bringt und (mittelfristig) Orientierung geben will. Ihr Ausgangspunkt ist zumeist ein Krisenszenario. Im Seminar werden klassische und aktuelle Zeitdiagnosen einander gegenübergestellt und intensiv diskutiert. Das Seminar bildet zusammen mit der Vorlesung „Soziologische Theorien” das Studienmodul Soziologische Theorie., <br>Ich bitte um Anmeldung via Email (andreas.ziemann@uni-weimar.de) und sende Ihnen dann das Moodle-Passwort zu.</br>

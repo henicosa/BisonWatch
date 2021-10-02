@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Ressourcen und Recycling der Baustoffe - Angewandte technische Mineralogie
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=46780&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Integrierte Vorlesung
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fbauingenieurwesen%2Finstitute%2Ffib%2F&timestamp=1631058860397&hash=c80fa8eac5c43c08f2b0c64b2fffef7c
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Holger Kletti
+# Beschreibung
+Beschreibung :3 S: <span style=text-decoration: underline;>Hinweis</span>, : Angewandte technische Mineralogie ist ein Teilmodul des Gesamtmodules Ressourcen und Recycling der Baustoffe. Teilmodule können als Wahlmodule separat belegt und abgeschlossen und mit anderen fachlichen Teilmodulen zu einem Gesamtmodul von (mind.) 6 LP kombiniert werden.

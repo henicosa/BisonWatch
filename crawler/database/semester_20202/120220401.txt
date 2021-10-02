@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Neue Natur im Park an der Ilm
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47989&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 18
+Veranstaltungsnummer :3 S: 120220401
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: MediaArchitecture, M.Sc. PO 2020\r, <br/>, Projektmodul - Projekt\r, <br/>, MediaArchitecture, M.Sc. PO 18\r, <br/>, Projektmodul - Projekt
+Erwartete Teilnehmer/-innen :3 S: 15
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Abschlusspräsentation digital</p>,
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Sabine Zierold :3 S: Fakultät Architektur und Urbanistik,Reinhard König :3 S: Fakultät Architektur und Urbanistik,Bernd Rudolf :3 S: Fakultät Architektur und Urbanistik,Andreas Kästner
+# Beschreibung
+Beschreibung :3 S: Das Projekt möchte auf die Natur im Park an der Ilm im Kontext des Klimawandels aufmerksam machen. Die Studierenden untersuchen und messen die natürliche Umgebung und machen unsichtbare Daten der Energieströme wahrnehmbar. Die Aufgabe besteht darin die multisensorische Wahrnehmung natürlicher Phänomene zu verstärken. Klänge werden aufgezeichnet, Wasserdaten (Fließgeschwindigkeit, Temperaturgefälle, Verschmutzung) gemessen, Lichtfarben gespeichert oder Werden und Vergehen der Natur beobachtet, um ein „neues Bild“ der Natur und deren Prozesse darzustellen.

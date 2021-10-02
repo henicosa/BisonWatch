@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Project Management for Early Stage Researchers
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47008&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Workshop
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 8
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fveranstaltungen.uni-weimar.de%2Fde%2F730&timestamp=1631058644761&hash=c9f212e5297dd997b873a808958c721b
+Sprache :3 S: englisch
+Fakultät :3 S: missing
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: bis
+Terminrhythmus :3 S: Block
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultätsübergreifende Einrichtungen,Franziska Matthes :3 S: Fakultätsübergreifende Einrichtungen,Meeta Khurana-Wolff :3 S: Fakultätsübergreifende Einrichtungen,Ute Mai
+# Beschreibung
+Beschreibung :3 S: <strong>This Online-Workshop focuses on planning tools for project management. All participants apply their experiences and knowledge in ”hands-on” exercises.</strong>

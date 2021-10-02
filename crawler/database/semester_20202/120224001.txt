@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: The Future of Urban Tourism
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48077&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 120224001
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlmodul\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlmodul\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlmodul\r, <br/>,  , <br/>, European Urban Studies, M.Sc. PO 2020\r, <br/>, elective module\r, <br/>, European Urban Studies, M.Sc. PO 18\r, <br/>, elective module\r, <br/>,  , <br/>, Integrated Urban Development and Design, M.Sc. PO 2020\r, <br/>, elective module\r, <br/>, Integrated Urban Development and Design, M.Sc. PO 18\r, <br/>, elective module\r, <br/>,  , <br/>, MediaArchitecture, M.Sc. PO 2020\r, <br/>, Wahlmodul\r, <br/>, MediaArchitecture, M.Sc. PO 2020\r, <br/>, Wahlmodul\r, <br/>,  , <br/>, Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 2020 2-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Wahlpflichtmodul
+Erwartete Teilnehmer/-innen :3 S: 20
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: unger. Wo
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: missing,Rizky Podlaszewska
+# Beschreibung
+Beschreibung :3 S: The shift in attitude by city planners towards the tourist industry was prompted by the decline of long-established economic activities and the need of introducing the new ones. This urban dynamic has urged contemporary cities to find a mechanism of upgrading the image of the city through tourism, and the hope that the development of the industry would result in physical as well as social and economic revitalisation of the city. Apart from the‚ ‘‘Central place ‘‘paradigm that retains from the thesis of global interconnectedness as the tertiarization of the service economy in urban destinations, the dispute of localisation contributes strongly to the defining of modern urbanisation and the restructuring process. City destinations are keen to adapt to the new forces of globalisation with the references to the favoured attractions all around the world in which tourism, is paradoxically expressed in the language of the locality. As the result of such dichotomy between global and local, the ‘locality’ has emerged as a new dimension explored and commodified both by planners and industry practitioners.

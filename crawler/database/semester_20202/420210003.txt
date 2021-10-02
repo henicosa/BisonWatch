@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Projektwerkstatt: „Geschäftsmodelle“
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47994&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Plenum
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 420210003
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Matthias Maier :3 S: Fakultät Medien,Michèle Eike
+# Beschreibung
+Beschreibung :3 S: Die Auseinandersetzung mit Geschäftsmodellen, bzw. sogenannten „Business Modellen” hat in den vergangenen Jahren erheblich an Bedeutung gewonnen und eine Reihe von Diskursen aus der Organisationstheorie und dem Strategischen Management übernommen und integriert. Ein Geschäftsmodell stellt eine modellhafte Repräsentation der Prozesse und Praktiken von Unternehmen dar und zeigt auf, wie eine Organisation Mehrwert für Leistungsempfänger/ Kunden erzeugen und Erträge für die Organisation hervorbringen kann. Die Projektwerkstatt setzt sich zunächst mit den theoretischen und konzeptionellen Grundlagen von Geschäftsmodellen auseinander und geht dabei auf die engen Zusammenhänge mit Diskursen zur Strategie und Organisation ein. Daran anschließend erfolgt die Analyse von verschiedenen Geschäftsmodellen. Dabei werden unter anderem die Schlüsselfaktoren für Geschäftsmodelle in den vernetzten Medien und Digitale Geschäftsmodelle in den Blick genommen.

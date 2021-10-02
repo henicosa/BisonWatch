@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Integrated Planning Strategies for Rural-Urban Transformation in Ethiopia
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49848&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 10
+Veranstaltungsnummer :3 S: 121122401
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Integrated Urban Development and Design, M.Sc. PO 2020\r, <br/>, study project\r, <br/>, Integrated Urban Development and Design, M.Sc. PO 18\r, <br/>, study project
+Erwartete Teilnehmer/-innen :3 S: 25
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Abschlusspräsentation</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Sven Schneider :3 S: Fakultät Architektur und Urbanistik,Reinhard König :3 S: Fakultät Architektur und Urbanistik,Philippe Schmidt :3 S: Fakultät Architektur und Urbanistik,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: The transformation from a mainly agricultural society to industrialisation that is faced these days in Ethiopia is linked to substantial changes of the country’s rural and urban areas. With these shifts, the processes of urbanisation and expectations towards modernisation is seen as a chance to create new and adaptive urban planning proposals that meet specific needs and conditions of the Ethiopian development context in Sub-Saharan Africa. While the World Bank is promoting rapid economic growth for Ethiopia, still the country is one of the poorest countries in the world, and the question arises in how far urban design and planning can create concepts and flexible urban models that are reactive enough to stimulate different scenarios responding for balanced development.

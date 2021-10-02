@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Editing\xa0-\xa0Montage,\xa0Rhythmus\xa0und\xa0Dramaturgie
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47298&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 6
+Veranstaltungsnummer :3 S: 320210051
+Max. Teilnehmer/-innen :3 S: 11
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fcloud.uni-weimar.de%2Fs%2FrFCPaY7Fq4ZGGfL&timestamp=1631058067689&hash=0bd54a50f81047db5b847c50e849e9b7
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 17:00 bis 20:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Online-Veranstaltung</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Jakob Hüfner :3 S: Fakultät Kunst und Gestaltung,Andreas Wodraschke :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Andreas Wodraschke arbeitet seit 20 Jahren als Editor fast ausschließlich für Kinofilme, hat aber auch schon für TV gearbeitet, siehe Link. Ihn zeichnen ein großes Gespür für Rhythmus und Dramaturgie aus., <br>In dem Workshop wird er eigene Arbeitsbeispiele präsentieren und anhand derer seine Arbeitsweise und Methoden vorstellen. Der Schwerpunkt des Fachkurses liegt jedoch auch auf den aktuellen Videoarbeiten der Teilnehmer:innen, die während des Workshops an ihren Projekten arbeiten sollen. Deshalb ist ein eigenes Videoprojekt Voraussetzung für die Teilnahme an dem Fachkurs.</br>

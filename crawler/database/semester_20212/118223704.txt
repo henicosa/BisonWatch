@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Moderating Planning Processes
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50934&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Blockveranstaltung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 118223704
+Max. Teilnehmer/-innen :3 S: 25
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Intergrated Urban Development and Design, M.Sc. PO 2020\r, <br/>, Research Methods and Professional Communication\r, <br/>, Intergrated Urban Development and Design, M.Sc. PO 18\r, <br/>, Research Methods and Professional Communication
+Erwartete Teilnehmer/-innen :3 S: 25
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: gerade Wo
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: missing,Tore Dobberstein
+# Beschreibung
+Beschreibung :3 S: Integrated development and design processes require skills to effectively communicate with multiple urban actors, ranging from project stakeholders to citizen audiences. Fundamental knowledge of moderation is an important asset for the work with different interest groups in the urban sphere. The exercise course introduces basic moderation skills to meet today’s challenges in the field integrated urban development and design, such as cooperative planning, mediation, and project evaluation. This includes the accurate detection of different interests, strategies for multi-interest decisions, and to work with potentially conflicting positions.

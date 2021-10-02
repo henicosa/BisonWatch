@@ -1,0 +1,33 @@
+Veranstaltungstitel :3 S: Propädeutikum/Textanalyse
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47546&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 419240028
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: BA Einführungsmodul: Medien- und Kulturtheorie
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Farchiv-und-literaturforschung%2Fwillkommen%2F&timestamp=1631058677532&hash=f72b194f07bfbeed754e66c797bb1d14
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Paulus</p>, <br/>, <p>Digital via Moodle</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Frisch</p>, <br/>, <p>Digital via Moodle</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Winter</p>, <br/>, <p>Digital via Moodle</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Fabian Winter :3 S: Fakultät Medien,Jörg Paulus :3 S: Fakultät Medien,Simon Frisch
+# Beschreibung
+Beschreibung :3 S: Im Seminar werden die Grundlagen, Methoden und Handwerk des wissenschaftlichen Arbeitens vorgestellt und eingeübt. Dabei geht es um wissenschaftliches Lesen, wissenschaftliches Schreiben, Recherchieren von Quellen, die Erarbeitung eines Bewusstseins für Quellen, die Generierung einer Fragestellung, eines Gegenstands und einer Perspektive. Weiter geht es um Format, Aufgabe und Form einer wissenschaftlichen Hausarbeit und andere wissenschaftliche Formate wie Vortrag, Präsentation, Moderation und Gespräch. Andererseits wird anhand ausgewählter Texte in grundlegende Fragen und Theorien der Kulturwissenschaft eingeführt. Im Laufe des Seminars werden wir nach Möglichkeit wissenschaftliche Bibliotheken, Archive und Museen in Weimar und Umland kennenlernen., <br>Melden Sie sich bitte unbedingt vor der ersten Sitzung im Moodle-Raum an. Der Moodle-Raum bildet für den Fall, dass das Seminar als Onlineversion startet, die Basis der gesamten Kommunikation und Organisation für das Seminar. Dort finden Sie Materialien, allgemeine Hinweise und die Termine des Seminars.</br>

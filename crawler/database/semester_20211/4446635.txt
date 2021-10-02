@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Einführung in die Mediengeschichte
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48999&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 4446635
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: B. A. Einführungsmodul Mediengeschichte
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fstruktur%2Ffachbereich-medienwissenschaft%2F&timestamp=1631115401369&hash=ba11f287c1c30980cac5e80adbce2bac
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Online via Moodle</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Stephan Freiherr von Gregory
+# Beschreibung
+Beschreibung :3 S: Bei dieser Einführung in die Mediengeschichte liegt die Betonung auf dem Wort Geschichte. Daraus ergeben sich zwei Besonderheiten: Erstens soll nicht gleich drauflos erzählt werden, sondern (in den ersten beiden Vorlesungen) zunächst einmal gefragt werden, wie sich eine Geschichte der Medien überhaupt betreiben lässt. Wie sich zeigen soll, hat Mediengeschichte es nicht mit fertigen Gegenständen (‚den Medien’) zu tun, deren Geschichte dann nur noch erzählt werden müsste. Was zu einer bestimmten Zeit als Medium in den Blick gerät (und welche Dinglichkeit oder welche Handlungsmacht ihm dabei zugeschrieben wird) ist vielmehr selbst eine eminent geschichtliche (und mediengeschichtliche) Frage. Zweitens soll die Betonung des Worts Geschichte deutlich machen, dass es hier um eine länger zurückliegende Vergangenheit geht. Gegenstand der Vorlesung sind nicht die letzten iPhone-Generationen, sondern buchstäblich ›alte‹, teilweise sogar sehr alte Medien. Die Vorlesung konzentriert sich einige ausgewählte historische Komplexe, von der Antike bis zur Frühen Neuzeit, die als Entstehungsherde (Nietzsche, Foucault) der Medienentwicklung der Moderne betrachtet werden können: Schrift, Buchdruck, Zentralperspektive, Karte, Post, Netzwerke, Zeitung, Tabellierung und binäre Codierung, Kamera und Projektor, Teleskop und Mikroskop, politische Attraktionsmedien. Ausgehend von diesen historischen Medienkonstellationen lassen sich jeweils aktuelle medientheoretische Fragestellungen diskutieren und Bezüge zu heutigen Medienentwicklungen herstellen.
