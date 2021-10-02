@@ -17,14 +17,15 @@
 
 <body>
     <main>
-        <h1><a href="/en.html">&#8962; </a> | Säulendiagramm</h1>
+        <div class="header"> EN/<a href="/de/bar_chart/">DE</a> </div>
+        <h1><a href="/en.html">&#8962; </a> | Stacked Bar Chart</h1>
 
         <section>
-            <div class="header"> EN/<a href="/de/bar_chart/">DE</a> </div>
-            <p>Diese Visualisierung zeigt die Veranstaltungen nach einem auswählbaren Attribut gruppiert und trennt die Häufigkeiten farblich nach den Fakultäten.
-                Gruppiert werden können die Veranstaltungen dabei nach Sprache, Semesterwochenstunden, Veranstaltungsart, Tag und Fakultät.
+            
+            <p>This visualisation shows the courses grouped by a selectable attribute and separates the frequencies by colour according to the faculties.
+                The courses can be grouped according to language, semester hours, type of course, day and faculty.
             </p>
-            Wähle das Attribut aus, für das du dich interessierst:
+            Select the attribute you are interested in:
             <select id="attribute"></select>
 
             <div> 
@@ -33,10 +34,10 @@
 
             <svg id="alphabet"></svg>
 
-            <p>Kurze Tipps zur Interpretation des Diagramms:
+            <p>Short tips on how to interpret the diagram:
                 <ul>
-                    <li>Beim Hovern über einen Säulenblock, wird die Anzahl der Veranstaltungen, die zu diesem Block gehören, angezeigt.</li>
-                    <li>Die Farben der Blöcke entsprechen den Farben der Fakultätsseiten auf der Webseite der Bauhaus-Uni. Kurse die keiner Fakultät zugeordnet sind, werden grau eingefärbt.</li>
+                    <li>When hovering over a column block, the number of events belonging to this block is displayed.</li>
+                    <li>The colours of the blocks correspond to the colours of the faculty pages on the Bauhaus University website. Courses that are not assigned to a faculty are coloured grey.</li>
                 </ul>
             </p>
         </section>
@@ -45,13 +46,13 @@
             <h3>Credits</h3>
             <ul>
                 <li>Stacked Bar Chart by Tyler Wolf: <a href="https://observablehq.com/@thetylerwolf/day-9-stacked-bar-chart">https://observablehq.com/@thetylerwolf/day-9-stacked-bar-chart</a></li>
-                <li>Vizualization Course: <a href="https://www.uni-weimar.de/de/medien/professuren/medieninformatik/vr/teaching/ss-2021/course-visualization/">https://www.uni-weimar.de/de/medien/professuren/medieninformatik/vr/teaching/ss-2021/course-visualization/</a></li>
+                <li>Visualisation Course: <a href="https://www.uni-weimar.de/de/medien/professuren/medieninformatik/vr/teaching/ss-2021/course-visualization/">https://www.uni-weimar.de/de/medien/professuren/medieninformatik/vr/teaching/ss-2021/course-visualization/</a></li>
             </ul>
         </div>
 
         <div class="footer">
             <p>Code (GPL-3): <a href="https://github.com/henicosa/BisonWatch">https://github.com/henicosa/BisonWatch</a></p>
-            <p>Kontakt: <a href="mailto:ludwig.david.lorenz@uni-weimar.de">ludwig.david.lorenz@uni-weimar.de</a> und
+            <p>Contact: <a href="mailto:ludwig.david.lorenz@uni-weimar.de">ludwig.david.lorenz@uni-weimar.de</a> and
             <a href="mailto:sophie.alice.grimme@uni-weimar.de">sophie.alice.grimme@uni-weimar.de</a></p>
         </div>
     </main>

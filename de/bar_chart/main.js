@@ -34,7 +34,43 @@ loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
   svg2.append("text").attr("x", 20).attr("y", 90).text("Fakultät Medien").attr("alignment-baseline","middle")
   svg2.append("text").attr("x", 20).attr("y", 110).text("Sonstiges").attr("alignment-baseline","middle") 
 
+  var translator = {
+    "faculty": "Fakultät",
+    "language": "Sprache",
+    "day": "Tag",
+    "Tag": "day",
+    "SWS": "sws",
+    "sws": "SWS",
+    "courseType": "Veranstaltungsart",
+    "Veranstaltungsart": "courseType",
+    "Sprache": "language",
+    "Fakultät": "faculty",
+    "Mo." : "Mo.",
+    "Di." : "Tu.",
+    "Mi." : "We.",
+    "Do." : "Th.",
+    "Fr." : "Fr.",
+    "Sa." : "Sa.",
+    "So." : "Su.",
+    "missing" : "Not specified", 
+    "Fakultät Bauingenieurwesen" : "Faculty of Civil Engineering",
+    "Fakultät Architektur und Urbanistik" : "Faculty of Architecture and Urban Studies",
+    "Fakultät Medien" : "Faculty of Medien",
+    "Fakultät Kunst und Gestaltung" : "Faculty of Art and Design",
+    "Zentrale Veranstaltungen der Universität" : "Central events of the university",
+    "Lehrveranstaltungen der Bauhaus.Module" : "Courses only included in the Bauhaus.Modules", 
+    "deutsch" : "German",
+    "englisch" : "English",
+    "deutsch/englisch" : "German/English",
+    "deutsch/französisch" : "German/French",
+    "NaN" : "Not specified"
+  }
 
+  function translate(word) {
+    if (translator[word] != undefined)
+      return translator[word]
+    return word
+  }
 
   const attributeSelect = d3.select("select#attribute");
 
@@ -45,22 +81,23 @@ loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
     .selectAll("option")
     .data(possibleAttributes)
     .join("option")
-    .text((attribute) => attribute);
+    .text((attribute) => translate(attribute));
 
   // initialize
-  update(svg, attributeSelect, bisond, height, width)
+  update(svg, attributeSelect, bisond, height, width, translate)
   // update the histogram every time the chosen attribute is changed
-  attributeSelect.on("change", () => update(svg, attributeSelect, bisond, height, width))
+  attributeSelect.on("change", () => update(svg, attributeSelect, bisond, height, width, translate))
 
 });
 
-function update(svg, attributeSelect, bisond, height, width) {
+function update(svg, attributeSelect, bisond, height, width, translate) {
   var margin = ({top: 80, right: 0, bottom: 150, left: 40})
   var color = "steelblue"
 
+  console.log(svg)
   svg.selectAll("g").remove()
 
-  const attribute = attributeSelect.property("value");
+  const attribute = translate(attributeSelect.property("value"));
 
   const sorter = {
     "Mo.": 1,
@@ -84,7 +121,7 @@ function update(svg, attributeSelect, bisond, height, width) {
     "faculty": (d) => d.faculty
   }
 
-  console.log(data)
+  //console.log(data)
 
   var data = Array.from(d3.group(bisond, get_att[attribute]))
 
@@ -101,7 +138,7 @@ function update(svg, attributeSelect, bisond, height, width) {
 
   var categories = ["Fakultät Architektur und Urbanistik", "Fakultät Bauingenieurwesen", "Fakultät Kunst und Gestaltung", "Fakultät Medien"]
 
-  console.log(data)
+  //console.log(data)
   data = data.map((d) => {
     var roll = d3.rollup(d[1], v => v.length, 
       w => categories.includes(w.faculty) ? w.faculty: "Sonstiges" 
@@ -146,7 +183,7 @@ function update(svg, attributeSelect, bisond, height, width) {
 
   var xAxis = g => g
     .attr("transform", `translate(0,${height - margin.bottom})`)
-    .call(d3.axisBottom(x).tickFormat(i => (data[i].name.length <=15) ? data[i].name:data[i].name.slice(0, 12) + "...").tickSizeOuter(0))
+    .call(d3.axisBottom(x).tickFormat(i => (translate(data[i].name).length <=20) ? translate(data[i].name) : translate(data[i].name).slice(0, 17) + "...").tickSizeOuter(0))
     .selectAll("text")
         .style("text-anchor", "end")
         .attr("dx", "-.8em")
