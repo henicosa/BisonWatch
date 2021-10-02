@@ -7,63 +7,60 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="stylesheet" type="text/css" href="/index.css" />
-  <title>Visualization Lab Class</title>
+  <title>BisonWatch</title>
 </head>
 
 <body>
   <main>
     <div class="header">
-      <a href="/en">EN</a>/DE
+      EN/<a href="/">DE</a>
     </div>
     <figure><img src="bisonwatch logo.svg" height="200" width="1000"></figure>
     
     <section>
-      <p id="description">Diese Visualisierungen veranschaulichen die Daten des Bisonportals der Bauhaus-Universität Weimar in verschiedenen Zusammenhängen. </p>
+      <p id="description">These visualisations illustrate the data of the Bison Portal of the Bauhaus University Weimar in different contexts. </p>
     </section>      
     <ol> 
-      <center>Du willst... <br /> </center>
+      <center>I want to... <br /> </center>
       <div class="container">        
-      <a href="/code/parallel_sets/" class="button"> <i class="icon fa fa-indent"></i>...Kurse filtern</a><br><br>
-      <a href="/code/lecturer_network" class="button"> <i class="icon fa fa-spinner"></i>...Lehrende erforschen</a><br><br>
-      <a href="/code/bar_chart" class="button"> <i class="icon fa fa-bar-chart"></i>...Fakultäten vergleichen</a><br><br>
+      <a href="/en/parallel_sets/" class="button"> <i class="icon fa fa-indent"></i>...filter courses</a><br><br>
+      <a href="/en/lecturer_network" class="button"> <i class="icon fa fa-spinner"></i>...explore lecturers</a><br><br>
+      <a href="/en/bar_chart" class="button"> <i class="icon fa fa-bar-chart"></i>...compare faculties</a><br><br>
       </div>  
    </ol>
 
   <div class="faq">
-    <h3>Wie benutze ich BisonWatch?</h3>
-    Wir haben dafür ein kleines Video auf Englisch produziert: <br />
+    <h3>How do I use BisonWatch?</h3>
+    For this question we produced a little video in English: <br />
     <div style="padding:56.25% 0 0 0 ; margin-top: 0.5rem; position:relative;"><iframe src="https://player.vimeo.com/video/607184662?h=e092cd8c71&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="demo bisonwatch.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
   </div>
 
   <div class="faq">
-    <h3>Wie funktioniert BisonWatch?</h3>
-    BisonWatch sammelt Veranstaltungsdaten mit einem WebCrawler aus dem Bisonportal. Ein WebCrawler ist ein Programm 
-    das automatisiert durch ein Webseite surft und die Informationen, auf das es dabei stößt, in einer eigenen 
-    Datenbank abspeichert. Diese Veranstaltungsdaten werden dann auf dieser Seite visualisiert. <br />
-    Mehr Informationen dazu findest du in unserem Github-Wiki: 
+    <h3>How does BisonWatch work?</h3>
+    BisonWatch collects course data with a WebCrawler from the Bison Portal. A WebCrawler is a programme 
+    that automatically surfs through a website and stores the information it discovers in its own database. 
+    This data is then visualised on this page. <br /> 
+    You can find more information in our <a href="https://github.com/henicosa/BisonWatch">Github-Repository</a>. 
   </div>
 
   <div class="faq">
-    <h3>Ich bin selbst Lehrende/r, was passiert mit meinen Daten?</h3>
-    Grundsätzlich werden nur öffentliche Daten, also Daten, die für externe Besucher im Bisonportal einsehbar sind, erhoben.
-    Zu diesen Daten gehören auch personenbezogene Daten. Diese sind:
+    <h3>I am a teacher myself, what happens to my data?</h3>
+    In principle, only public data, i.e. data that can be viewed by external visitors to the Bison portal, is collected.
+    This data also includes personal data. These are:
     <ul>
-      <li>Die Namen der Lehrpersonen einer Veranstaltung (ohne akademischen Titel)</li>
-      <li>Die zugehörige Fakultät in der die Lehrperson beschäftigt sind</li>
+      <li>The names of the teachers of a course (without academic title)</li>
+      <li>The associated faculty in which the teacher is employed</li>
     </ul>
-    Diese Daten werden aggregiert, also zu neuen Daten zusammengefasst. Dadurch entsteht für jede Lehrperson im Datensatz 
-    ein neues Datenobjekt, das 
+    These records are then aggregated, i.e. combined into new data. This creates a new item of data for each teacher in the dataset that contains
     <ul>
-      <li>eine Liste aller Lehrveranstaltungen des/r Lehrenden und </li>
-      <li>eine Liste aller Lehrenden, mit 
-        mit denen die Lehrperson eine gemeinsame Veranstaltung anbietet,</li>
-    </ul> enthält. Die Rechte an deinen eigenen Daten bleiben dir erhalten. Bei weiteren Fragen oder Einwänden kontaktieren 
-    uns gern.
+      <li>a list of all courses taught by the lecturer and </li>
+      <li>a list of all teachers with whom the teacher offers a shared course,</li>
+    </ul> You retain the rights to your own data. If you have any further questions or objections, please contact us.
   </div>
 
   <div class="footer">
       <p>Code (GPL-3): <a href="https://github.com/henicosa/BisonWatch">https://github.com/henicosa/BisonWatch</a></p>
-      <p>Kontakt: <a href="mailto:ludwig.david.lorenz@uni-weimar.de">ludwig.david.lorenz@uni-weimar.de</a> und <a href="mailto:sophie.alice.grimme@uni-weimar.de">sophie.alice.grimme@uni-weimar.de</a></p>
+      <p>Contact: <a href="mailto:ludwig.david.lorenz@uni-weimar.de">ludwig.david.lorenz@uni-weimar.de</a> and <a href="mailto:sophie.alice.grimme@uni-weimar.de">sophie.alice.grimme@uni-weimar.de</a></p>
   </div>
 
 

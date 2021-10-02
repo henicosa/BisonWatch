@@ -42,10 +42,10 @@ loadBisonDataset(dataset).then((bisond) => {
   var searchParam = urlSearchParams.get('lecturer');
   if (searchParam != undefined) {
     var description = d3.select("#description").text("")
-    description.append("c").text("Diese Visualisierung zeigt alle Kurse von ")
+    description.append("c").text("This visualisation shows all courses by ")
     description.append("strong").text(searchParam)
-    description.append("c").text(historic_data ? " seit einschließlich WiSe 2019/20. (" : " im aktuellen Semester. (")
-    description.append("a").attr("href", "/code/parallel_sets").text("Auswahl aufheben")
+    description.append("c").text(historic_data ? " since and including winter semester 2019/20. (" : " in the current semester. (")
+    description.append("a").attr("href", "/en/parallel_sets").text("Cancel selection")
     description.append("c").text(")")
     keys = ["courseType", "language", "day", "sws"]
     var color_keys = []
@@ -74,7 +74,7 @@ loadBisonDataset(dataset).then((bisond) => {
     else if (d.sws <= 6) d.sws = "4-6"
     else if (d.sws <= 12) d.sws = "8-12"
     else if (d.sws <= 18) d.sws = "16-18"
-    else d.sws = "Keine Angabe"
+    else d.sws = "Not specified"
     return d    
   })
 
@@ -107,7 +107,7 @@ loadBisonDataset(dataset).then((bisond) => {
     "missing": 8,
   };
 
-  const sws = ["0-3", "4-6", "8-12", "16-18", "Keine Angabe"]
+  const sws = ["0-3", "4-6", "8-12", "16-18", "Not specified"]
   const sws_sorter = new Map()
   sws.forEach((d, i) => sws_sorter.set(d, i))
 
@@ -165,11 +165,35 @@ loadBisonDataset(dataset).then((bisond) => {
   });
 
   var translator = {
-    "faculty": "Fakultät",
-    "language": "Sprache",
-    "day": "Tag",
+    "faculty": "Faculty",
+    "language": "Language",
+    "day": "Day",
     "sws": "SWS",
-    "courseType": "Veranstaltungsart"
+    "courseType": "Course type",
+    "Mo." : "Mo.",
+    "Di." : "Tu.",
+    "Mi." : "We.",
+    "Do." : "Th.",
+    "Fr." : "Fr.",
+    "Sa." : "Sa.",
+    "So." : "Su.",
+    "missing" : "Not specified", 
+    "Fakultät Bauingenieurwesen" : "Faculty of Civil Engineering",
+    "Fakultät Architektur und Urbanistik" : "Faculty of Architecture and Urban Studies",
+    "Fakultät Medien" : "Faculty of Medien",
+    "Fakultät Kunst und Gestaltung" : "Faculty of Art and Design",
+    "Zentrale Veranstaltungen der Universität" : "Central events of the university",
+    "Lehrveranstaltungen der Bauhaus.Module" : "Courses only included in the Bauhaus.Modules", 
+    "deutsch" : "German",
+    "englisch" : "English",
+    "deutsch/englisch" : "German/English",
+    "deutsch/französisch" : "German/French"
+  }
+
+  function translate(word) {
+    if (translator[word] != undefined)
+      return translator[word]
+    return word
   }
 
   // Legend
@@ -184,7 +208,7 @@ loadBisonDataset(dataset).then((bisond) => {
   .attr("text-anchor", (d, i) => i * width/(keys.length-1) < width / 2 ? "start" : "end")// 
   .append("tspan")
   .attr("fill-opacity", 0.7)
-  .text(d => translator[d]);
+  .text(d => translate(d));
   
   svg.append("g")
       .selectAll("rect")
@@ -209,7 +233,7 @@ loadBisonDataset(dataset).then((bisond) => {
         redraw()
       })
       .append("title")
-      .text(d => `${d.name}\n${d.value.toLocaleString()}`);
+      .text(d => `${translate(d.name)}\n${d.value.toLocaleString()}`);
 
   svg.append("g")
       .attr("fill", "none")
@@ -221,7 +245,7 @@ loadBisonDataset(dataset).then((bisond) => {
       .attr("stroke-width", d => d.width)
       .style("mix-blend-mode", "multiply")
       .append("title")
-      .text(d => `${d.names.join(" → ")}\n${d.value.toLocaleString()}`);
+      .text(d => `${d.names.map((e) => translate(e)).join(" → ")}\n${d.value.toLocaleString()}`);
       
 
   svg.append("g")
@@ -233,10 +257,10 @@ loadBisonDataset(dataset).then((bisond) => {
       .attr("y", d => (d.y1 + d.y0) / 2)
       .attr("dy", "0.35em")
       .attr("text-anchor", d => d.x0 < width / 2 ? "start" : "end")
-      .text(d => d.name)
+      .text(d => translate(d.name))
       .append("tspan")
       .attr("fill-opacity", 0.7)
-      .text(d => ` ${d.value.toLocaleString()}`);
+      .text(d => ` ${translate(d.value).toLocaleString()}`);
  
   /**
    * compare two different attributes
@@ -279,7 +303,7 @@ loadBisonDataset(dataset).then((bisond) => {
       .attr("stroke-width", d => d.width)
       .style("mix-blend-mode", "multiply")
       .append("title")
-      .text(d => `${d.names.join(" → ")}\n${d.value.toLocaleString()}`);
+      .text(d => `${d.names.map(e => translate(e)).join(" → ")}\n${d.value.toLocaleString()}`);
   }
 
   /**
@@ -311,12 +335,12 @@ loadBisonDataset(dataset).then((bisond) => {
 
     // generate table header
     var table_header = table.append("tr")
-    table_header.append("th").text("Veransstaltungstitel")
-    table_header.append("th").text("Lehrpersonen")
+    table_header.append("th").text("Course title")
+    table_header.append("th").text("Lecturers")
 
     if (selection.length == 0) {
       var table_row = table.append("tr")
-      table_row.append("td").text("Es konnten keine Veranstaltungen für die aktuelle Auswahl gefunden werden.")
+      table_row.append("td").text("No courses could be found for the current selection.")
       table_row.append("td")
     } else {
 

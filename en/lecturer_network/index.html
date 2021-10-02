@@ -18,10 +18,11 @@
 
 <body>
     <main>
-        <h1><a href="/index.html">&#8962; </a> | Lehrendennetzwerk</h1>
+        <div class="header"> EN/<a href="/de/lecturer_network/">DE</a> </div>
+        <h1><a href="/en.html">&#8962; </a> | lecturer network</h1>
 
-            <p id="description">Diese Visualisierung zeigt die Lehrenden der Bauhaus-Universität und ihre gemeinsamen Veranstaltungen im aktuellen Semester. </p>
-            <center>Finde eine Lehrperson: <input id="search_input" list="search"> </center>
+            <p id="description">This visualisation shows the Bauhaus University lecturers and their shared courses in the current semester. </p>
+            <center>Find a lecturer: <input id="search_input" list="search"> </center>
             
             <svg id="lecturer_network"></svg>
             
@@ -32,21 +33,21 @@
             <datalist id="search">
             </datalist> 
 
-            <p>Diese Visualisierung zeigt das Netzwerk der Kursleiter*innen der Bauhaus-Universität Weimar. <br \>
-                Je mehr Veranstaltungen von einer Person geleitet werden umso größer ist ihr Knoten im Netzwerk. 
-                Falls eine Veranstaltung von mehreren Personen geleitet wird sind diese Personen im Netzwerk mit Kanten verbunden.
-                Je näher zwei Personen beieinander sind, umso mehr Veranstaltungen leiten sie gemeinsam. 
+            <p>This visualisation shows the network of course trainers at the Bauhaus University Weimar. <br \>
+                The more courses are led by one person, the bigger is that person's node in the network. 
+                If a course is led by several people, these people are connected with edges in the network.
+                The closer two people are to each other, the more courses they manage together. 
             </p>
 
             <input type="checkbox" id="historic" value="bool">
-            <label for="historic"> Beziehe Kursdaten seit WiSe 2019/20 in die Visualisierung ein.</label>
+            <label for="historic"> Include course data since WiSe 2019/20 in the visualisation.</label>
 
-            <p>Kurze Tipps zur Interpretation des Diagramms:
+            <p>Short tips on how to interpret the diagram:
                 <ul>
-                    <li>In das Diagramm lässt sich durch Drehen des Mausrads oder einem Fingerpinch reinzoomen. Und die aktuelle Ansicht kann mit gedrückt gehaltener Maus verschoben werden.</li>
-                    <li>Über das Suchfeld lässt sich eine bestimmte Lehrperson auswählen. Die Lehrperson wird im Netzwerk rot eingefärbt und alle Personen, die nicht mit der Lehrperson verbunden sind, werden ausgegraut.</li>
-                    <li>Wenn keine bestimmte Lehrperson im Suchfeld ausgewählt ist, wird beim Hovern über eine Person, wird der Name der Person angezeigt und es werden alle Personen farblich markiert die mit dieser Personen verbunden sind.</li>
-                    <li>Durch die Auswahl einer Person, wird in der Überschrift ein Link angezeigt, der zu der Auflistung aller Veranstaltungen dieser Person weiterleitet.</li>
+                    <li>The diagram can be zoomed into by turning the mouse wheel or a finger pinch. And the current view can be moved by holding and pressing the mouse button.</li>
+                    <li>A specific teacher can be selected via the search field. The teacher is coloured red in the network and all persons who are not connected to the teacher are greyed out.</li>
+                    <li>If no specific teacher is selected in the search field, hovering over a person will display the person's name and highlight all persons associated with that person.</li>
+                    <li>By selecting a person, a link is displayed in the headline that leads to the listing of all events of this person.</li>
                 </ul>
             </p>
         </section>
@@ -54,17 +55,17 @@
         <div class="task">
             <h3>Credits</h3>
             <ul>
-                <li>Disjoint Force-Directed Graph von Mike Bostock: <a href="https://observablehq.com/@d3/disjoint-force-directed-graph">https://observablehq.com/@d3/disjoint-force-directed-graph</a></li>
-                <li>Vizualization Course: <a href="https://www.uni-weimar.de/de/medien/professuren/medieninformatik/vr/teaching/ss-2021/course-visualization/">https://www.uni-weimar.de/de/medien/professuren/medieninformatik/vr/teaching/ss-2021/course-visualization/</a></li>
+                <li>Disjoint Force-Directed Graph by Mike Bostock: <a href="https://observablehq.com/@d3/disjoint-force-directed-graph">https://observablehq.com/@d3/disjoint-force-directed-graph</a></li>
+                <li>Vizualisation Course: <a href="https://www.uni-weimar.de/de/medien/professuren/medieninformatik/vr/teaching/ss-2021/course-visualization/">https://www.uni-weimar.de/de/medien/professuren/medieninformatik/vr/teaching/ss-2021/course-visualization/</a></li>
             </ul>
         </div>
 
         <div class="footer">
             <p>Code (GPL-3): <a href="https://github.com/henicosa/BisonWatch">https://github.com/henicosa/BisonWatch</a></p>
-            <p>Kontakt: <a href="mailto:sophie.alice.grimme@uni-weimar.de">sophie.alice.grimme@uni-weimar.de</a> und <a href="mailto:ludwig.david.lorenz@uni-weimar.de">ludwig.david.lorenz@uni-weimar.de</a></p>
+            <p>Contact: <a href="mailto:sophie.alice.grimme@uni-weimar.de">sophie.alice.grimme@uni-weimar.de</a> and <a href="mailto:ludwig.david.lorenz@uni-weimar.de">ludwig.david.lorenz@uni-weimar.de</a></p>
         </div>
     </main>
-    <script type="module" src="/code/lecturer_network/main.js"></script>
+    <script type="module" src="/en/lecturer_network/main.js"></script>
 </body>
 
 </html>
