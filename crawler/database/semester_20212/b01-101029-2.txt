@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Aufbereitungs- und Recyclingpraktikum
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50768&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Praktikum
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: B01-101029-2
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: gerade Wo
+Bemerkung :3 S: , <p>Raum 115, Coudraystraße 13A</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Alexander Schnell :3 S: Fakultät Bauingenieurwesen,Christiane Rößler
+# Beschreibung
+Beschreibung :3 S: Praktikum zur Vorlesung Mechanische Verfahrenstechnik und Recycling II

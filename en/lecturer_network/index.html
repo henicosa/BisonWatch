@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" type="text/css" href="/index.css" />
+    <title>BisonWatch - Lecturer Network</title>
+
+    <style>
+        text {
+            font-size: 12px;
+        }
+
+    </style>
+</head>
+
+<body>
+    <main>
+        <h1><a href="/index.html">&#8962; </a> | Lehrendennetzwerk</h1>
+
+            <p id="description">Diese Visualisierung zeigt die Lehrenden der Bauhaus-Universität und ihre gemeinsamen Veranstaltungen im aktuellen Semester. </p>
+            <center>Finde eine Lehrperson: <input id="search_input" list="search"> </center>
+            
+            <svg id="lecturer_network"></svg>
+            
+            <div>
+                <svg id= "legend" height=120 width=250></svg> 
+            </div>       
+            
+            <datalist id="search">
+            </datalist> 
+
+            <p>Diese Visualisierung zeigt das Netzwerk der Kursleiter*innen der Bauhaus-Universität Weimar. <br \>
+                Je mehr Veranstaltungen von einer Person geleitet werden umso größer ist ihr Knoten im Netzwerk. 
+                Falls eine Veranstaltung von mehreren Personen geleitet wird sind diese Personen im Netzwerk mit Kanten verbunden.
+                Je näher zwei Personen beieinander sind, umso mehr Veranstaltungen leiten sie gemeinsam. 
+            </p>
+
+            <input type="checkbox" id="historic" value="bool">
+            <label for="historic"> Beziehe Kursdaten seit WiSe 2019/20 in die Visualisierung ein.</label>
+
+            <p>Kurze Tipps zur Interpretation des Diagramms:
+                <ul>
+                    <li>In das Diagramm lässt sich durch Drehen des Mausrads oder einem Fingerpinch reinzoomen. Und die aktuelle Ansicht kann mit gedrückt gehaltener Maus verschoben werden.</li>
+                    <li>Über das Suchfeld lässt sich eine bestimmte Lehrperson auswählen. Die Lehrperson wird im Netzwerk rot eingefärbt und alle Personen, die nicht mit der Lehrperson verbunden sind, werden ausgegraut.</li>
+                    <li>Wenn keine bestimmte Lehrperson im Suchfeld ausgewählt ist, wird beim Hovern über eine Person, wird der Name der Person angezeigt und es werden alle Personen farblich markiert die mit dieser Personen verbunden sind.</li>
+                    <li>Durch die Auswahl einer Person, wird in der Überschrift ein Link angezeigt, der zu der Auflistung aller Veranstaltungen dieser Person weiterleitet.</li>
+                </ul>
+            </p>
+        </section>
+
+        <div class="task">
+            <h3>Credits</h3>
+            <ul>
+                <li>Disjoint Force-Directed Graph von Mike Bostock: <a href="https://observablehq.com/@d3/disjoint-force-directed-graph">https://observablehq.com/@d3/disjoint-force-directed-graph</a></li>
+                <li>Vizualization Course: <a href="https://www.uni-weimar.de/de/medien/professuren/medieninformatik/vr/teaching/ss-2021/course-visualization/">https://www.uni-weimar.de/de/medien/professuren/medieninformatik/vr/teaching/ss-2021/course-visualization/</a></li>
+            </ul>
+        </div>
+
+        <div class="footer">
+            <p>Code (GPL-3): <a href="https://github.com/henicosa/BisonWatch">https://github.com/henicosa/BisonWatch</a></p>
+            <p>Kontakt: <a href="mailto:sophie.alice.grimme@uni-weimar.de">sophie.alice.grimme@uni-weimar.de</a> und <a href="mailto:ludwig.david.lorenz@uni-weimar.de">ludwig.david.lorenz@uni-weimar.de</a></p>
+        </div>
+    </main>
+    <script type="module" src="/code/lecturer_network/main.js"></script>
+</body>
+
+</html>

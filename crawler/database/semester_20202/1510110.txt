@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: 3. Kernmodul: KLANGKOLLEKTION
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=46846&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Entwurf
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 1510110
+Max. Teilnehmer/-innen :3 S: 32
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 18\r, <br/>, 3. Kernmodul - Grundlagen des Konstruierens\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, 3. Kernmodul - Grundlagen des Konstruierens
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Johannes Kühn :3 S: Fakultät Architektur und Urbanistik,Marlene Külz :3 S: Fakultät Architektur und Urbanistik,Marie-Theres Weiß :3 S: Fakultät Architektur und Urbanistik,Robert Ochsenfarth
+# Beschreibung
+Beschreibung :3 S: Rückseitig des ehemaligen Fürstenhauses, heute Hauptgebäude der Hochschule für Musik „Franz Liszt“ (HfM), in direkter Nachbarschaft des dem Parkeingang gegenüberstehenden Hauses der Frau von Stein, liegt in Verlängerung des Oppelschen Gartens mit dem Oppelschen Pavillon, dereinst als barocker Spielort erdacht, ein kleiner Parkplatz. An dessen Stelle ist angedacht, das musische und gesellige Umfeld um einen Ort zu bereichern, an dem die kleine bislang verborgene Instrumentensammlung des Hochschularchivs zur Schau gebracht werden soll. Ein Teil der Präsentationsform dieser Instrumente Wunderkammer ist das Spiel auf den Sammlungsstücken, welches eine entsprechende räumliche Berücksichtigung innerhalb des Präsentationsraums erfahren möchte, der sich in dieser Funktion möglicherweise auch in den Stadtraum erweitert.

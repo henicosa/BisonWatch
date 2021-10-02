@@ -1,0 +1,22 @@
+Veranstaltungstitel :3 S: Structural enginering – Standard systems (Exercise)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50814&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 1
+Veranstaltungsnummer :3 S: 2205012
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2FBauing%2FMSK%2F&timestamp=1631112575635&hash=110e32b82b9d8c4cfa737a393637ce21
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Group 1 (Group A + Group B)</p>, <br/>, <p>dates by arrangement</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Guido Morgenthal :3 S: Fakultät Bauingenieurwesen,Sebastian Rau :3 S: Fakultät Bauingenieurwesen,Christopher Taube :3 S: Fakultät Bauingenieurwesen,Samir Chawdhury :3 S: Fakultät Bauingenieurwesen,Igor Kavrakov
+# Beschreibung

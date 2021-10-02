@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Parametric Building Information Modeling
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47822&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 118222403
+Max. Teilnehmer/-innen :3 S: 25
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Projektmodul - begleitendes Seminar oder\r, <br/>, Wahlpflichtmodul - Architektur\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Projektmodul - begleitendes Seminar oder\r, <br/>, Wahlpflichtmodul - Architektur\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Projektmodul - begleitendes Seminar oder\r, <br/>, Wahlpflichtmodul - Architektur\r, <br/>,  , <br/>, MediaArchitecture, M.Sc. PO 18\r, <br/>, Projektmodul - begleitendes Seminar oder\r, <br/>, Fachmodul - Digitale Planung
+Erwartete Teilnehmer/-innen :3 S: 20
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Olaf Kammler :3 S: Fakultät Architektur und Urbanistik,Sven Schneider
+# Beschreibung
+Beschreibung :3 S: Beim Entwurf von Gebäuden müssen zahlreiche Elemente (wie z.B. Gebäudeform, Räume, Öffnungen, Erschließungsform, Konstruktion) definiert und sorgfältig aufeinander abgestimmt werden. Building Information Modeling (BIM) unterstützt diesen Prozess, indem es Gebäudeelemente vorhält, die schnell platziert und verändert werden können. Aufgrund der Vielzahl der Elemente, aus denen ein Gebäude besteht, gestaltet sich dieser Prozess jedoch oft als zeitaufwendig und unflexibel bei Änderungen im Entwurf. Indem Regeln definiert werden, die beschreiben wie Elemente zueinander in Beziehung stehen sollen (Parametrisierung), können Modelle erzeugt werden, die sich automatisch an bestimmte Parameter (z.B. Gebäudehöhe, Gebäudebreite, Anzahl der Räume) anpassen.

@@ -1,0 +1,48 @@
+Veranstaltungstitel :3 S: Lineare Algebra
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=46864&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 3
+Veranstaltungsnummer :3 S: 4555112
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fqisserver%2Frds%3Fstate%3Dverpublish%26status%3Dinit%26vmfile%3Dno%26publishid%3D42790%26moduleCall%3DwebInfo%26publishConfFile%3DwebInfo%26publishSubDir%3Dveranstaltung&timestamp=1631058425515&hash=2285df005d94be9076fc4293a575ccd7
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Online</p>,
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Online</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Online</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Online</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:30 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Klausur</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:30 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Wdh.-Klausur für Studierende nach alter Prüfungsordnung (bei Prof. Gürlebeck)</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Dmitrii Legatiuk :3 S: Fakultät Bauingenieurwesen,Sebastian Bock
+# Beschreibung
+Beschreibung :3 S: Elementarmathematik: Mengen, Logik, Zahlenbereiche, Rechnen mit Gleichungen und Ungleichungen, Betrag, elementare Funktionen und ihre Umkehrfunktionen, Folgen, Reihen, Grenzwertbegriff, Konvergenz, Differenzierbarkeit; Vektorrechnung und analytische Geometrie in der Ebene und im dreidimensionalen Raum. Die Elementarmathematik wird mit einer Zwischenklausur abgeschlossen, <br><br>Lineare Vektorräume; normierte Räume; Abbildungen; lineare Operatoren; Elemente der analytischen Geometrie; Matrizenrechnung;<br>lineare Gleichungssysteme; Koordinatentransformationen; Invarianten geometrischer Abbildungen; Eigenwertprobleme; Kurven und Flächen zweiter Ordnung<br><br>Verständnis der Geometrie des n-dimensionalen Raumes, geometrische Interpretation der Matrizenrechnung, Anwendung auf Lösung von Gleichungssystemen, Erkennen von Invarianten, Führen von einfachen Beweisen</br></br></br></br></br>

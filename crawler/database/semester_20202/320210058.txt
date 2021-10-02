@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Life is Very Good
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47281&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 6
+Veranstaltungsnummer :3 S: 320210058
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fvimeo.com%2F471382522&timestamp=1631058418923&hash=6f15e81f866617376761aaac76d941a1
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: missing,Philotheus Nisch :3 S: missing,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Life Is Very Good, <br>Der Kurs Life Is Very Good widmet sich der fotografischen Auseinandersetzung mit dem guten Leben.<br/>Die Frage nach dem guten Leben ist eine uralte Menschheitsfrage, die in allen Kulturen zu allen Zeiten gestellt - und auch beantwortet wurde.<br/>Aber was genau heißt das eigentlich, das gute Leben? Und wie sieht dieses gute Leben im Jahr 2020/2021 aus? Disziplin? Hedonismus? Aperol Spritz? Rhabarber-Schorle? Ekstase? Mülltrennen? Organe spenden? Demonstrieren? Kontemplation? Aktion?<br/>Der Kurs soll dazu ermutigen, Alltagserfahrungen und Banales als Grundlage künstlerischen Schaffens zu betrachten. Dabei versteht sich der Kurs als Ort für Austausch, Experiment, Prozess und Ungewisses. Gegenwärtige und vergangene Darstellungsformen sowie visuelle Klischees zum Thema werden analysiert und sollen als Ausgangspunkt für eigenständige fotografische Interpretationen dienen.<br/>Das Ergebnis wird eine gemeinsame Publikation sein, in der die individuellen Positionen der Teilnehmenden zusammenfinden.</br>

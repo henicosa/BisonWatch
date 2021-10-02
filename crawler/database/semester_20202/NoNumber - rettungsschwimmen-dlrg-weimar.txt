@@ -1,0 +1,22 @@
+Veranstaltungstitel :3 S: Rettungsschwimmen - DLRG Weimar
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=46850&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Kurs
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: missing
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 18:00 bis 21:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+# Beschreibung
+Beschreibung :3 S: Die DLRG Weimar bietet für Studierende der BUW / HfM einen Ausbildungslehrgang zum Rettungsschwimmabzeichen (Bronze/Silber) an.

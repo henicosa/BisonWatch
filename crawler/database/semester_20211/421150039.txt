@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Workshop 3P - Musical Interfaces\xa0with PSLab, Python, and Processing
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50130&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Workshop
+SWS :3 S: 1
+Veranstaltungsnummer :3 S: 421150039
+Max. Teilnehmer/-innen :3 S: 6
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fhuman-computer-interaction%2Flehre%2F&timestamp=1631116306885&hash=6da31576e0d77c16014a2938baa7c558
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Personen
+Personen :3 S: Fakultät Medien,Hannes Waldschütz :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N. :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: In this 3-day hands-on workshop we will explore the design and basic implementation of musical interfaces and sound generation with PSLab, Processing 3 and Python. , <br/>, The Pocket Science Lab 1 is an open hardware device, which can be used as oscilloscope, multimeter, wave generator, logic analyzer, power source, among others. In this class we will use the PSlab as an input and output device, to generate creative/procedural algorithmic music. , <br/>, At least since Brian Enos Generative Music 1 (1996), the idea of ever changing musical compositions created by a system has been popularized. By connecting sensors to the PSLab we have the foundation for creating our own physical/tangible musical interfaces. , <br/>, For example ultrasonic sensors can be used similar to a theremin, capacitive sensing can trigger touch events, and a light dependend resistor (LDR) can be controlled via a flash light., <br/>, To do so we will shed some light on basic electronics and interfacing methods, sound syntheis and Programming in Processing 3 2 (and some Python).

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Ausgeschlafen(?)!
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49895&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 6
+Veranstaltungsnummer :3 S: 321110082
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 10:00 bis 14:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Online-Veranstaltung</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Masihne Rasuli :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Dann hüte mich, sonst gießt der Tag sein Licht/ Vielfachen Jammer brütend, auf mein Kissen..., <br>John Keats<br/>Schlafen ist die wichtigste Tätigkeit des Menschen - mit ihr verbringen wir etwa ein Drittel unseres Lebens. Schlaf bringt Erholung, unterstützt unseren Körper bei Entwicklungsprozessen und verschafft uns Einblicke in unsere Psyche.<br/>Wir wollen uns in diesem Fachkurs in vier Übungen - angelehnt an die vier Schlafstadien - gestalterisch zum Thema Schlaf äußern. Wir werden uns mit Schlafkultur und kuriosen Phänomenen auseinandersetzen, mit Objekten des Schlafes, aber auch mit Traumforschung und Schlafgesundheit. Vielleicht wagen wir auch das ein oder andere Selbst-Experiment oder gestalten sogar im Schlaf. Dabei können grafische Lösungen, ganzheitliche Kampagnen, Informationsformate, Installationen, Produktentwürfe, Videos (...) entstehen - die Medien erschließen sich im Prozess aus der zu kommunizierenden Botschaft.</br>

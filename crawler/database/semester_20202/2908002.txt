@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Siedlungswasserwirtschaft
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=46810&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 2908002
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D26922&timestamp=1631058902273&hash=b515b3165a7c20d19d90ee7651f7bb1e
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>am 19.12.2019 im SR 107 Dürerstr. 2</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: unger. Wo
+Bemerkung :3 S: , <p> am 19.12.2019 im SR 107 Dürerstr. 2</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Jörg Londong :3 S: Fakultät Bauingenieurwesen,Ralf Englert
+# Beschreibung
+Beschreibung :3 S: Einführung in die Wassermengen- und Abwassermengenermittlung, Wassergewinnung, Wasser- und Abwasserförderung, Pumpen, Wasserversorgungs- und Abwasserableitungsnetze, Wasser- und Regenwassserspeicherung, Überblick über Verfahren und Bauwerke der Wasseraufbereitung sowie Abwasser- und Schlammbehandlung, Zugehörig und prüfungsrelevant sind die 14tägigen Bemessungsübungen!

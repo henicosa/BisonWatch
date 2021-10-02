@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Analog Circuits and Interfaces
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48074&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Werk-/Fachmodul
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 320250000
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fcloud.uni-weimar.de%2Fs%2F8W9JoMwECf6S7sg&timestamp=1631108674792&hash=dd2c147b692c156a16fea28bbb67ec7f
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Raum: 102, M5 (Elektroniklabor)</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Clemens Wegener :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Wir widmen uns den Grundlagen analoger Elektronikschaltkreise mit Bezug zur analogen Signalverarbeitung, wie sie in analogen Synthesizern Anwendung findet. Über einer Einführung zu Grundbausteinen und theoretischem Grundwissen erarbeiten wir uns die nötigen Kenntnisse um komplexere Schaltkreise von spannungsgesteuerten Filtern und Oszillatoren selbst zu entwerfen. , <br>Der finale Teil des Kurses widmet sich der Frage, wie ein analoger Schaltkreis mit analogen Sensoren gesteuert werden kann. Hier sollen explorative Interfacekonzepte erarbeitet und schließlich realisiert werden. Kenntnisse im Bereich Elektronik sind keine Voraussetzung. Es sollte aber ein gewisses Maß an Neugier mitgebracht werden.<br/><br/></br>

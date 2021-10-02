@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: The beauty of creating Architecture_ Re:start  Architektur_ oder vom Spurenlesen für Jäger
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51592&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 121221601
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Projektmodul\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Projektmodul\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Projektmodul
+Erwartete Teilnehmer/-innen :3 S: 15
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Clemens Helmke :3 S: Fakultät Architektur und Urbanistik,Heike Büttner-Hyman
+# Beschreibung
+Beschreibung :3 S: <em>Verlust von Intimität</em>,  eine Entfremdung die alle betrifft. „(…) schöneres Morgen (zu) bauen. Es gibt kein Morgen, nur eine Lücke, eine gähnende Lücke. Das scheint irgendwie tragisch, wird aber sofort erleichtert durch die Ironie, die einem den Sinn für Humor vermittelt. Dieser komische Sinn für Humor macht alles erträglich. Alles verschwindet einfach. Die Orte weichen in die Nicht-Orte zurück, und die Nicht-Orte weichen wieder zu den Orten zurück.”(1) „Alles ist lesbar. Der (…) Raum gibt vor, transparent zu sein. Alles hat Symbolwert, auch wenn die Symbole zuweilen fließen; alles steht zur reinen Form in Beziehung, ist Inhalt dieser Form und in ihr enthalten. Anordnung und Form haben den Hang, ineinander aufzugehen, wenn auch die Form wahrgenommen, konzipiert, , <em>erstellt (erträumt)</em>,  wird.”(2) Phantasiewelten: „Wenn sich meine Aufmerksamkeit in eine der verschiedenen Phantasiewelten versenkt, brauche ich die Außenwelt nicht mehr zu bewältigen. Es gibt keinen Widerstand von mich umgebenden Objekten, der zu überwinden wäre (...). Allerdings kann ich, solange ich in Phantasiewelten lebe, auch nichts leisten im Sinne einer Handlung, die in die Außenwelt eingreift und sie verändert. Ich kann solange ich in der Phantasiewelt verweile, nichts vollbringen, außer eben zu phantasieren. Jedoch kann ich unter Umständen den Phantasieverlauf als solchen , <em>vor entwerfen</em>,  (ich werde mir ausmalen, die Märchenfee stellt mir drei Wünsche frei) und dann diesen Entwurf erfüllen. Es bleibt dahingestellt, ob dies unter eine weit gefaßte Definition des Begriffs Handeln fällt. Wichtig ist, daß das Phantasieren in sich abgeschlossen bleibt, daß die , <em>Absicht zur Tat fehlt</em>, .” (4) In unserem Projekt erarbeiten wir, inwiefern sich in Anbetracht eines äußeren, räumlichen Einschnitts, wie z.B. dem , <em>Verlust von Intimität</em>, , einer Grenzziehung neue Sinnzusammenhänge und somit neue Lebens- und Wohnräume entstehen. Dabei sind die Bewohner dieser Räume, entworfene Lebensräume, nicht passiv sondern dynamische Akteure. Der Philosoph Edmund Husserl bezeichnet z.B. als „Lebenswelt” die Gegebenheiten der bloßen Wahrnehmungswelt: „Sie (die Lebenswelt) ist die raumzeitliche Welt der Dinge (…) Sie unterliegen einer Interpretation und sind somit veränderbar.” (3) „So ist meine Lebenswelt von Anfang an nicht meine Privatwelt, sondern intersubjektiv; die Grundstruktur ihrer Wirklichkeit ist uns gemeinsam.” (4) Der Soziologe Alfred Schütz formulierte, daß Menschen in ihrem Handeln stets auf sogenannte Wissensvorräte, auf routiniertes Wissen, zurückgriffen. Zum anderen werde die Interpretation von zurückliegenden Erfahrungen beeinflusst, die dazu führten, daß Menschen bestimmte Erwartungen an ähnliche Situationen     hätten, sogenannte Typisierungen: „Fertigkeiten (automatisiertes Gewohnheitswissen, zum Beispiel Gehen können), Gebrauchswissen (mit Tätigkeiten verbunden, die den Charakter von Handlungen verloren haben) und Rezeptwissen (z.B. Spurenlesen für Jäger).” (4) Der nachhaltige Ansatz architektonischer Regeneration bezieht sich in unseren Projekten WiSe 2021 auf die Nachverdichtung von geliebtem und auch ungeliebtem Gebautem, auf den gesellschaftlichen Raum der Straße Gebäude Landschaft in Beziehung zum intimen LebensRaum. Hierbei ist „(…) eine Verbindung zwischen Gegenwart und Vergangenheit herzustellen und dennoch allgemein verständliche architektonische Objekte zu schaffen: Die Permanenz der Dinge in den Dienst ihrer , <em>Erneuerung</em>,  stellen.”(5)

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Tick,\xa0tack\xa0-\xa0Zeit\xa0als\xa0filmisches\xa0Handwerk
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47296&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 18
+Veranstaltungsnummer :3 S: 320220037
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fcloud.uni-weimar.de%2Fs%2F6PbPAzmr2eN9MSk&timestamp=1631059035795&hash=da2c1cf50dd90f8a0ebe3792b5074aec
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 11:00 bis 14:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Online-Veranstaltung</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Jörn Hintzer :3 S: Fakultät Kunst und Gestaltung,Jakob Hüfner :3 S: Fakultät Kunst und Gestaltung,Regina Reusch :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: In dem wachsenden Medienangebot buhlen von Jahr zu Jahr immer mehr Bewegtbilder um unsere Aufmerksamkeit. Egal ob es sich um kurze Gifs, Insta-Stories, Spots, Serien, Filme oder unendliche TikTok Loops handelt – damit Bilder sich bewegen können, brauchen sie die Zeit. Und wenn Zeit im Spiel ist, geht es immer um Erwartung und Spannung, Timing, Dramaturgie und Story. Aber wie und wann wird aus einem wenige Sekunden kurzen bewegten Bild eine Erzählung ? Wann wird aus einem bildlichen Zustand ein Vorgang ? Was ist der Unterschied von erzählter Zeit und Erzählzeit ? Wie rafft man und wie dehnt man im Film die Zeit ohne technische Tricks wie speedup oder slowmotion?, <br> <br/>In dem Projektmodul beschäftigen wir uns mit dem filmischen Werkzeug der Gestaltung von Zeit. Anhand von 7 Aufgaben mit sich verdoppelndenLängenvorgaben<br/>(2“, 4“, 8“, 16“, 32“, 64“, 128“, 256“ ) ergründen wir dieses Handwerk in sich steigernden Übungen.<br/> <br/>Ab der 6ten Zeitaufgabe sind die rein inhaltlichen Themen als auch die Wahl der Filmtechniken frei wählbar. Es können dann Spielszenen, ein videokünstlerisches Essay, ein filmisches Pamphlet oder eine Animationen etc. realisiert werden. </br>

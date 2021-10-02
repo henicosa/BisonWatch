@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Applied mathematics (Lecture)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=46870&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 2301012-1
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fbauingenieurwesen%2Fprofessuren%2Fangewandte-mathematik%2F&timestamp=1631108690014&hash=987c603ec6f37824011c05a2eabe75ad
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Until further notice digital via BBB.</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Dmitrii Legatiuk :3 S: Fakultät Bauingenieurwesen,Klaus Gürlebeck
+# Beschreibung
+Beschreibung :3 S: <span style=text-decoration: underline;><strong>Applied mathematics:</strong> </span>

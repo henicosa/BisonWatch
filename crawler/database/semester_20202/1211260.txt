@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Hungrige Stadt – vom globalisierten Ernährungssystem zur nachhaltigen Ernährungswende für die Stadt
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47569&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 1211260
+Max. Teilnehmer/-innen :3 S: 50
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Urbanistik, B.Sc. PO 14\r, <br/>, Wahlpflichtmodul
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2Fwww.uni-weimar.de%2Fde%2Farchitektur%2Fprofessur%2Fstadtforschung&timestamp=1631058309529&hash=23c23bb49b8dc81a2b378d613937e8fd
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Malena Rottwinkel
+# Beschreibung
+Beschreibung :3 S: Jeder Mensch braucht Essen. Aber woher kommen eigentlich die Tonnen von Lebensmitteln, die täglich in allen Städten der Welt gegessen werden? Ein durchschnittliches Gericht in Nordamerika oder Europa ist bereits 2.500 Kilometer gereist, bevor wir es verzehren. Aber nicht nur die Transportwege unserer Lebensmittel haben es in sich: Auch die Methanemissionen aus der Tierhaltung, die Kohlenstofffreisetzung bei der Rodung von Wäldern und der Ausstoß von Lachgas aus Mineraldüngern tragen zum Klimawandel bei. Der Weltklimarat IPCC schätzt, dass etwa 40 % aller Treibhausgase, davon abhängen, wie wir uns ernähren und wie wir Landwirtschaft betreiben. Zusätzlich zum Klima bedroht die intensive Landwirtschaft durch Überdüngung unsere Gewässer, Monokulturen laugen die Böden aus & Pestizide verringern die Artenvielfalt. Es ist also nicht nur für unsere eigene Gesundheit, sondern auch für die Zukunft unserer Planeten entscheidend, wie wir uns ernähren. Um die globalen Produktionsketten zu hinterfragen und die Versorgung mit Lebensmitteln wieder lokaler und nachhaltiger zu gestalten, sind in den vergangenen Jahren zahlreiche urbane Formen der Lebensmittelproduktion entstanden: Urbane Gärten, Stadtfarmen und Solidarische Landwirtschaft machen aus Konsument*innen wieder Produzent*innen, während Ernährungsräte das Thema Essen in den Fokus der Stadtplanung- und politik rücken wollen.

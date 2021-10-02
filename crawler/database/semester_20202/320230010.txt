@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Ökologisches Design
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48110&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Wissenschaftliches Modul
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 320230010
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 16:00 bis 18:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Johannes Lang :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Begriffe wie Ökologie und ökologisches Design sind heute in aller Munde. Aber was meinen wir eigentlich, wenn wir solche Begriffe verwenden? Was gerät in den Fokus, wenn die Wirklichkeit nach ökologischen Gesichtspunkten betrachtet wird? Für das ökologische Bewusstsein scheint es wesentlich zu sein, dass die Erde weder nur als ein anorganisches Gebilde betrachtet wird noch nur als ein unvermitteltes Nebeneinander von belebten und unbelebten Existenzen, sondern dass gerade die Zusammenhänge, die zwischen organischen und anorganischen Prozessen bestehen, virulent werden. Ernst Haeckel, auf den die Wissenschaft der Ökologie zurückgeht, drückt diesen Zusammenhang wie folgt aus: „Unter Oecologie verstehen wir die gesammte Wissenschaft von den Beziehungen des Organismus zur umgebenden Außenwelt, wohin wir im weiteren Sinne alle ‚Existenz-Bedingungen‘ rechnen können. Diese sind teils organischer teils anorganischer Natur.” (Haeckel, Generelle Morphologie der Organismen, Bd. 2, 1866, S. 286) Was für eine ökologische Betrachtungsweise also an Bedeutung gewinnt, sind die organischen und anorganischen Zusammenhänge, in die Lebewesen eingebunden sind. , <br>Die Neuerung in der zweiten Hälfte des 20. Jahrhunderts gegenüber dem Haeckel’schen Verständnis von Ökologie besteht nun darin, diesen Zusammenhang von anorganischen Prozessen und Lebewesen von der Tierwelt auch auf die menschliche Artefaktwelt auszuweiten. Dadurch werden neue Dimensionen der Produkte relevant: Unter dem ökologischen Blick werden Produkte hinsichtlich der stofflichen und energetischen Prozesse befragt, die sie mit Organismen verbinden. Die menschlichen Produkte werden nicht nur als physische Objekte, die wiederum physikalische Veränderung ermöglichen gesehen, sondern als Dinge, die auf vielerlei Weise mit gesundheitlich relevanten Lebensprozessen verbunden sind.<br/>Im Seminar werden wir zentrale Themen des ökologischen Designdiskurses seit dem 1970er Jahren verfolgen (natürliche Materialien, Recyclingdesign, ökologische Ästhetik, Langlebigkeit, nachhaltiger Gebrauch u.a.) als auch und insbesondere selbständige empirische Beobachtungen und Analysen des Lebenszyklusses von Produkten vornehmen, um Erkenntnisse über die ökologischen Zusammenhänge von Produkten zu gewinnen.</br>

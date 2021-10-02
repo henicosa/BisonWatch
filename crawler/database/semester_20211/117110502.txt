@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Bauwerkstatt Schloss Bedheim (Ba)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48925&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Übung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 117110502
+Max. Teilnehmer/-innen :3 S: 6
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Theorie | Geschichte\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Theorie | Geschichte\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Theorie | Geschichte
+Erwartete Teilnehmer/-innen :3 S: 6
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: 08:00 bis 20:00
+Terminrhythmus :3 S: Block
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N. :3 S: Fakultät Architektur und Urbanistik,Hans-Rudolf Meier
+# Beschreibung
+Beschreibung :3 S: Die Bauwerkstatt Schloss Bedheim richtet sich an Architekturstudierende aller Semester, welche für zehn Tage an einer konkreten Bauaufgabe arbeiten möchten. Die Bauaufgaben sind Beiträge zur schrittweisen Instandsetzung der Schlossanlage Bedheim; einem bedeutenden Kulturdenkmal in Südthüringen.

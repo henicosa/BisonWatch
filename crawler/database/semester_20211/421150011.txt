@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Berlin Alexanderplatz - von Döblin bis Qurbani
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49753&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 421150011
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Berlin Alexanderplatz - Transmedial
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Ffilm-und-medienwissenschaft%2F&timestamp=1631115250961&hash=f3adec5edd8abc70bd01707f10b672cc
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 17:00 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Online Seminar</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Selina Gehring :3 S: Fakultät Medien,Christin Ott
+# Beschreibung
+Beschreibung :3 S: Im Studienmodul „Berlin Alexanderplatz Transmedial“ verknüpfen wir filmische Perspektiven auf die Geschichte der 1920er Jahre mit den Ereignissen von damals. Die Grundlage bildet Rainer Werner Fassbinders „Berlin Alexanderplatz“. Von seinem Film ausgehend, erschließen wir uns Themen der damaligen Zeit wie die Frauenrolle, die politische Lage der Weimarer Republik, die Entwicklung der Massenmedien und das Aufkommen einer freiheitlichen Kulturszene. , <br>Das Modul lädt explizit Studierende aus allen Fakultäten ein:<br/>Es bietet den Studierenden aller Fachrichtungen sowohl einen Einblick in die filmwissenschaftliche Arbeitsweise als auch einen Einbezug der aus dem jeweiligen Studiengang erlangten Fachkompetenz, beispielsweise zu den  Themen Bau, architektonische Entwicklung, Stadtplanung, künstlerische Existenzweise oder journalistische Auseinandersetzung.<br/>Neben den Filmsichtungen sowie deren analytischen Beobachtungen und dem Besuch des Hauses der Weimarer Republik sollen die Studierenden die Möglichkeit erhalten selbständig ein Kernthema zu erforschen und ihre Erkenntnisse gemeinsam mit ihren Kommiliton:innen in Form einer moderierten Runde zu teilen.<br/>Das Seminar kann ausschließlich als Modul gemeinsam mit Kultur und Leben in der Weimarer Republik belegt werden.</br>

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Marx & the Machines
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51429&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 25
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: BA-Studienmodul: Kulturtechniken 1
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Fgeschichte-und-theorie-der-kulturtechniken%2Fwillkommen%2F&timestamp=1631111298559&hash=b78ce1da339caa40c5c10f0bc5e020e2
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Gereon Rahnfeld :3 S: Fakultät Medien,Katia Schwerzmann
+# Beschreibung
+Beschreibung :3 S: In diesem Seminar werden wir uns mit Marx Analyse der Umwälzungen in der Kopplung zwischen Mensch und Technik befassen, die durch die industrielle Revolution verursacht wurden. Im ersten Teil des Seminars werden wir uns mit Marx’ Analyse des Übergangs vom Werkzeug zur Maschine auseinandersetzen, der mit der Eingliederung des menschlichen Körpers und dessen lebendiger Arbeit ins mechanische Gefüge einhergeht. Im zweiten Teil werden wir uns fragen, was die digitale Revolution an der Kopplung Mensch-Technik verändert, welche Rolle der menschliche Körper und die künstliche Intelligenz für die Wertschöpfung spielen und wie Mehrwert aus dem Mensch-Maschine-Gefüge extrahiert wird.

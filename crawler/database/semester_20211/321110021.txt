@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Rototyp
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50118&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 6
+Veranstaltungsnummer :3 S: 321110021
+Max. Teilnehmer/-innen :3 S: 16
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 10:00 bis 14:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Susann Paduch :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Eine Hohlform, ein Gießmaterial, eine rotierende Maschine - das sind die Grundzutaten für den Rotationsguss. , <br>Bei dieser Fertigungstechnologie können bei geringeren Werkzeugkosten Hohlkörper durch rotierende Formen, die mit thermisch oder chemisch abbindendem Material befüllt sind, hergestellt werden.<br/>In diesem Kurs werden die Grundlagen des Rotationsgusses vermittelt und Objekte für diese Technologie entworfen. Modelle und Formen werden mit digitalen und analogen Mitteln gebaut und mit DIY-Rotationsmaschinen in der Universität als (P)Rototypen umgesetzt.<br/><br/></br>

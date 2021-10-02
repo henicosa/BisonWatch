@@ -1,0 +1,38 @@
+Veranstaltungstitel :3 S: Die europäische Filmkomödie
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47588&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 420250006
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: BA Studienmodul: EMK 1 Komische Genres in Europa
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Feuropaeische-medienkultur%2Fpersonen%2Fkatja-hettich-ma%2F&timestamp=1631058026427&hash=9b75f42e5cb1f12425fb17c5f89aef07
+Sprache :3 S: deutsch/französisch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 15:15 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 19:00 bis 20:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Infoveranstaltung</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 15:15 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 15:15 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Katja Hettich
+# Beschreibung
+Beschreibung :3 S: Einführend werden vor dem Hintergrund verschiedener Theorien und Kategorien des Komischen die Möglichkeiten der Erzeugung filmischer Komik ausgelotet. Anschließend werden wir uns in den ersten Wochen des Seminars mit der Sichtung einiger Klassiker der Filmkomödie aus Europa sowie anhand von Filmausschnitten einen Überblick über Spielarten der Filmkomödie verschaffen (u.A. Slapstick-Komödie, Romantische Komödie und Screwball Comedy, Comedian Comedy, Satire und Parodie, Schwarze Komödie und Tragikomödie, Culture-Clash-Komödie)., <br>Die erarbeiteten Begrifflichkeiten dienen anschließend der Analyse, Verortung und Diskussion von Komödien des europäischen Gegenwartskinos. Anhand von Beispielen aus unterschiedlichen europäischen Ländern und Regionen (u.a. aus Frankreich, Deutschland, Skandinavien und Südosteuropa), die über Ländergrenzen hinaus eine gewisse Publikumswirkung erzielt haben, werden wir nationalspezifischen und transnationalen Tendenzen nachspüren. Welche Strategien des Komischen werden eingesetzt? Welche individuellen, sozialen und politischen Missverhältnisse und Missverständnisse werden im Modus des Komischen verhandelt? Inwieweit gibt es gemeinsame Themen und Anknüpfungspunkte? Inwiefern kann ein grenzenüberschreitendes Lachen angesichts kulturspezifischer Wissens- und Erfahrungshorizonte erschwert werden? Welche Potenziale birgt das Komödiengenre für die Bildung europäischer Identität(en)?</br>

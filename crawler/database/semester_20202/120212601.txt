@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Städtebauliche Positionen (Ba)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49493&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 120212601
+Max. Teilnehmer/-innen :3 S: 8
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Architektur | Planung\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Architektur | Planung\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Architektur | Planung\r, <br/>,  , <br/>, Urbanistik, B.Sc. PO 2020\r, <br/>, Wahlmodul\r, <br/>, Urbanistik, B.Sc. PO 14\r, <br/>, Wahlmodul
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: bis
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Sigrun Langner
+# Beschreibung
+Beschreibung :3 S: Die Suche nach Ansätzen einer nachhaltigen und zukunftsfähige Entwicklung und Gestaltung von Stadträumen im Kontext der aktuellen Herausforderun\u200bgen gesellschaftlicher, klimatischer, infrastruktureller sowie digitaler Wandlungsprozesse, erfordert den Umgang mit komplexen Problemstellungen, Konflikten, Unvorhersagbarkeit dynamischer Prozesse und das Denken innerhalb langfristiger Zeithorizonte. Wie gehen Städtebauer*innen in Praxis, Lehre und Forschung mit diesen Herausforderungen um? Welche Positionen entwickeln und vertreten sie, um sich innerhalb eines solchen komplexen Aufgaben- und Gestaltungsfeldes zu verorten und handlungsfähig zu bleiben. In der Veranstaltung setzen Sie sich mit Hilfe von Fachvorträgen und Lehrbeispielen mit den Positionen verschiedener Städtebauer*innen auseinander und entwickeln eine kritische Reflektionsebene zu verschiedenen Herangehensweisen im städtebaulichen Entwerfen und in der Vermittlung des städtebaulichen Entwurfes.

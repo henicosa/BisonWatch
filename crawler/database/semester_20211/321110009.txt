@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Different Worlds
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49872&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 321110009
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 17:00 bis 19:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Moodle/BBB</p>, <br/>, <p> </p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Mindaugas Gapsevicius :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: The way I understand the world is probably different from the world understood by you, flagellates or slime molds. While referring to Jakob von Uexküll, Andrew Pickering thinks of bubbles around each creature that traps them in their world. And then, while polemicizing with himself, he suggests whether we should just burst them. The course Different Worlds and I is an attempt to question worlds as they would be seen by other organisms. How much is my world in their world? How does my presence affect the world of an organism? And how does the organism affect my world? How the interaction between the different worlds unfolds? The questioning of different worlds will unfold by trying to experience the world together with them. During the first half of the semester, students will be expected to take care of the organisms, research related art projects and science papers, cook medium, and report weekly on the results. The second half of the semester is reserved for the implementation of the individual idea. We will use the GMU wiki to document our projects. Students taking part in the Shared Habitats project module are encouraged to join this class. No special skills are required. Participation at the Big Blue Button Online-Seminar, and, if possible, the DIY biolab of the university.

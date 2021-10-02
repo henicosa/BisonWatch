@@ -1,0 +1,33 @@
+Veranstaltungstitel :3 S: Land und Stadt (Studio Uckermark)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47870&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 120221001
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Projektmodul - Projekt\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Projektmodul - Projekt\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Projektmodul - Projekt
+Erwartete Teilnehmer/-innen :3 S: 10
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Farchitektur%2Fraumgestaltung%2F&timestamp=1631058412513&hash=81c1da9e07c2193fd9b39530052e86f4
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 14:00 bis 16:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Einführung</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:30 bis 18:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Abschlusspräsentation digital</p>,
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Jose Gutierrez :3 S: Fakultät Architektur und Urbanistik,Steve Liem :3 S: Fakultät Architektur und Urbanistik,Lorenz Kirchner :3 S: Fakultät Bauingenieurwesen,Juliane Steffen
+# Beschreibung
+Beschreibung :3 S: „Ja, das möchste: Eine Villa im Grünen mit großer Terrasse, vorn die Ostsee, hinten die Friedrichstraße; mit schöner Aussicht, ländlich-mondän, vom Badezimmer ist die Zugspitze zu sehn – aber abends zum Kino hast dus nicht weit.“

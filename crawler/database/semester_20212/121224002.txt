@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Theaterräume: Von Buenos Aires über Istanbul nach Weimar. Jena. Gera
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51421&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 121224002
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>,  , <br/>, MediaArchitecture, M.Sc. PO 2020\r, <br/>, Wahlmodul\r, <br/>, MediaArchitecture, M.Sc. PO 18\r, <br/>, Wahlmodul\r, <br/>,  , <br/>, Urbanistik, M.Sc. PO 2021\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 2020 2-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Wahlpflichtmodul
+Erwartete Teilnehmer/-innen :3 S: 12
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 17:00 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Elodie Vittu
+# Beschreibung
+Beschreibung :3 S: Was sagt eine Stadt über ihr Theater, was ein Theater über eine Stadt? Die Lehrveranstaltung verknüpft theaterwissenschaftliche mit urbanistischen Vorgehensweisen: Einführend werden die Theaterräume von Buenos Aires, Istanbul und Tirana in ihrer stadtspezifischen Situiertheit vorgestellt; auf diesem Exkurs baut daraufhin die Feldforschung vor Ort auf – in den Theaterräumen Jena, Weimar und Gera. Wie sind sie in den jeweiligen städtischen Kontext eingebettet? Welche lokalen und globalen, vergangenen und gegenwärtigen Bezüge spiegeln sich in ihnen wider? Ausgehend von diesen Fragen werden schließlich Entwürfe für ein Theater der Zukunft entwickelt, das neue Zugänge für die gesellschaftliche Diversität von morgen öffnet.

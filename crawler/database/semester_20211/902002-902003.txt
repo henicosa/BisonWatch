@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Rhetorik/Präsentation
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50016&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Übung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 902002/902003
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D30801&timestamp=1631116043729&hash=72d3e31053102d53005d0485bb719ded
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Hans-Joachim Bargstädt :3 S: Universitätsleitung /  Universitätsverwaltung,Luise Lubk :3 S: Fakultät Bauingenieurwesen,Birgit Bode
+# Beschreibung
+Beschreibung :3 S: Die wesentlichen Schwerpunkt sind:

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Ressourcen und Recycling - Holzbaustoffe
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50949&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Integrierte Vorlesung
+SWS :3 S: 3
+Veranstaltungsnummer :3 S: B01-101037
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: B19-3200 Ressourcen und Recycling
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 07:30 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Vorlesung (Übungen im Raum 107, C11B, Übungstermine lt. Aushang)</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Thomas Baron
+# Beschreibung
+Beschreibung :3 S: Holzchemie, Holzanatomie Holzphysik und Holzarten für Neubau und Sanierung

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Introduction to Study Project
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50867&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 118223703
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Integrated Urban Development and Design, M.Sc. PO 2020\r, <br/>, Pflichtmodul\r, <br/>, Integrated Urban Development and Design, M.Sc. PO 18\r, <br/>, Pflichtmodul
+Erwartete Teilnehmer/-innen :3 S: 20
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Reinhard König :3 S: Fakultät Architektur und Urbanistik,Philippe Schmidt
+# Beschreibung
+Beschreibung :3 S: The seminar serves as preparation for the Study Project semester in spring/summer 2021. Besides an introduction to the Model Projects Reflective Urban Studies, students will learn to present their personal portfolios for the prospective study project partners at an early stage in the semester. This also consist of individual presentations. The first semester students (only Reflective Urban Practice) are also invited to participate in the third semesters meetings of the model project seminar to get first impressions of content and form of different experiences from last semester’s model projects., <br><br>Participation is obligatory and only for IUDD students and will be credited as part of the Model Projects. The seminar takes place in presence partly.<br><br/></br></br></br>

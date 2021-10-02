@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Stahlbeton- und Spannbetonbau II
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48919&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 2204005
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Guido Morgenthal :3 S: Fakultät Bauingenieurwesen,Christopher Taube :3 S: Fakultät Bauingenieurwesen,Hans-Georg Timmler :3 S: Fakultät Bauingenieurwesen,Marcel Helmrich :3 S: Fakultät Bauingenieurwesen,Alexander Stanic
+# Beschreibung
+Beschreibung :3 S: <span style=font-family:> </span>, <span style=font-family:>Wesentliche Schwerpunkte sind:</span>

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Bau dir deine Arbeit! Schreiben, Quellen, Stil - Einführung in das wissenschaftliche Arbeiten
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48861&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 320230021
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: missing
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>s. Ablaufplan für Details</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Andrea Dreyer :3 S: Fakultät Kunst und Gestaltung,Dominic Dives :3 S: Fakultätsübergreifende Einrichtungen,Franziska Matthes :3 S: Zentrale Einrichtungen,Dana Horch :3 S: Universitätsleitung /  Universitätsverwaltung,Janine Liebal :3 S: Zentrale Einrichtungen,Susanne Kirchmeyer :3 S: Universitätsleitung /  Universitätsverwaltung,Larissa Barth :3 S: Universitätsleitung /  Universitätsverwaltung,Luise Lubk :3 S: Universitätsleitung /  Universitätsverwaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Gemeinsam werden Schritt für Schritt die verschiedenen Phasen des wissenschaftlichen Arbeitens erarbeitet, u.a. Kriterien und Merkmale wissenschaftlichen Arbeitens, wissenschaftliche Recherche, Literaturverwaltung, Schreibprozesse, Zeitmanagement, Präsentation von Ergebnissen. Der Kurs findet online statt und ist in Themenwochen gegliedert, die durch Selbstlernphasen, Online-Seminare und Aktivitätsaufgaben gestaltet sind. Ziel ist es, dass Sie über das Semester hinaus kreativ, experimentell, aber sicher und nachhaltig wissenschaftliche Texte schreiben lernen.

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Überörtliche Planung und Ökonomie
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50992&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 1211280
+Max. Teilnehmer/-innen :3 S: 50
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Urbanistik, B.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Ökonomie & Stadtsoziologie
+Erwartete Teilnehmer/-innen :3 S: 40
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Farchitektur-und-urbanistik%2Fprofessuren%2Fraumplanung-und-raumforschung%2Flehre%2F&timestamp=1631112614928&hash=4f23ebcf4d1ee58ce942802dadf582e5
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 17:00 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N. :3 S: Fakultät Architektur und Urbanistik,Max Welch Guerra
+# Beschreibung
+Beschreibung :3 S: Der im Grundgesetz postulierte Satz von der „Herstellung gleichwertiger Lebensverhältnisse im gesamten Bundesgebiet” verweist auf regionale Divergenzen, denen nicht zuletzt mit geeigneten politischen Ansätzen begegnet werden soll. Inwieweit die räumliche Dimension der wirtschaftlichen Entwicklung Ursache und zugleich Lösungsansatz zur Förderung „strukturschwacher” Regionen sein kann und soll, soll in der seminaristischen Vorlesung „Stadt- und Regionalökonomie” problematisiert werden. Denn 30 Jahre nach der Wiedervereinigung haben sich die regionalen Ungleichgewichte verschoben. Nicht allein die ostdeutschen Regionen weisen Problemlagen auf, sondern auch westdeutsche Regionen. Dazu werden in der Vorlesung grundsätzliche theoretische Fragen von Regionalentwicklung und Regionalpolitik vorgestellt und kritisch diskutiert. Dazu zählen folgende Themenkomplexe:

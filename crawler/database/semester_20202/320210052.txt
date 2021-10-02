@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Einführung\xa0in\xa03D\xa0und\xa0Animation
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47287&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 6
+Veranstaltungsnummer :3 S: 320210052
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Online-Veranstaltung</p>,
+# Personen
+Personen :3 S: missing,Lucian Engelbrecht :3 S: Fakultät Kunst und Gestaltung,Regina Reusch :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Wie modelliert man 3D Körper? Wie setzt man 2D Grafiken in Bewegung? , <br>Der Kurs vermittelt Grundlagen der 3D Software Blender mit verschiedenen Übungsaufgaben und einen kleinen Exkurs in After Effects. <br/>Im Lauf des Kurses kann ein individuelles Projekt realisiert werden.<br/> <br/>Der Kurs ist an das Projektmodul Tick, tack - Zeit als filmisches Handwerk und das Fachmodul Rettungsweste angegliedert, kann aber auch ohne die Teilnahme an den beiden Kursen belegt werden. <br/>Die Sitzungen finden im Raum 301, Marienstr. 1  oder / und online zeitgleich über den BBB – Videomeetingraum statt.<br/> <br/>Die Mitarbeit am eigenen Laptop wird vorausgesetzt.</br>

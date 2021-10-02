@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Programming for Designers and Artists
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48026&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Wissenschaftliches Modul
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 320230011
+Max. Teilnehmer/-innen :3 S: 10
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Personen
+Personen :3 S: Fakultät Medien,Charles Wüthrich :3 S: Fakultät Medien,Francesco Andreussi :3 S: Fakultät Medien,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Einfuehrung in die Programmierung in Java für Gestalter und Künstler: Elemente der Programmierung, Funktionen, Objektorientierte Programmierung, Einfache Algorithmen und Datenstrukturen, Berechenbarkeit, Hardwarestruktur.

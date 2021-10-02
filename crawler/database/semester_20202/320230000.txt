@@ -1,0 +1,33 @@
+Veranstaltungstitel :3 S: Antirassismus von Theorie zur Praxis. Erweiterung eines antirassistischen Standpunkts auf alle Formen der Diskriminierung; über Workshops zu Diversität und Antidiskriminierung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47750&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Wissenschaftliches Modul
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 320230000
+Max. Teilnehmer/-innen :3 S: 21
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fenrol%2Findex.php%3Fid%3D27248&timestamp=1631108684171&hash=836363af6bbcab61037f6475f03855b5
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 17:00 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: 08:00 bis 20:00
+Terminrhythmus :3 S: Block
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: 08:00 bis 20:00
+Terminrhythmus :3 S: Block
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: missing,Margarita Garcia :3 S: Fakultät Kunst und Gestaltung,Alexandra Toland :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: <strong>Lehrende: Margarita Garcia</strong>

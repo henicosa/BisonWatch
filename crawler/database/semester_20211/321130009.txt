@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Kunsttheorie 1 / Kultur der Digitalität
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49786&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Wissenschaftliches Modul
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 321130009
+Max. Teilnehmer/-innen :3 S: 26
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 16:00 bis 17:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Boris Buden :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Wie hat das Internet unser Leben seit Mitte der 90er Jahre verändert? Wie sind digitale Technologien in fast alle Bereiche der Gesellschaft durchgedrungen? Wie haben sie einen in der neueren Geschichte noch nie dagewesenen kulturellen Wandel hervorgebracht? Warum greift die Genealogie dieser Transformation zurück zum Aufstieg der Wissensökonomie Ende des 19. Jahrhunderts und was hat die zunehmende Digitalisierung alles Bestehenden mit der Kulturalisierung der Ökonomie einerseits und der Technologisierung der Kultur andererseits zu tun?

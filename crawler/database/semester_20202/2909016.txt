@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Verkehrsplanung: Teil Öffentlicher Verkehr und Mobilitätsmanagement
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=46987&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Integrierte Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 2909016
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Verkehrsplanung
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fvsp&timestamp=1631059107215&hash=8b555597aff95bcfd12d7143b8bc974c
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Uwe Plank-Wiedenbeck :3 S: Fakultät Bauingenieurwesen,Marco Fedior :3 S: Fakultät Bauingenieurwesen,Julius Uhlmann
+# Beschreibung
+Beschreibung :3 S: Die Veranstaltung „Öffentlicher Verkehr und Mobilitätsmanagement“ befasst sich mit der Einführung in den öffentlichen Personenverkehr mit geschichtlicher Betrachtung, Systeme und Technologien, Systeme des öffentlichen Personenverkehrs, Netzplanung und Betrieb inklusive Aspekte der Planung, Kundenanforderungen (Informationen, Barrierefreiheit etc.), Nachfrageermittlung, Aspekte der Betriebssteuerung, Marketing, Preis- und Tarifstrukturen im öffentlichen Personenverkehr. Weitere wirtschaftliche Aspekte, Mobilitätsmanagement, Integration multimodaler Angebote in den öffentlichen Personenverkehr.

@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Urban Landscapes - mapping approach within large scale planning processes
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48010&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 120222604
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: European Urban Studies, M.Sc. PO 2020\r, <br/>, Urban and Landscape Planning\r, <br/>, European Urban Studies, M.Sc. PO 18\r, <br/>, Urban and Landscape Planning
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 17:00 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Maria Frölich-Kulik :3 S: Fakultät Architektur und Urbanistik,Atidh Langbein
+# Beschreibung
+Beschreibung :3 S: The seminar “Urban Landscapes - mapping approach within large scale planning processes” focuses on dealing with the “Raumbild” as an informal spatial planning instrument in large-scale and regional contexts. “Raumbilder” are images based on cartographic methods, revealing complex interrelations, networks of actors and processes of change within a region with the goal of describing possible futures for regional developments., <br>Within the Seminar Urban Landscapes, “Raumbilder” will be approached as a spatial instrument theoretically as well as practically. To understand how “Raumbilder” can help us in the process of planning and designing, existing “Raumbilder” as a mapping approach within large scale planning processes will be theoretically reflected regarding their backgrounds, strategic aims, involved actors, spatial impacts etc. Against this background, a “Raumbild” will be developed in an impromptu design using the example of the “rurban Landscape” of Thuringia.</br>

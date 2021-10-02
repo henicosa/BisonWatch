@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: AAABSTRAKTION: zeitgenössische Malerei lesen, denken und verstehen
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49766&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 6
+Veranstaltungsnummer :3 S: 321110000
+Max. Teilnehmer/-innen :3 S: 5
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 10:00 bis 14:00
+Terminrhythmus :3 S: unger. Wo
+Bemerkung :3 S: , <p><strong>Präsenztermine</strong></p>,
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 10:00 bis 14:00
+Terminrhythmus :3 S: gerade Wo
+Bemerkung :3 S: , <p><strong>Moodle/ BBB-Termine</strong></p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Roman Liska :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Mit einem charakteristischen Aufblitzen von Perversion hat Martin Kippenberger in einem Interview von 1990/91 das wichtigste nach Warhol auf der Leinwand in Angriff zu nehmende Problem benannt, indem er eine Verbindung zwischen Malerei und Pasta herstellte: „Einfach ein Bild an die Wand hängen und sagen, das sei Kunst, ist scheußlich. Das ganze Netzwerk ist wichtig! Sogar Spaghettini. (...) Wenn man Kunst sagt, dann gehört alles Mögliche dazu. In einer Galerie ist das auch der Fußboden, die Architektur, die Farbe der Wände.” Nimmt man Kippenberger hier beim Wort, dann stellt sich eine wichtige Frage: Inwiefern gehört die Malerei einem Netzwerk an? Dieses Problem des ausgehenden 20. Jahrhunderts, dessen Relevanz sich mit der Allgegenwärtigkeit digitaler Netzwerke nur noch vergrößert hat, schließt sich einer Reihe modernistischer Fragestellungen an: Wie kann Malerei innerhalb der semiotischen Aporien des Kubismus oder der ungegenständlichen Utopien der historischen Avantgarden Bedeutung schaffen? Wie lässt sich der Status von Malerei als Materie explizit machen (etwa durch die Einbeziehung von Readymades, das Aufkommen von Monochromie und Serialität, aber auch durch die gestischen Verfahrensweisen des Dripping, des Schüttens, des Gießens)? Und wie kann Malerei auf die Herausforderung der technischen Reproduzierbarkeit reagieren (wie etwa bei Strategien der Aneignung – von den Siebdrucken der Pop Art in den 1960er-Jahren bis zu jener Rückkehr zur Malerei, die in den 1980er-Jahren von der Pictures Generation betrieben wurde)? Keine dieser Fragestellungen existiert für sich allein, keine von ihnen löst sich jemals auf; vielmehr kommt es zu Schwerpunktverschiebungen, bei denen die älteren Fragen mithilfe neuerer umformuliert werden., <br>(David Joselit: Painting Beside Itself in OCTOBER #130, 2009)</br>

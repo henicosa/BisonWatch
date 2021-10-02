@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: FACTS, FICTIONS & OTHER THRUTH
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49746&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 321120042
+Max. Teilnehmer/-innen :3 S: 7
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 7
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 10:00 bis 17:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Danica Dakic-Trogemann :3 S: Fakultät Kunst und Gestaltung,Ina Weise :3 S: Fakultät Kunst und Gestaltung,Raul Walch :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Gibt es eine architektonische und städtebauliche Agenda hinter der Politik zeitgenössischer rechtspopulistischer, rechtsradikaler, rechtsextremistischer und (neo-)faschistischer Kräfte? Und wenn ja: Inwieweit macht sich hierfür die sogenannte Mitte der Gesellschaft zur unfreiwilligen Helferin? Inspiriert von dem Forschungsprojekt „Rechte Räume”, welches sich mit der Re-Politisierung des Architekturdiskurses und einer Spatialisierung des Politikdiskurses auseinandersetzt, widmet sich das Projekt in seinem ersten Teil dem Weimarer Stadtraum als Bühne für zeitgenössische politische und gesellschaftliche Fragestellungen. Intensive Recherchen vor Ort bilden die Voraussetzung für eine Auseinandersetzung mit der komplexen Geschichte der Stadt. Im Rahmen des Projektes wird ein WALK OF ART, eine künstlerische Begehung des Weimarer Stadtraums mit Bürger*innen und Gästen erarbeitet. In unterschiedlichen künstlerischen Formen und Medien, performativen oder partizipativen Aktionen, Interventionen und Installationen an ausgewählten Orten im Stadtraum setzen sich die internationalen Studierenden mit Fragen nach neuen Handlungsräumen angesichts des rechten Rollbacks und damit verbundenen politischen und ideologischen Raumgreifungen und Herausforderungen auseinander. Die Arbeiten untersuchen und reflektieren, wie Architekturen Erinnerung schaffen, öffentliche und private; sie thematisieren die (Un-)Sichtbarkeit der Vergangenheit und ihre unterschiedlichen politischen Aneignungen; sie zeigen, wie eng die Wahrnehmung der Geschichte mit unserem individuellen biografischen und kulturellen Hintergrund verwoben ist. Durch das Miteinander der Studierenden unterschiedlicher Herkunft wird das Bewusstsein für die politischen und gesellschaftlichen Veränderungen in einer komplexen Gegenwart geschärft. In dem zweiten Teil des Projektes wird eine MIND PALACES Veranstaltung im Kunstverein Jena realisiert. Auch im Hinblick auf „10 Jahre NSU”, das in diesem Jahr ein wichtiges Thema für Jena sein wird, bietet die Veranstaltung den Raum für einen Austausch mit Bürger*innen und Gästen. Neben der theoretischen Auseinandersetzung mit dem Thema entwickeln Studierende eine Gruppenperformance.

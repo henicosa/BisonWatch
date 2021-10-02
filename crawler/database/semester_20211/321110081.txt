@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Archiv der Aspekte
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48844&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 6
+Veranstaltungsnummer :3 S: 321110081
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fherbert.gd&timestamp=1631115150478&hash=802aad9e47847a343fe205bb9559cbb5
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 14:00 bis 17:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Tamara Knapp :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person :3 S: Fakultät Kunst und Gestaltung,Lena Weber
+# Beschreibung
+Beschreibung :3 S: Literaturliste folgt im Kurs

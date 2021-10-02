@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Mediale Strategien der Kunst
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47795&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 16
+Veranstaltungsnummer :3 S: 320220010
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fcloud.uni-weimar.de%2Fs%2F2rNYz9GxDDrPGaC&timestamp=1631058503101&hash=8e1d8b44329cd0875e74886bda09ae70
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 12:20
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Ursula Damm :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Kunst in der Krise... Es mag scheinen, dass im Moment alles andere wichtiger ist als gerade Kunst. Dennoch empfinden viele Menschen die Absage kultureller Veranstaltungen als großen Verlust, besonders jetzt, da sich Weltsichten sich ändern. In diesem Modul geht es um die Frage, wie Alltag in der Zukunft aussehen soll, welche Ziele wir uns setzen und welche Werte wir als Grundlage für unser Handeln sehen wollen. , <br>Das Modul bietet im grundsätzlich die Möglichkeit, individuelle künstlerisch-kreative Projekte in eigener Konzeption und Moderation durchzuführen. Die Studierenden entwickeln eine selbstmotivierte und selbstorganisierte Projektidee und setzen diese bis zum Ende des Moduls um. Das Plenum initiiert einen offenen Dialog über diese Projekte. Es ist geplant, alle zwei bis drei Wochen ein face-to-face Treffen abzuhalten. In den verbleibenden Wochen finden unsere Treffen virtuell als Online-Konferenzen statt: Das Plenum bietet eine Kultur des Austauschs und der Diskussion, die auf der Beteiligung der Teilnehmer aufbaut. </br>

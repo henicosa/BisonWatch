@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Studienarbeit
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50269&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Wissenschaftliches Modul
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>SR 109, C11B</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Alexander Flohr
+# Beschreibung
+Beschreibung :3 S: Es handelt sich um die erste selbstständig anzufertigende Arbeit, in der Kompetenzen zu strukturiertem Arbeiten, themenbezogener Literaturrecherche, Versuchsplanung, -durchführung und -auswertung erworben werden. Die Bearbeitung erfolgt mit einem hohen Grad fachlicher Anleitung und Betreuung. Die Studienarbeit muss öffentlich und vor einer Prüfungskommission verteidigt werden, wodurch die Präsentationsfähigkeiten geschult werden. Am Beginn erfolgt eine Vertiefung des wissenschaftlichen Arbeitens. Das Thema der Studienarbeit sollte in einem inhaltlichen Zusammenhang mit dem Studium und ggf. mit dem gewählten Berufsfeld stehen. Die Arbeit kann auch zu einem aus der Praxis heraus vorgeschlagenen Thema durchgeführt und von einem Wirtschaftsunternehmen oder einer Organisation der Öffentlichen Hand mitbetreut werden.

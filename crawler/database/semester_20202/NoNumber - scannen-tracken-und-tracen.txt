@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Scannen, Tracken und Tracen
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47631&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Plenum
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: MA-Projektmodul: Mediale Welten 2
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Ftheorie-medialer-welten%2F&timestamp=1631058874846&hash=8bab19941b2c5073dfcb4edd9c524303
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Digital via Moodle</p>,
+# Personen
+Personen :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N. :3 S: Fakultät Medien,Henning Schmidgen
+# Beschreibung
+Beschreibung :3 S: Die Corona App hat es mehr als deutlich vor Augen gestellt: Der Körper und seine Organe stellen entscheidende Ansatzpunkte für die Ausübung gesellschaftlicher Macht dar – von der Gesundheitspolitik über die Selbstoptimierung bis hin zur Künstlichen Intelligenz. In Weiterführung früherer Überlegungen zum produktiven Körper setzt dieses Plenum das Vorhaben fort, die theoretischen und historischen Grundlagen für die Auseinandersetzung mit diesen Sachverhalten zu erarbeiten – bei Marx und bei Foucault, aber auch bei Canguilhem und Guattari. Darauf aufbauend geht es – wie üblich – darum, individuelle Projekte zu entwickeln und zu erörtern.

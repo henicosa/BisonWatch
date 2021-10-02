@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Verfahren und Anlagen der Industrieabwasserreinigung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48890&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Integrierte Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: B01-908010/02
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D30754&timestamp=1631116201921&hash=baa82cb6e7e4137ac34300d393bc1b6e
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Silvio Beier :3 S: Fakultät Bauingenieurwesen,Christian Gröber :3 S: Fakultät Bauingenieurwesen,Ralf Englert
+# Beschreibung
+Beschreibung :3 S: In den Lehrveranstaltungen zur Industrieabwasserreinigung setzt sich der Lehrende mit den Standardverfahren bzw. Grundtechniken der Industrieabwasserreinigung (mechanisch-physikalisch, chemisch-physikalisch, biologisch) auseinander, stellt eine Auswahl von sinnvollen Verfahrenskombinationen in Abhängigkeit von Abwasserinhaltsstoffen, Reinigungsanforderungen und der Abwasserwiederverwendung dar, gibt Beispiele für Abwasserbehandlung ausgewählter Industriebranchen: Lebensmittelindustrie, Papierherstellung, Schlachthöfe, Lederindustrie und zum produktionsintegrierten Umweltschutz. Präsentation von Praxisbeispielen in Exkursionen

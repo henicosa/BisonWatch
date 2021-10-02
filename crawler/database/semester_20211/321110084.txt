@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: collide\xa0of\xa0media
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49322&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 6
+Veranstaltungsnummer :3 S: 321110084
+Max. Teilnehmer/-innen :3 S: 10
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 19:00 bis 21:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Jakob Hüfner :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N. :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Der niederländische Medienkünstler Douwe Dijkstra wird in dem Fachkurs seine Arbeitsweise vorstellen, die auch die Grundlage für die Projekte des Kurses sein werden. Er zeigt den Teilnehmern, wie er mit einem Patchwork aus verschiedenen audiovisuellen Techniken versucht, unterschiedliche mediale Bezüge aufeinanderprallen zu lassen. Eine Arbeitsweise, die ihm die nötige Schnelligkeit und Flexibilität bietet, um aus dem Experiment heraus zu arbeiten, sowie eine Bildsprache, die - für ihn - den aktuellen Zeitgeist des Medienkonsums, der ein wiederkehrendes Thema in seiner Arbeit ist, wirklich anspricht. Im Workshop wird er die Teilnehmer in seine Video-Tools einführen und ihnen zeigen, wie er sie einsetzt, um einen visuellen und konzeptionellen kreativen Prozess auf spielerische Weise voranzutreiben. Die Teilnehmer werden ein eigenes Projekt entwickeln und realisieren, das auf der Arbeitsweise von Douwe Dijkstra basiert oder von ihr beeinflusst ist. Diese Arbeit wird nach dem Workshop fertig gestellt und Online gemeinsam mit Douwe Dijekstra präsentiert. Vor dem Workshop wird es eine Kennlernaufgabe für alle Teilnehmer:innen geben.

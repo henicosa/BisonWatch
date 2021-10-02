@@ -1,0 +1,58 @@
+Veranstaltungstitel :3 S: Black Box - White Light. Prototyping the photo-apparatus
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49920&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 321110056
+Max. Teilnehmer/-innen :3 S: 6
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 11:00 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Moodle/BBB</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 11:00 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Moodle/BBB</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 11:00 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Moodle/BBB</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 11:00 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Moodle/BBB</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 11:00 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Moodle/BBB</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 11:00 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Moodle/BBB</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 11:00 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Moodle/BBB</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 11:00 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Moodle/BBB</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Jesus Velazquez Rodriguez :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: This course will engage DIY strategies and contemporary prototyping technologies for the exploration, experimentation and conception of analog photographic systems. Students in this intensive, hands-on course will develop an understanding of the design and function of the photographic apparatus by studying, testing and building their own cameras. From camera obscuras to large format systems, this course offers foundation knowledge to candidates interested in how modern tools and processes such as 3D-printing, can assist repairing, repurposing, amending, adapting or developing entirely new analog camera systems.

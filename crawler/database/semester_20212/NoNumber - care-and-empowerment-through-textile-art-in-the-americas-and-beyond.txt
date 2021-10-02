@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Care and Empowerment through textile art in the Americas and beyond
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51560&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Wissenschaftliches Modul
+SWS :3 S: 6
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Lehrveranstaltungen der Bauhaus.Module
+# Personen
+Personen :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N. :3 S: Fakultät Kunst und Gestaltung,Alexandra Toland
+# Beschreibung
+Beschreibung :3 S: The seminar is open to all students with an interest in textile arts, a willingness to engage with literature through practical and written reflection, and a willingness to experiment with different materials. Through reading, creative practice, discussion and critique, students will develop an acute understanding of the conceptualization and materialities of textile art, the significant role women have played in it, their collectivity and activism through capturing their daily life in thread as a response to problems and issues existing in a rapidly changing world., <br/>, The seminar aims to foster the conceptual, technical and experimental education of the students. It presents a broad definition of textile art and includes examples from communities stemming from all continents. Students who have successfully completed this course will have developed and honed their individual research and creative practice, with a focus on material rigor and experimentation, conceptual complexity and rhetorical skills in discussion settings. Additionally, students will have expanded their critical thinking skills as they relate to contemporary artistic-handcraft concerns. Despite its engagement with materials and materiality, the seminar will take place completely online to allow for the participation of students unable to come back to Weimar.

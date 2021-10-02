@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Gebäudetechnik
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49061&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 3
+Veranstaltungsnummer :3 S: 1513140
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, Pflichtmodul\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, Pflichtmodul\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, Pflichtmodul
+Erwartete Teilnehmer/-innen :3 S: 95
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fenrol%2Findex.php%3Fid%3D20745&timestamp=1631115509356&hash=22fda0eeca81e71bea6e6725d7a74cb2
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:00 bis 10:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Abschlussprüfung</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Conrad Völker :3 S: Fakultät Architektur und Urbanistik,Thomas Möller
+# Beschreibung
+Beschreibung :3 S: Grundlagen technischer Infrastruktur von Gebäuden: Sanitär-, Heizungs- und Raumlufttechnik sowie Elektroinstallationstechnik für Gebäude unter Berücksichtigung energetischer Effizienz, Komfortabilität, Nutzung alternativer Energietechnik und räumlich-technischer Gebäudeintegration. Berechnungsverfahren zur überschlägigen Anlagendimensionierung von Trinkwasser-, Entwässerungs- und Wärmeversorgungssystemen.

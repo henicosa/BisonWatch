@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" type="text/css" href="/index.css" />
+    <title>BisonWatch - Bar Chart</title>
+
+    <style>
+        text {
+            font-size: 12px;
+        }
+    </style>
+</head>
+
+<body>
+    <main>
+        <h1><a href="/index.html">&#8962; </a> | Säulendiagramm</h1>
+
+        <section>
+            <p>Diese Visualisierung zeigt die Veranstaltungen nach einem auswählbaren Attribut gruppiert und trennt die Häufigkeiten farblich nach den Fakultäten.
+                Gruppiert werden können die Veranstaltungen dabei nach Sprache, Semesterwochenstunden, Veranstaltungsart, Tag und Fakultät.
+            </p>
+            Wähle das Attribut aus, für das du dich interessierst:
+            <select id="attribute"></select>
+
+            <div> 
+                <svg id="legend" height=150 width=1000></svg>
+            </div>
+
+            <svg id="alphabet"></svg>
+
+            <p>Kurze Tipps zur Interpretation des Diagramms:
+                <ul>
+                    <li>Beim Hovern über einen Säulenblock, wird die Anzahl der Veranstaltungen, die zu diesem Block gehören, angezeigt.</li>
+                    <li>Die Farben der Blöcke entsprechen den Farben der Fakultätsseiten auf der Webseite der Bauhaus-Uni. Kurse die keiner Fakultät zugeordnet sind, werden grau eingefärbt.</li>
+                </ul>
+            </p>
+        </section>
+
+        <div class="task">
+            <h3>Credits</h3>
+            <ul>
+                <li>Stacked Bar Chart by Tyler Wolf: <a href="https://observablehq.com/@thetylerwolf/day-9-stacked-bar-chart">https://observablehq.com/@thetylerwolf/day-9-stacked-bar-chart</a></li>
+                <li>Vizualization Course: <a href="https://www.uni-weimar.de/de/medien/professuren/medieninformatik/vr/teaching/ss-2021/course-visualization/">https://www.uni-weimar.de/de/medien/professuren/medieninformatik/vr/teaching/ss-2021/course-visualization/</a></li>
+            </ul>
+        </div>
+
+        <div class="footer">
+            <p>Code (GPL-3): <a href="https://github.com/henicosa/BisonWatch">https://github.com/henicosa/BisonWatch</a></p>
+            <p>Kontakt: <a href="mailto:ludwig.david.lorenz@uni-weimar.de">ludwig.david.lorenz@uni-weimar.de</a> und
+            <a href="mailto:sophie.alice.grimme@uni-weimar.de">sophie.alice.grimme@uni-weimar.de</a></p>
+        </div>
+    </main>
+    <script type="module" src="/code/bar_chart/main.js"></script>
+</body>
+
+</html>

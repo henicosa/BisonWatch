@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Embedded Acoustic Interfaces
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49923&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Werk-/Fachmodul
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 321110036
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Moodle/BBB</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Clemens Wegener :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: We are constantly surrounded by electronic interfaces: elevators, automatic doors, ticket machines, remote controls, voice recognition systems, etc. With a high degree of networking between our devices, interfaces must seamlessly integrate into ecosystems of information acquisition and processing. Thus, ergonomic sensor placement, which integrates discreetly into our accustomed environment, is gaining ground.

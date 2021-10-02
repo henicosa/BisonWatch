@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Lesen als Kulturtechnik
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47619&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 420250008
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: BA-Studienmodul: Zeichentheorie
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Fgeschichte-und-theorie-der-kulturtechniken%2Fwillkommen%2F&timestamp=1631058417183&hash=7e8dfb56c91ea4c8437c2b1035d7e52e
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Digital via Moodle</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Moritz Hiller
+# Beschreibung
+Beschreibung :3 S: Was heißt: Lesen? Die Alltäglichkeit kultureller Praktiken verdeckt schnell, dass sich hinter ihnen oft komplexe Gefüge ganz unterschiedlicher Bedingungen verbergen. Im Fall des Lesens sind das nicht nur sprachliche Aspekte, sondern auch technische, körperliche, kognitive und institutionelle. Und nicht zuletzt deren Geschichtlichkeit. Denn dieses Gefüge ist historisch nicht stabil: Was Lesen ist, variiert mit unterschiedlichen ,states of the art‘. Sich dem Lesen, seinen Bedingungen, Implikationen und deren Geschichte zu widmen, ist Gegenstand des Seminars, das dafür eine kulturtechnische Perspektive einnimmt. In den Fokus gerät so zweierlei: Wie das Lesen als Technik immer schon durch kulturelle Faktoren geprägt ist, aber auch, wie eine solche Technik erst produziert, was wir Kultur nennen. Dieser Doppelfundierung wird das Seminar durch Lektüre und Diskussion einschlägiger Texte auf den Grund gehen.

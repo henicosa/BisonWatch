@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Interaction in Social Virtual Reality
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48337&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 10
+Veranstaltungsnummer :3 S: 420210014
+Max. Teilnehmer/-innen :3 S: 3
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de+%2Fvr&timestamp=1631058348257&hash=75c379517d1a7c622c053c207ac607d2
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Personen
+Personen :3 S: Fakultät Medien,Bernd Fröhlich :3 S: Fakultät Medien,Tim Weißker :3 S: Fakultät Medien,Clara Bimberg
+# Beschreibung
+Beschreibung :3 S: Many virtual reality interfaces in the past have primarily focused on providing immersive experiences for individual users. Recent developments, however, steer more and more towards collaborative virtual environments which allow both collocated and geographically distributed users to meet and interact with each other in a shared virtual space. In this project, we will explore the manifold interaction opportunities that collaborative virtual environments offer. Together, we will analyze the capabilities of existing systems and develop novel solutions in a research area of your interest. Potential topics in this regard could include, for example, the appropriate representation of users and their roles, group navigation, enabling effective and efficient group work, and dealing with nested object hierarchies. If appropriate, we encourage and support the submission of your successful solutions developed in the project to an upcoming academic conference in the form of a small research paper or poster.

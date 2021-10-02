@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Populäre Gesellschaftsbilder
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49557&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 421150004
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: BA-Studienmodul: Pop 2
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Fmediensoziologie%2F&timestamp=1631115841331&hash=3b61dc26ef09fb5894da2f99f11b95bf
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Online via Moodle</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Andreas Ziemann
+# Beschreibung
+Beschreibung :3 S: Literatur, Filme, Zeitungsfeuilleton und soziologische Zeitdiagnosen produzieren auf je einflussreiche Weise nachhaltige Bilder der Gesellschaft; manchmal im Modus der Besten aller Welten, manchmal als dystopische Kritik und manchmal als nüchterne Gegenwartsformel und spätmoderne Selbstbeschreibung. Das Seminar erarbeitet sich deren Ausgangslagen, Problemstellungen und Wirkungsgrade und versucht sich an einzelnen Tiefenbohrungen. Die Bandbreite der ausgewählten Werke, Schlüsselthemen und diagnostischen Begriffe reicht von Platons erster aller (Staats-)Utopien und Orwells „1984“ über Ulrich Becks „Risikogesellschaft“ und Houellebecqs „Unterwerfung“ bis hin zum jüngst einflussreichen Gesellschaftsbild der ‚Singularitäten‘ (Reckwitz). Das Seminar findet ausschließlich online via Moodle und BigBlueButton statt.

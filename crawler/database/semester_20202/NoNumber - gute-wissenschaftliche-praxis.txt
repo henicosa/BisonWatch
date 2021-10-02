@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Gute wissenschaftliche Praxis
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47691&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Workshop
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 12
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fveranstaltungen.uni-weimar.de%2Fde%2F589&timestamp=1631058290347&hash=766ed06000438a0c5249dc8cca82b0e9
+Sprache :3 S: deutsch
+Fakultät :3 S: missing
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 10:00 bis 18:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultätsübergreifende Einrichtungen,Ute Mai :3 S: Fakultätsübergreifende Einrichtungen,Franziska Matthes
+# Beschreibung
+Beschreibung :3 S: BRS Workshop | GUTE WISSENSCHAFTLICHE PRAXIS I KOMPASS UND ORIENTIERUNGSHILFE IM WISSENSCHAFTSALLTAG

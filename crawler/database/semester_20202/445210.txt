@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Empirische Marktforschung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47837&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 445210
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 11:00 bis 13:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Klausur</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Jutta Emes
+# Beschreibung
+Beschreibung :3 S: In dieser Vorlesung erhalten die Studierenden einen Einblick in konzeptionelle Grundlagen des Marktforschungsprozesses. Dabei gliedert sich die Veranstaltung in zwei Teile: Zum einen liegt der Schwerpunkt auf Methoden der Informationsgewinnung, welche für die Planung und Durchführung von qualitativen und quantitativen Erhebungen von Bedeutung sind. Betrachtet werden u.a. die wesentlichen Aspekte der Fragebogenerstellung, alternative Stichproben-Auswahlverfahren, messtheoretische Grundlagen, Skalierungen und Gütekriterien. Zum anderen widmet sich die Vorlesung einer Auswahl empirischer Methoden unter Berücksichtigung verschiedener Erhebungs- und Auswertungstechniken sowie Untersuchungsdesigns. Dabei bietet sich den Teilnehmern Raum, um die jeweilige Eignung der Verfahren zu diskutieren.

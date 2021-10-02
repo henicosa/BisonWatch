@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Leviathan und Wunderkammer. Skalierungen und Transformationen des Barock in Künsten, Wissenschaften, Politik
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49602&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Plenum
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Projektmodul Archiv- und Literaturforschung (Barock)
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Farchiv-und-literaturforschung%2Fwillkommen%2F&timestamp=1631115681467&hash=3c7a4d6b0f5996437f23afc0b8a82bc3
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 11:00 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Online via Moodle</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Jörg Paulus
+# Beschreibung
+Beschreibung :3 S: <span style=font-size: 12pt;>In Ergänzung und Erweiterung der Arbeit in den Seminaren sollen in diesem Plenum exemplarisch die Dimensionen und Geometrien des Phänomens Barock in synchroner und diachroner Perspektive erkundet werden: in Architektur, Malerei, Musik, Literatur und Theater ebenso wie in Verwaltung und Politik des 17./18. Jahrhunderts – und bis zur Gegenwart. Die Spannweite des Phänomens reicht von den Miniaturwelten der barocken Kunst- und Wunderkammern bis hin zur emblematischen Repräsentation des Staatskörpers und des „Weltgebäudes“. </span>

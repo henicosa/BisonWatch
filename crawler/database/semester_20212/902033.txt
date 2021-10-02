@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Studienprojekt Immobilien
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50272&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 3
+Veranstaltungsnummer :3 S: 902033
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fenrol%2Findex.php%3Fid%3D27049&timestamp=1631112579386&hash=4e380442ebc4c48cae6b7889d4cef271
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Hans-Joachim Bargstädt :3 S: Fakultät Bauingenieurwesen,Thomas Vogl :3 S: Fakultät Bauingenieurwesen,Birgit Bode
+# Beschreibung
+Beschreibung :3 S: Termine nach Absprache !

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Projektmanagement: Grundlagen des Operations Research
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=46860&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Integrierte Vorlesung
+SWS :3 S: 1
+Veranstaltungsnummer :3 S: 2901016-02
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>6 Termine nach Ansage</p>, <br/>, <p>Veranstaltung Online</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Birgit Bode
+# Beschreibung
+Beschreibung :3 S: Darstellung der verschiedener Verfahren des Operations Research zur Lösung von Problemstellungen im Bauwesen. Es werden im Wesentlichen kombinatorische Probleme, Lagerhaltungsprobleme und Wartezeitprobleme betrachtet. Für die Lösung der Problemstellungen werden einfache Optimierungsverfahren, Verfahren der Warteschlangentheorie sowie Modellierungskonzepte für den Aufbau von Simulationsmodellen vorgestellt. Die verschiedenen mathematischen Verfahren werden anhand von praktischen Beispielen erläutert.

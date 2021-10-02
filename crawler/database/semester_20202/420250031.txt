@@ -1,0 +1,38 @@
+Veranstaltungstitel :3 S: Cross-cultural management
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48347&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 420250031
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>findet digital über Moodle statt: <a href=https://moodle.uni-weimar.de/course/view.php?id=28134>https://moodle.uni-weimar.de/course/view.php?id=28134</a></p>, <br/>, <p> </p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Sa.
+Zeit :3 S: 09:15 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>findet digital über Moodle statt: <a href=https://moodle.uni-weimar.de/course/view.php?id=28134>https://moodle.uni-weimar.de/course/view.php?id=28134</a></p>, <br/>, <p> </p>,
+# Zeit
+Tag :3 S: Sa.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N.
+# Beschreibung
+Beschreibung :3 S: Das englischsprachige Seminar soll das Bewusstsein für kulturelle Unterschiede schärfen, theoretische und praxisorientierte Ansätze zur Erklärung dieser vermitteln sowie Sensibilität gegenüber unterschiedliche Kulturen in der Welt schaffen. Aufbauend auf diesen Erkenntnissen sollen die Studierenden in die Lage versetzt werden, internationale Kommunikationsstrategien zu entwickeln. Vor diesem Hintergrund wird ferner die Medien-Perzeption in unterschiedlichen Kulturen analysiert und es werden die Themenbereiche Cross-Cultural Communication und Intercultural Knowledge Transfer erörtert.

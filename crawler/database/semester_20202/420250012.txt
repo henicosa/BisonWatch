@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Kleine Formen des Filmschreibens
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47585&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 420250012
+Max. Teilnehmer/-innen :3 S: 30
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: BA-Studienmodul: Bildtheorie
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Fbildtheorie%2F&timestamp=1631058387321&hash=27ec449387dfa554b3910b1408812fd5
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Digital via Moodle</p>,
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 17:00 bis 18:30
+Terminrhythmus :3 S: gerade Wo
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Manuela Klaut
+# Beschreibung
+Beschreibung :3 S: »Schreiben heißt versuchen herauszufinden, was man schreiben würde, wenn man schriebe.« (Marguerite Duras: Schreiben, 1993/94, S. 58), <br>Würde man eine Ankündigung zu diesem Seminar schreiben wollen, könnte sie sagen, dass Filmkritik die filmischen Texte und Kontexte nicht nur beurteilt, perspektivisch erarbeitet und hinterfragt, sondern zuerst beobachtet und versucht, herauszufinden. Agnès Varda entwickelte den Begriff der cinécriture - die assoziative Freizügigkeit von Bildern und Gedanken, um die starke Ausrichtung am Drehbuch zu durchbrechen. Würde man daraus den Begriff der cinécritique ableiten, will diese womöglich nicht nur die Auseinandersetzung mit der filmischen Organisation der Bilder, sondern auch eine unmittelbare Verbindung des Sehens mit dem Schreiben und das Erarbeiten einer eigenen Sichtweise während des Schreibens über das Sehen. Damit wird nicht allein die Schreibweise zu Dingen, Momenten und Szenarien entwickelt, die im Beobachten auffallen - es werden vor allem Dinge sichtbar, von denen auffällt, wie wenig auffällig sie sind. Wie sich die Beobachtungen wiederum beim Lesen einer Kritik ändern, welche Erwartungen und Eindrücke am Text entstehen, wird zunächst anhand klassischer und neuer Ausgangspunkte der Filmkritik diskutiert. Ebenso Schwerpunkt ist das eigene Schreiben und dessen intensive Besprechung.<br>Einreichung einer Arbeitsprobe mit einer Kritik bis ca. 2.000 Zeichen zu einem Film eigener Wahl, bitte bis zum 26.10. 2020 an manuela.klaut@uni-weimar.de.</br></br>

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Wissenschaftliches Arbeiten
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47943&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 1111270
+Max. Teilnehmer/-innen :3 S: 40
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Urbanistik, B.Sc. PO 2020\r, <br/>, Pflichtmodul - Methoden und Techniken\r, <br/>, Urbanistik, B.Sc. PO 14\r, <br/>, Pflichtmodul - Methoden und Techniken
+Erwartete Teilnehmer/-innen :3 S: 40
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Julia von Mende
+# Beschreibung
+Beschreibung :3 S: Was macht wissenschaftliches Arbeiten aus? Wie ist es charakterisiert? Welche Regeln gelten für wissenschaftliches Arbeiten? Wie verstehe ich einen wissenschaftlichen Text? Wie komme ich an Literatur für meine wissenschaftliche Arbeit? Auf welche Weise dokumentiere ich meine Informationsquellen? Was ist beim Schreiben wissenschaftlicher Arbeiten zu beachten? Wie präsentiere ich meine wissenschaftliche Arbeit? Fragen wie diese stehen im Mittelpunkt des Seminars und werden in einer Mischung aus Input, gemeinsamer (Text)Arbeit, Übungen im Seminar und kleineren Hausarbeiten beantwortet.

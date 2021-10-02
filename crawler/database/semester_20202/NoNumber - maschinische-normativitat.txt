@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Maschinische Normativität
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47633&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: MA-Projektmodul: Mediale Welten 2
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Ftheorie-medialer-welten%2F&timestamp=1631058439043&hash=17c60fbfc8cd4a516c82d2bc2ecfe004
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Digital via Moodle</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Henning Schmidgen
+# Beschreibung
+Beschreibung :3 S: An einer entscheidenden Stelle greifen die gegenwärtigen Diskussionen über Roboter- und Computerethik zu kurz: Sie beziehen die Sphäre der Technik und die Sphäre der Werte als sich äußerlich gegenüberstehende auf. Auf diese Weise wird die Maschinenethik zu einer bloßen Technikfolgenabschätzung, die immer nur „after the fact“ interveniert. Mit Blick auf dieses Problem unternimmt es das Seminar, eine Perspektive zu entwickeln, die von der innigen Verwobenheit von Normativität und Maschinismus ausgeht. Wichtige Referenzpunkte werden dabei die Arbeiten von Georges Canguilhem, Gilbert Simondon und Félix Guattari sein. Erste Sitzung am 7. 11. Zur Einführung empfohlen: Die Guattari-Tapes, Leipzig 2019.

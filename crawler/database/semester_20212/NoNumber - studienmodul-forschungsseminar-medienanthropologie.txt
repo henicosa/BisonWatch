@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Studienmodul Forschungsseminar Medienanthropologie
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51265&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Sonstige Veranstaltung
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 5
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Freies Studienmodul - Forschungsseminar Medienanthropologie
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Finstitute%2Fgrama%2F&timestamp=1631112577961&hash=c293fa347dc4136269c0d57528885954
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 14:00 bis 17:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Christiane Voss
+# Beschreibung
+Beschreibung :3 S: Überblick über die aktuelle internationale Forschung der Medienanthropologie sowie Einblicke in Promotionen und Habilitationen zum Thema, die am GRK Medienanthropologie angesiedelt sind.

@@ -1,0 +1,48 @@
+Veranstaltungstitel :3 S: Interactive spatial media design
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48046&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 120220402
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: MediaArchitecture, M.Sc. PO 2020\r, <br/>, Fachmodul - Darstellen im Kontext\r, <br/>, MediaArchitecture, M.Sc. PO 18\r, <br/>, Fachmodul - Darstellen im Kontext
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:15 bis 17:15
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 15:30 bis 17:15
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 17:15
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 15:30 bis 17:15
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 13:30 bis 17:15
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Stefan Kraus :3 S: Fakultät Architektur und Urbanistik,Sabine Zierold
+# Beschreibung
+Beschreibung :3 S: The visible and tactile world that surrounds us is no longer just that. Rather it is characterized by virtual information just as much as it is by brick and mortar. Programming interaction has become an integral part of shaping that world and understanding how sensors, software and hardware need to complement each other to create real added value for users is essential for the media architects that will design tomorrows public spaces.

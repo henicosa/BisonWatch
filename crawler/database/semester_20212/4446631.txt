@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Online Computation
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51288&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 3
+Veranstaltungsnummer :3 S: 4446631
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Lecture</p>,
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 17:00 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>lab class</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Andreas Jakoby
+# Beschreibung
+Beschreibung :3 S: Online Berechnungen

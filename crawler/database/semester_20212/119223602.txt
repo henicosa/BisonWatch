@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Stadttechnik Energie
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50940&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Integrierte Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 119223602
+Max. Teilnehmer/-innen :3 S: 5
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Urbanistik, M.Sc. PO 2021\r, <br/>, Bachelorvorleistungen - Wahlpflichtmodule\r, <br/>, Urbanistik, M.Sc. PO 2020 - 4-semestrig\r, <br/>, Bachelorvorleistungen - Wahlpflichtmodule\r, <br/>, Urbanistik, M.Sc. PO 17 - 4-semestrig\r, <br/>, Bachelorvorleistungen - Wahlpflichtmodule
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Mark Jentsch
+# Beschreibung
+Beschreibung :3 S: In den Vorlesungen werden die Teilsysteme und Elemente der Energieversorgung in ihrem Aufbau, in ihrer Funktionalität und Struktur unter den derzeitigen ökologischen und organisatorischen Rahmenbedingungen vorgestellt. Hierbei geht es um:, <br> die Systematisierung der Energieformen, Grundbegriffe der Energiewirtschaft, Energieressourcen global und lokal, den anthropogenen Energiebedarf, Verfügbarkeit und Nutzung fossiler Energieträger, netzgebundene Energieversorgungssysteme (Elektrizität, Gas, Wärme), Nachhaltigkeit und Versorgungssicherheit, eneuerbare Energien, Schnittstelle Planung/ Stadtentwicklung sowie Emissionen und ihre Auswirkungen auf das globale Klima</br>

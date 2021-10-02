@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Java Programming
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47611&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Blockveranstaltung
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Personen
+Personen :3 S: Fakultät Medien,Nathalie Lang :3 S: Fakultät Bauingenieurwesen,Benjamin Burse
+# Beschreibung
+Beschreibung :3 S: This block course gives students the possibility to learn Java from the very beginning. After giving and overview over the basic concepts such as variables, conditions, loops and object-oriented programming, we will have a closer look on some advanced concepts such as generics, software testing and GUI., <br/>, Because many practical tasks have to be solved, students are asked to bring their laptop if possible., <br/>, The target group consists mainly of masters students who have just basic programming skills, who need to refresh their skills, or who are simply interested in learning Java., <br/>, Throughout the course, students have to complete assignments., <br/>, After the two-week-block, students have to solve one mini project. The final grade (only if you are eligible for ECTS, more info in the first session) will be based on the presentation of this mini project in combination with a short documentation (~3-10 pages).

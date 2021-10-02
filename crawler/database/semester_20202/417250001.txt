@@ -1,0 +1,48 @@
+Veranstaltungstitel :3 S: Filmanalyse
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47577&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 417250001
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: BA Einführungsmodul in die Medien- und Kulturtheorie
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Fmedienphilosophie%2Fwillkommen%2F&timestamp=1631058153853&hash=9cd9c30240ccd0f459db4b8006b3d3ad
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 07:30 bis 09:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Gruppe 1 / Frisch</p>,
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Gruppe 2 / Frisch</p>,
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Gruppe 3 / Frisch</p>,
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 13:00 bis 18:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Filmsichtung: Lichthaus-Kino (Kinosaal 1)</p>,
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:15 bis 12:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Gruppe 4 / Siegler</p>, <br/>, <p>Lichthaus Kino (Kinosaal 1), Am Kirschberg 4</p>,
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 13:00 bis 14:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Gruppe 5 / Siegler</p>, <br/>, <p>Lichthaus Kino (Kinosaal 1), Am Kirschberg 4</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Martin Siegler :3 S: Fakultät Medien,Simon Frisch
+# Beschreibung
+Beschreibung :3 S: Filme sehen ist scheinbar leicht, über das Gesehen zu sprechen, bereitet oft Schwierigkeiten. Um die Filmerfahrung zu verarbeiten, zu vertiefen und in Worte zu überführen ist die Analyse ein erster Ansatz. Die Kunst der Filmanalyse besteht darin, den Film besser kennen zu lernen, ohne die Faszination und die Liebe zum Film zu ersticken.

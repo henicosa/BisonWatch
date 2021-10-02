@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: BA/MA-Kolloquium Medienphilosophie: Der Schwarze Freitag
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50576&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Kolloquium
+SWS :3 S: 1
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 24
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Fmedienphilosophie%2Fwillkommen%2F&timestamp=1631110933869&hash=183b66ca92cfc736455955cb13a6db86
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Personen
+Personen :3 S: Fakultät Medien,Rudolf Engell
+# Beschreibung
+Beschreibung :3 S: <span style=font-size: 12pt;>Präsentation und Diskussion der Examensarbeiten und der Dissertationen.</span>

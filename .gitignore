@@ -3,3 +3,4 @@ code/crawler/database
 code/crawler/__pycache__
 code/crawler/.idea
 .vscode
+node_modules

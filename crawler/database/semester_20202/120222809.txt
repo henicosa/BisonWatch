@@ -1,0 +1,33 @@
+Veranstaltungstitel :3 S: counter mapping masterplan (Ma)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48293&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 120222809
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlmodul\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlmodul\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlmodul\r, <br/>,  , <br/>, Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 2020 2-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Wahlpflichtmodul
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 18:30 bis 20:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Sa.
+Zeit :3 S: 10:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Sa.
+Zeit :3 S: 10:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Tillmann Gebauer :3 S: Fakultät Architektur und Urbanistik,Malena Rottwinkel :3 S: Fakultät Medien,Manuela Klaut :3 S: Fakultät Medien,Julia Bee
+# Beschreibung
+Beschreibung :3 S: Der Masterplan von 1996 zur südlichen Erweiterung des sogenannten Van-de-Velde-Campus trifft wesentliche Aussagen zur Verteilung von Baukörpern, lässt aber die Entwicklung der Freiflächen völlig offen. Diese sind es allerdings, die eine räumliche Konzentration von Hochschulgebäuden erst zum Campus machen. Wir wollen den Masterplan invertieren, ein Gegenstück, ein Bild-Negativ erschaffen und einen Campus abbilden, der alltäglich von seinen Nutzer*innen belebt und gestaltet wird – abseits von Jubiläen und Tagestourist*innen.

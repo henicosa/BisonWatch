@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Raumbezogene Informationssysteme/ Spatial information systems (GIS)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=46801&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Integrierte Vorlesung
+SWS :3 S: 3
+Veranstaltungsnummer :3 S: 904003 / 4439100
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fmedien%2Fcv&timestamp=1631058818906&hash=c52de3ebe3cd4d7dba084b2b8f240876
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: gerade Wo
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Volker Rodehorst :3 S: Fakultät Bauingenieurwesen,Thomas Gebhardt
+# Beschreibung
+Beschreibung :3 S: Die Vorlesung vermittelt vertiefte Grundlagen raumbezogener Informationssysteme, wie z.B. die Aufnahme, Organisation, Analyse und Präsentation raumbezogener Daten. Die Themen umfassen geographische Daten und frei verfügbare Ressourcen, Referenzsysteme und Kartennetzentwürfe, Geo-Datenbanken und effiziente Datenstrukturen, geometrische und topologische Datenanalyse, kartographische Generalisierung und Visualisierung sowie GIS im Planungskontext.

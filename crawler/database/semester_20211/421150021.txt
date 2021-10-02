@@ -1,0 +1,58 @@
+Veranstaltungstitel :3 S: Augen Ohren Hören
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49585&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Werk-/Fachmodul
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 421150021
+Max. Teilnehmer/-innen :3 S: 18
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: BA Werkmodul
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.makiko-nishikaze.de&timestamp=1631115168840&hash=9c152b9bd4ae71b4593b4f983a332faa
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 15:15 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 15:15 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 15:15 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 15:15 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Sa.
+Zeit :3 S: 09:15 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Sa.
+Zeit :3 S: 09:15 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Sa.
+Zeit :3 S: 09:15 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Sa.
+Zeit :3 S: 09:15 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Makiko Nishikaze
+# Beschreibung
+Beschreibung :3 S: Das bewusste Hören vermag die Wahrnehmung der anderen Sinnen zu beeinflussen. Für die Einflüsse aus der uns umgebenden Welt sind unsere Ohren immer offen. Die Art, wie wir Klänge wahrnehmen, ist bei jedem von uns verschieden. Das Seminar ist als kreative Werkstatt eingerichtet. Jedes der vier Blockseminare besteht aus folgenden Tehmen: - Übungen in aktivem Zuhören Was ist die Unterschied zwischen Klang, Geräusch und Lärm? Im Seminarraum hören und sehen wir verschiedene Kunstwerke, z.B. visuelle Werke ohne Ton oder Hörstücke ohne Bild. Kann man mit Ohren sehen, mit Augen hören? - Fieldworks „Weimar Hören“ Den Ort neu entdecken beim Hören. Wir verlassen den Seminarraum um unsere Umgebung aufmerksam hörend wahrzunehmen, z.B. in der Natur, inmitten des städtischen Lebens, und schreiben was wir gehört haben. Es sollte Klangtagebuch oder Klangskizze (graphische Notation) sein. Wir können auch mit Foto, Video und Ton dokumentieren, was wir erlebt haben. - Klangperformance Performance Sitzungen als Klangforschung. Wir werden Klänge mit Alltagsgegenständen aus unserer Umgebung erzeugen, zum Beispiel Papier, Plastik, Utensilien aus der Küche oder aus dem Bad. Solche Gegenstände sind uns zwar vertraut, doch sind wir uns häufig nicht über ihren Klang bewusst. Wir werden auf die Klänge hören, die wir mit diesen Objekten erzeugen, und der Prozess der Klangerzeugung sollte über behutsames Lauschen und Zuhören erfolgen. Dabei werden wir uns zunächst mit den Klängen beschäftigen, die wir selbst erzeugen, danach mit denen der anderen Teilnehmer. Schließlich richten wir unsere Aufmerksamkeit auf den Gesamtklang. Ziel ist es eine Klanglandschaft entstehen zu lassen, in der wir als Gruppenkomposition den umgebenen Raum oder Korridor nutzen. Zum Schluss ist eine Session aus freien Performancestücken, bzw. eine kleine Präsentation der Gruppenarbeit mit geringen Spielanweisungen vorgesehen. - “off screen sound - on screen sound” Unsere Klanglandschaft wahrnehmen - beim Hören unsere Umgebung genau betrachten. Es gibt viele Klänge, die wir hören können, ohne ihre Quelle zu sehen. Aber auch manche, die wir nicht hören, obwohl wir die Quelle sehen können. Beispiel : Klang sehen, aber nicht hören. Ich bin im Auto, Radio ist an, vor Ampel halten und warten. Auf dem Bürgersteig läuft eine Frau mit Kopfhörer. Sie singt mit. Interpretation: Ich höre Radio (on screen sound, direkt) und Verkehrslärm auch (on screen sound, Umgebung). Ich sehe eine Frau mit Klang, aber höre ihn nicht (on screen sound ist off). Wie können wir die Klänge identifizieren, wenn wir ihre Ursache nicht sehen können? Welche Situationen gibt es, wo wir die Klangquelle nur sehen können aber die dazu gehörenden Klänge nicht hören? Und was hören wir (oder was erwarten wir zu hören)?

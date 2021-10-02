@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Cinema 4D - Modellieren, Texturieren, Beleuchten
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47847&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Übung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 120110401
+Max. Teilnehmer/-innen :3 S: 25
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Werkzeuge | Methoden\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Werkzeuge | Methoden
+Erwartete Teilnehmer/-innen :3 S: 25
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D20513&timestamp=1631057945126&hash=da0b9db39046ee01d7353f7b338c9ccd
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: gerade Wo
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Andreas Kästner
+# Beschreibung
+Beschreibung :3 S: Grundlagenmodul Bachelor

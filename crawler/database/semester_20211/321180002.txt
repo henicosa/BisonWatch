@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Lab Talks
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49891&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Kolloquium
+SWS :3 S: 1
+Veranstaltungsnummer :3 S: 321180002
+Max. Teilnehmer/-innen :3 S: 8
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fkunst-und-gestaltung%2Fprofessuren%2Ftheorie-und-geschichte-des-design%2F&timestamp=1631115670369&hash=5b36cf05047e3632cd64be3c7c79b679
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: 09:00 bis 13:00
+Terminrhythmus :3 S: Block
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: 09:00 bis 13:00
+Terminrhythmus :3 S: Block
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Jan Willmann :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Mit dem Graduiertenkolloquium „Lab Talks“ wird ein neues Format eingeführt, das sich explizit an die Designpromovierenden des Ph.D.-Studiengangs Kunst und Design wendet. Im Vordergrund steht die Annäherung an die Designforschung/-wissenschaft aus konkreter wie auch praktischer Sichtweise. Hierzu stellen die Ph.D.-Studierenden ihre je spezifischen Ansätze und Methoden vor, um ihre empirische Logik und wissenschaftliche Plausibilität zu diskutieren und für andere Design-Promovierende zugänglich zu machen. Für alle Ph.D.-Studierenden der Professur Designtheorie sind die Lab Talks eine Pflichtveranstaltung. Die Lab Talks finden in (zwei) Blockseminaren im Rahmen der Ph.D.-Wochen statt. Im Sommersemester 2021 lautet das Thema der Lab Talks „State-of-the-Art“.

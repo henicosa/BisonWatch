@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Mobile Information Visualization
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47589&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 10
+Veranstaltungsnummer :3 S: 420210016
+Max. Teilnehmer/-innen :3 S: 5
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fvr&timestamp=1631058526004&hash=0c1c0f6bcade360752c0f8144cca2293
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Medien
+# Personen
+Personen :3 S: Fakultät Medien,Joshua Reibert :3 S: Fakultät Medien,Bernd Fröhlich
+# Beschreibung
+Beschreibung :3 S: Informationsvisualisierungenwerden auch auf mobilen Geräten immer präsenter, insbesondere in Nachrichtenartikeln und sozialen Medien. Professionelle Anwendungen für die visuelle Analyse und aktuelle Forschung zielen jedoch selten auf diese ab. Obwohl aktuelle Smartphones über leistungsstarke Prozessoren und hohe Bildschirmauflösungen verfügen, ist der Platz auf dem Bildschirm begrenzt und die Eingabe per Touchscreen erlaubt keine feingranulare Interaktion. Daher ist die Visualisierung auf mobilen Geräten typischerweise lockerer und wird noch nicht für tatsächliche Analysen verwendet., <br/>, <br/>, In diesem Projekt werden wir den Stand der Technik mobiler Visualisierungen sowie deren Grenzen und Herausforderungen analysieren. Darauf aufbauend werden wir dann prototypische Visualisierungen für Smartphones oder Smartwatches entwerfen und implementieren. Interaktion kann helfen, den begrenzten Platz auf dem Bildschirm zu überwinden, und es viele Eingabemodalitäten wie Touch-, Stift-, Gesten- und Spracheingabe stehen zur Verfügung. Schließlich können solche Visualisierungen auch Visualisierungssysteme mit größeren Bildschirmen als individuelle Displays oder für die Interaktion aus der Ferne ergänzen.

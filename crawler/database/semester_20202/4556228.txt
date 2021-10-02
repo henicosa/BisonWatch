@@ -1,0 +1,43 @@
+Veranstaltungstitel :3 S: Virtual Reality
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=46832&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 3
+Veranstaltungsnummer :3 S: 4556228
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedieninformatik%2Fvr%2Fteaching%2Fws-202021%2Fcourse-virtual-reality%2F&timestamp=1631059126051&hash=c57309568a3443cba94e284920ec9627
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Vorlesung - Online, Moodle Link: <a href=https://moodle.uni-weimar.de/course/view.php?id=28154>https://moodle.uni-weimar.de/course/view.php?id=28154</a></p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Übung Gruppe A, Termin wird noch bekannt gegeben</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Übung Gruppe B - Termin wird noch bekannt gegeben</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Übung Gruppe C - Termin wird noch bekannt gegeben</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Übung Gruppe D - Termin wird noch bekannt gegeben</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Bernd Fröhlich :3 S: Fakultät Medien,Clara Bimberg :3 S: Fakultät Medien,Ephraim Schott :3 S: Fakultät Medien,Sebastian Stickert :3 S: Fakultät Medien,Tim Weißker :3 S: Fakultät Medien,André Kunert :3 S: Fakultät Kunst und Gestaltung,Alexander Kulik
+# Beschreibung
+Beschreibung :3 S: Virtual Reality (VR) erfreut sich seit mehreren Jahren großer Beliebtheit in Forschung, Unterhaltung und Bildung. VR-Systeme ermöglichen die Interaktion einer oder mehrerer Benutzerinnen mit einer computersimulierten Umgebung, welche dreidimensional auf einem stereoskopischen Display dargestellt wird. In diesem Kurs lernen Sie die theoretischen, technischen und angewandten Grundlagen moderner Virtual Reality-Systeme genauer kennen. Die Vorlesung beginnt mit den Grundlagen der Computergrafik und des stereoskopischen Sehens, welche zur Realisierung von VR-Anwendungen erforderlich sind. Danach werden Sie verschiedene 3D-Eingabegeräte und 3D-Interaktionstechniken wie Selektion, Manipulation und Navigation in virtuellen Umgebungen kennenlernen. Der letzte Teil des Kurses baut auf dem bereits erworbenen Wissen auf und konzentriert sich auf kollaborative VR-Systeme für mehrere am gleichen oder an verschiedenen Orten befindliche Benutzerinnen. Die Vorlesung wird von Laborveranstaltungen begleitet, welche neueste Virtual Reality-Technologien wie Multi-Viewer-3D-Projektionssysteme und hochauflösende Head-Mounted Displays einsetzen. Im Rahmen der Übungsaufgaben werden Sie verschiedene 3D-Interaktionstechniken mit diesen immersiven Displays sowie räumlichen Trackingsystemen und 3D-Eingabegeräten implementieren und auswerten.

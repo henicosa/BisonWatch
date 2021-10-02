@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Conversational Argument Search 2
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47662&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 10
+Veranstaltungsnummer :3 S: 420210008
+Max. Teilnehmer/-innen :3 S: 4
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Personen
+Personen :3 S: Fakultät Medien,Benno Stein :3 S: missing,Lars Meyer :3 S: Fakultät Medien,Johannes Kiesel
+# Beschreibung
+Beschreibung :3 S: How will it look and sound like to ask a search engine for arguments? In the summer term we developed a prototype for multimodal (speech and visual) interaction with the worlds first argument search engine, args.me. We created an Alexa skill for argument search and our very own software and infrastructure for integrating it with the args web interface and accessing it from anywhere. That way, we made speech-based interaction with visual feedback in the browser possible. This time, we want to expand the interaction capabilities of the prototype, discovering more ways to search for and interact with arguments, and how to further exploit the multimodality.

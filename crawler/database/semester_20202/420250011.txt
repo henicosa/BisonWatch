@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Alte Medien. Zu medienhistorischen Asynchronien und Anachronismen. SEMINAR
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47659&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 420250011
+Max. Teilnehmer/-innen :3 S: 30
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Studienmodul / Bauhausmodul: Alte Medien
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Feuropaeische-medienkultur%2Fwillkommen%2F&timestamp=1631108669560&hash=4e34d7ee8c19bb1cb525190ab3a56abb
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Digital via Moodle</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Eva Krivanec
+# Beschreibung
+Beschreibung :3 S: So scheinbar klar umrissen das heutige Feld der Neuen Medien nach seiner Konsolidierung seit der Jahrtausendwende auch sein mag, häufig identifiziert mit dem Digitalen, das nun den alten, analogen Medien als Hort der Innovation gegenübergestellt wird, so sehr muss doch eingeräumt werden, dass es zu jeder historischen Epoche je neue und alte Medien gegeben hat. Diese spezifischen Konstellierungen von alten und neuen Medien ergaben (und ergeben) häufig Ungleichzeitigkeiten, Zeitsprünge, die – als Unterbrechungen – Räume hin zum Nostalgischen, zur Reappropriation „alter“ Technologien aber auch hin zum Antizipieren, zum flüchtigen In-Anschein-Nehmen des Zukünftigen, öffneten (und öffnen)., <br>Das begleitende Seminar zur RingVO dient der vertiefenden Lektüre und Diskussion zum Vortrag des Vortages, teilweise unter (digitaler) Anwesenheit der Vortragenden, meist anhand von mit den Vortragenden gemeinsam ausgewählten Texten.</br>

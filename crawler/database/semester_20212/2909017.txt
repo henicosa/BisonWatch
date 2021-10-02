@@ -1,0 +1,33 @@
+Veranstaltungstitel :3 S: Verkehrssicherheit: Teil Verkehrssicherheit I
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50673&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Integrierte Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 2909017
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Verkehrssicherheit
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fvsp&timestamp=1631112637372&hash=7208f04e68754fa1ccc673d320423c67
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: bis
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>R 305 M13</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: bis
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>R 305 M13</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: bis
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>R 305 M13</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Johannes Vogel :3 S: Fakultät Bauingenieurwesen,Uwe Plank-Wiedenbeck :3 S: Fakultät Bauingenieurwesen,Julius Uhlmann
+# Beschreibung
+Beschreibung :3 S: Wesentliche Schwerpunkte sind:

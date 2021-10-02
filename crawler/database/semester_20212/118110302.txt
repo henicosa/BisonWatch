@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Bauphysikalisches Kolloquium (Ba)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49797&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Übung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 118110302
+Max. Teilnehmer/-innen :3 S: 10
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Konstruktion | Technik\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Konstruktion | Technik\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Konstruktion | Technik
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Conrad Völker
+# Beschreibung
+Beschreibung :3 S: Es werden aktuelle Themen aus der Forschung und Praxis behandelt. Die Schwerpunkte liegen dabei auf den Gebieten Wärme, Feuchte und Akustik sowie Gebäudetechnik.

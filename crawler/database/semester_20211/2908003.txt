@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Projekt "Planung von Anlagen der Infrastruktur"
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48889&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 3
+Veranstaltungsnummer :3 S: 2908003
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D30747&timestamp=1631115873554&hash=cfc98ce0ef3f3ec5bc4351e83c5b5c46
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Ralf Englert :3 S: Fakultät Bauingenieurwesen,keine öffentliche Person :3 S: Fakultät Bauingenieurwesen,Julius Uhlmann
+# Beschreibung
+Beschreibung :3 S: Bearbeitungsschwerpunkte Verkehrsplanung:, <br>Zeichnerischer Entwurf eines Straßenabschnittes unter Beachtung verschiedener Nutzungsansprüche, Beachtung von ÖPNV Haltestellen in ausgewählten Straßenabschnitten</br>

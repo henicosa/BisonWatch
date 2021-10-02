@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: WW 46 Durchgängigkeit und Habitatmodellierung von Fließgewässern
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51746&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 60
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 30
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2FBauing%2Fwbbau&timestamp=1631113706311&hash=afab6bc40fd33e68be5743a9ed2bfb15
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: 08:00 bis 17:00
+Terminrhythmus :3 S: Block
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: missing,Hans-Peter Hack :3 S: missing,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Der Kurs geht im ersten Teil näher auf die Biologie und die Bedeutung der Migration von Fischen und gewässerbewohnenden Wirbellosen ein. Um die Wanderungen wieder zu ermöglichen, werden Wanderhilfen errichtet. Verschiedene Typen naturnaher und technischer Anlagen mit deren hydraulischer Dimensionierung sind ebenso Inhalt des Kurses wie die Kontrolle der Funktionsfähigkeit. Ein gesondertes Kapitel beschäftigt sich dabei mit dem Fischabstieg. Als ein geeignetes Mittel, um natürliche oder durch menschliche Einflussnahme hervorgerufene Veränderung ökologischer Systeme zu untersuchen, werden Habitatmodelle angesehen. Diese basieren auf den Lebensraumansprüchen ausgewählter Arten und deren Entwicklungsstadien. Derartige Modelle werden auch für Gewässersysteme verwendet, um die Eignung von Teilbereichen als Lebensraum zu ermitteln bzw. vorherzusagen.

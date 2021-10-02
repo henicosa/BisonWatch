@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Assessment of structural performance (under extreme loading conditions) (Exam)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48731&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Prüfung
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 2202011
+Max. Teilnehmer/-innen :3 S: 14
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:00 bis 11:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Jochen Schwarz :3 S: Fakultät Bauingenieurwesen,Holger Maiwald :3 S: Fakultät Bauingenieurwesen,Silke Beinersdorf :3 S: Fakultät Bauingenieurwesen,Lars Abrahamczyk :3 S: Fakultät Bauingenieurwesen,Aanis Uzair :3 S: Fakultät Bauingenieurwesen,Peshawa Hasan
+# Beschreibung
+Beschreibung :3 S: Students will be familiar with the existing building typologies, the methods of structural performance assessment and design rules for traditional and engineered building types. Examples of different small to large scale testing and the instrumentation requirements are elaborated to provide structure related parameters and characteristic force-displacement relationships in support of analytical studies and the re-interpretation of damage patterns. Students should be able to evaluate the quality of structural systems, to interpret the performance of masonry and steel structures under horizontal action, to derive appropriate models and to decide upon the applicability of equivalent or simplified ones. Students will be informed about on-going research projects and recent code developments which are linked to the course topics and options for further graduation (master thesis).

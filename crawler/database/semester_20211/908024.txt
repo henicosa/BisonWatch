@@ -1,0 +1,27 @@
+Veranstaltungstitel :3 S: Prüfung: Stadttechnik Wasser
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49959&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Prüfung
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 908024
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 13:00 bis 14:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Studierende mit den Anfangsbuchstaben <strong>A bis K </strong>der Nachnamen </p>,
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 13:00 bis 14:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Studierende mit den Anfangsbuchstaben <strong>L</strong><strong> bis Z </strong>der Nachnamen</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Ralf Englert :3 S: Fakultät Bauingenieurwesen,Jörg Londong
+# Beschreibung

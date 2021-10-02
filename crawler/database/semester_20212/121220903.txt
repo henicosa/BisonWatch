@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Bibliotheken: A bis Z
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51329&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 121220903
+Max. Teilnehmer/-innen :3 S: 30
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Architektur\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Architektur\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Architektur
+Erwartete Teilnehmer/-innen :3 S: 30
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Farchitektur-und-urbanistik%2Fprofessuren%2Fentwerfen-und-komplexe-gebaeudelehre%2Faktuelles%2F&timestamp=1631110988473&hash=82ff0b9e827ed692b11648b0135dd4cd
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Jörg Springer :3 S: Fakultät Architektur und Urbanistik,Manuel Aust :3 S: Fakultät Architektur und Urbanistik,Martin Pasztori :3 S: Fakultät Architektur und Urbanistik,Sebastian Schröter :3 S: Fakultät Bauingenieurwesen,Juliane Steffen
+# Beschreibung
+Beschreibung :3 S: Im entwurfsbegleitenden Seminar untersuchen wir ausgewählte Bibliotheksbauten der Architekturgeschichte unter typologischen, räumlichen und gestalterischen Aspekten, und entwickeln so ein Verständnis für die Einordnung des eigenen Semester-Entwurfs in den breiteren architektonischen Kontext., <br><br>Es handelt sich um das entwurfsbegleitende Seminar zu den Projektmodulen Bibliotheken | Orte des Wissens – Neue Staats-und Universitätsbibliothek Hamburg <strong>UND</strong> Die Hölle. Ein Entwurf für den Anderen Ort.</br></br>

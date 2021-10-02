@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Real-Time Avatars for 3D Telepresence in Unity
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50040&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 10
+Veranstaltungsnummer :3 S: 421110011
+Max. Teilnehmer/-innen :3 S: 3
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fvr&timestamp=1631116021083&hash=d7864b96ef426d9d893dc1a9b154d04f
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Personen
+Personen :3 S: Fakultät Medien,Bernd Fröhlich :3 S: Fakultät Medien,Stephan Beck :3 S: Fakultät Medien,Gareth Rendle :3 S: Fakultät Medien,Adrian Kreskowski
+# Beschreibung
+Beschreibung :3 S: 3D telepresence enables participants at different locations to meet and collaborate in a shared virtual environment using realistic representations of themselves. We presented the first, <a href=../en/media/chairs/computer-science-department/vr/research/multi-user-virtual-reality/immersive-group-to-group-telepresence/> immersive group-to-group telepresence system in 2013</a>, . Since then, many fundamental technologies have been continuously improved; in particular, real-time 3D capturing and reconstruction of user representations. Such avatar representations are referred to as 3D video avatars or volumetric avatars in the literature.

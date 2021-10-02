@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Bauen im Bestand: Kartierung eines Ortes
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47873&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 120221002
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Projektmodul - Begleitveranstaltung oder\r, <br/>, Wahlpflichtmodul - Architektur\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Projektmodul - Begleitveranstaltung oder\r, <br/>, Wahlpflichtmodul - Architektur\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Projektmodul - Begleitveranstaltung oder\r, <br/>, Wahlpflichtmodul - Architektur
+Erwartete Teilnehmer/-innen :3 S: 20
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Farchitektur%2Fraumgestaltung%2F&timestamp=1631108771812&hash=5f3f6ecedf09554c27017bc03b026efe
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 17:00 bis 20:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Jose Gutierrez :3 S: Fakultät Architektur und Urbanistik,Steve Liem :3 S: Fakultät Architektur und Urbanistik,Lorenz Kirchner :3 S: Fakultät Bauingenieurwesen,Juliane Steffen
+# Beschreibung
+Beschreibung :3 S: Die Betreuung wird digital stattfinden.

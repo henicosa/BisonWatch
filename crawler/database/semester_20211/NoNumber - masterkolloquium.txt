@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Masterkolloquium
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48934&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Blockveranstaltung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 8
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Urbanistik, Master of Science PO 10\r, <br/>, Modul Pflichtmodule
+Erwartete Teilnehmer/-innen :3 S: 5
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fde%2Farchitektur-und-urbanistik%2Fprofessuren%2Fraumplanung-und-raumforschung%2Flehre%2F&timestamp=1631115697614&hash=82b01d25ddbca5b61142e3df8b83e63a
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Max Welch Guerra
+# Beschreibung
+Beschreibung :3 S: Das Master-Kolloquium wird von den inhaltlichen Fragestellungen und Problemen getragen, die als Thema in den Masterarbeiten, <br/>,  von den Teilnehmern aufgegriffen werden. Es ist dementsprechend so vielfältig wie das gesamte Lehrangebot und das urbanistische Themenspektrum des Masterstudiums insgesamt. Im Kolloquium werden Probleme der theoretischen Anbindung und empirischen Umsetzung diskutiert. Darüber hinaus werden wichtige Hinweise für das erfolgreiche Abfassen einer Arbeit hinsichtlich der Form und der inhaltlichen Kohärenz einer Masterarbeit vermittelt. Die Teilnehmer des Master-Kolloquiums erhalten somit einen Einblick in die Arbeit der Mitstudierenden und damit Anregungen für die Bearbeitung des eigenen Themas. Das Master-Kolloquium wird mit einem Testat und 3 ECTS abgeschlossen.

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Licht und Raum
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49741&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 117123201
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Architektur\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Architektur\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Architektur\r, <br/>,  , <br/>, MediaArchitecture, M.Sc. PO 2020\r, <br/>, Fachmodul - Gestalten im Kontext\r, <br/>, MediaArchitecture, M.Sc. PO 18\r, <br/>, Fachmodul - Gestalten im Kontext
+Erwartete Teilnehmer/-innen :3 S: 15
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Tobias Adam :3 S: Fakultät Architektur und Urbanistik,Christian Hanke
+# Beschreibung
+Beschreibung :3 S: Den verfügbaren Technologien folgend, reflektiert der Einsatz von Licht wissenschaftliche und kulturelle Erscheinungen. Hierbei ermöglicht eine Annäherung an die Zusammenhänge von Licht, Wahrnehmung und der Fotografie als interpretierendes Medium gezielte Bewertungen und Entscheidungen in raumbildenden Gestaltungsvorgängen. Seminare zu Licht und Raum sowie Seminare zu Licht und Fotografie zielen auf eine bewusste Integration von Licht im architektonischen Entwurfsprozess. Im Rahmen der Seminare sollen zu nachstehenden Themen Kenntnisse vermittelt werden:

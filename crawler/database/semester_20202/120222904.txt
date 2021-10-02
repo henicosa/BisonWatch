@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Urban and Agrarian Perspectives on the New Land Question(s)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47757&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 120222904
+Max. Teilnehmer/-innen :3 S: 16
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: European Urban Studies, M.Sc. PO 2020\r, <br/>, Urban and Landscape Planning\r, <br/>, European Urban Studies, M.Sc. PO 18\r, <br/>, Urban and Landscape Planning
+Erwartete Teilnehmer/-innen :3 S: 16
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Johann Schwind
+# Beschreibung
+Beschreibung :3 S: Land is the basis of livelihood. As such, it is closely interwoven with social, economic as well as political and ecological interests, claims, and challenges. Land is a limited, immobile and non-reproducible resource that produces and reproduces social conditions. Although land in capitalist societies foremost functions as an economic asset, it remains inseparable from the various social and cultural meanings attached to it.

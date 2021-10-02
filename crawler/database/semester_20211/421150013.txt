@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Seminar zum Seminar. Medienkulturtheorie und -geschichte des universitären Seminars.
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49592&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 421150013
+Max. Teilnehmer/-innen :3 S: 25
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: BA-Studienmodul: Unbedingte Universität. Eine medienkulturwissenschaftliche Analyse
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Fbildtheorie%2F&timestamp=1631116064545&hash=aaac268dd5348a965509a6fd1c0a8b38
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Online via Moodle</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Elisa Linseisen
+# Beschreibung
+Beschreibung :3 S: „ ... daß das (wirkliche) Seminar für mich der Gegenstand eines (leichten) Wahns ist und ich in dieses Objekt buchstäglich verliebt bin.“ (Roland Barthes: „An das Seminar“) Das Seminar Seminar zum Seminar folgt dem Begehren Rolands Barthes nach der „subtilen Topologie der körperlichen Beziehungen“ und macht das Seminar selbst zum Seminarinhalt. Das Seminar zum Seminar erkundet mit Hilfe der Texte, u.a. von Jacques Derrida („Die unbedingte Universität“), Theodor Adorno („Über die Unruhe der Studenten“), den Arbeiten von bell hooks und dem schon erwähnten Roland Barthes eine Medienkulturtheorie und -geschichte des universitären Seminars. Eine solche (Selbst)Beobachtung von Lehr- und Lernbedingungen scheint eine ungebrochene Relevanz zu beanspruchen: Das Seminar zum Seminar wird, mitunter durch immer noch aktuelle Diskussionen zum „Bologna-Bestiarium“ (so der Titel einer in der Reihe „Unbedingte Universitäten“ bei Diaphanes erschienen Bandes, siehe: http://www.diaphanes.net/titel/bologna-bestiarium-1476) und den damit verbundenen Schlagwörtern wie Verschulung, Zeitökonomie, Exzellenz und Leistungskontrolle, den Fokus gezielt auf den Bestimmungsort der Universität, das Selbstverständnis der Medienwissenschaft und die Rolle der Studierenden und Lehrenden selbst richten. Körperliche wie epistemologische Topologien des universitären Seminars sollen weiterhin durch das pandemiebedingte, als Verlust wahrgenommene, Fehlen der Präsenz und ihre mediale Substituierung der Online-Seminare befragt und auf Basis dieser Negativfolie die Praktiken und Medien universitärer Seminare und ihrer Teilnehmer*innen in den Blick geraten – von der Diskussion über die Power Point Präsentation zum Protest, von der Filmsichtung über die Mindmap zum Flugblatt. Diesem Diskurs übergeordnet, positioniert sich die Frage nach der Entstehung, Vermittlung und Institutionalisierung von Wissen; eine Frage, welche bei der infrastrukturellen Transformation und Reformation der Universitäten einer kritischen Analyse bedarf und im Seminar zum Seminar über außeruniversitäre Gegenformate, etwa die politische Pädagogik aktivistischer Gruppierungen, z.B. in feministischen Lesegruppen weiterhin eingeholt werden soll. Eine medienkulturwissenschaftliche Betrachtung des Seminars scheint sich auf Dualismen zu begründen: Forschung und Lehre, Theorie und Praxis, Lehrende und Studierende, Leben und Universität. Das Seminar zum Seminar möchte sich dieser Struktur kritisch aussetzen und ihre Rigidität hoffnungsvoll (im Sinne einer „Pedagogy of Hope“ nach bell hooks) durchdringen, in Hinblick auf Gender-, Race- und Klassen-bedingte Rollen, Vermittlungshierarchien und Leistungsvorgaben.

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: kaputt? Reparieren als angewandte Konsumkritik und gestalterische Praxis
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49890&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 121122804
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlmodul\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlmodul\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlmodul\r, <br/>,  , <br/>, Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 2020 2-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, B.Sc. PO 17 4-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, B.Sc. PO 17 2-semestrig\r, <br/>, Wahlpflichtmodul
+Erwartete Teilnehmer/-innen :3 S: 12
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Anton Brokow-Loga :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N. :3 S: missing,Paul Räpple :3 S: Fakultät Architektur und Urbanistik,Tillmann Gebauer :3 S: Fakultät Kunst und Gestaltung,Timm Burkhardt :3 S: Fakultät Architektur und Urbanistik,Martin Ahner :3 S: Fakultät Architektur und Urbanistik,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Tillmann Gebauer (Bach. Architektur), <br>Constantin Graw (Bach. Produktdesign)<br>Paul Räpple (Bach. Architektur)<br>M. Sc. Anton Brokow-Loga (Sozialwissenschaftliche Stadtforschung)<br>Dipl.-Des. Timm Burkhardt (Produktdesign)<br>Dipl.-Ing. Martin Ahner (Entwerfen und Baukonstruktion)</br></br></br></br></br>

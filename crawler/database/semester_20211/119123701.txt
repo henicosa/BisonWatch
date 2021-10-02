@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Introduction to Masters´ Thesis
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49024&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 119123701
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Integrated Urban Development and Design, M.Sc. PO 2020\r, <br/>, compulsory module\r, <br/>, Integrated Urban Development and Design, M.Sc. PO 18\r, <br/>, compulsory module
+Erwartete Teilnehmer/-innen :3 S: 20
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: bis
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Philippe Schmidt :3 S: Fakultät Architektur und Urbanistik,Sven Schneider
+# Beschreibung
+Beschreibung :3 S: The preparatory seminar is a combination of various aspects that support students to prepare and organise their master’s  thesis. It aims to the individual thematic development of the thesis topic. Derived from the subject areas of IUDD the thesis refers to the inductive development of interdisciplinarity. Students are guided through the logic of research, the definition of individual research interest and the more objective need to communicate specific knowledge related to a certain subject of interest. At the end of the seminar, a thesis proposal should be developed based on an adequate research framework and research design, considering methodological aspects and quality of research. This seminar is arranged as intensive workshop with lectures, discussions, exercises and group work.

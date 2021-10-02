@@ -1,0 +1,72 @@
+Veranstaltungstitel :3 S: Bachelorverteidigungen Europäische Medienkultur
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51192&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Prüfung
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:30 bis 11:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Bachelorverteidigung K. Thiele</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 08:30 bis 10:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Bachelorverteidigung L.-M. Berger</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 10:00 bis 11:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Bachelorverteidigung V. Kasimir</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 11:00 bis 12:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Bachelorverteidigung A. Schnell</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:00 bis 14:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Bachelorverteidigung St. Thies</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:00 bis 14:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Bachelorverteidigung A. Stöckbauer</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 14:30 bis 15:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Bachelorverteidigung K. Seybold</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 14:30 bis 15:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Bachelorverteidigung L. Künne</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 15:45 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Bachelorverteidigung C. Magnin</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 15:45 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Bachelorverteidigung A. Turcu</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 16:45 bis 17:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Bachelorverteidigung M. Acker</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Katja Hettich :3 S: Fakultät Medien,Eva Krivanec
+# Beschreibung

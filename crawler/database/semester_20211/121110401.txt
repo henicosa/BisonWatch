@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: 2. Kernmodul - ABBELAPAPP - Ruhe im Karton
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49613&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Entwurf
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 121110401
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, 2. Kernmodul\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, 2. Kernmodul\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, 2. Kernmodul
+Erwartete Teilnehmer/-innen :3 S: 15
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 10:00 bis 17:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Abschlusspräsentation</p>,
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Hagen Höllering :3 S: Fakultät Architektur und Urbanistik,Roy Müller
+# Beschreibung
+Beschreibung :3 S: In Kooperation mit der Ernst-Abbe-Hochschule (EAH) in Jena sollen Kommunikations- und Ruhezonen in den Gebäuden des Campus in Jena entwickelt und bis zur Ausführungsreife durchdacht und geplant werden.

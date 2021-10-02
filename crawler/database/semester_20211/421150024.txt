@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Investition und Finanzierung von Medienunternehmen
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49761&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 421150024
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>digital über Moodle</p>, <br/>, <p><a href=https://moodle.uni-weimar.de/course/view.php?id=30711>https://moodle.uni-weimar.de/course/view.php?id=30711</a></p>, <br/>, <p> </p>,
+# Personen
+Personen :3 S: Fakultät Medien,Matthias Maier
+# Beschreibung
+Beschreibung :3 S: Das Seminar vertieft die in der Vorlesung dargelegten Theorien, Methoden und Konzepte aus dem Bereich der Investition und Finanzierung. Zudem werden Fragen zur Investition und Finanzierung von Medienunternehmen näher in den Blick genommen. Im Seminar werden insbesondere folgende Themen vertieft behandelt: Stakeholdermanagement und das Unternehmen als Gesellschaft, Analyse von Finanzberichten, Arbitrage und finanzielle Entscheidungsfindung, Zeitwert des Geldes, Zinssätze, Investitionsentscheidungen und Investitionsplanung. Zu den jeweiligen Themen erarbeiten Studierende in Arbeitsgruppen Impulsvorträge und stellen Fragen, die von den anderen Arbeitsgruppen innerhalb einer Woche zu bearbeiten und in der folgenden Stunde zu präsentieren sind. Im Seminar geht es um die gemeinsame Erarbeitung, Vertiefung und Diskussion der einzelnen Themen in Arbeitsgruppen.

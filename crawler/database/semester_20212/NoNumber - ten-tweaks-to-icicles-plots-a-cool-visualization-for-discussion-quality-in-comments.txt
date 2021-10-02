@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Ten Tweaks to Icicles Plots: A cool visualization for discussion quality in comments
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51487&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 10
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 4
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fvr&timestamp=1631112590559&hash=153eb657bb8b966b2fda931a0a332d91
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Personen
+Personen :3 S: Fakultät Medien,Bernd Fröhlich :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N. :3 S: Fakultät Medien,Joshua Reibert
+# Beschreibung
+Beschreibung :3 S: Etwa 300 Nachrichtenartikel werden laut The GDELT Project (, <a href=https://www.gdeltproject.org/>https://www.gdeltproject.org/</a>, ) jede Minute online veröffentlicht. Viele Plattformen bieten NutzerInnen die Möglichkeit, Artikel mit anderen in Form von Kommentaren zu diskutieren. Die Qualität dieser Diskussionen beeinflusst dabei maßgeblich die Meinungen, die sich sowohl aktiv beteiligte als auch konsumierende NutzerInnen zu dem Thema bilden. Daher ist es das Anliegen vieler Sozialforscher, so auch des Lehrstuhls für Kommunikationswissenschaft mit dem Schwerpunkt Empirische Methoden um Prof. Dr. Ines Engelmann, herauszufinden, welche Faktoren sowohl auf Ebene des Artikels und der Nachrichtenplattform als auch der Kommentare selbst die Qualität der Diskussionen nachhaltig beeinflussen. Dazu hat der Lehrstuhl 14.6k Kommentare zu 175 Artikeln von 8 Newsplattformen gesammelt und manuell mit Merkmalen der Plattform, des Artikels und des Kommentars versehen. Da die Kommentare durch sich aufeinander beziehende Antworten eine hierarchische Struktur aufweisen, bietet sich eine Darstellung der Daten durch einen Icicle plot ( , <a href=https://observablehq.com/@d3/icicle>https://observablehq.com/@d3/icicle</a>,  ) an. Im Projekt sollen dessen Möglichkeiten exploriert werden, eine interaktive Übersicht über die hierarchische Struktur und Eigenschaften der Kommentare zu geben. Herausfordernd hierbei sind verschiedene Aspekte, denn sowohl die Anzahl der Kommentare pro Artikel schwankt sehr stark, als auch die Tiefe der entstehenden Hierarchie. Um diese Herausforderungen zu berücksichtigen und darüber hinaus Qualitätsmerkmale der Kommentare in Bezug zu Eigenschaften der Artikel und Plattformen zu setzen, bedarf es kreativer Lösungswege, die wir in diesem Projekt explorieren und unter Nutzung webbasierter Technologien – allen voran Javascript und HTML5 – realisieren wollen.

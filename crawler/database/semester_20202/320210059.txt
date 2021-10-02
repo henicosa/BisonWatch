@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Light up your ideas - Licht sehen und verstehen
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47279&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 6
+Veranstaltungsnummer :3 S: 320210059
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fcloud.uni-weimar.de%2Fs%2FLGmnyAXMEd9GLoE&timestamp=1631058424481&hash=a5588365f91c2ad95f2b3091d6a7c175
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 10:00 bis 16:00
+Terminrhythmus :3 S: gerade Wo
+Bemerkung :3 S: , <p>Online-Veranstaltung im BigBlueButton in Moodle</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Lucas Zimmermann :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: ”Embrace light. Admire it. Love it. But above all, know light. Know it for all you are worth, and you will know the key to photography.” – George Eastman, <br>Licht ist das unmittelbarste Gestaltungselement der Fotografie. Es ruft Emotionen hervor und lässt den Betrachter die Grundstimmung des Bildes erfassen, noch ehe er das Motiv erkennt.<br/>Durch die reduzierte Analyse von verschiedenen Lichtstimmungen und fotografischen Konzepten versuchen wir in diesem Fachkurs ein Gefühl für Licht und seine Emotionalität zu entwickeln. So werden wir verschiedene Lichtgestaltungen Anhand von Beispielen analysieren und praktisch umsetzen.<br/>Ziel des Kurses ist weniger eine philosophische Auseinandersetzung mit dem Phänomen Licht als vielmehr das Gespür für Licht und seine Gestaltung zu fördern und schärfen. Schicken sie mir eine Mail mit Wünschen und Erwartungen an den Kurs bis 27.10 an info@lucas-zimmermann.com wenn sie teilnehmen möchten.</br>

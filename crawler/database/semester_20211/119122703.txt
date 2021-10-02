@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: European Spatial planning
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49034&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 119122703
+Max. Teilnehmer/-innen :3 S: 25
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: European Urban Studies, M.Sc. PO 2020\r, <br/>, compulsory module - Spatial Planning\r, <br/>, European Urban Studies, M.Sc. PO 18\r, <br/>, compulsory module - Spatial Planning\r, <br/>,  , <br/>, Integrated Urban Development and Design, M.Sc. PO 2020\r, <br/>, Introduction to Study Project\r, <br/>, Integrated Urban Development and Design, M.Sc. PO 18\r, <br/>, Introduction to Study Project
+Erwartete Teilnehmer/-innen :3 S: 20
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Farchitektur-und-urbanistik%2Fprofessuren%2Fraumplanung-und-raumforschung%2Flehre%2F&timestamp=1631115433416&hash=9bab05a0230bfedd5fecbf702706db28
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Moodle room “Spatial planning in Europe”. Enter the video-conference with “Big Blue Button”.</p>,
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Julia Gamberini
+# Beschreibung
+Beschreibung :3 S: The seminar “Spatial planning” is part of the module “European cities”. It is specifically designed for students of the master program “European Urban Studies, M.Sc.” but is open to other master programmes (Urbanistik, IUDD…). The aims of the seminar are to develop an understanding and a wider reflexion of the diversity of planning cultures in Europe through the analysis of models, theories, key concepts and case studies. This seminar proposes to explore and question more thoroughly the challenges spatial planning faces and the answers given. We will raise and discuss some of the following questions: what are the main principles of spatial planning in European countries? What are the main, and somehow contradictory, challenges spatial planning must face (e.g. metropolisation , <em>vs</em>, . shrinking processes)? To what extent is spatial planning able to maintain social and territorial cohesions and to integrate the sustainability imperatives? What are the political and planning responses and what kind of instruments are developed?

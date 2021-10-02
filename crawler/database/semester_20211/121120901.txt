@@ -1,0 +1,33 @@
+Veranstaltungstitel :3 S: Neue Synagogen am Bornplatz, Hamburg und am Fraenkelufer, Berlin
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49714&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 121120901
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Projektmodul - Entwurf\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Projektmodul - Entwurf\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Projektmodul - Entwurf
+Erwartete Teilnehmer/-innen :3 S: 20
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Farchitektur-und-urbanistik%2Fprofessuren%2Fentwerfen-und-komplexe-gebaeudelehre%2Faktuelles%2F&timestamp=1631115795115&hash=81cebf1d9e4e0cef479fabb8391c5fe9
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Jörg Springer :3 S: Fakultät Architektur und Urbanistik,Manuel Aust :3 S: Fakultät Architektur und Urbanistik,Sebastian Schröter :3 S: Fakultät Architektur und Urbanistik,Martin Pasztori :3 S: Fakultät Bauingenieurwesen,Juliane Steffen
+# Beschreibung
+Beschreibung :3 S: Im Februar letzten Jahres beschloß die Hamburger Bürgerschaft einstimmig den Wiederaufbau der 1938 in der Reichspogromnacht zerstörten und im Folgejahr vollständig geschleiften Hauptsynagoge am Bornplatz (heute Joseph-Carlebach-Platz). Mit einem , <em>starken Symbol jüdischen Lebens</em>,  in der Stadt soll die stetig wachsende jüdische Gemeinde Hamburgs eine angemessene Präsenz in der Stadt erhalten und nicht zuletzt soll auch ein eindrückliches Zeichen gegen neonazistische Tendenzen in Deutschland gesetzt werden.

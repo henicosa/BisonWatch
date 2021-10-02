@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Structural engineering - Advanced systems (L)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49026&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 3
+Veranstaltungsnummer :3 S: 205013
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fenrol%2Findex.php%3Fid%3D31164&timestamp=1631116117391&hash=351d72e8a50210571d26c9bdeff27b13
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Hybrid</p>,
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 17:00 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Matthias Kraus :3 S: Fakultät Bauingenieurwesen,Silvio Mämpel
+# Beschreibung
+Beschreibung :3 S: Students will be familiar with the history of structures and structural forms, with building materials and building methods. They will understand the concepts of structural engineering design, including safety concepts, loads and structural design codes. They will be able to convert a structural concept into a mechanical model to determine internal demand and to design and detail the components of the structure, with an emphasis on reinforced concrete and post-tensioned concrete structures as well as steel and steel-concrete composite structures.

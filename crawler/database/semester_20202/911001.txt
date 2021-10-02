@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Asset management
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47024&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Integrierte Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 911001
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fbauingenieurwesen%2Fprofessuren%2Fimmobilienwirtschaft-und-management%2Flehre%2F&timestamp=1631108713231&hash=c4ebbdbc3dde1efdc59456420402bd8f
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Online-Veranstaltung</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Hans-Joachim Bargstädt :3 S: Fakultät Bauingenieurwesen,Anton Jung :3 S: Fakultät Bauingenieurwesen,Birgit Bode
+# Beschreibung
+Beschreibung :3 S: <span style=text-decoration: underline;><strong>Lecturers:</strong></span>,  Anton Jung

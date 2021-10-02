@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: ["\n\t\t\t\t\t\t\t\t\t\t        \tLehm versteh'n - Einzelansicht\n        "]
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51773&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 121213101
+Max. Teilnehmer/-innen :3 S: 6
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Konstruktion | Technik\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Konstruktion | Technik\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Konstruktion | Technik\r, <br/>,  , <br/>, Urbanistik, B.Sc. PO 2020\r, <br/>, Wahlmodul\r, <br/>, Urbanistik, B.Sc. PO 14\r, <br/>, Wahlmodul
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Larissa Daube :3 S: Fakultät Bauingenieurwesen,Jürgen Ruth
+# Beschreibung
+Beschreibung :3 S: In einer von Beton und Stahl geprägten Architekturwelt müssen dringend neue Lösungsansätze gefunden werden, um einerseits Energie und Ressourcen einzusparen, andererseits um Mensch und Natur wieder auf einen gemeinsamen Weg zu bringen. Der natürliche Baustoff Lehm kann diesen Anforderungen gerecht werden. Der lange in Vergessenheit geratene Baustoff erlebt in den letzten Jahren eine Renaissance. Zu Recht, denn Lehm ist überall regional verfügbar, sorgt für ein gesundes Wohlfühlklima und lässt sich hervorragend verarbeiten und recyceln.

@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Klima, Gesellschaft, Energie
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49044&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Integrierte Vorlesung
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: B01-951002
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Mark Jentsch
+# Beschreibung
+Beschreibung :3 S: Ziel des Moduls ist es, die Zusammenhänge zwischen Gesellschaftsstrukturen, den klimatischen Rahmenbedingungen und den verfügbaren Ressourcen sowie ihrer Nutzung zu vermitteln. Eine besondere Bedeutung kommt hierbei den Wechselwirkungen zwischen Gesellschaft, Siedlungsstrukturen, Energiebedarf und –verbrauch zu, sowohl aus historischer als auch aus heutiger Perspektive. Schwerpunkte der Vorlesungsreihe sind: das globale Klima und Klimaveränderungen sowie ihre Auswirkungen auf menschliche Aktivitäten; die Entwicklung von Gesellschaften und deren Siedlungsstrukturen in Abhängigkeit der klimatischen und topographischen Bedingungen, Ressourcenverfügbarkeit (Nahrungsmittel, Wasser, Baumaterial, Energieträger), technischen Fähigkeiten und gesellschaftlichen Rahmenbedingungen; Entstehung, Entwicklung und Zusammenbruch von Gesellschaften und ihrer Siedlungsstrukturen; Energieumsätze verschiedener Gesellschaftsformen, Energiebedarfsanalysen; Nachhaltigkeitsbegriff, nachhaltige Planung (historisch & heute), Bevölkerungsentwicklung und ökologischer Fußabdruck; Nutzung erneuerbarer Energien / Planung erneuerbarer Energiesysteme im Zusammenhang mit den verfügbaren Ressourcen; Klimawissenschaft, Klimamodellierung und Klimaprojektionen für die Zukunft, Auswirkungen des Klimawandels, Linderung und Adaption. Die in den Vorlesungen vermittelten Inhalte werden in einem Planungsprojekt zu einer imaginären Insel unter gegebenen klimatischen und topographischen Bedingungen vertieft.

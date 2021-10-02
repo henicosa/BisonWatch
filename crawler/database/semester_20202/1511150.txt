@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Geschichte und Theorie der modernen Architektur
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47074&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 1511150
+Max. Teilnehmer/-innen :3 S: 200
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 18\r, <br/>, Pflichtmodul\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, Pflichtmodul\r, <br/>,  , <br/>, Urbanistik, B.Sc. PO 14\r, <br/>, Pflichtmodul - 1211210 Architekturgeschichte, Architekturtheorie
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D28693&timestamp=1631058243442&hash=9fa9d6740469c646b1ce67ecfde92682
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 17:00 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Jasper Cepl
+# Beschreibung
+Beschreibung :3 S: <span style=font-size: 10pt;>Die Vorlesungsreihe (die sich in ihrem ersten Teil an Studierende der Studiengänge Architektur und der Urbanistik richtet) befasst sich mit grundlegenden Fragestellungen, die für die moderne Architektur maßgebend werden. Mit anderen Worten: Wir werden uns mit Themen beschäftigen, an denen sich die Moderne abarbeitet. Erst wenn diese bekannt sind, wird verständlich, worum es in Bauten und Entwürfen geht und woran die sich messen lassen. (Der Betrachtung einzelner Werke widmen sich dann Vorlesungen im vierten Semester, die für Studierende der Architektur vorgesehenen ist.)</span>

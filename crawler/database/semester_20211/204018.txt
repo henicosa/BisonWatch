@@ -1,0 +1,33 @@
+Veranstaltungstitel :3 S: Structural parameter survey and evaluation (L + E + P)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49028&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 4.5
+Veranstaltungsnummer :3 S: 204018
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Findex.php%3Fcategoryid%3D10412&timestamp=1631116119517&hash=3b1f7670f595c68fcb6fc0e8815ea7d9
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Hybrid / Digtial</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: unger. Wo
+Bemerkung :3 S: , <p>Hybrid / Digtial</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Hybrid / Digtial</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Guido Morgenthal :3 S: Fakultät Medien,Volker Rodehorst :3 S: Fakultät Bauingenieurwesen,Reinhard Illge :3 S: Fakultät Bauingenieurwesen,Sebastian Rau :3 S: Fakultät Bauingenieurwesen,Thomas Gebhardt
+# Beschreibung
+Beschreibung :3 S: The students will be familiar with methods to determine properties of structural systems by means of modern measurement techniques. They will be familiar with the concepts, the application and the limitations of these techniques. They understand the data obtained and the methods to condition, analyse and interpret the data to extract information about structures and structural members and components. They will be able to apply the concepts to develop measurement setups and analysis procedures to problems encountered in structural engineering.

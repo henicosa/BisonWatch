@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Ähnlichkeitserzeugung in der Architektur
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47728&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 120220502
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Projektmodul - Begleitveranstaltung oder\r, <br/>, Wahlpflichtmodul - Theorie\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Projektmodul - Begleitveranstaltung oder\r, <br/>, Wahlpflichtmodul - Theorie\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Projektmodul - Begleitveranstaltung oder\r, <br/>, Wahlpflichtmodul - Theorie
+Erwartete Teilnehmer/-innen :3 S: 20
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Farchitektur-und-urbanistik%2Fprofessuren%2Fdenkmalpflege-und-baugeschichte%2Flehre%2Fwintersemester-202021%2F&timestamp=1631108660980&hash=9011e8b120fc4a8c2c17a6afdeb7a9c9
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Hans-Rudolf Meier :3 S: Fakultät Architektur und Urbanistik,Kirsten Angermann
+# Beschreibung
+Beschreibung :3 S: Die Absetzung vom Historismus und damit die Ablehnung jeglicher formaler Nachahmung sind die gemeinsamen Wurzeln der modernen Architektur und der modernen Denkmalpflege. Selbst als das Bauen im Bestand wieder vermehrt zum Thema und zur Aufgabe wurde, blieb die deutliche Trennung von Alt und Neu lange Zeit verbindliches Paradigma beider Disziplinen. In der Architektur entwickelte sich seit Aldo Rossis , <em>Città analoga</em>, seit den späten 1960er eine Strömung, die sich von dieser Separierung löste und seit etwa zwei Jahrzehnten ist eine grundsätzliche Änderung feststellbar: Mit dem „Holistic turn” (Wolfgang Pehnt), den „Architekturen ohne Glasfuge” (Christoph Grafe) und dem Leitbegriff des Weiterbauens sind Verfahren der Angleichung auch wieder zum Thema des architektonischen Entwurfs geworden. Im Seminar sollen daher Praktiken der Ähnlichkeitserzeugung in der Geschichte und Gegenwart der Architektur analysiert und diskutiert werden. Begriffe und Verfahren wie Analogie, Imitation, Nachbildung, Kopie, Übersetzung, Umformung und Zitat sind auf ihren Gehalt und ihre Bedeutung zu befragen, entsprechende Beispiele zu untersuchen und Fragen nach Intention, Wirkung und Bedeutung zu stellen.

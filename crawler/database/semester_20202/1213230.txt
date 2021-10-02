@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Stadttechnik Wasser
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=46922&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 1213230
+Max. Teilnehmer/-innen :3 S: 45
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Urbanistik, B.Sc. PO 14\r, <br/>, Wahlpflichtmodule
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D26926&timestamp=1631058938979&hash=409c27b7b50c0396291a8ccc298050fb
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:00 bis 10:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>max. 19 Studierende in Präsenz</p>,
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Die schriftliche Prüfung findet in der<br>Innenstadtsporthalle, Sophienstiftsplatz, Gropius-Str. 1 statt!</br></p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Jörg Londong :3 S: Fakultät Bauingenieurwesen,Ralf Englert
+# Beschreibung
+Beschreibung :3 S: Einführung in die Wassermengen- und Abwassermengenermittlung, Wassergewinnung, Wasser- und Abwasserförderung, Pumpen, Wasserversorgungs- und Abwasserableitungsnetze, Wasser- und Regenwassserspeicherung, Überblick über Verfahren und Bauwerke der Wasseraufbereitung sowie Abwasser- und Schlammbehandlung

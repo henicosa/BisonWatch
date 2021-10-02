@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Lehrangebote Bachelor UI und Vertiefung UI im Bachelor BIB [KUB]
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49993&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Informationsveranstaltung
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D30758&timestamp=1631115678697&hash=83ae09a8967bfb429f832470227ea108
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Ralf Englert
+# Beschreibung
+Beschreibung :3 S: Wir planen keine , <strong>Einführungsveranstaltung </strong>, in Präsenz. Die Stundenpläne und Prüfungspläne finden Sie auf den Internetseiten der Fakultät. Alle Daten im Vorlesungsverzeichnis werden laufend aktualisiert.

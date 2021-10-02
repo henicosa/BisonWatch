@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: WW 81 Fachspanisch
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=46806&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 6
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 15
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2FBauing%2Fwbbau&timestamp=1631059227619&hash=9876952f37c7a91954d7511b7d80f19f
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Personen
+Personen :3 S: Zentrale Einrichtungen,Maria Perez Hernandez :3 S: Zentrale Einrichtungen,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Im Rahmen des Themenbereichs »Wasser und Umwelt« soll die Entwicklung der Fertigkeiten im Lesen und Schreiben bzw. Hören und Sprechen sowie eine Wiederholung und Festigung grammatischer Strukturen und der Aufbau eines Fachwortschatzes gelehrt werden. Mit Hilfe einer kursbegleitenden Audio-CD kann das Hörverständnis und die Aussprache gefördert bzw. verbessert werden.

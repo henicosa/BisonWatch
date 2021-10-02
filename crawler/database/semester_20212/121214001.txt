@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Ethnographic methods for spatial studies (Ba)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51760&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 121214001
+Max. Teilnehmer/-innen :3 S: 8
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Theorie | Geschichte\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Theorie | Geschichte\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Theorie | Geschichte\r, <br/>,  , <br/>, Urbanistik, BSc. PO 2020\r, <br/>, Wahlmodul\r, <br/>, Urbanistik, B.Sc. PO 14\r, <br/>, Wahlmodul
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Lehrveranstaltungen der Bauhaus.Module
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 11:00 bis 15:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: 09:00 bis 17:00
+Terminrhythmus :3 S: Block
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Elodie Vittu
+# Beschreibung
+Beschreibung :3 S: Ethnographic methods are a way to engage with the complexity of socio-spatial phenomena by focusing on the perspectives and practices of those who are involved in them. With this course we want to provide students of various disciplines a platform to exercise different methods in the field and thereby immerse themselves in urban processes. Throughout the semester, small groups will explore one method each (such as interviewing and participant observation), and present their findings in the class. The aim is to facilitate learning by doing, supported by input and consultations. As a seminar group, we will reflect upon our experiences, and discuss the intersection between ethnography and spatial disciplines such as urban planning together with guest lecturers., <br><br>Organisational: <br>The class takes place as a block seminar (21.10.2021, 13.-14.01.2022) in presence with the option of joining digitally. Guest lectures and consultations will be scheduled on Thursdays during the semester. </br></br></br>

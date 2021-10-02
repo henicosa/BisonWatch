@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Zusammenarbeit
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51372&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 419240040
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Michèle Eike
+# Beschreibung
+Beschreibung :3 S: Richard Sennett (2014) nimmt in seinem Buch mit dem Titel „Zusammenarbeit” eine Analyse unserer Arbeits- und Lebenswelt vor. Dabei macht er deutlich, dass Zusammenarbeit eines der zentralen Themen unserer Zeit ist. Vereine, zivilgesellschaftliche Projekte, unternehmerische Gründungsprojekte oder Großunternehmen – sie alle sind auf bestimmte Formen der Zusammenarbeit und Kooperation angewiesen. Das Seminar „Zusammenarbeit” soll dazu anregen, sich mit den theoretischen Überlegungen von Richard Sennett auseinanderzusetzen, um anschließend einen Transfer zu aktuellen Fragen der digitalen Zusammenarbeit herzustellen. Dabei soll in den Blick genommen werden, was die digitale Zusammenarbeit ausmacht und mit welchen Tools und Praktiken den Anforderungen der sich aktuell stark wandelnden Arbeitswelt begegnet wird.

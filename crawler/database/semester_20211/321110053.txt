@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Audiobaukasten II - Sendung, Mischung, Klanggestaltung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49806&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 321110053
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Moodle/BBB</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Jason Langheim :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Nachdem im ersten Teil des Kurses, Audiobaukasten 1, grundlegende Kenntnisse für die Arbeit im Radiostudio und in der analogen und digitalen Klangverarbeitung vermittelt wurden, sollen diese Fähigkeiten im Audiobaukasten 2 weiter vertieft werden. Im Fokus stehen dabei die Themen Broadcasting, Klanggestaltung, Mischung und Mastering. Idealerweise soll das Erlernte direkt in einer eigenen Produktion, die etwa im Projektmodul entsteht, eingesetzt werden., <br>Voraussetzung sind die Teilnahme am Modul Audiobaukasten 1 oder grundlegende Kenntnisse im Bereich der digitalen Klangverarbeitung. Für den erfolgreichen Abschluss des Kurses wird die Arbeit an einer eigenen Produktion und die Mitarbeit an der 48h Sendung vorausgesetzt.</br>

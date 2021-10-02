@@ -1,0 +1,33 @@
+Veranstaltungstitel :3 S: Grundlagen der Kognition
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48874&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 421150037
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Übung (online)</p>,
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 13:30 bis 15:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Prüfung</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Vorlesung (online)</p>, <br/>, <p>Moodle-Link: <a href=https://moodle.uni-weimar.de/course/view.php?id=32791>https://moodle.uni-weimar.de/course/view.php?id=32791</a></p>,
+# Personen
+Personen :3 S: Fakultät Medien,Jan Ehlers
+# Beschreibung
+Beschreibung :3 S: Wie ist unser Denken organisiert? Nehmen wir die Welt alle auf dieselbe Art und Weise wahr? Was lenkt unsere Aufmerksamkeit? Die Vorlesung vermittelt die wichtigsten Grundlagen kognitionspsychologischer Theorien, Erkenntnisse und Methoden. Inhaltliche Schwerpunkte liegen auf der visuellen Informationsverarbeitung, sowie auf den für die Mensch-Computer Interaktion relevanten Aufmerksamkeits- und Gedächtnismodellen. Zum Ende des Semesters sollen die TeilnehmerInnen ein Verständnis für die Wirkmechanismen menschlicher Kognitionen erworben haben und in der Lage sein, diese auf die Gestaltung guten Interaktionsdesigns anzuwenden. Zur Veranstaltung gehören Übungen mit praktischen Beispielszenarien.

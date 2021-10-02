@@ -1,0 +1,22 @@
+Veranstaltungstitel :3 S: Grundlagen der Gebäudelehre
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51443&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 1212220
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Urbanistik, B.Sc. PO 2020\r, <br/>, Pflichtmodul - Grundlagen der Gebäudelehre\r, <br/>, Urbanistik, B.Sc. PO 14\r, <br/>, Pflichtmodul - Grundlagen der Gebäudelehre
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Farchitektur-und-urbanistik%2Fprofessuren%2Fwohnungsbau%2F&timestamp=1631111185604&hash=15db0929fbf5b7bdfa95ccd3f16481c3
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 17:00 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Hanna Schlösser :3 S: Fakultät Architektur und Urbanistik,Jessica Christoph :3 S: Fakultät Architektur und Urbanistik,Verena von Beckerath
+# Beschreibung

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Vorstellung der Semesterprojekte Architektur/ MediaArchitecture
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48378&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Sonstige Veranstaltung
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 200
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fmod%2Fbigbluebuttonbn%2Fview.php%3Fid%3D169854&timestamp=1631059168423&hash=c6349318cab3fdb738f7b95efbe24a84
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 14:00 bis 16:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Bernd Rudolf :3 S: Fakultät Architektur und Urbanistik,Nicole Wichmann-Sperl
+# Beschreibung
+Beschreibung :3 S: Die Projekt-/ Entwurfsangebote für das Wintersemester 2020/21 werden per Videokonferenz vorgestellt. Der Einschreibeschlüssel lautet: Projekte

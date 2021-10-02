@@ -1,0 +1,33 @@
+Veranstaltungstitel :3 S: Space, time and critique
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51774&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Workshop
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 121221204
+Max. Teilnehmer/-innen :3 S: 16
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>,  , <br/>, European Urban Studies, M.Sc. PO 2020\r, <br/>, elective module\r, <br/>, European Urban Studies, M.Sc. PO 18\r, <br/>, elective module\r, <br/>,  , <br/>, Integrated Urban Development and Design, M.Sc. PO 2020\r, <br/>, elective module\r, <br/>, Integrated Urban Development and Design, M.Sc. PO 18\r, <br/>, elective module\r, <br/>,  , <br/>, Urbanistik, M.Sc. PO 2021\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 2020 2-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Wahlpflichtmodul
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:15 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: 09:00 bis 18:00
+Terminrhythmus :3 S: BlockWE
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: 09:00 bis 18:00
+Terminrhythmus :3 S: BlockWE
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Johann Simons :3 S: Fakultät Architektur und Urbanistik,Andreas Garkisch
+# Beschreibung
+Beschreibung :3 S: Am Beispiel der Stadt Berlin werden wir Raumformen, deren Historie nach wiederholter Überschreibung nicht mehr eindeutig zu entziffern ist und Raumstrukturen, die durch eine nicht erfassbare Anzahl von Faktoren bestimmt werden, auf ihre Weltoffenheit und Toleranz, auf Zugänglichkeit und Belastbarkeit hin befragen., <br>Dabei erfolgt die Auswahl der Fallbeispiele nicht der bipolaren Trennung in Peripherie und Zentrum mit einem angrenzenden „Zwischen-”, sondern wird im Sinne einer Versuchsanordnung mit Variablen unterschiedlichen interdisziplinären Protagonist*innen an Orte ihres Alltags folgen, um das Unvorhersehbare nicht den Allgemeinplätzen unserer fachlichen Vorkenntnis unterzuordnen.<br>Zwischenräume werden als die eigentliche und eigenständige Figur der Untersuchung thematisiert, um städtebauliche Gestaltungsansätze vom kulturellen Erbe der Weimarer Republik über die Postmoderne bis in die Gegenwart von deren wechselnden ideologischen Konnotationen zu trennen und den zugehörigen Bildern, die sich in stetiger Transformation durch alltägliche Maßnahmen des Stadtumbaus befinden, eine aktualisierte Lesart hinzuzufügen.</br></br>

@@ -1,0 +1,33 @@
+Veranstaltungstitel :3 S: Statik I - Modellbildung und statische Berechnung - Übung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50283&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Übung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Einschreibung am Lehrstuhl</p>,
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Einschreibung am Lehrstuhl</p>,
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Einschreibung am Lehrstuhl</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Carsten Könke :3 S: Fakultät Bauingenieurwesen,Christin Zacharias :3 S: Fakultät Bauingenieurwesen,Volkmar Zabel :3 S: Fakultät Bauingenieurwesen,Fabiola Tartaglione Garcia :3 S: Fakultät Bauingenieurwesen,Abinet Habtemariam :3 S: Fakultät Bauingenieurwesen,Marcelo Bianco
+# Beschreibung
+Beschreibung :3 S: Übung zur Vorlesung

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Cultural Landscapes & Urban Resilience
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49054&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul/Fachkurs
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fsummerschool%2Fde%2Fkurse%2Farchitektur-urbanistik%2Fcultural-landscapes-urban-resilience%2F&timestamp=1631115319545&hash=3ca7510d4a51c62df2e341ed2308decf
+Sprache :3 S: englisch
+Fakultät :3 S: missing
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: bis
+Terminrhythmus :3 S: BlockWE
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Philippe Schmidt
+# Beschreibung
+Beschreibung :3 S: Learn man-made and natural factors influence on the built environment and develop responsive planning schemes for more resilient cities.

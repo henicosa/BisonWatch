@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Einführung in das wissenschaftliche Arbeiten
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49434&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 1754237
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Theorie\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Theorie\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Theorie\r, <br/>,  , <br/>, Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Pflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 2020 2-semestrig\r, <br/>, Pflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Pflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 17 2-semestrig\r, <br/>, Pflichtmodul
+Erwartete Teilnehmer/-innen :3 S: 20
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Anton Brokow-Loga
+# Beschreibung
+Beschreibung :3 S: In diesem Blockseminar soll in komprimierter Form der Prozess wissenschaftlichen Arbeitens vermittelt werden. Dabei wird in einem ersten Teil anhand von einführenden Texten diskutiert, was ein wissenschaftliches Problem ist und wie von dort ausgehend eine Forschungsfrage entwickelt werden kann. Hierbei sollen ausgewählte Masterarbeiten vorgestellt, diskutiert und reflektiert werden. Im Fokus steht dabei das methodische Vorgehen (Experten-Interview, Focus Group Interview, Mental Mapping u. A.). Die Studierenden sollen damit auch die Triangulation qualitativer Forschung verstehen lernen und abschließend die Erfahrung der Methodenausübung auf ihr eigenes Forschungsvorhaben anwenden.

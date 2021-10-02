@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Crowdsourced Translation of Fan Fiction
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51104&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 421150041
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Personen
+Personen :3 S: Fakultät Medien,Magdalena Wolska
+# Beschreibung
+Beschreibung :3 S: This course is about literary translation and crowdsourcing. Specifically, we would like to develop a methodology for exploiting crowdsourcing in service of translation; that is, employ the crowd (and, possibly, machine translation systems) to translate a literary piece and investigate whether this is a viable alternative to the traditional approach to literary translation in which expert translators are hired. The course will consist of two parts: In the first part, students and instructors as well as invited speakers (experts in translation and crowdsourcing) will give presentations various aspects of the two topics. In the second part, students will work on their own projects in groups and conduct crowdsourcing translation experiments. We will use a specific literary piece, Eliezer Yudkowsky\s Harry Potter and the Methods of Rationality\\, for all the projects. Credits will be given for the presentation and the project concluded with a report. The course is given jointly by Uni Leipzig and Uni Weimar.

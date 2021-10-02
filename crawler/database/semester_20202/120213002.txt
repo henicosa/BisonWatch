@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Friedhöfe for Future (Ba)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47800&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 120213002
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Theorie | Geschichte\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Theorie | Geschichte\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Theorie | Geschichte\r, <br/>,  , <br/>, Urbanistik, B.Sc. PO 2020\r, <br/>, Wahlmodul\r, <br/>, Urbanistik, B.Sc. PO 14\r, <br/>, Wahlmodul
+Erwartete Teilnehmer/-innen :3 S: 10
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Franziska Klemstein :3 S: Fakultät Architektur und Urbanistik,Ulrike Kuch
+# Beschreibung
+Beschreibung :3 S: <span style=font-family: georgia, palatino, serif; font-size: 12pt;>„1. Haben Sie Angst vor dem Tod und seit welchem Lebensjahr?</span>, <br><span style=font-family: georgia, palatino, serif; font-size: 12pt;>2. Was tun Sie dagegen?</span><br><span style=font-family: georgia, palatino, serif; font-size: 12pt;>3. Haben Sie keine Angst vor dem Tod (weil Sie materialistisch denken), aber Angst vor dem Sterben? </span><br><span style=font-family: georgia, palatino, serif; font-size: 12pt;>4. Möchten Sie unsterblich sein? </span><br><span style=font-family: georgia, palatino, serif; font-size: 12pt;>…</span><br><span style=font-family: georgia, palatino, serif; font-size: 12pt;>19. Wissen Sie, wo Sie begraben werden möchten?” </span><br><br><span style=font-family: georgia, palatino, serif; font-size: 8pt;>Max Frisch, Auszug aus <em>Fragebogen Nr. 5</em></span><br><br><span style=font-family: georgia, palatino, serif; font-size: 12pt;>Friedhöfe sind nicht nur Orte der Erinnerungskultur sondern auch Abbilder unserer pluralistischen Gesellschaft. Seit dem Jahr 2000 gehört die Friedhofskultur in Deutschland zum immateriellen Kulturerbe der UNESCO. Dieser Status soll dazu beitragen, mündlich überlieferte Traditionen und Ausdrucksweisen sowie gesellschaftliche Bräuche, Feste und Rituale ebenso wie Handwerkstechniken der Friedhofsgestaltung zu bewahren.</span></br></br></br></br></br></br></br></br></br>

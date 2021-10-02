@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Grundlagen des Zeichnens und der digitalen Nachbearbeitung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49925&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 321110014
+Max. Teilnehmer/-innen :3 S: 30
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 18:00 bis 20:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Karsten Kunert :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: In diesem Klassiker unter den Fachkursen geht es um das Entwickeln zeichnerischer und gestalterischer Grundlagen, um freies Entwerfen und die Entwicklung der eigenen Bildfindung auf Papier und digitaler Fläche. , <br>Gut zeichnen lernen bedeutet richtig sehen lernen, und diese Technik gekonnt bildnerisch umzusetzen! Was kann ich in der Skizze ausdrücken, und wie baue ich Darstellungen in einem zweidimensionalen Bild? Den Corona- Umständen geschuldet, wird der Kurs über Video- Tutorials und eine wöchentliche Aufgabenstellung gestaltet. Dabei wird jede Woche eine Zwischenkorrektur angeboten, die auf zusenden fotografierter oder gescannter Arbeiten basiert. Diese werden dann auf Moodle und BBB in der Gruppe besprochen. Vergleiche durch das Einstellen der fertigen Zeichnungen nach Abgabe der fertigen Aufgaben auf der Moodle- Plattform sind Bestandteil des Lehrkonzeptes.<br/>Beginnend bei der Organisation einer Zeichnung, über grafische Umsetzprinzipien bis zum Erlernen von Proportion, perspektivischer Konstruktion und Abstraktion führt dieser Kurs schrittweise auf ein höheres Niveau der bildnerischen Ausdrucksfähigkeit. Es wird sowohl mit Graphit- Stift als auch mit farbigen Markern und Buntstiften gearbeitet.<br/>Im kleineren zweiten Teil werden die Zeichnungen digitalisiert und am Computer weiterbearbeitet.<br/>Der Fachkurs bietet praktische Übungen im Zeichnen und Unterweisungen in den Möglichkeiten von Photoshop und Krita, ein solides Grundwissen in den Grafikprogrammen wird voraus gesetzt.<br/>K. Kunert ist freischaffender Diplom Maler, Grafiker, Bildhauer und Coach,er hat an der HGB Leipzig und der RA Kopenhagen studiert. Seit 2006 ist er Lehrbeauftragter für Zeichnen an der Bauhausuni Weimar und der Weimarer Mal- und Zeichenschule.</br>

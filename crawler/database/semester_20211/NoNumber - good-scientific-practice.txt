@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Good scientific practice
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48957&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Workshop
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 8
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fveranstaltungen.uni-weimar.de%2Fde%2F599&timestamp=1631115533037&hash=b4dd98a2e31bc03323c6167e7c428c9b
+Sprache :3 S: englisch
+Fakultät :3 S: missing
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: bis
+Terminrhythmus :3 S: Block
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultätsübergreifende Einrichtungen,Ute Mai :3 S: Fakultätsübergreifende Einrichtungen,Franziska Matthes :3 S: Fakultätsübergreifende Einrichtungen,Meeta Khurana-Wolff
+# Beschreibung
+Beschreibung :3 S: The participants will get an overview about the rules of good scientific practice and the handling with cases of scientific misconduct, and will explore the differences and grey areas of questionable research practice. They will learn about local, national and international regulations and guidelines. It is a goal of the course to create space for reflections about values and attitudes of science and the role of scientists. The participants will learn to develop appropriate solutions for difficult situations in the process of science.

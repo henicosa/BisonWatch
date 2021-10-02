@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: How to? Prototyping: methods and technologies
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51491&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 10
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 8
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Personen
+Personen :3 S: Fakultät Medien,keine öffentliche Person :3 S: Fakultät Medien,Eva Hornecker :3 S: Fakultät Medien,Hannes Waldschütz
+# Beschreibung
+Beschreibung :3 S: Concepts and Designs mostly start as Ideas and sketches. But in order to understand if, how and why they work, the creation of prototypes are often the next logical step.

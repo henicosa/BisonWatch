@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Seminar Paul Cézanne - Wege in die Moderne (Wissenschaftsmodul) (Prüfungsmodul)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49662&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Wissenschaftliches Modul
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 321130015
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fkunst-und-gestaltung%2Fstruktur%2Flehrgebiete-personen%2Fwissenschaftliche-lehrgebiete%2Fdr-thomas-fuchs%2F&timestamp=1631116062232&hash=73617fe1fdaabe14f812c23e1080a4d4
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Das Seminar findet online über moodle/BBB statt. Bitte hier jeweils nachsehen.</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Thomas Fuchs :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Seminar mit Einführungen von mir sowie Referaten der Studierenden zu Cézanne und seinen Zeitgenossen.

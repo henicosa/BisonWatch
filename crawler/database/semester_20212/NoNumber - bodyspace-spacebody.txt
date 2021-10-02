@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Bodyspace -spacebody
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51604&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Kurs
+SWS :3 S: 3
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Bauhaus Spring School
+Erwartete Teilnehmer/-innen :3 S: 20
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Lehrveranstaltungen der Bauhaus.Module
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: bis
+Terminrhythmus :3 S: BlockSat.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Luise Nerlich
+# Beschreibung
+Beschreibung :3 S: Einleitung, <br/>, Die Wahrnehmung des Ortes, in der virtuellen oder in der realen Welt, hat mit der Einheit, <br/>, von Körper und Raum zu tun, so wie es in der griechischen Tragödie eine Einheit, <br/>, von Ort und Zeit gab, innerhalb der sich die gesamte Handlung konstituierte., <br/>, Dabei werden Architektur und Raum nicht nur mit den Augen wahr- und aufgenommen,, <br/>, sondern mit dem ganzen Körper – und immer im Zusammenhang mit der Bewegung., <br/>, Der Körper setzt sich in Bezug zum ihm umgebenden Raum. Selbst wenn wir als Betrachter, <br/>, unbeweglich an einem Ort verweilen, selbst dann, wenn wir die Betrachtung, <br/>, auf einen einzigen Anblick oder auf ein Poster beschränken wir setzen unseren Körper in, <br/>, Bezug zu diesen Objekten und Bildern. Wir messen sie, verteilen sie, wir dringen in den, <br/>, Raum ein., <br/>, Die Gestalt- und Bewegungsstrukturen des Körpers treten in Verbindung mit den, <br/>, Strukturen der gebauten Räume. Das Wahrnehmen und Nutzen des Innenraumes von, <br/>, Gebäuden, des Stadtraums oder einer Siedlung, das Genießen oder das Erleiden, das, <br/>, Darstellen, das Machen und Verändern, alle diese Vorgänge haben den Charakter von, <br/>, Körper-Handlungen., <br/>, Projektbeschreibung, <br/>, Mit dem vorgeschlagenen Spring-School-Projektes versuchen wir, die Funktionen und, <br/>, die Gestaltung der autentischen Räume der Bauhaus-Universität mit dem Körper in Bezug, <br/>, zu setzen und infolgedessen einen 2D- oder 3D-Raum als Extension des Körpers zu, <br/>, sehen., <br/>, Das Wesen des Architektur-Raumes wird dabei als dreistufig beschreiben: 1. Stufe des, <br/>, Raumes: die Haut; 2. Stufe des Raumes: die Kleidung; 3. Stufe des Raumes: das, <br/>, Gebäude/der Innenraum., <br/>, Experimente und Übungen mit dem Körper und allen 5 Sinnen werden den Teilnehmern, <br/>, helfen, die Zusammenhänge von Kontext und Gestaltung zu begreifen. Viele der gängigen, <br/>, und herkömmlichen Kreativitäts-Methoden orientieren sich vor allem am Denken;, <br/>, sie sind „verkopft“. Das sinnlich-körperliche Erleben bleibt meist außen vor. Dabei bietet, <br/>, unser Blick in unseren Körperraum oder in die innere Körper-Architektur durch unsere, <br/>, fünf Sinne eine Quelle für unser kreatives Schaffen. Wenn man alle fünf Sinne gezielt, <br/>, aktiviert und trainiert, kann man aus einer viel größeren Fülle von Eindrücken für unsere, <br/>, kreative Arbeit schöpfen., <br/>, Im Workshop wird der innere Körperraum in Beziehung gesetzt zu Struktur, Farbe und, <br/>, Fläche, Licht und Schatten des gebauten Raumes. Es wird versucht, die verschiedenen, <br/>, Wege im Gebäude zu „entziffern”., <br/>, Wie hat der Architekt als Choreograph für die Bewohner und die Gäste des Gebäudes, <br/>, gearbeitet?, <br/>, Die Studierenden werden in Gruppen arbeiten. In jeder Gruppe sollten Studenten aus, <br/>, verschiedenen Fachbereichen zusammenarbeiten., <br/>, Ziel, <br/>, Ziel des Kurses ist es, dass jede Gruppe eine Idee für einen Raum (digital oder 3D) präsentiert,, <br/>, in dem das Bewusstsein vom Körper im Raum eine wichtige Rolle spielt. Wir, <br/>, versuchen körperliche Inhalte facettenreich im Konzept räumlicher Inszenierung zu sehen., <br/>, Der Workshop bietet einen Einblick und Einstieg in das weite Spektrum der kreativen, <br/>, Ausbildung und in mögliche spätere Aktionsfelder. Die Studierenden werden auf die, <br/>, Interdisziplinarität der Architekten und Designer im heutigen und zukünftigen Berufsfeld, <br/>, vorbereitet und Ihre Flexibilität und die Raumwahrnehmung wird geschult.

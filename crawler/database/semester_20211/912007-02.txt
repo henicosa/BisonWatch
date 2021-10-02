@@ -1,0 +1,58 @@
+Veranstaltungstitel :3 S: Infrastrukturrecht (Teil des Moduls "Einführung Infrastrukturwirtschaft (ISW)")
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49113&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Blockveranstaltung
+SWS :3 S: 1.5
+Veranstaltungsnummer :3 S: 912007/02
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D30773&timestamp=1631115591454&hash=659fd1a2677c9500ee5a603bfcb0deb9
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Digitaler Seminarraum (BigBlueButton)</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Digitaler Seminarraum (BigBlueButton)</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Digitaler Seminarraum (BigBlueButton)</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Digitaler Seminarraum (BigBlueButton)</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Digitaler Seminarraum (BigBlueButton)</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Digitaler Seminarraum (BigBlueButton)</p>, <br/>, <p>Reservetermin (wird vermutlich nicht benötigt)</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 13:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Digitaler Seminarraum (BigBlueButton)</p>, <br/>, <p>--&gt;   Fallstudie !!!</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 15:30 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Digitaler Seminarraum (BigBlueButton)</p>, <br/>, <p>--&gt;   Fallstudie !!!   (Zeitfenster bei Bedarf)</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Thorsten Beckers :3 S: Fakultät Bauingenieurwesen,Tim Becker :3 S: Fakultät Bauingenieurwesen,Marten Westphal :3 S: Fakultät Bauingenieurwesen,Birgit Bode
+# Beschreibung
+Beschreibung :3 S: <strong>Qualifikationsziele</strong>

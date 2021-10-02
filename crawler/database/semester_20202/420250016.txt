@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Das Ereignis und das Reale. Zizek lesen, sehen und hören
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47600&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 420250016
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: BA-Studienmodul Medienästhetik: Bild und Ereignis
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Fphilosophieavmedien%2F&timestamp=1631057981090&hash=5cbe9bc432a579475305e4a4c81519a6
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 17:00 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Digital via Moodle</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Sebastian Lederle
+# Beschreibung
+Beschreibung :3 S: Slavoj Zizek ist bekannt als marxistischer Philosoph, Filmtheoretiker, Vertreter der Lacanianischen Psychoanalyse und, was in den letzten Jahren immer deutlicher geworden ist, avancierter, kenntnisreicher Hegel-Interpret. Zizek ist ebenfalls bekannt für seinen sprunghaften, assoziativen, teilweise wirren, aber mit philosophischem Gewicht und pointierter Prägnanz versehenem Stil der Gedankenentwicklung und Darstellung. Zizek ist weiterhin und mittlerweile bekannt dafür, bekannt zu sein. Er ist einer der wenigen (philosophierenden) Intellektuellen, die nicht nur einer breiteren interessiertern Öffentlichkeit bekannt sind und deren Äußerungen durchaus kontrovers rezipiert werden, sondern genießt als Person des öffentlichen Lebens selbst ikonischen, popkulturellen Status., <br>Das Seminar will unter Berücksichtigung des für das Studienmodul titelgebenden Begriffspaares Ereignis und Bild in Zizeks Konzeption des Ereignisses und des Realen einführen und diese kritisch diskutieren. Dabei soll vor allem auf das Ereignis in seiner paradoxalen Entzugs- und Eröffnungsstruktur abgestellt werden. Dies soll nicht nur mittels einer geeigneten Textauswahl (zB aus Was ist ein Ereignis? (2014), Weniger als Nichts (2014) , Die Tücke des Subjekts (2001), geschehen, sondern auch mit Blick auf diejenigen Filme, die Zizek selbst zur Interpretation heranzieht. Ferner werden nicht nur Zizeks Äußerungen über Film, sondern auch kursorisch seine Auftritte in den Medien und im Film mitthematisiert (ua The Perverts Guide to cinema (Sophie Fiennes UK et alt 2006) und The Perverts Guide to Ideology (Sophie Fiennes, UK 2012). Insofern zielt das Seminar auch auf eine weitere Perspektive ab: Einmal der Versuch, mit einer Rekonstruktion der Überlegungen Zizeks deren medienästhetische Relevanz herauszustellen, einmal der Versuch, Zizek als Gegenstand und Phänomen einer medienästhetischen Analyse in den Blick zu bekommen.</br>

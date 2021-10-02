@@ -1,0 +1,68 @@
+Veranstaltungstitel :3 S: Europäischer Film nach 1989
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49579&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 421150002
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: BA- Studienmodul: EMK 3 Europäisches Kino
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Feuropaeische-medienkultur%2Fpersonen%2Fkatja-hettich-ma%2F&timestamp=1631115432580&hash=1dc7db944fd2139cdb6a165a40f8a3a5
+Sprache :3 S: deutsch/französisch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 13:30 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Filmsichtung von 17.00 - 18.30 Uhr</p>,
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 13:30 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Filmsichtung von 17.00 - 18.30 Uhr</p>,
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 13:30 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Filmsichtung von 17.00 - 18.30 Uhr</p>,
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 13:30 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Filmsichtung von 17.00 - 18.30 Uhr</p>,
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 13:30 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 10:00 bis 21:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 18:45 bis 21:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>EMK-Filmtage</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 08:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 18:45 bis 21:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>EMK-Filmtage</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Katja Hettich
+# Beschreibung
+Beschreibung :3 S: , <span style=font-size: 12pt;>Der Fall des ‚eisernen Vorhangs‘ hat Wandlungen im geopolitischen, demografischen, sozioökonomischen und kulturellen Gefüge Europas bewirkt, mit denen grundlegende Veränderungen des europäischen Kinos einhergehen.</span>

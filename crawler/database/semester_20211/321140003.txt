@@ -1,0 +1,38 @@
+Veranstaltungstitel :3 S: The Sneaky Translator: A toolkit for the aspiring lecture-performer
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49894&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Workshop
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 321140003
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 14:00 bis 18:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 11:00 bis 14:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: bis
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: missing,Gabriel Ben Moshe :3 S: missing,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: <strong>NOTE: This workshop should be taken in tandem with the seminar on Translation, led by Boris Buden.</strong>, <br><br>In theatrical terms, the lecture-performance may be seen as the stage-front of artistic research. The lecture-performer embodies the ongoing act of negotiation between art and other academic disciplines. In that sense, lecture performance is a sneaky translator: an art form that purports to speaks to academia in a language it understands yet pushes it out of its comfort zone. It does so by calling attention to a lectures own aesthetics, dramaturgy, poetics, and mediatization, while using these as its means of argumentation. <br><br/>Accordingly, the logic of the workshop is recursive: we will first get acquainted with lecture-performances and craft the skill-set necessary for this particular act of sneaky translation. Students would then be asked to produce lecture-performances which expand on such acts of translation, as discussed in Budens tandem seminar. <br/><br/>Both seminar and workshop will conclude in a public event where class participants will perform their lectures alongside invited guest speakers.</br></br></br>

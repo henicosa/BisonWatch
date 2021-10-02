@@ -1,0 +1,17 @@
+Veranstaltungstitel :3 S: Freies Seminar Konstruktives Entwerfen
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51016&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 121123103
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Projektmodul - Projekt begleitendes Seminar oder\r, <br/>, Wahlpflichtmodul - Technik\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Projektmodul - Projekt begleitendes Seminar oder\r, <br/>, Wahlpflichtmodul - Technik\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Projektmodul - Projekt begleitendes Seminar oder\r, <br/>, Wahlpflichtmodul - Technik
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Jürgen Ruth
+# Beschreibung

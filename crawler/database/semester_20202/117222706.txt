@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Geschichte und Theorie der räumlichen Planung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48313&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 117222706
+Max. Teilnehmer/-innen :3 S: 10
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Bachelorvorleistungen - Wahlpflichtmodule\r, <br/>, Urbanistik, M.Sc. PO 2017 4-semestrig\r, <br/>, Bachelorvorleistungen - Wahlpflichtmodule
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fde%2Farchitektur-und-urbanistik%2Fprofessuren%2Fraumplanung-und-raumforschung%2Flehre%2F&timestamp=1631058246098&hash=e81cb2e55e4893c8c09433fc09c98107
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Weimarhalle Kleiner Saal</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 12:00 bis 13:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Abschlussprüfung Turnhalle Falkenburg</p>,
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Max Welch Guerra
+# Beschreibung
+Beschreibung :3 S: Die meisten Städte unserer Welt tragen die Male der Industrialisierung. Im 19. Jhdt. hat sich gemeinsam mit dem Kapitalismus eine Industrialisierung durchgesetzt, die Städte und Landschaften, ja ganze Kontinente grundlegend veränderte. Die moderne Stadtplanung und darauf das ganze System räumlicher Planung haben sich als eine Reaktion auf Probleme entfaltet, die dabei entstanden. Bei allem Unterschied von Land zu Land, von Stadt zu Stadt: Wir befinden uns heute in einer neuen Phase, die sich vorsichtig als postindustriell bezeichnen lässt. Das System räumlicher Planung nimmt sich neuer Aufgaben an, was leichter geschrieben denn getan ist.

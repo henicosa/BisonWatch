@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Geo- and hydrotechnical engineering - Part: "Flood hazard and vulnerability assessment" (L + E)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49027&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 3
+Veranstaltungsnummer :3 S: 202003
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D30898&timestamp=1631115512736&hash=693d5104c2faf90ec4c6046c063c0c66
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Hybrid</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Holger Maiwald
+# Beschreibung
+Beschreibung :3 S: The students should be able to apply the strategies and methods to arbitrary engineering problems in the given fields. To fix the theoretical background the student has to apply the methods independently at given tasks during several projects.

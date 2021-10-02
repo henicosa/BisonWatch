@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Urban Landscapes - maps and mapping: from wayward proxies to willing design tools?
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51403&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 121222604
+Max. Teilnehmer/-innen :3 S: 25
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>,  , <br/>, European Urban Studies, M.Sc. PO 2020\r, <br/>, Urban and Landscape Planning\r, <br/>, European Urban Studies, M.Sc. PO 18\r, <br/>, Urban and Landscape Planning\r, <br/>,  , <br/>, Urbanistik, M.Sc. PO 2021\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 2020 2-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Wahlpflichtmodul
+Erwartete Teilnehmer/-innen :3 S: 15
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: gerade Wo
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N.
+# Beschreibung
+Beschreibung :3 S: Seminar | 1.FS.M.Sc.EU/ M.SC U./ M.Sc.A. | Dr. Ir. Arch. Karl Beelen | 3ECTS | 2SWS

@@ -1,0 +1,48 @@
+Veranstaltungstitel :3 S: Die Bebaubarkeit von Grundstuecken - Rechtliche Vorgaben durch Bauplanungsrecht (Ba)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51726&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Blockveranstaltung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 121212101
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Softskills\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Softskills\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Softskills
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 15:15 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 15:15 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 15:15 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Martin Lailach :3 S: Fakultät Architektur und Urbanistik,Nicole Wichmann-Sperl
+# Beschreibung
+Beschreibung :3 S: Die Bebaubarkeit und Ausnutzbarkeit von Grundstuecken haengt massgeblich von rechtlichen Vorgaben ab, etwa des Bebauungsplans, des BauGB und der BauNVO. Es gehoert zu den Aufgaben des Architekten/der Architektin, dazu den (potentiellen) Bauherrn zu beraten. In unserer Veranstaltung werden wir die massgeblichen rechtlichen Grundlagen behandeln und lernen, sie auf konkrete Grundstuecke anzuwenden. Dazu werden wir an den Freitagen die online-Recherche anhand zahlreicher Beispielsfaelle gemeinsam ueben und dabei das an den Mittwochen Diskutierte anwenden.

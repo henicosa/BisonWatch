@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Geschichte und Theorie der modernen Architektur
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48572&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 117223004
+Max. Teilnehmer/-innen :3 S: 10
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Bachelorvorleistungen - Wahlpflichtmodule\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Bachelorvorleistungen - Wahlpflichtmodule
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>HS A</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 17:00 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Steubenstraße 6, Audimax</p>,
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Jasper Cepl
+# Beschreibung
+Beschreibung :3 S: Die Vorlesungsreihe verfolgt, wie sich die Architektur seit Mitte des 18. Jahrhunderts entwickelt und wie die »Moderne« dabei klarere Züge erkennen lässt. Zu sagen, wann sie, die Moderne, anfängt — oder ob sie heute Geschichte ist — bleibt dabei schwer. Was sie ausmacht, ist dagegen leichter zu sagen: In ihrer Hochzeit richtet sich die Moderne auf die Suche nach einer angemessenen Architektur für eine Massengesellschaft im Industriezeitalter. Das ist zumindest der breite Strom, der sich ausbildet und der die Geschichte antreibt.

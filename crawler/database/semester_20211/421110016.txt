@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Web Almanac revisited
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50019&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 10
+Veranstaltungsnummer :3 S: 421110016
+Max. Teilnehmer/-innen :3 S: 3
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Personen
+Personen :3 S: Fakultät Medien,Benno Stein :3 S: Fakultät Medien,Janek Bevendorff :3 S: Fakultät Medien,Marcel Gohsen :3 S: Fakultät Medien,Michael Völske
+# Beschreibung
+Beschreibung :3 S: The Web Almanac , <br/>, (, <a href=https://almanac.httparchive.org/en/2020/>https://almanac.httparchive.org/</a>, ) is an annual report of statistics , <br/>, around common design practices in the WWW which are extracted from 7.5 , <br/>, million web pages. With a crawl of the Web Archive at hand, we will , <br/>, reproduce these statistics, compare them to the Web Almanac, and , <br/>, validate or invalidate them with much more than 7.5 million pages. , <br/>, Participants of this project will learn how to handle big data with , <br/>, cluster computing technologies and will develop a reusable analysis , <br/>, pipeline for obtaining dependable statistics.

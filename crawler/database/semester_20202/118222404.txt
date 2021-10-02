@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Computational Methods for User-Centered Architectural Design
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47820&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 118222404
+Max. Teilnehmer/-innen :3 S: 25
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Projektmodul - Projektbegleitende Veranstaltung oder\r, <br/>, Wahlpflichtmodul - Architektur\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Projektmodul - Projektbegleitende Veranstaltung oder\r, <br/>, Wahlpflichtmodul - Architektur\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Projektmodul - Projektbegleitende Veranstaltung oder\r, <br/>, Wahlpflichtmodul - Architektur\r, <br/>,  , <br/>,  , <br/>, MediaArchitecture, M.Sc. PO 2020\r, <br/>, Projektmodul - Projektbegleitende Veranstaltung oder\r, <br/>, Fachmodul - Digitale Planung\r, <br/>, MediaArchitecture, M.Sc. PO 18\r, <br/>, Projektmodul - Projektbegleitende Veranstaltung oder\r, <br/>, Fachmodul - Digitale Planung
+Erwartete Teilnehmer/-innen :3 S: 20
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Sven Schneider :3 S: Fakultät Architektur und Urbanistik,Ekaterina Fuchkina
+# Beschreibung
+Beschreibung :3 S: The creation of spaces lies at the heart of architectural design. To understand how people are affected by the configuration of space, is essential in order to create human-friendly, and thus in the long run, sustainable environments. In this course you will learn different methods for evaluating the ‘usability’ of buildings. Therefore we will firstly look at, what ‘building usability’ actually means and how it can be enhanced (e.g. how does a spatial configuration promote wayfinding, social interaction, spatial experience). Secondly, you will learn computational methods for quantifying spatial configurations for evaluating design proposals (e.g. visibility, accessibility and daylight). Thirdly, we will introduce a VR-based toolbox for conducting pre-occupancy evaluations of building designs.

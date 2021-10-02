@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Guattaris mediale Maschinen
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51346&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: MA-Studienmodul Mediale Welten
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Ftheorie-medialer-welten%2F&timestamp=1631111195265&hash=ee7e38c45c29fa98d8aea67853ab8cab
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Henning Schmidgen
+# Beschreibung
+Beschreibung :3 S: Das Denken von Félix Guattari steht unter dem Zeichen der Maschine. Tatsächlich hat wohl kein zeitgenössischer Theoretiker so intensiv, nachhaltig und kreativ auf das Problem der Maschine geantwortet: von den frühen Schriften zur Psychoanalyse und Transversalität über die Zusammenarbeit mit Gilles Deleuze (Anti-Ödipus, Kafka, Tausend Plateaus usw.) bis hin zu den „Schizoanalytischen Kartographien“ und den „Drei Ökologien.“ Dieses Seminar führt in das vielfältige Denken von Guattari ein und fragt nach dem Verhältnis dieses Denkens zum Diskurs der Medienwissenschaft. Im Mittelpunkt stehen dabei jene Beiträge, in denen Guattari sich mit dem Film, der Fotografie und dem Fernsehen, aber auch mit Kunst und Literatur befasst.

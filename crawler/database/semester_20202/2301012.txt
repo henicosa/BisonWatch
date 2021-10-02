@@ -1,0 +1,22 @@
+Veranstaltungstitel :3 S: Applied mathematics & Stochastics (Exercise)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=46927&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 2301012
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 17:00 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Until further notice digital via BBB.</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Tom Lahmer :3 S: Fakultät Bauingenieurwesen,Anastasiia Legatiuk :3 S: Fakultät Bauingenieurwesen,Simon Marwitz :3 S: Fakultät Bauingenieurwesen,Zouhour Jaouadi :3 S: Fakultät Bauingenieurwesen,Natalie von Butler
+# Beschreibung

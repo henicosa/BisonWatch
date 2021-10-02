@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Projektwerkstatt: „Digital innovation space“: Kreativität, Kommunikation und Innovation im digitalen Raum
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49609&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Plenum
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 421150029
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>digital über Moodle</p>, <br/>, <p><a href=https://moodle.uni-weimar.de/course/view.php?id=30706>https://moodle.uni-weimar.de/course/view.php?id=30706</a></p>, <br/>, <p> </p>,
+# Personen
+Personen :3 S: Fakultät Medien,Matthias Maier :3 S: Fakultät Medien,Michèle Eike
+# Beschreibung
+Beschreibung :3 S: In den vergangenen Jahren entwickelte sich eine Innovationskultur, die geprägt ist von neuen, offenen, physischen Räumen, einer kreativen Umgebung und persönlichem Austausch: Innovation-Camps, Co-Working Spaces, Design Thinking Workshops, Maker Spaces, Labore, etc.

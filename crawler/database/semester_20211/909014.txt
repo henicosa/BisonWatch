@@ -1,0 +1,33 @@
+Veranstaltungstitel :3 S: Verkehrssicherheit 2
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48888&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Integrierte Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 909014
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:20 bis 16:20
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>in Dresden (TU)</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:20 bis 16:20
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>in Weimar</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:20 bis 16:20
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>in Dresden (Polizei)</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Uwe Plank-Wiedenbeck :3 S: Fakultät Bauingenieurwesen,Johannes Vogel :3 S: Fakultät Bauingenieurwesen,Julius Uhlmann
+# Beschreibung
+Beschreibung :3 S: Das Modul beschäftigt sich mit der Verkehrssicherheit von Radfahrern und Fußgängern, sicheren Landstraßen und Autobahnen, dem Sicherheitsaudit von Straßen und der Sicherheitsanalyse von Straßennetzen, der Sicherheitsarbeit der Polizei sowie Sicherheitsdefiziten von Straßenentwürfen., <br><br>Folgende Blockveranstaltungen sind geplant:<br><br/>1. Blockveranstaltung: 23.04.2021<br/>2. Blockveranstaltung: 21.05.2021<br/>3. Blockveranstaltung: 18.06.2021<br/>Jeweils von 9:20 Uhr bis 16:20</br></br></br>

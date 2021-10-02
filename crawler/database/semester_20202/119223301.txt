@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Computational Design Methods (CDM) - Basic
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47882&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 119223301
+Max. Teilnehmer/-innen :3 S: 25
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Architektur\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Architektur\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Architektur\r, <br/>,  , <br/>, MediaArchitecture, M.Sc. PO 2020\r, <br/>, Fachmodul - Digitale Planung\r, <br/>, MediaArchitecture, M.Sc. PO 18\r, <br/>, Fachmodul - Digitale Planung
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Reinhard König
+# Beschreibung
+Beschreibung :3 S: In diesem Seminar werden verschiedene Grundlagen computerbasierter Entwurfsmethoden und deren Anwendung vermittelt. Diese umfassen (i) die Grundlagen der Programmierung, (ii) räumliche Analysemethoden, (iii) Einführung in BIM, (iv) Einführung in VR/AR mittels Unity, (v) neue Webtechnologien zur Visualisierung eigener Daten.

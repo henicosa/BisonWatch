@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: WW 80 Fachenglisch
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49056&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 6
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 35
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 20
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fwbbau&timestamp=1631116319516&hash=b02383bbebc313b3b2dca207ebbb334a
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: 09:00 bis 17:00
+Terminrhythmus :3 S: Block
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Zentrale Einrichtungen,Susanne Kirchmeyer :3 S: Fakultät Medien,Geoffrey Atkinson :3 S: Fakultät Medien,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Entwicklung der Fertigkeiten im Lesen und Schreiben bzw. Hören und Sprechen, Wiederholung und Festigung grammatischer Strukturen und Aufbau eines Fachwortschatzes im Rahmen des Themenbereichs Wasser und Umwelt.

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Kulturpalast Unterwellenborn – Ein Kultur- Campus in der Provinz
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48113&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 120220102
+Max. Teilnehmer/-innen :3 S: 10
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Projektmodul - Begleitveranstaltung oder\r, <br/>, Wahlpflichtmodul - Architektur\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Projektmodul - Begleitveranstaltung oder\r, <br/>, Wahlpflichtmodul - Architektur\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Projektmodul - Begleitveranstaltung oder\r, <br/>, Wahlpflichtmodul - Architektur
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D28585&timestamp=1631058401390&hash=74a84a15afbf0c166154aba9c0b0b991
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Alexandra Abel
+# Beschreibung
+Beschreibung :3 S: Seiner etymologischen Wortherkunft nach bezeichnet ein Campus , <em>freies Land oder Feld, auf dem sich eine Ansammlung an Gebäuden befindet, die durch eine Institution oder durch eine Intention miteinander verbunden sind</em>, . In diesem Sinn ist der Campus per se Prototyp der Kern- und Keimzelle jeglichen gemeinschaftlichen Siedelns und dieses wiederum Ursprung der Kultur als Bearbeitung bzw. Pflege des Naturraumes (, <em>lateinisch: cultura)</em>, .

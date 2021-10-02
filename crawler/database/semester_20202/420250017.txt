@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Zizek: Reale Bilder, Bilder des Realen
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47581&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 420250017
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: BA Studienmodul Medienästhetik: Bild & Ereignis
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Fphilosophieavmedien%2F&timestamp=1631059236629&hash=5568200470412c25647c77c1c3b20410
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 19:00 bis 20:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Digital via Moodle</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Jan Völker
+# Beschreibung
+Beschreibung :3 S: Das Werk des slowenischen Philosophen Slavoj Zizek ist umfangreich: Es umfasst über 60 Bücher, die in über 40 Sprachen übersetzt wurden. Wollte man zwei zentrale Motive in diesem Werk ausmachen, dann wäre zunächst sicherlich die Verknüpfung des klassischen deutschen Idealismus – Kant, Schelling, Fichte, aber vor allem und immer wieder: Hegel – mit der Psychoanalyse Lacans zu nennen. Ein weiteres Motiv ist die Frage der Ideologie und ihrer Verwirklichung in der alltäglichen Populärkultur. Immer wieder kommt Zizek auf Filme zurück, die er als Bilderbotschaften aus der ideologischen Gegenwart liest. Eine solche Bilderbotschaft ist jedoch nie ein Abbild oder ein Ausdruck, sondern ein Bild, das in seiner Sättigung einen realen Riss aufweist, eine Blockade ausstellt, eine Unsichtbarkeit bis zur Sichtbarkeit umrahmt. Hier ist somit ein Bildbegriff am Werk, der strukturaler Natur ist und im Bild etwas erscheinen lässt, das nicht von der Ordnung des Bildes ist. Diesen Bildbegriff wollen wir in unserem Seminar verstehen, um herauszufinden wie und was die Bilder dort zeigen, wo sie gerade nicht abbilden. Hierzu werden wir uns mit den Bezügen zu Lacan auseinandersetzen, das Verhältnis von Bild und Sprache untersuchen und auch auf einige Filmanalysen eingehen, vor allem aber an einem strukturalen Bildbegriff arbeiten, der schließlich sich auch auf Texte erstreckt., <br>Das Seminar wird voraussichtlich online stattfinden, die genauen Modalitäten werden in der ersten Sitzung geklärt. Es ist geplant, gegen Ende des Semesters ein oder zwei gemeinsame Sitzungen mit dem zweiten Seminar dieses Moduls von Herrn Lederle stattfinden zu lassen.<br/>Bitte im enstprechenden Moodle-Raum anmelden!</br>

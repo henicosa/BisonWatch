@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Internet als Infrastruktur für Prozesse der Kulturalisierung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51373&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Matthias Maier
+# Beschreibung
+Beschreibung :3 S: Die Vorlesung betrachtet Internet als Infrastruktur für Prozesse der Kulturalisierung. Dabei geht es darum, einen Blick in den „Maschinenraum” des Internet zu werfen und die wirtschaftlichen Sachverhalte zu analysieren, die mit der innermaschinellen Rationalisierung verbunden sind. Dazu gehören Effekte, die in der „Internet-Ökonomie” thematisiert werden, wie z.B. Lock-In Effekte, positive Feedbacks/Netzeffekte und Standards. Kern der Auseinandersetzung in dieser Veranstaltung ist auf die Frage gerichtet, wie das Internet und die Prozesse der maschinellen Rationalisierung als Infrastruktur für Prozesse der Kulturalisierung fungieren.

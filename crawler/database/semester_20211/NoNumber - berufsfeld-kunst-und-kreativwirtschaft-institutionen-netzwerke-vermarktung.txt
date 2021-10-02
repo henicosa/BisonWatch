@@ -1,0 +1,38 @@
+Veranstaltungstitel :3 S: Berufsfeld Kunst- und Kreativwirtschaft: Institutionen – Netzwerke - Vermarktung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49979&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Career Service
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: missing
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 16:00 bis 18:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 10:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 10:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Sa.
+Zeit :3 S: 10:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N.
+# Beschreibung
+Beschreibung :3 S: + + + English below + + +, <br><br>Berufsfeld Kunst- und Kreativwirtschaft: Institutionen – Netzwerke - Vermarktung Ein Workshop mit Berlin-Exkursion für alle Studierenden der Bauhaus Universität Weimar<br><br>Im Mittelpunkt dieser Veranstaltung, die sich aus einem Plenum sowie einer Exkursion zu relevanten Berliner Kunst-Institutionen, Galerien und Künstler*innen zusammen setzt, stehen folgende Fragen:<br/><br/>• Wer bringt die Kunst ins Business?: Künstler/Künstlerin oder Galerist/Galeristin, bzw. Kurator/Kuratorin? Wer bestimmt die Regeln?<br/><br/>• Welche Rolle spielt die internationale Verflechtung der Kunstszene?<br/><br/>• Wie wichtig ist die Bedeutung der künstlerischen Präsenz / Produktion in Metropolen?<br/><br/>• Welche besonderen Chancen haben Künstler*innen in Kleinstädten?<br/><br/>• Wie vermarkte ich mich als Künstler*in? Wie wichtig ist hierbei die Eigenwerbung / Vermarktung per Webseite, in den sozialen Netzwerken, im Printbereich?<br/><br/>• Wie baue ich mir Kontakte/Netzwerke auf, explizit zu Galerien und Sammlern?<br/><br/>• Fördermöglichkeiten (Stipendien / Atelierprogramme / Weiterbildung) und berufliche Alternativen<br/><br/>Der Workshop bietet Studierenden eine nachhaltige Orientierungshilfe bei der Strategie-Entwicklung ihrer zukünftigen Selbst-Präsentation und Vermarktung als Künstler*innen, durch Einblick und konkrete Kontakte in berufliche Praxisfelder im Berufsfeld Kunstbetrieb / Kunstmarkt / Kreativwirtschaft. Besucht werden private / kommunale Galerien, Museen und Projekträume.<br/><br/>+ + + English + + +<br/><br/>Working in art and creative sector: Institutions – Networks - Self Promotion Workshop and excursion for students at Bauhaus-Universität Weimar<br/><br/>The workshop will be held in German and English language, its goals are: Becoming a professional artist in regard to cultural activities, art market, creative industries. Foreign students are very welcome.<br/><br/>The topics are:<br/><br/>Who transforms art into business? Who is setting the rules? Artists, gallerists, curators?<br/><br/>What is their role in the international art scene? How strong is the influence of the so called art mafia? How important is it to live and work in major cities? Are there special opportunities for artists in smaller towns and regions? What are the possibilities of direct marketing as an artist: persoanl contacts, internet platforms, social networks, print media?<br/><br/>How to establish networks and build contacts to galleries and collectors?<br/><br/>Promotion programs (grants, studio residencies, workshops)<br/><br/>These questions make the focus of the workshop in combination with gallery visits and meetings with key players of the Berlin art scene, who are connected to the international art world - in Berlin-Mitte, Gallery District (Checkpoint Charlie area and Kreuzberg), the new art quarter around Potsdamer Straße. In addition to the above, visits to off galleries and non profit project spaces are also planned.<br/><br/><strong>Toni Wirthmüller</strong> lebt in Berlin und arbeitet als bildender Künstler in den Medien der Malerei, Fotografie, Installation und Performance und hat zahlreiche Projekte und internationale Ausstellungen realisiert.<br/>Ebenfalls war er regelmäßig als Lehrbeauftragter an Kunsthochschulen tätig, u.a. an der Universität der Künste Berlin und an der Facultat de Bellas Artes Barcelona sowie an der Bauhaus-Universität Weimar, aktuell auch als Dozent an der Akademie für Malerei Berlin. Für einige Jahre leitete Wirthmüller zusammen mit dem Schriftsteller Norbert Kron die Agentur Art-Escort-Berlin, in der er als Art Guide individuelle Führungen durch die Berliner Galerien- und Atelierszene anbot und somit diverse Insider-Kontakte zu dieser aufbauen konnte. Die daraus gewonnenen Informationen und Erfahrungen können im obigen Workshop entsprechend produktiv vermittelt werden.<br/><br/><strong>Toni Wirthmüller</strong> lives in Berlin working as visual artist (painting, photography, installation, performance). He studied at the University of Arts (UdK) Berlin, his works have been exhibited at many different places in Germany and abroad. Wirthmüller taught painting at the UdK Berlin, he also worked as a lecturer at the Facultat de Bellas Artes Barcelona and at the Bauhaus University Weimar, recently he startet to give workshops at the Academy of Painting Berlin. For some years he has been running an agency called Art-Escort-Berlin (together with the journalist and writer Norbert Kron) offering individual guides through the Berlin art scene - with special insider informations and contacts, which will also be very interesting for the above mentioned workshop.</br></br></br></br>

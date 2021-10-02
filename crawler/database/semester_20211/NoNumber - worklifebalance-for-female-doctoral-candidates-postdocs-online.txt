@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Work.Life.Balance for female Doctoral Candidates & PostDocs (online)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49942&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Workshop
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 12
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fveranstaltungen.uni-weimar.de%2Fde%2F740&timestamp=1631116305706&hash=039a9316e2f926b99ebe17fc79e9dd50
+Sprache :3 S: englisch
+Fakultät :3 S: missing
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: bis
+Terminrhythmus :3 S: Block
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultätsübergreifende Einrichtungen,Ute Mai :3 S: Fakultätsübergreifende Einrichtungen,Franziska Matthes :3 S: Fakultätsübergreifende Einrichtungen,Meeta Khurana-Wolff
+# Beschreibung
+Beschreibung :3 S: <strong>Doctoral candidates may be dealing with a large workload, financial or family pressures, and questions about job security and location. They may face questions such as: How do I cope with my workload? What are my priorities? How do I reconcile the demands of personal and professional life? How can I better manage my workload for long-term success?</strong>

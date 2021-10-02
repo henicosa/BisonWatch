@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Architektenurheberrecht (Ma)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49999&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 1
+Veranstaltungsnummer :3 S: 120122102
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Theorie\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Theorie\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Theorie
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: unger. Wo
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:00 bis 10:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Abgabe</p>,
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Martin Lailach :3 S: Fakultät Architektur und Urbanistik,Nicole Wichmann-Sperl
+# Beschreibung
+Beschreibung :3 S: Anhand zahlreicher Beispiele aus Rechtsprechung und Praxis werden wir betrachten, wann eine Architektenleistung die notwendige Gestaltungshöhe hat, um ein urheberrechtlich geschütztes Werk zu sein, welchen Schutz vor Zerstörung und Veränderung das Urheberrecht bietet an welche Verwertungsrechte dem Architekten/der Architekten zustehen. Die Prüfungsleistung wird in einer Hausarbeit bestehen, in der diese Aspekte anhand eines Beispiels aus der Praxis zu diskutieren sind.

@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Vorlesung: Baukonstruktion
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=46819&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Integrierte Vorlesung
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 2203001
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D28598&timestamp=1631059159048&hash=c907c562979ddc411c1435fddb9e4838
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Präsenzveranstaltung-<strong>Ansage beachten</strong>, Vorlesung für alle Studiengange (BIB + MBB + UIB), Weimarhalle, Seminargebäude</p>,
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Vorlesung für alle Studiengange (BIB + MBB + UIB) - <strong>Online-Übertragung</strong></p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Torsten Müller
+# Beschreibung
+Beschreibung :3 S: <span style=font-family: Arial; color: black; font-size: 11pt; mso-fareast-font-family: Times New Roman; mso-fareast-language: DE; mso-ansi-language: DE; mso-bidi-language: AR-SA;>Die Vorlesung Baukonstruktion vermittelt die Grundlagen zur Bauweise von einfachen Geschossbauten. Die Themenschwerpunkte sind am Bauablauf eines Gebäudes orientiert und bauen systematisch aufeinander auf. Es werden die Bereiche Wandkonstruktionen, Deckenkonstruktionen, Fußbodenaufbauten, Dachkonstruktionen, Gründung, Bauwerksabdichtung, Treppen, Fenster und Türen behandelt.</span>

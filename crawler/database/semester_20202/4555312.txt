@@ -1,0 +1,33 @@
+Veranstaltungstitel :3 S: Elektrotechnik und Systemtheorie
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47028&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 3
+Veranstaltungsnummer :3 S: 4555312
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 11:00 bis 13:15
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Übung</p>,
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 14:00 bis 16:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Klausur</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Günther Schatter :3 S: Fakultät Medien,Anton Lammert :3 S: Fakultät Medien,Andreas Jakoby
+# Beschreibung
+Beschreibung :3 S: Die Veranstaltung vermittelt Grundkenntnisse der Elektrotechnik und der Systemtheorie für mediale Systeme unter dem Anwendungsaspekt. Neben elektrotechnischen Grundgesetzen und deren mathematischer Beschreibung werden Grundlagen zur Berechnung elektrischer Schaltungen und Modellierung von Systemen vorgestellt. Der Kurs wird durch Betrachtungen des zeitlichen und spektralen Verhaltens von Systemen und der Modellierung von Nichtlinearitäten praxisorientiert abgerundet.

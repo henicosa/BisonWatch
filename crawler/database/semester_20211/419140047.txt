@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Internationales Online-Planspielseminar (MarkStrat)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49764&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 419140047
+Max. Teilnehmer/-innen :3 S: 10
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Personen
+Personen :3 S: Fakultät Medien,Jonas Steffl :3 S: Fakultät Medien,Timo Janson
+# Beschreibung
+Beschreibung :3 S: Die Erprobung unternehmerischen Handelns unter Unsicherheit steht im Mittelpunkt dieser Veranstaltung. Im Rahmen des Blockseminars sollen die Studierenden ihr erworbenes Wissen aus dem Bereich Marketing und Strategie, unter simulierten Marktbedingungen realitätsnah erproben. Zum Einsatz kommt dabei das Planspiel Markstrat., <br/>, Studierende aus verschiedenen Ländern werden dort in internationalen Teams Strategien entwickeln und unternehmerische Entscheidungen treffen, wie z.B. zur Ausgestaltung des Marketing-Mix. Innerhalb einer Woche werden werden mehrere Runden unter simulierten Wettbewerbsbedingungen gespielt. Die Simulationssprache ist Englisch., <br/>, Das Seminar ist voraussichtlich kostenfrei und wird in diesem Jahr wohl erneut online stattfinden. Eine verbindliche Anmeldung seitens der teilnehmenden Studierenden ist Voraussetzung. Die Teilnahme am Planspiel erfolgt bei mindestens acht verbindlichen Anmeldungen. Wird diese nicht erreicht, findet das Seminar im Rahmen des Projektmoduls ersatzlos nicht statt., <br/>, Die Veranstaltung kann alternativ zum Seminar Innovation und Markenbildung in der Filmindustrie besucht werden.

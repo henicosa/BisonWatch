@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Work Tools / Grundlagen
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47294&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 320210061
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fcloud.uni-weimar.de%2Fs%2FysgL7APWSTwcfHY&timestamp=1631059218062&hash=f967f0179b368dfe6500ffaa52e41a6b
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 10:00 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Online-Veranstaltung</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Adrian Palko :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: In diesem Fachkurs werden durch verschieden grafische Übungen unsere eigenen »Work Tools« erweitert. Wir werden Archive anlegen, auf schon vorhandene zurückgreifen und mit diesen arbeiten. Wir werden gestalterische Grundlagen, wie Weißraum, Proportionen, Kompositionen und ihr formales Zusammenspiel durch verschieden Übungen experimentell erfahren. Der Leistungsnachweis erfolgt durch unterschiedliche Übungen und ein finales Printprodukt.

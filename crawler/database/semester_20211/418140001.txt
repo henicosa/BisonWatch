@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Markenführung und Medienmarken
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49763&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 418140001
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>1. Veranstaltung findet digital statt:<br><br><a href=https://moodle.uni-weimar.de/course/view.php?id=32541>https://moodle.uni-weimar.de/course/view.php?id=32541</a></br></br></p>, <br/>, <p> </p>, <br/>, <p> </p>,
+# Personen
+Personen :3 S: Fakultät Medien,Jutta Emes
+# Beschreibung
+Beschreibung :3 S: Im Mittelpunkt der Veranstaltung stehen Theorien sowie Ziele, Strategien und Maßnahmen einer erfolgreichen Markenführung und Kommunikation für Medienprodukte. Anhand von Praxisbeispielen und Fallstudien erhalten die Studierenden einen Überblick über die strategische Entwicklung und Führung von Marken in verschiedenen Medienindustrien, wie beispielsweise der Musik-, Film- oder Games-Industrie.

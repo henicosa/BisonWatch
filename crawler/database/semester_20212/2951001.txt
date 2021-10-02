@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Energiewirtschaft
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50731&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Integrierte Vorlesung
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 2951001
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fcms%2Findex.php%3Fid%3D11076&timestamp=1631111095142&hash=5a05b232eb7cbecb4e368394d4ba63f2
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Mark Jentsch
+# Beschreibung
+Beschreibung :3 S: Globale und regionale Probleme anthropogener Ressourcennutzung; Energiepolitische und gesetzliche Rahmenbedingungen, Energiewirtschaftliche Grundlagen; fossile und erneuerbare Energien, Sekundärenergieerzeugung und energetische Netze (Elektroenergie, Fernwärme, Gas), Bilanzierung von Gesamtsystemen

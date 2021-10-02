@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Organisation
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47992&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 420250026
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Matthias Maier :3 S: Fakultät Medien,Michèle Eike
+# Beschreibung
+Beschreibung :3 S: Im Seminar geht es um Organisation und Zusammenarbeit. Ausgangspunkt der Betrachtung ist eine historische Perspektive mit einer Analyse tradierter Ideen und Sichtweisen von Organisationen. Daran anschließend geht es um die Frage, wie sich die Vorstellungen von und die Erwartungen an Organisationen in der Spätmoderne verändert haben und wie zukunftsweisende Organisationen aussehen könnten. Wir setzen uns mit der These vom „Paradigmenwechsel der Organisation” auseinander und analysieren Strukturen, Prozesse, Praktiken und Kulturen von Organisationen, die den Anspruch von produktiven, effizienten und zugleich sinnstiftenden Formen der Zusammenarbeit aufweisen. Darüber hinaus befassen wir uns mit gesellschaftlichen und ökologischen Implikationen, die mit dem Handeln von Organisationen verbunden sind. Abschließend diskutieren wir die These, dass wir in der Spätmoderne nicht nur ein neues Organisationsverständnis brauchen, sondern auch ein neues Bewusstsein für die Biosphäre.

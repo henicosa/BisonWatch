@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Stadt und Architektur im Film
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47898&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 120221102
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Projektmodul - Begleitveranstaltung oder\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Projektmodul - Begleitveranstaltung oder\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Projektmodul - Begleitveranstaltung oder\r, <br/>, Wahlpflichtmodul - Planung
+Erwartete Teilnehmer/-innen :3 S: 20
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: bis
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Abgabe</p>,
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Andreas Garkisch :3 S: Fakultät Architektur und Urbanistik,Johann Simons :3 S: Fakultät Architektur und Urbanistik,Max Weisthoff :3 S: Fakultät Architektur und Urbanistik,Michael Kraus
+# Beschreibung
+Beschreibung :3 S: Die Stadt, ihre Architektur, die Straßen sind im Film ständige Begleiter im Hintergrund. Teils werden sie als Bühne genutzt, teils generiert die Architektur die räumliche Atmosphäre, erweitert mit ihrem Bedeutungsraum die Erzählung oder präzisiert Charaktere. Es gibt Genres wie das Roadmovie, in denen die Straße selbst eine Hauptrolle übernimmt und es gibt Filme, die dezidiert eine Hommage an die Stadt und ihre Architektur sind. Meistens sind wir uns jedoch ihrer Präsenz im Film gar nicht bewusst.

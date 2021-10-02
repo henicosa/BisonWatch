@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Neue Zentralität in der perforierten Stadt - Eisenhüttenstadt II
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49831&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 121111102
+Max. Teilnehmer/-innen :3 S: 10
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Architektur | Planung\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Architektur | Planung\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Architektur | Planung\r, <br/>,  , <br/>, Urbanistik, B.Sc. PO 2020\r, <br/>, Wahlmodule\r, <br/>, Urbanistik, M.Sc. PO 14\r, <br/>, Wahlmodule
+Erwartete Teilnehmer/-innen :3 S: 10
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: 08:00 bis 20:00
+Terminrhythmus :3 S: BlockWE
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: 08:00 bis 20:00
+Terminrhythmus :3 S: BlockWE
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Andreas Garkisch :3 S: Fakultät Architektur und Urbanistik,Daniela Zupan :3 S: Fakultät Architektur und Urbanistik,Kirsten Angermann
+# Beschreibung
+Beschreibung :3 S: Stadt des sozialistischen Klassizismus, Stadt der Moderne, Stadt des industriellen Wohnungsbaus. Wie kaum eine andere Stadtanlage der DDR steht Eisenhüttenstadt für den Wandel der städtebaulichen Leitbilder seit den 1950er Jahren. In der ab 1950 für das hier angesiedelte Eisenhüttenkombinat errichteten Planstadt lassen sich neben den stadtplanerischen Figuren und dem einstigen Zukunftsversprechen der sozialistischen Aufbaustädte an besonders wichtigen Industriestandorten auch deren Transformationsprozesse ab 1990 beleuchten.

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Medienmeere: Ansätze einer Ökologisierung der Kulturtechniktheorie
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51266&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Projektmodul Kulturtechniken 1
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Fgeschichte-und-theorie-der-kulturtechniken%2Fwillkommen%2F&timestamp=1631111324601&hash=3221d98d18260d5ca114be7345ba1eef
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 17:00 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Bernhard Siegert
+# Beschreibung
+Beschreibung :3 S: Von der Challenger-Expedition im 19. Jahrhundert bis zur Sorcerer II-Expedition im 21. Jahrhundert: Immer schon waren die Meere das, was von maritimen Wissens-, Handels-, Kriegs-, Extraktions- und Kontroll-Technologien als ihr jeweiliges Sein entdeckt wurde. Heute ist das Meer u.a. ein epistemisches Ding, das von environmental genomics entborgen und in Gendatenbanken gespeichert wird. Das Seminar spricht anhand von Beispielen aus der Geschichte und Gegenwart der Ozeanographie über „medianatures“ (Parikka) und litorale Zonen, in denen Kulturtechniken die Relationen zwischen Symbolischem und Realem verarbeiten. Es richtet sich an interessierte Master-Studierende, Doktoranden und Postdoktoranden und hat die Form eines Forschungskolloquiums im Rahmen des von der NOMIS Foundation geförderten Projekts „The New Real – Past, Present, and Future of Computation and the Ecologization of Cultural Techniques.“

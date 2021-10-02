@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Türme, Maste, Schornsteine
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49118&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Integrierte Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 401018
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D31171&timestamp=1631116184855&hash=d004dd27887452fa300c8757d427d553
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Volkmar Zabel :3 S: Fakultät Bauingenieurwesen,Frank Wolf
+# Beschreibung
+Beschreibung :3 S: <span style=font-family: arial,helvetica,sans-serif; font-size: 10pt;>- <span style=font-family: arial,helvetica,sans-serif; font-size: 10pt;>Begrifflichkeiten, Belastungen und Besonderheiten bei hohen schlanken Bauwerken</span></span>

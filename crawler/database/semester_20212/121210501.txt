@@ -1,0 +1,43 @@
+Veranstaltungstitel :3 S: Postmoderne Architektur in Thüringen
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51714&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Übung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 121210501
+Max. Teilnehmer/-innen :3 S: 10
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Theorie | Geschichte\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Theorie | Geschichte\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Theorie | Geschichte\r, <br/>,  , <br/>, Urbanistik, B.Sc. PO 2020\r, <br/>, Wahlmodul\r, <br/>, Urbanistik, B.Sc. PO 14\r, <br/>, Wahlmodul
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 15:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 15:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 15:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Kirsten Angermann :3 S: Fakultät Architektur und Urbanistik,Hans-Rudolf Meier
+# Beschreibung
+Beschreibung :3 S: „Less is a bore“, „Form follows fiasco“, „Anything goes“ – die internationale Postmoderne hat viele Postulate hervorgebracht, die in Opposition zur Moderne traten und sich in global rezipierten Gebäuden manifestierten – Robert Venturis Haus für seine Mutter in

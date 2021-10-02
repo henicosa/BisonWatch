@@ -1,0 +1,22 @@
+Veranstaltungstitel :3 S: Bachelorverteidigungen: Klamser, Henschel, Aleev
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48329&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Präsentation
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 08:00 bis 15:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Gerrit Babtist :3 S: Fakultät Kunst und Gestaltung,Kristian Gohlke :3 S: Fakultät Kunst und Gestaltung,Michael Braun :3 S: Fakultät Kunst und Gestaltung,Jan Willmann
+# Beschreibung

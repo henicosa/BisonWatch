@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Auslandskolloquium 1. Teil
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48893&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Kolloquium
+SWS :3 S: 1
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 50
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Urbanistik, B.Sc. PO 2020\r, <br/>, Pflichtmodul\r, <br/>, Urbanistik, B.Sc. PO 14\r, <br/>, Pflichtmodul
+Erwartete Teilnehmer/-innen :3 S: 40
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fde%2Farchitektur-und-urbanistik%2Fprofessuren%2Fraumplanung-und-raumforschung%2Flehre%2F&timestamp=1631115172117&hash=d9caa7098149a1d53ec1e107e2d89d0c
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Caroline Kauert
+# Beschreibung
+Beschreibung :3 S: Im Bachelor Urbanistik ist das Auslandssemester Bestandteil des Lehrprogramms. Spätestens ab dem 6. Semester absolvieren die Studierenden ein Praktikum oder Studium im Ausland. Die Lehrveranstaltung dient der Begleitung der Studierenden vor und nach der akademischen Auslandserfahrung und wird in zwei Teilen durchgeführt. Zunächst wird im ersten Teil des Auslandskolloquiums über verschiedene Möglichkeiten des Auslandsaufenthalts informiert. Darüber hinaus werden Studienorte und Förderprogramme vorgestellt. Die Pflichtveranstaltung im Sommersemester richtet sich an Studierende des zweiten Fachsemesters. Der zweite Teil des Auslandskolloquiums folgt im Wintersemester und richtet sich an Studierende des 3. und 7. Fachsemesters. Darin geht es um die Reflexion der Ergebnisse des Auslandaufenthalts im Hinblick auf fachliche Inhalte, auf die Gesellschaft des Gastlandes und auf die Lehrmethoden bzw. Planungsabläufe. Sie beinhaltet Impulse, Übungen, Erfahrungsaustausche.

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Flagelates, Nematodes, and I
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47937&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 320210015
+Max. Teilnehmer/-innen :3 S: 8
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fcloud.uni-weimar.de%2Fs%2FTpgxJKynqHxkfQK&timestamp=1631058167853&hash=f1200e771d622d9d791bb201f7e4c2f6
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Online-Seminar and/or DIY Biolab at the Marienstrasse 7b (Raum 202)</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Mindaugas Gapsevicius
+# Beschreibung
+Beschreibung :3 S: Have you ever tried to navigate an organism that is visible only under a microscope? The course is designed to experience the work with tiny flagellates and nematodes. While trying to move the organisms the way we want, we will perhaps get an idea for an interactive game, which could be played between two completely different organisms.

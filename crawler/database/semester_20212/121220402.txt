@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Pre-Thesis Course (Building an Proposal)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51484&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 121220402
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlmodul\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlmodul\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlmodul\r, <br/>,  , <br/>, MediaArchitecture, M.Sc. PO 2020\r, <br/>, Theoriemodul - Darstellen im Kontext\r, <br/>, MediaArchitecture, M.Sc. PO 18\r, <br/>, Theoriemodul - Darstellen im Kontext
+Erwartete Teilnehmer/-innen :3 S: 15
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Lehrveranstaltungen der Bauhaus.Module
+# Personen
+Personen :3 S: missing,Matthew Lloyd :3 S: Fakultät Architektur und Urbanistik,Sabine Zierold
+# Beschreibung
+Beschreibung :3 S: In order to help 3rd Semester Master MediaArchitecture students and Master students from other faculties become better prepared for their upcoming thesis semester, this module is designed to facilitate students to become aware of what is to be expected before and during their thesis projects, particularly when it comes to critical and theoretical writing. During t his course students shall understand what the overall criteria is required within a contextual thesis, and shall l earn to develop and finalize an extended thesis proposal that is able to indicate the important analysis of t heir given work/ subject matter in question. It is where master-students shall importantly l earn how t o expand contexts attached to their interested thesis perspectives, into given subjects that can be fundamentally narrowed into a particular set of researched topics, and achieve an overall connecting narrative. In these lectures, and workshops students will be able to openly develop their given arguments and arrangement of counter-arguments, while learning to maintain a decent level of primary and secondary research, as well as forming important questions and concerns that could become attached to their final thesis. In addition, students shall be taught the goal of keeping a high level of narrative-telling and tension building, when it comes to writing theoretically, as well as knowing the importance of structural f low of introduction, body of work and conclusions. While maintaining the fundamental approaches that are needed when the students shall enter t heir final t hesis semester, including: quality of evidence attached to the student’s argument: placing supporting material for and against the argument, and what are the claims f or making one’s overall argument important. This online course will give students t he opportunity to openly express, discuss, and debate their interests and initial ideas attached to their upcoming thesis. In these series of lessons it will be within presentations and writing assignments, of which the focus becomes on supporting students to gain further confidence and insight when it comes to writing theoretically. And to gain a wider perspective when it comes to critically being able to place given contexts in a greater social, political, philosophical, artistic, etc.. field of significance. As such helping Master-students become highly prepared and focused when entering their final thesis semester.

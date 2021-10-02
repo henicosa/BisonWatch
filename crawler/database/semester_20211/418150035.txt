@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Besonderheiten von und auf Medienmärkten
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49666&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Plenum
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 418150035
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Online via Moodle</p>, <br/>, <p><a href=https://moodle.uni-weimar.de/enrol/index.php?id=32639>https://moodle.uni-weimar.de/enrol/index.php?id=32639</a></p>, <br/>, <p> </p>,
+# Personen
+Personen :3 S: Fakultät Medien,Björn Kuchinke :3 S: Fakultät Medien,Marie Kohlschreiber
+# Beschreibung
+Beschreibung :3 S: Die meisten Medienmärkte unterliegen einer speziellen Regulierung. Das bedeutet, dass für diese Märkte gesonderte Regeln und Vorschriften gelten. Als Beispiele wären hier etwa zu nennen die Buchpreisbindung auf dem Buchmarkt als Ausnahme vom Gesetz gegen Wettbewerbsbeschränkungen, die Regulierung von Telekommunikationsmärkten, die FSK-Kennzeichnung im Filmmarkt oder aber der Bereich des öffentlich-rechtlichen Rundfunks. Solche Regeln können ökonomisch begründet oder aber anderen Überlegungen und Argumentationen geschuldet sein. In der Veranstaltung werden zunächst die ökonomischen Gründe für solche Regeln erörtert. Überdies werden weitere Überlegungen zur Begründung dieser Regeln angestellt. Hierzu zählt etwa die Aufarbeitung der Gründe und Auswirkungen von Lobbyismus („rent seeking“) oder die Diskussion von moralisch ethischen Vorstellungen bezüglich der Grenzen von Märkten. Die Veranstaltung ist interaktiv angelegt, d. h. es werden Vorträge, Diskussionen und Literaturstudium vor dem Hintergrund konkreter, realer Probleme im Medienbereich vermischt.

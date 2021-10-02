@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Promotion - ja oder nein?
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=46909&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Workshop
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 16
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 16
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fveranstaltungen.uni-weimar.de%2Fde%2F544&timestamp=1631058676332&hash=5ad86aaaea2ba3de9fc4308107e27d70
+Sprache :3 S: deutsch
+Fakultät :3 S: missing
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:30 bis 15:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultätsübergreifende Einrichtungen,Ute Mai :3 S: Fakultätsübergreifende Einrichtungen,Franziska Matthes :3 S: Fakultätsübergreifende Einrichtungen,Marion Hensel
+# Beschreibung
+Beschreibung :3 S: <strong>BRS WORKSHOP | Promotion – ja oder nein?</strong>

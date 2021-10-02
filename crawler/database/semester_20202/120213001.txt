@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: ["\n\t\t\t\t\t\t\t\t\t\t        \t'Critical Ecology' Matters:  An Interactive Card-kit Introducing Tomás Maldonado's Work (Ba) - Einzelansicht\n        "]
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47841&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 120213001
+Max. Teilnehmer/-innen :3 S: 10
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Theorie | Geschichte\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Theorie | Geschichte\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Theorie | Geschichte\r, <br/>,  , <br/>, Urbanistik, B.Sc. PO 2020\r, <br/>, Wahlmodul\r, <br/>, Urbanistik, B.Sc. PO 14\r, <br/>, Wahlmodul
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Dulmini Perera
+# Beschreibung
+Beschreibung :3 S: ”Critical Ecology” Matters: An Interactive Card-kit Introducing Tomás Maldonados Work

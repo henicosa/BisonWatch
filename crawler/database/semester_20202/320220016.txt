@@ -1,0 +1,33 @@
+Veranstaltungstitel :3 S: Die Kunst des Drehbuchschreibens (Ba)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48050&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 16
+Veranstaltungsnummer :3 S: 320220016
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 12
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 17:30 bis 20:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Online Meeting wird per Email bekannt gegeben.</p>,
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:30 bis 13:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 13:30 bis 19:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Zusätzliche Filmsichtungen</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Lena Liberta :3 S: Fakultät Kunst und Gestaltung,Wolfgang Kissel :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Entlang des Dramaturgiehandbuches „So bekommen Sie Ihr Drehbuch in Griff”(Bartosz Werner und Christian Mertens) wollen wir gemeinsam mit dem Autoren, Dramaturgen und Regisseur Bartosz Werner die wichtigsten Schritte auf dem Weg zum finalen Drehbuch anhand praktischer Beispiele kennen lernen und sie in der Arbeit am eigenen Kurzfilmdrehbuch anwenden: Wie erzeuge ich beim Erzählen meiner Geschichte einen Sog? Was macht spannende Figuren aus? Wie finde ich das „Need” zum „Want” und wie schaffe ich es, eine Spannungsspirale aufzubauen? Wir widmen uns den Geheimnissen guter Lang- und Kurzfilmdrehbücher und beleuchten das dahinter liegende Drehbuchhandwerk. Am Ende des Projektes soll jeder ein eigenes, kurbelfertiges Kurzfilmdrehbuch entwickelt haben.

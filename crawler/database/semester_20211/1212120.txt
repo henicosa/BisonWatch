@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Entwerfen und Theorie der Landschaftsarchitektur
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48955&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 1212120
+Max. Teilnehmer/-innen :3 S: 160
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, Pflichtmodul\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, Pflichtmodul\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, Pflichtmodul\r, <br/>,  , <br/>, Urbanistik, B.Sc. PO 2020\r, <br/>, Pflichtmodul\r, <br/>, Urbanistik, B.Sc. PO 14\r, <br/>, Pflichtmodul
+Erwartete Teilnehmer/-innen :3 S: 130
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D20532&timestamp=1631115426771&hash=9f70075552f3eec9b345042c8124c11d
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Sigrun Langner
+# Beschreibung
+Beschreibung :3 S: Die Vorlesung vermittelt erste Grundlagen der Theorie der Landschaftsarchitektur und des landschaftsarchitektonischen Entwerfens. Sie umfasst Einblicke in die Geschichte der Gartenkunst, in wesentliche Strategien und Handlungsfelder der zeitgenössischen Landschaftsarchitektur, sowie die Untersuchung und Bewertung von städtischen Freiräumen / urbaner Landschaften hinsichtlich ihrer Funktion, Nutzung und Gestaltung. Im Zentrum der Betrachtung steht die Landschaftsarchitektur an ihren Schnittstellen zur Architektur und zum Städtebau sowie zur Regionalentwicklung.

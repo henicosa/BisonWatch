@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Community development: integrative approaches in European cities
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49432&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 121122801
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: European Urban Studies, M.Sc. PO 2020\r, <br/>, Study Project\r, <br/>, European Urban Studies, M.Sc. PO 18\r, <br/>, Study Project\r, <br/>,  , <br/>, MediaArchitecture, M.Sc. PO 2020\r, <br/>, Projektmodul - Projekt\r, <br/>, MediaArchitecture, M.Sc. PO 18\r, <br/>, Projektmodul - Projekt
+Erwartete Teilnehmer/-innen :3 S: 20
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Frank Eckardt
+# Beschreibung
+Beschreibung :3 S: Urban planning has long been focussed on providing approaches for sectoral planning. In the line of a modernist understanding of a seperation of functions, city planning has been specialized by looking at the city from different fields of urban life. This way, the development of urban planning followed a seperation of functions in society where the economy, mobility, social life, housing and recreation were viewed as areas of their own importance and understanding. Only in recent times, this approach has been challenged by a return to more holistic approaches which were putting the interferences of all parts of the city to the foreground of planning. Apparently, everything that is planned in one sector of the city affects other dimensions of urban life.

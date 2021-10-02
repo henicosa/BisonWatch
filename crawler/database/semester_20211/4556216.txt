@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Ubiquitous Computing
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49739&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 4556216
+Max. Teilnehmer/-innen :3 S: 40
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Lecture (online)</p>, <br/>, <p><a href=https://moodle.uni-weimar.de/course/view.php?id=30663>https://moodle.uni-weimar.de/course/view.php?id=30663</a></p>,
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Lab / first lecture (April 7th, 2021) - online -</p>, <br/>, <p> </p>,
+# Personen
+Personen :3 S: Fakultät Medien,Eva Hornecker :3 S: Fakultät Medien,Britta Schulte
+# Beschreibung
+Beschreibung :3 S: The course explores advanced topics in HCI, presenting and reflecting on the concerns, perspectives and interdisciplinary nature of this area. We will look at new and emerging technologies and the issues they entail. These technologies move beyond ‘traditional’ computing concerns, in particular by going from the desktop into the world ubiquitous computing, moving from the workplace to the home and other settings e.g., domestic, public spaces, from purely functional to ludic concerns e.g. home entertainment, pervasive games, and from digital to digital-physical systems tangible computing, IoT.

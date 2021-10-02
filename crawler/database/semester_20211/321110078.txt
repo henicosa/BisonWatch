@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: You are here. Ortsspezifische Radiokunst?!
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49812&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 321110078
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>BBB/Moodle</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Frederike Moormann :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Die Stimme aus dem Radio kommt aus dem Nirgendwo. Von einem abstrakten Ort. Einem Nicht-Ort? Gleichzeitig ist (nicht nur) die öffentlich-rechtliche Radiolandschaft in regionale Sender unterteilt - MDR, NDR, RBB… auch in Weimar trägt der freie Sender “bauhaus.fm” seinen Ort im Namen. Im Radio steckt eine Spannung zwischen Ortsenthobenheit und Ortsbezug., <br><br/>Was könnte also ortspezifisches Radiomachen bedeuten? Dem wollen wir uns aus unterschiedlichen Richtungen nähern. Von der medienkünstlerischen Seite - Ortspezifik in aktuellen radiokünstlerischen Arbeiten. Von der philosophischen Seite - Reflexionen über den Ort des Radios. Von der technischen Seite - z.B. durch praktisches Arbeiten mit MiniFM Netzwerken und geolocation Apps.  <br/><br/>Anmeldung bitte bis 6. April an: frederike.moormann@uni-weimar.de mit kurzer Motivation und ggf. Skizze einer eigenen ortspezifischen Radioarbeit.</br>

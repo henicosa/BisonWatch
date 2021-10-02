@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Open Access: Research, Publication and Funding
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50033&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Workshop
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 5
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fveranstaltungen.uni-weimar.de%2Fde%2F747&timestamp=1631115810888&hash=da3f12e2fde69fb21f9e41c4669e4ac7
+Sprache :3 S: englisch
+Fakultät :3 S: missing
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultätsübergreifende Einrichtungen,Ute Mai :3 S: Fakultätsübergreifende Einrichtungen,Franziska Matthes :3 S: Fakultätsübergreifende Einrichtungen,Meeta Khurana-Wolff
+# Beschreibung
+Beschreibung :3 S: Publishing in Open Access is more and more established within the German academia, and is increasingly recommended by academic and funding organisations (e.g. DFG). Nonetheless, there is still an uncertainty (and sometimes a bias) against Open Science in comparison to traditional approaches of research and publishing.

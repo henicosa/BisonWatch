@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Photogrammetric Computer Vision - Final Project
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47805&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Independent Study
+SWS :3 S: 1
+Veranstaltungsnummer :3 S: 419240045
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Personen
+Personen :3 S: Fakultät Medien,Volker Rodehorst :3 S: Fakultät Medien,Mariya Kaisheva
+# Beschreibung
+Beschreibung :3 S: Erfolgreiche Teilnahme an der Vorlesung  Photogrammetric Computer Vision

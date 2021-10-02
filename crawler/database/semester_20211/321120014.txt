@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Critical Games Lab
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50101&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 16
+Veranstaltungsnummer :3 S: 321120014
+Max. Teilnehmer/-innen :3 S: 6
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Moodel/BBB</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Charles Wüthrich :3 S: Fakultät Medien,Gianluca Pandolfo :3 S: Fakultät Medien,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Critical Games Lab ist ein interdisziplinäres Projekt zwischen Studierende der Fakultät K&G und der Medieninformatik, das sich in diesem Jahr mit der praktischen Entwicklung von Computerspielen befasst., <br> <br/>Studierende der Medieninformatik sollten Programmierkenntnisse mitbringen. Studierende der Fakultät K&amp;G hingegen Erfahrungen im Bereich Sounddesign, Illustration, Animation, 3D-Modelling oder Storytelling.</br>

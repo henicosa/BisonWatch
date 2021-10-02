@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: neudeli Fellowship: Start your entrepreneurial journey!
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51299&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 421190000
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Lehrveranstaltungen der Bauhaus.Module
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 13:00 bis 17:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Miriam Köble :3 S: Fakultät Medien,Josephine Zorn
+# Beschreibung
+Beschreibung :3 S: Du hast eine innovative Geschäftsidee und brauchst Unterstützung und Zeit, sie weiterzuentwickeln und umzusetzen? Du möchtest dich mit anderen Gründer*innen austauschen und dein Netzwerk erweitern? Mit dem Startup-Programm neudeli Fellowship ermöglicht dir die Gründerwerkstatt neudeli ein Semester lang, deine Idee im Rahmen eines Bauhaus.Moduls voranzubringen!, <br><br/>Wie setzt sich das neudeli Fellowship inhaltlich zusammen?<br/><br/>Startup-Werkstätten: In den verpflichtenden Startup-Werkstätten lernst du spannende Methoden und Tools kennen, die dich von einer ersten Idee zu einer erfolgreichen Innovation im Markt führen. Dazu gehören u.a. Design Thinking, Projektmanagement, User &amp; Market Research und Business Modelling. <br/><br/>Individuelle Coachings: In persönlichen Einzel-Sessions arbeitest du gemeinsam mit den neudeli-Coaches an deinen projektspezifischen Herausforderungen und erhältst wertvolles Feedback, um dein Vorhaben weiterzuentwickeln.<br/><br/>Community: Bei den neudeli Community-Treffen hast du die Möglichkeit, dich mit anderen Gründer*innen und Unterstützer*innen auszutauschen, in lockerer Atmosphäre neue Kontakte zu knüpfen und dein Netzwerk zu stärken. <br/><br/>Du interessierst dich für das Startup-Programm neudeli Fellowship und die Anrechnung von ECTS? Dann kontaktiere uns unter neudeli@uni-weimar.de und vereinbare ein Vorgespräch!<br/><br/>Die Teilnahme am Bauhaus.Modul neudeli Fellowship: Start your entrepreneurial journey! setzt die erfolgreiche Bewerbung für das neudeli Fellowship-Programm voraus. Bewerbungsfrist ist der 3. Oktober 2021. Alle Informationen zum Programm und zur Bewerbung findest du unter: www.uni-weimar.de/neudeli/fellowship<br/><br/><br/><br/></br>

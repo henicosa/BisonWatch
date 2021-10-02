@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Tinte. Medialität gefärbten Wassers
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47545&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 420250000
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: BA Studienmodul: Archiv I
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Farchiv-und-literaturforschung%2Fwillkommen%2F&timestamp=1631059037296&hash=06b959441e2effcfc640ab5606ec903a
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Digital via Moodle</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Fabian Winter
+# Beschreibung
+Beschreibung :3 S: Tinte, ein Begriff der sich aus dem lateinischen als gefärbtes Wasser (tincta aqua) übersetzen lässt, ist uns als Flüssigkeit geschriebener Zeichen (noch) gut bekannt. Wir schreiben und drucken (fast) täglich mit Tinte. Wir lesen, fühlen und umgeben uns mit Tinte, ohne die Medialität dieses Stoffes, ihre Geschichte und Zukunft zu thematisieren. In einer Schwellenzeit ohne Wissen darüber, welche (unsichtbare) Rolle Tinte zukünftig in unserem Leben spielen wird, nehmen wir uns deshalb gemeinsam die Zeit und den Raum über die Medialität dieser gefärbten und färbenden Flüssigkeit nachzudenken. Wie ist der Ekel vor dem tintenklecksenden Säkulum zu verstehen, den wir aus Schillers Schauspiel Die Räuber kennen? Warum klebt am Skalpell vieler Ärzte metaphorisch Tinte? Wieso werden Tintenkleckse vom Medium der Prophezeiung zu einem Medium der Psychopathologie? Was ist eine Kopiertinte und weshalb sollten wir chemische Eigenschaften von Eisengallustinte kennen, um Kopiertinten selber herstellen zu können? Solche Fragen werden das Seminar leiten, indem wir anhand von historischen Dokumenten, literarischen und theoretischen Texten gemeinsame Diskussionen über die Medialität der Tinte eröffnen. Halten Sie Federkiele, Tintenstrahldrucker und Pinsel bereit, denn auch Ihre Ideen einer praktischen Erfahrung von Tinte, ob Kalligraphie oder Copy Art, soll im Seminarplan berücksichtigt werden. Melden Sie sich bitte unbedingt vor der ersten Sitzung im Moodle-Raum an.

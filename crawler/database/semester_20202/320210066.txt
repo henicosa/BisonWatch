@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Haha HTML go br br br
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47285&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 6
+Veranstaltungsnummer :3 S: 320210066
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fherbert.gd&timestamp=1631058291346&hash=54b7ffcb0377f864d319f8f7f71aea25
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 10:15 bis 15:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: missing,Erik Sachse :3 S: missing,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: In this course we will break up the borders of dull templates that are overwhelming our World Wide Web landscape., <br>Learn how to create conspicuous interfaces to confuse the user. <br/>Combine real world artifacts within the digital browser window; ranging from huge screens to small devices.</br>

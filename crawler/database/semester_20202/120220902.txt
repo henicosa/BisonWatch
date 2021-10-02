@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Schellhof am Igelsbachsee - Ferienwohnanlage in Absberg – Fränkische Seenplatte
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48226&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 120220902
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Projektmodul - Projekt\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Projektmodul - Projekt\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Projektmodul - Projekt
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Abschlusspräsentation digital</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Jörg Springer
+# Beschreibung
+Beschreibung :3 S: Studentischer Wettbewerb, <br>In einer landschaftlich geprägten Situation am Südwestufer des Igelsbachsees in Franken soll eine Ferienwohn- und Freizeitanlage für Familien entworfen werden.<br>Ziel ist die Entwicklung eines schlüssigen Nutzungsszenarios, das mit einer prägnanten architektonischen Typologie ein nachvollziehbares Verhältnis zu Landschaft und Topographie artikuliert.<br>Die Projekte sollen als Beiträge zu einem studentischen Wettbewerb eingereicht werden, der durch ein fachlich gut besetztes Preisgericht juriert werden wird.<br>Die Entwurfsbetreuung im Master-Studiengang Architektur ist für dieses Projekt auf vier Zwischenkritiken durch Prof. Springer beschränkt. Die Bearbeitung kann einzeln oder in Zweiergruppen erfolgen.</br></br></br></br>

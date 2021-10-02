@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Genres und Subgenres der Wissensgeschichte
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47549&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 420250004
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: BA Studienmodul: Diskursanalyse / Wissensgeschichte
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Ftheorie-medialer-welten%2F&timestamp=1631058231847&hash=9ba23d91ba2d64927049ba0e701b2fe4
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Digital via Moodle</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Jörg Paulus
+# Beschreibung
+Beschreibung :3 S: Das Seminar führt in Fragestellungen der Wissensgeschichte ein, indem unterschiedliche, mit der Entstehung, Durchsetzung und Stabilisierung von Wissen verbundene Genres und Subgenres in ihrer jeweiligen Medialität untersucht werden., <br>Der Genitiv im Titel der Lehrveranstaltung ist dabei doppelt zu verstehen: einerseits geht es um Genres, die Gegenstand wissensgeschichtlicher Untersuchungen sind. Dazu können Protokolle und Notizen ebenso zählen wie Gedichte, Gemälde oder Filme. Andererseits werden die spezifischen Genres und Subgenres wissensgeschichtlicher Forschung selbst sowie die dabei zu Tage tretenden Denkstile diskutiert - von der durch den Surrealismus inspirierten Diagonalen Wissenschaft eines Roger Callois über Michel Serres bis hin zu Blogs, Podcasts und Science-Slams.</br>

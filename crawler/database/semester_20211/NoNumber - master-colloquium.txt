@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Master-Colloquium
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49208&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Kolloquium
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 25
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Advanced Urbanism, Master of Science PO 13\r, <br/>, Modul Pflichtmodul - Masterthesis\r, <br/>, Advanced Urbanism, Master of Science PO 14\r, <br/>, Modul Pflichtmodul - Masterthesis\r, <br/>, Europäische Urbanistik, Master of Science PO 13\r, <br/>, Modul Pflichtmodul - Masterthesis\r, <br/>, Europäische Urbanistik, Master of Science PO 14\r, <br/>, Modul Pflichtmodul - Masterthesis
+Erwartete Teilnehmer/-innen :3 S: 25
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: missing
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: bis
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N. :3 S: Fakultät Architektur und Urbanistik,Lisa Vollmer
+# Beschreibung
+Beschreibung :3 S: The course is the platform for presentation and discussion of the Masters theses. The candidates will present the intermediate results of their work on their individual topics. Suggestions for further action will be made by fellow students and academics attending the colloquium. Admission for the Master examination is required for participation. Performance record (attestation) will be achieved by giving an oral presentation.

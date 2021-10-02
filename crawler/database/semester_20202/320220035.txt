@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: create, cultivate and cooperate
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47320&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 18
+Veranstaltungsnummer :3 S: 320220035
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fcloud.uni-weimar.de%2Fs%2FdLfRNp5WKFjntgG&timestamp=1631057969903&hash=6b7ab46c829ab1f5f642c4de1f635908
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 10:00 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Online-Veranstaltung</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Markus Weisbeck :3 S: Fakultät Kunst und Gestaltung,Adrian Palko :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Natur und Technik, Auflösungs- und Wandlungsprozesse, Gray Scott, Turing, Tsukamoto, Hamilton - es geht darum zu forschen, um zu verstehen. Das formal experimentelle Projekt untersucht die Resonanzverhätnisse von Biologie, Chemie, Physik und Grafikdesign. Aus Experimenten erwächst Gestaltung. So bewegen wir uns etwa in Simulationsprogrammen oder in Entdecktem und versuchen mit diesen eine eigene grafische Sprache zu entwickeln.

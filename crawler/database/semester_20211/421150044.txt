@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Einführung in die Filmgeschichte: Von den Anfängen bis 1960
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49653&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 421150044
+Max. Teilnehmer/-innen :3 S: 25
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Einführung in die Mediengeschichte
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Ffilm-und-medienwissenschaft%2F&timestamp=1631115398701&hash=8568ddc506adde3baed8f7c8282328cc
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Gruppe 1</p>, <br/>, <p>Online via Moodle</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Simon Frisch
+# Beschreibung
+Beschreibung :3 S: <span style=font-size: 12pt;>Wie kaum eine andere Kunstform ist die Filmgeschichte mit zahllosen anderen historischen Wirklichkeiten verbunden: die hohe Kapitalintensität des Films verbindet den Film mit der Wirtschaftsgeschichte, der Film als Massenunterhaltung verbindet ihn mit der Sozialgeschichte, der hohe technische Einsatz verbindet ihn mit einer Technikgeschichte usw. Filmgeschichte ist aber immer auch Stil- und Kunstgeschichte. Das Seminar Einführung in die Filmgeschichte führt in die vielfältigen Gegenstände, Perspektiven und Methoden der Filmhistoriografie ein. Im Seminar werden die wichtigsten internationalen Strömungen und Schulen des Films vorgestellt und es wird der Versuch unternommen, ästhetische Bewegungen in ihrem Zusammenhang mit Zeitgeschichte und Technikgeschichte zu verstehen.</span>

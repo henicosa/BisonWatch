@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Mind, Body and Everything in Between: an introduction to mindfulness in arts
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50163&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 121120105
+Max. Teilnehmer/-innen :3 S: 10
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Architektur\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Architektur\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Architektur
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 16:00 bis 18:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Alexandra Abel :3 S: Fakultät Architektur und Urbanistik,Milad Rezaei
+# Beschreibung
+Beschreibung :3 S: This is a course on body, mind, movement, space, performance, emotions, sensations, thoughts, and above all the experience of mindfulness in arts. It introduces stablished mindfulness practices in relation to foundations of creativity used in arts.

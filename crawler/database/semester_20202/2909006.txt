@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Projekt Verkehrswesen - Interdisziplinares Projekt städtischer Infrastruktursysteme/ Urban Infrastructure Project
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47934&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 2909006
+Max. Teilnehmer/-innen :3 S: 5
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fvsp&timestamp=1631058670295&hash=6436dd0af251f968ff6cdcd70766350f
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: unger. Wo
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Uwe Plank-Wiedenbeck :3 S: Fakultät Bauingenieurwesen,Raimo Harder :3 S: Fakultät Bauingenieurwesen,Julius Uhlmann
+# Beschreibung
+Beschreibung :3 S: Das Projekt besteht aus einem semesterbegleitenden Seminar (14tägig im Raum 305, Marienstr. 13) und einem internationalen Workshop. Im Seminar werden Lehrende und Studierende zu stadtplanerischen und infrastrukturellen Themen referieren; den Abschluss bildet ein Zwischenbericht (Seminarbericht). Anknüpfend an das Seminar findet der deutsch-russische Workshop Urban Infrastructure in Kooperation mit der MGSU Moskau statt. In interdisziplinären Teams werden sich die Studierenden der beiden Universitäten mit aktuellen Fragestellungen zu städtischen Infrastruktursystemen auseinandersetzen und deren Ergebnisse präsentieren. Das Projekt schließt mit einem Abschlussbericht und der Anfertigung eines Posters ab.

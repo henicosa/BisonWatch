@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Der Horror des Films
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47613&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Plenum
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 18
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: MA Projektmodul Filmphilosophie: Der Horror des Films
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Fmedienphilosophie%2Fwillkommen%2F&timestamp=1631057999162&hash=eb93cb44da79315c4042b2efe5164dca
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 18:00 bis 22:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Lichthaus Kino</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Rudolf Engell :3 S: Fakultät Medien,Simon Frisch
+# Beschreibung
+Beschreibung :3 S: Die Lehne im Rücken wird langsam lebendig... nichts ist mehr so sicher... es gibt Geräusche... Gesichter, Gespenster, Grausamkeiten, Gefahren, Grusel, das Grauen! Stimmen, Scheren, Stürze, Schock, Schreck, Schwerenot! Da sind sie alle, die Ängste, die Abgründe, die Alpträume! Kreisch! Hilfe! Tus nicht! Neiiiin!

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Szenen des Komischen. Von Aristophanes bis Charlie Hebdo
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47639&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 420250007
+Max. Teilnehmer/-innen :3 S: 17
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: BA-Studienmodul: EMK 1
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Feuropaeische-medienkultur%2Fwillkommen%2F&timestamp=1631058996463&hash=b082e0fefb5efc8c7ba770b6035f4d64
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Eva Krivanec
+# Beschreibung
+Beschreibung :3 S: Als Platon in seiner Politeia das Theater als am weitesten vom Reich der Ideen entfernte künstlerische Disziplin brandmarkt, hat das Theater – in Form der attischen Tragödie und Komödie – das Publikum der athenischen Polis bereits fest im Griff. Aristophanes macht sich höchst erfolgreich über (das Klischeebild des) Philosophen lustig und verschiebt auch sonst eine Fülle von – scheinbar sakrosankten – gesellschaftlichen Regeln und Tabus seiner Zeit, in seinen Stücken wohlgemerkt., <br>Diese frühe Konzeptionalisierung des Komischen mit Aristophanes ermöglicht uns einerseits, den Blick (von der schwierigen Beziehung des deutschsprachigen Theaters mit dem Komischen zu lösen und) auf Europa und seine Vielfalt an historisch-geographischen Szenen, in denen das Komische einen Ort und einen (haltlosen) Halt findet, zu richten, andererseits ermöglicht sie, das Komische – in Abgrenzung etwa zum Humorvollen oder zum Amüsanten – in enge Beziehung zum menschlichen Körper und seinen Grundbedürfnissen, zu Genuss und Sexualität, zum Essen und Trinken, zum Gehen, Stolpern und Liegen, zu Begierden und Gemeinheiten, zu Widerständen und Anarchie, zur Schaffung und Auflösung von Identitäten, zu Masken und Typen zu setzen. <br/>Ausgehend von Aristophanes sollen aber in diesem Seminar nicht nur theatralische Modi der Komik, obwohl diese in Europa eine weit wichtigere Rolle spielen als man zuweilen in den historisch kanonisierten Bühnenwerken erkennen kann, untersucht werden, sondern der Blick auch geweitet auf andere künstlerische Medien und Ausdrucksformen. So können wir uns fragen, wie (zu bestimmten Zeitpunkten) eine zeichnerische Komik oder eine musikalische Komik ausgesehen haben mag. <br/>Die Entwicklung einzelner komischer Genres hat meist sehr unmittelbar historische Gründe, erweist sich dann aber als durchaus beständig und Zeiten überdauernd. Häufig werden wir auch feststellen können, dass einzelne Modi des Komischen über verschiedene Zeiten und Medien hinweg migrieren wie etwa der Slapstick seinen Weg von der Commedia dell’Arte über die Clownsauftritte in Zirkus und Varieté hinein in den Stummfilm und weiter über die Theateravantgarden in zeitgenössischen Tanz und Performance findet.</br>

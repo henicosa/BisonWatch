@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Städte ohne Rassismus (Ba)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47564&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 120212805
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Theorie | Geschichte\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Theorie | Geschichte\r, <br/>,  , <br/>, Urbanistik, B.Sc. PO 2020\r, <br/>, Wahlmodul\r, <br/>, Urbanistik, B.Sc. PO 14\r, <br/>, Wahlmodul
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2Fwww.uni-weimar.de%2Fde%2Farchitektur%2Fprofessur%2Fstadtforschung&timestamp=1631058934668&hash=b9759c5c5c34dc03843e4cc0fa56d18c
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 19:00 bis 20:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Frank Eckardt
+# Beschreibung
+Beschreibung :3 S: Diese Vorlesung soll das Thema Rassismus in der Stadtgesellschaft thematisieren und wird in Zusammenarbeit mit der Landeszentrale für politische Bildung durchgeführt. Die Veranstaltung wird Fachleute aus der Wissenschaft und Vertreter*innen der Zivilgesellschaft zu Wort kommen lassen und will zur Diskussion über Möglichkeiten der Bekämpfung von Rassismus anregen. Die Veranstaltung wird im Audimax der Bauhaus-Universität Weimar stattfinden und online übertragen. Im Folgenden die vorläufige Terminplanung, die Termine für den Januar sind noch in der Vorbereitung.:

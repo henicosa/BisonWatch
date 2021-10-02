@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Type & Feminisms
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47273&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 18
+Veranstaltungsnummer :3 S: 320220038
+Max. Teilnehmer/-innen :3 S: 18
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fcloud.uni-weimar.de%2Fs%2FHEc9ySEpMY722CL&timestamp=1631059065051&hash=7017c0b85f7aa5e2abb6d2a689ee4b8d
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 10:00 bis 14:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Stefanie Schwarz :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: <br>In welcher Form kann Typografie und Schriftgestaltung die Gleichstellungsthematik/gender equality adressieren? Welche (typo)grafischen Mittel und Methoden können als Werkzeug für diese Zwecke dienen?<br/>Wir formulieren eigene Statements und Kommentare, entwickeln hierfür Schriftentwürfe und Layouts, die in verschiedenen Medien Anwendung finden.<br/>Konsultationen: dienstags 14–16 Uhr<br/>Das Projektmodul wird von einem Tutorium begleitet, das praktisch-technische Methoden für das Arbeiten mit Schrift und Typografie vermittelt, sowie Hilfestellung bei der Umsetzung der Projektarbeit bietet.<br/>Begleitendes Tutorium: mittwochs, 14.00 – 16.00 Uhr</br>

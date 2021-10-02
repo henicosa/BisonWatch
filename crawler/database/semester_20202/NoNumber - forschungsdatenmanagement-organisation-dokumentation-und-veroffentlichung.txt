@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Forschungsdatenmanagement: Organisation, Dokumentation und Veröffentlichung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48399&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Workshop
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 20
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fveranstaltungen.uni-weimar.de%2Fde%2F694&timestamp=1631058171644&hash=21f5838b6bb1e9b0bd9fc070b6afe678
+Sprache :3 S: deutsch
+Fakultät :3 S: missing
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: bis
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultätsübergreifende Einrichtungen,Ute Mai :3 S: Fakultätsübergreifende Einrichtungen,Franziska Matthes
+# Beschreibung
+Beschreibung :3 S: Der Umgang mit Forschungsdaten ist ein Thema hat seit über einem Jahrzehnt immer mehr an Bedeutung in den Forschungsorganisationen gewonnen und wird von vielen Drittmittelgebern in neuen Richtlinien vorausgesetzt. Der Begriff Forschungsdatenmanagement beschreibt die gesamte Planung, Erfassung, Verarbeitung, Dokumentation, Archivierung und Publikation der Forschungsdaten. In diesem Onlineworkshop soll kompakt auf die Gründe für ein gutes Forschungsdatenmanagement eingegangen werden und wie man als Grundlage für den Antrag von Projekten bei Drittmittelgebern einen Datenmanagementplan erstellt. Für die Umsetzung von Forschungsdatenmanagement werden Hilfsangebote und verschiedene Prinzipien und Modelle vorgestellt, wie z.B. die FAIR-Prinzipien, das 5S Data Modell oder die 3-2-1 Backup-Regeln.

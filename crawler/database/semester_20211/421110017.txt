@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: ["\n\t\t\t\t\t\t\t\t\t\t        \tWhat's that about? Knowledge and Argument Graphs in Voice  Search - Einzelansicht\n        "]
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50018&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 10
+Veranstaltungsnummer :3 S: 421110017
+Max. Teilnehmer/-innen :3 S: 5
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Personen
+Personen :3 S: Fakultät Medien,Benno Stein :3 S: Fakultät Medien,Johannes Kiesel :3 S: Fakultät Medien,Marcel Gohsen
+# Beschreibung
+Beschreibung :3 S: Teaching a computer to reason has been a dream , <br/>, and challenge to computer science ever since. Knowledge graphs like , <br/>, Wikidata---that contains the information from Wikipedia---are a major , <br/>, milestone in this endeavor. The automatic transformation of everyday , <br/>, language questions into formal query languages is yet another one. In , <br/>, this project we will focus on combining these methods for the domain of , <br/>, argument search, specifically for our argument search engine args.me and , <br/>, its Alexa-powered voice interface.

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Strategie
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47924&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 420250027
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Matthias Maier
+# Beschreibung
+Beschreibung :3 S: Marktorientierte und Ressourcenorientierte Sichtweisen haben sich in den vergangenen Jahren zu bedeutenden Perspektiven und Schulen im Strategischen Management herausgebildet. Es gibt allerdings ein weites Feld von strategischen Diskursen, die über diese beiden Perspektiven hinausreichen. Henry Mintzberg, Bruce Ahlstrand und Joseph Lampel haben sich mit diesen Diskursen in einem Buch mit dem Titel „STRATEGY SAFARI - Eine Reise durch die Wildnis des strategischen Managements” befasst. In der Vorlesung werden wir ausgewählte Diskurse und Praktiken zum Strategischen Management in den Blick nehmen und die Frage nach der praktischen Anwendbarkeit und den Implikationen für die Strategien von Medienunternehmen diskutieren.

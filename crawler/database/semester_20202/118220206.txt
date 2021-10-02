@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Real Estate Development - Seminar
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48357&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 118220206
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Integrated Urban Development and Design, M.Sc. PO 2020\r, <br/>, Pflichtmodul - Real Estate Development\r, <br/>, Integrated Urban Development and Design, M.Sc. PO 18\r, <br/>, Pflichtmodul - Real Estate Development
+Erwartete Teilnehmer/-innen :3 S: 15
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Farchitektur-und-urbanistik%2Fprofessuren%2Fbaumanagement-und-bauwirtschaft%2Flehre%2Fvorlesungen%2F&timestamp=1631058825228&hash=96886ba34285ea8b7fd786e53f721a7d
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Shimin Huang
+# Beschreibung
+Beschreibung :3 S: This course consists of lecture series and seminar, which offers an opportunity integrating architects, urban planners, developers to explore different topics of real estate development together with various aspects.

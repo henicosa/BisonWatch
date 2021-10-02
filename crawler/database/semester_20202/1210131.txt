@@ -1,0 +1,33 @@
+Veranstaltungstitel :3 S: 3. Kernmodul: Über die Textilität von Brettsperrholz
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48014&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Entwurf
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 1210131
+Max. Teilnehmer/-innen :3 S: 25
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 18\r, <br/>, 3. Kernmodul - Grundlagen des Konstruierens
+Erwartete Teilnehmer/-innen :3 S: 25
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Zwischenrundgang</p>,
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Abschlusspräsentation, digital</p>,
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Julius Tischler :3 S: missing,Helga Blocksdorf
+# Beschreibung
+Beschreibung :3 S: „Wenn wir über den Prozess des Bauens und über den Prozess des Webens nachdenken und die damit verbundene Arbeit vergleichen, dann finden wir trotz der Maßstabsunterschiede Ähnlichkeiten. Beide konstruieren aus unterschiedlichen, ihre Identität wahrenden Teilen ein Ganzes. {...} Beide sind altehrwürdige Handwerke. {...} In ihren Frühphasen war ihnen der Zweck gemein, Unterkunft zu bieten.” Annie Albers, The Pliable Plane. Textiles in Architecture, 1957

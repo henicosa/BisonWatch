@@ -1,0 +1,38 @@
+Veranstaltungstitel :3 S: Project- and Disaster Management
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50758&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Integrierte Vorlesung
+SWS :3 S: 3
+Veranstaltungsnummer :3 S: 2901005
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fcms%2Fbauing%2Forganisation%2Fbaubetrieb-und-bauverfahren.html&timestamp=1631111411728&hash=28cca188f1ef065a6b8818c54342ad26
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 15:15 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Digital (BBB)</p>,
+# Zeit
+Tag :3 S: Sa.
+Zeit :3 S: 09:15 bis 15:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: So.
+Zeit :3 S: 09:00 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Hans-Joachim Bargstädt :3 S: Fakultät Bauingenieurwesen,Birgit Bode
+# Beschreibung
+Beschreibung :3 S: Acquisition of knowledge of the methods of the project management and acquisition of skills with their practical application:, <br>Imparting of means and methods as well as of social and technical aspects of the project management in the construction industry (the-oretical and on the basis practical examples)<br>Consolidate of knowledge in handling a project management soft-ware</br></br>

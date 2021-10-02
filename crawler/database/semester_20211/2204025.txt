@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Computational and Experimental Wind Engineering for Long-span Bridge Design (L, E, P)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49111&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 6
+Veranstaltungsnummer :3 S: 2204025
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 15:15 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Hybrid / Digital</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 15:15 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Hybrid / Digital</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Guido Morgenthal :3 S: missing,Tajammal Abbas :3 S: Fakultät Bauingenieurwesen,Samir Chawdhury
+# Beschreibung
+Beschreibung :3 S: The course aims to introduce the students to the fundamentals and state-of-the-art methods of wind engineering and different aerodynamic , <br>phenomena that are relevant to the design of long-span cable-supported bridges. To characterize and quantify aerodynamic and <br>aeroelastic effects, students will understand the concepts of computational fluid dynamics (CFD) simulations and experimental wind tunnel <br/>tests, along with their advantages and limitations. Students will be able to model complex bridge structures using Finite Element Analysis <br/>methods and simulate dynamic response due to wind. Different combinations of analytical, numerical and experimental analysis <br/>approaches are employed to investigate dynamic wind excitations with a focus on identifying serviceability issues and ultimate limit <br/>scenarios of the structure. <br/><br/>Participating students are tasked with practical bridge design-oriented challenges and work in groups to address them. Group organization <br/>and goal-oriented work are an important aspect to the project work. Results are reported periodically in presentations. Results are to be <br/>summarized in a report following scientific writing standards and presented orally.</br></br>

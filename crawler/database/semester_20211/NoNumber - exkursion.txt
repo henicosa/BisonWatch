@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Exkursion
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49729&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Exkursion
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, 2. Kernmodul\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, 2. Kernmodul\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, 2. Kernmodul
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: bis   s.t.
+Terminrhythmus :3 S: Block
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,keine öffentliche Person :3 S: Fakultät Architektur und Urbanistik,Daniel Guischard :3 S: Fakultät Architektur und Urbanistik,Clemens Helmke :3 S: Fakultät Architektur und Urbanistik,Heike Büttner-Hyman :3 S: missing,Laura Stroszeck
+# Beschreibung
+Beschreibung :3 S: Exkursion/ Workshop: Schleswig-Holstein, Norddeutschland und Dänemark

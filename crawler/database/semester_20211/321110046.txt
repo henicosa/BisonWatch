@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Time based light art in public space (Ba)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50090&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Werk-/Fachmodul
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 321110046
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 12
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: unger. Wo
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Lena Liberta :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: In diesem Modul gibt der Lichtkünstler und Experience Designer Stefan Kraus (MXZEHN, Berlin) einen praktischen Einblick in die Konzeption, Planung, Programmierung und Realisierung von großformatigen, gescripteten und interaktiven Medieninstallationen im öffentlichen Raum. In Zusammenarbeit mit der Stadt Weimar soll eine Lichtinstallation zur Eröffnung der Feierleichkeiten zum Jubiläum des Weimarer Dreiecks der Öffentlichkeit (30./31.07.21) präsentiert werden, die von den Studierenden mitgestaltet wurde.

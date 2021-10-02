@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Ressourcen und Recycling - Natursteinkunde, Mechanische Verfahrenstechnik und Baustoffrecycling
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50920&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Integrierte Vorlesung
+SWS :3 S: 3
+Veranstaltungsnummer :3 S: B01-101038
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: B19-3200 Ressourcen und Recycling
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: unger. Wo
+Bemerkung :3 S: , <p>Mechanische Verfahrenstechnik (Vorlesung + Übung)</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: gerade Wo
+Bemerkung :3 S: , <p>Natursteinkunde (Vorlesung + Übung)</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Holger Kletti :3 S: Fakultät Bauingenieurwesen,Alexander Schnell :3 S: Fakultät Bauingenieurwesen,Gabi Seifert :3 S: Fakultät Bauingenieurwesen,Claudia Geißler
+# Beschreibung
+Beschreibung :3 S: <span style=text-decoration: underline;>Natursteinkunde:</span>,  Entstehung, Charakterisierung und Klassifikationsschemata von natürlichen Gesteinen; Petrographie der Sediment- und Festgesteine; Einsatzzwecke als Baustoff und als Rohstoff für Bindemittel; Lagerstätten, Gewinnung und Verarbeitbarkeit von Naturwerkstein; Schadensmerkmale und -ursachen von Natursteinen, grundlegende Sanierkonzepte, <br>Semesterbegleitend wird eine Belegarbeit angefertigt. Die Einreichung und das Bestehen der Belegarbeit ist Voraussetzung für die Teilnahme an der Prüfung.</br>

@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Baubetrieb, Bauverfahren und Arbeitsschutz
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=46859&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Integrierte Vorlesung
+SWS :3 S: 5
+Veranstaltungsnummer :3 S: 901021
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fenrol%2Findex.php%3Fid%3D27581&timestamp=1631108764966&hash=87dcbc98199857404e7015e3e7f7095d
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 07:30 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Veranstaltung Online</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>7 Termine Online oder Präsenz - nach Ansage</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Hans-Joachim Bargstädt :3 S: Fakultät Bauingenieurwesen,Sebastian Seiß :3 S: Fakultät Bauingenieurwesen,Birgit Bode
+# Beschreibung
+Beschreibung :3 S: Grundlagen der Bauverfahrenstechnik, Baustelleneinrichtung:, <br>Einführung in die Bauverfahren sowie Maschinen und Geräte für den allgemeinen Erdbau, Betonbau, Montagebau und spezielle Bauaufgaben mit Darstellung der Funktionsweisen sowie der Berechnungs- und Kalkulationsansätze.<br>Grundlagen der Baustelleneinrichtung (BE).<br/><br/>Grundlagen des Baubetriebs<br/>Vermittlung allgemeiner Grundlagen für die Vorbereitung und Gestaltung von Bauprozessen: Besonderheiten der Bauproduktion; Arbeitsvorbereitung, Mengen- und Kostenermittlung, Aufwand und Leistung, Darstellung und Steuerung von Abläufen; Terminplanung und -kontrolle; der Mensch im Arbeitsprozess (arbeitswissenschaftliche Grundlagen des Baubetriebs), Einführung in die Grundlagen des Qualitäts- und Ethikmanagements  <br/></br></br>

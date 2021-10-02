@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Fassaden-Workshop (Ba)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48044&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Workshop
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 120210701
+Max. Teilnehmer/-innen :3 S: 36
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 11\r, <br/>, Wahlpflichtmodul Konstruktion | Technik\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, Wahlpflichtmodul Konstruktion | Technik\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, Wahlpflichtmodul Konstruktion | Technik
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Johannes Kühn :3 S: Fakultät Architektur und Urbanistik,Marlene Külz :3 S: Fakultät Architektur und Urbanistik,Marie-Theres Weiß :3 S: Fakultät Architektur und Urbanistik,Robert Ochsenfarth
+# Beschreibung
+Beschreibung :3 S: In der eigenen thematischen Auseinandersetzung mit Fassaden aus Vergangenheit und Gegenwart wird in Analyseschritten das Verständnis für die entwerferischen und konstruktiven Hintergründe von Fassaden geschult. Es werden dafür Gebäude in Erfurt, Weimar und Jena von den Teilnehmern in Eigenverantwortung besucht, dokumentiert, literarisch recherchiert und schließlich zeichnerisch analysiert. Im Zentrum steht dabei die Entwicklung des Verständnisses der tektonischen Besonderheiten der jeweiligen Fassade. Der Workshop ist den Teilnehmern des Bachelor- und Masterentwurfs der Professur Entwerfen und Baukonstruktion vorbehalten und bildet jeweils einen integrierten Bestandteil des Entwurfs.

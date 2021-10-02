@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Persönlichkeitsbildung II - Bewerbungstraining / Argumentations- und Verhandlungsführung / Teamarbeit
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48008&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 902012/902013/902014
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D21126&timestamp=1631058584928&hash=8fab61a775930df47b8d0da4079d925f
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Hans-Joachim Bargstädt :3 S: Universitätsleitung /  Universitätsverwaltung,Luise Lubk :3 S: Fakultät Bauingenieurwesen,Birgit Bode
+# Beschreibung
+Beschreibung :3 S: Verschiedene Bewerbungswege und Bewerbungsstrategien, Bewerbungsanschreiben und die persönliche Präsentation im Vorstellungsgespräch

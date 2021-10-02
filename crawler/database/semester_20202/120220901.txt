@@ -1,0 +1,38 @@
+Veranstaltungstitel :3 S: Hietalahden Kylpylä - Stadtbad in Helsinki
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47826&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 120220901
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Projektmodul - Entwurf\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Projektmodul - Entwurf\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Projektmodul - Entwurf
+Erwartete Teilnehmer/-innen :3 S: 20
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Farchitektur-und-urbanistik%2Fprofessuren%2Fentwerfen-und-komplexe-gebaeudelehre%2Faktuelles%2F&timestamp=1631058297977&hash=614f86db9ebb5b8d6d00c3c50d58cc04
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 13:30 bis 19:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Zwischenkritik</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 10:00 bis 19:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Zwischenkritik</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Abschlusspräsentation digital</p>,
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Jörg Springer :3 S: Fakultät Architektur und Urbanistik,Sebastian Schröter :3 S: Fakultät Architektur und Urbanistik,Manuel Aust :3 S: Fakultät Architektur und Urbanistik,Martin Pasztori :3 S: Fakultät Bauingenieurwesen,Juliane Steffen
+# Beschreibung
+Beschreibung :3 S: Entwurf eines kleinen Stadtbades an einem der zentralen Plätze Helsinkis, gegenüber der Markthalle am Hietalahden. Der zum Wasser hin offene Platz ist durch eine recht heterogene Bebauung aus unterschiedlichen Epochen geprägt. Neben der typologischen Rolle des Hauses im Stadtraum wird in diesem vielschichtigen Kontext die Angemessenheit der architektonischen Bildsprache eine besondere Rolle spielen. Daher wird das Entwurfsprojekt durch das Begleitseminar ‚Anähnlichungen‘ am Lehrstuhl für Denkmalpflege und Baugeschichte, Prof. Dr. Hans-Rudolf Meier ergänzt., <br>Die Bearbeitung erfolgt in vier aufeinander aufbauenden Arbeitsschritten in der Regel in Zweiergruppen. Digitale Präsentationsformate im Plenum werden durch individuelle Projektbesprechungen in Präsenz ergänzt.</br>

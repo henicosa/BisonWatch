@@ -1,0 +1,33 @@
+Veranstaltungstitel :3 S: Theorien der Moderne II
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48235&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 120223401
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Theorie\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Theorie\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Theorie\r, <br/>,  , <br/>, Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 2020 2-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Wahlpflichtmodul
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:00 bis 10:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:00 bis 10:30
+Terminrhythmus :3 S: unger. Wo
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: unger. Wo
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Claudius Torp
+# Beschreibung
+Beschreibung :3 S: Das Seminar führt die im Sommersemester begonnene Auseinandersetzung mit zentralen Theoretikern der Moderne fort. Eine Teilnahme ist aber ohne Vorkenntnisse problemlos möglich, da im Wintersemester einige der bislang noch nicht thematisierten Aspekte der Moderne im Mittelpunkt stehen werden. Dazu gehören in erster Linie das Verhältnis von Individuum und Gesellschaft, Politik, Religion und Technik. Die gemeinsame Lektüre wird sich dabei unter anderem auf Werke von Friedrich Nietzsche, Georg Simmel und Hannah Arendt konzentrieren.

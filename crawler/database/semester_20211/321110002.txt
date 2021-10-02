@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Ausstellen\xa0und\xa0Kuratieren\xa0im\xa0NOVA\xa0art\xa0space\xa0
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49785&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 6
+Veranstaltungsnummer :3 S: 321110002
+Max. Teilnehmer/-innen :3 S: 6
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 14:00 bis 18:00
+Terminrhythmus :3 S: unger. Wo
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Katharina Wendler :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: !!BITTE AUFMERKSAM LESEN!!, <br><br/>Der Ausstellungsraum NOVA wurde im SoSe 2019 unter Leitung von Katharina Wendler in fakultätsübergreifender Zusammenarbeit mit Studierenden entwickelt und verbindet die akademische Lehre mit der praktischen künstlerischen wie kuratorischen Arbeit an konkreten Projekten. NOVA ist eine Plattform für zeitgenössische Kunst und für aktuelle Fragen künstlerischer Praxis und ihrer (Re)Präsentation. In Ausstellungen und anderen experimentellen Formaten widmet sich NOVA dem Diskurs über zeitgenössische Kunst und Ausstellungspraxis.</br>

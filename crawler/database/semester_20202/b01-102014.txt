@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Baustoffkunde - Baustoffkenngrößen
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47040&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: B01-102014
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>digital</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,keine öffentliche Person :3 S: Fakultät Bauingenieurwesen,Frank Bellmann :3 S: Fakultät Bauingenieurwesen,Alexander Schnell :3 S: Fakultät Bauingenieurwesen,Max Patzelt
+# Beschreibung
+Beschreibung :3 S: Qualifikationsziele: Die Studierenden besitzen vertiefte Fachkenntnisse über wesentliche Begriffe aus der Werkstoffkunde und kennen die Bedeutung der baustofflichen Aspekte im Bau-und Umweltingenieurwesen. Sie kennen die grundlegenden Baustoffeigenschaften wie beispielsweise das Spannungs-Dehnungs-Verhalten und können entsprechende Kenngrößen definieren und zur Beschreibung nutzen. Sie wissen, wie entsprechende Kenngrößen zu ermitteln sind., <br>Lehrinhalte: Begriffe, Grundlegende Baustoffeigenschaften, Kenngrößen zur Beschreibung von Baustoffeigenschaften, Kenngrößenermittlung in Bezug auf Gefügekenngrößen, Hygrische, Thermische und Akustische Kenngrößen, Brandschutz, Mechanische Kenngrößen, (u.a. Formänderungskenngrößen und Spannungs-Dehnungs-Diagramm), Festigkeiten und Härte</br>

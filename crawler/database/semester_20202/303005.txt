@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Object-oriented Modeling and Programming in Engineering
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47043&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 303005
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Lecture</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Lab class</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Christian Koch :3 S: Fakultät Bauingenieurwesen,Mathias Artus
+# Beschreibung
+Beschreibung :3 S: Objektorientierte Modellierung und Programmierung für Ingenieure

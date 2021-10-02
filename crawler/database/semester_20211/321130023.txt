@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Masterkolloquium: Produktdesign
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49877&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Wissenschaftliches Modul
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 321130023
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fkunst-und-gestaltung%2Fprofessuren%2Ftheorie-und-geschichte-des-design%2F&timestamp=1631115706245&hash=e68ffd2a03fb1df66fcd434b3a97ca9d
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:30 bis 11:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Jan Willmann :3 S: Fakultät Kunst und Gestaltung,Andreas Mühlenberend :3 S: Fakultät Kunst und Gestaltung,Michael Braun :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Die Lehrveranstaltung »Masterkolloquium Produktdesign« fokussiert im Sommersemester 2021 die Schwerpunkte »Realität und Risiko«. Konkret sollen die im Wintersemester vorgestellten zentralen Fragestellungen und ersten Ansätze der jeweiligen Masterarbeiten nicht nur erneut aufgegriffen, aktualisiert und diskutiert werden, sondern darüber hinaus insbesondere das jeweilige Spannungsfeld aus einerseits konkreten Studien und Experimenten (»Realität«) und andererseits damit verbundenen Herausforderungen und Grenzgängen (»Risiko«) aufgezeigt werden. Dazu ist vorgesehen, dass die Studierenden ihren jeweiligen (aktualisierten) Arbeitsstand unter Verwendung unterschiedlicher (digitaler) Werkzeuge unter besonderer Berücksichtigung von »Realität und Risiko« dokumentieren und anschließend gemeinsam mit Kommiliton*innen und Lehrenden des Produktdesign während wöchentlichen Online-Kolloquien diskutieren. Hinzu kommt die Reflexion und Dokumentation in Form einer schriftlichen Hausarbeit, die zugleich als wesentliche Übung für die Dokumentation der Masterarbeit betrachtet werden kann.

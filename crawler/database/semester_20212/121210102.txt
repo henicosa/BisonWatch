@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: MEROTOP* - die Nächste. Oder _Baufeld Bauhaus _ wie wir wandelbare Orte für Gemeinschaft, Kultur und Diskurs schaffen.
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51826&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 121210102
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Architektur | Planung\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Architektur | Planung\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Architektur | Planung\r, <br/>,  , <br/>, Urbanistik, B.Sc. PO 2021\r, <br/>, Wahlmodul\r, <br/>, Urbanistik, B.Sc. PO 2020\r, <br/>, Wahlmodul
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 15:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N. :3 S: Fakultät Bauingenieurwesen,Anne-Fleur Ising :3 S: Fakultät Architektur und Urbanistik,Julia Heinemann
+# Beschreibung
+Beschreibung :3 S: *kleiner Ausschnitt eines Biotops mit durch besondere Struktur bedingter besonderer Lebensgemeinschaft

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Verräter werden. Eine Subgeschichte sozialer Bindungen
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49582&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 421150006
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Bestandteil des BA-Studienmoduls Gesellschaft von unten
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 17:00 bis 19:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Online via Moodle</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Stephan Freiherr von Gregory
+# Beschreibung
+Beschreibung :3 S: <span style=font-size: 12pt;>In der Vorlesung geht es um die Bindungen, die uns und unsere gesellschaftliche Welt zusammenhalten. Die Frage, was es mit diesen kollektiven Bindungen auf sich hat, soll hier gleichsam von der ›Unterseite›‹ des Sozialen her beleuchtet werden, nämlich ausgehend vom Ereignis des Verrats, das (stärker noch als der Mord) unmittelbar die Basis des Sozialen angreift, die Möglichkeit des kollektiven Zusammenschlusses bedroht. Gerade weil Verrat als Störung der Gemeinsamkeit auftritt, weil er für das Zerreißen des sozialen Bandes steht, lässt er sich ›symptomatisch‹ lesen: als ein Indiz, das anzeigt, wie zu einer bestimmten Zeit und in einer bestimmten historischen Konstellation die Bindung der Subjekte an sich selbst (Selbstidentität), die Bindung der Subjekte an ihresgleichen (kollektive Beziehungen) und die Bindung der Subjekte an die Wahrheit (Wahrheitsregime) funktioniert. Die Vorlesung untersucht eine Reihe von Verratskomplexen des 20. und 21. Jahrhunderts, von den stalinistischen Säuberungen der 1930er Jahre über die Kollaboration im besetzten Frankreich und die Block-Konfrontation des Kalten Krieges bis zum allmählichen Verschwinden des Verrats in den 1980er Jahren; ihren Abschluss findet sie mit der Wiederkehr des Verratsparadigmas nach dem 11. September 2001 und den aktuellen Phänomenen eines ›körperlosen‹ Verrats, der sich in den virtuellen Gemeinschaften der weltweiten Datennetze abspielt.</span>

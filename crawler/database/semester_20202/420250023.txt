@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Soziologie des Tötens
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47537&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 420250023
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: BA Projektmodul: Kultursoziologie 2
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Fmediensoziologie%2Fpersonen%2Fwiss-mitarbeiter-ekkehard-coenen-ma%2F&timestamp=1631058914137&hash=c9cc401284ff5f9e8ef040b3a68a7c6a
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 17:00 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Digital via Moodle</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Ekkehard Knopke
+# Beschreibung
+Beschreibung :3 S: Das Töten stellt einen kaum beachteten Phänomenbereich in der Soziologie dar. Verortet an der Grenze zwischen gewalt- und thanatosoziologischer Forschung, fristet es sowohl in theoretischer als auch methodologischer Hinsicht ein Schattendasein. Anhand soziologischer, historischer, ethnografischer und medienwissenschaftlicher Texte werden in diesem Seminar jedoch unterschiedliche Aspekte des Tötens ans Licht geholt und sozial- sowie gesellschaftstheoretisch reflektiert: Todesstrafen, Genozide, Amokläufe, Terrorismus, Sterbehilfe und Formen des Tötens in Fotografie und Film. Die Studierenden werden dabei auch eigenständig nach Beispielen aus der Empirie suchen, um an diesen detailliert diskutieren zu können, wie das Töten als ein hochgradig soziales Phänomen gedacht werden kann, das nicht nur eine instrumentelle, sondern auch eine symbolisch-kommunikative Funktion aufweist., <br>Das Seminar wird ausschließlich in digitaler Form via Moodle stattfinden. Zur Anmeldung senden Sie bitte eine E-Mail an: ekkehard.coenen@uni-weimar.de</br>

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Foodways: Environments, Practices, Imaginaries
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48173&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Wissenschaftliches Modul
+SWS :3 S: 3
+Veranstaltungsnummer :3 S: 320230005
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: missing,Margarita Garcia :3 S: Fakultät Kunst und Gestaltung,Alexander Schwinghammer :3 S: Fakultät Kunst und Gestaltung,Alexandra Toland :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: This seminar explores how institutions, power relations and practices shape not only the production and distribution of food but especially its - often implicit - symbolic qualities. Additional to its more or less strong nutritional qualities food is a item that also possesses specific medial dimensions, which are culturally constructed, strategically designed or appropriated, for example as counter-narratives in artworks. Cookbooks, magazines, packaging, coffeehouses as well as online-advertising are all part of the visual culture of food. Similarly, the for of social interactions or public performances may be influences by food items and conceptions towards particular food practices.

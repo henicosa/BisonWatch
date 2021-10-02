@@ -1,0 +1,38 @@
+Veranstaltungstitel :3 S: Geometrische Modellierung und technische Darstellung - Darstellende Geometrie
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=46828&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Übung
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 07:30 bis 09:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Bauingenieurwesen - Seminargruppe D - online/digital</p>,
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Bauingenieurwesen - Seminargruppe C - online/digital</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Bauingenieurwesen - Seminargruppe B - online/digital</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Bauingenieurwesen - Seminargruppe A - online/digital</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Reinhard Illge
+# Beschreibung
+Beschreibung :3 S: Eine von 2 Übungen (Übung 2: CAD) zur Vorlesung: Geometrische Modellierung und technische Darstellung des gleichnamigen Moduls!

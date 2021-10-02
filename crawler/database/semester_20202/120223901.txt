@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Contested Modernism
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48230&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 120223901
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>,  , <br/>, European Urban Studies, M.Sc. PO 2020\r, <br/>, elective module\r, <br/>, European Urban Studies, M.Sc. PO 18\r, <br/>, elective module\r, <br/>,  , <br/>, Integrated Urban Design and Development, M.Sc. PO 2020\r, <br/>, elective module\r, <br/>, Integrated Urban Design and Development, M.Sc. PO 18\r, <br/>, elective module\r, <br/>,  , <br/>, Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 2020 2-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Wahlpflichtmodul
+Erwartete Teilnehmer/-innen :3 S: 7
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N. :3 S: Fakultät Architektur und Urbanistik,Daniela Zupan
+# Beschreibung
+Beschreibung :3 S: Joining the worldwide discussion on the meaning and continuity of post-socialist transformations more than 30 years after the fall of the Berlin Wall, this seminar explores the vulnerable state of modernist heritage in former socialist countries confronted with national memory politics and market forces. At the same time, the seminar seeks to transgress colonial interpretations of “Eastern Europe” and aims to discover empowering artistic practices and strong cultural actors of the region who seek to oppose the disappearance of modernist heritage. By doing so the seminar seeks to examine the negotiation of heritage as a per se multidisciplinary endeavor and invites students of different disciplines to search for, and to develop new ways of cooperation to secure the future of architectural icons.

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Filmische\xa0Bildgestaltung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47286&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 6
+Veranstaltungsnummer :3 S: 320210054
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 14:00 bis 20:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Online-Veranstaltung</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Jörn Hintzer :3 S: Fakultät Kunst und Gestaltung,Regina Reusch :3 S: Fakultät Kunst und Gestaltung,Christoph Hertel :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N. :3 S: missing,Adam Streicher :3 S: missing,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Der Kurs richtet sich an Studierende die schon Erfahrung im Bewegtbild sammeln konnten und sich nun intensiver mit der filmischen Sprache und Bildgestaltung beschäftigen wollen. Das in drei intensiven Workshops strukturierte Fachmodul beschäftigt sich mit der Kunst der Quadrage, der Konzeption von Raum im Film und mit der optische Auflösung. Im Editing Workshop bekommen die Teilnehmer:innen einen Einblick in Montagetechniken, um dann im Color Grading Workshop die Möglichkeiten der Farbgestaltung im Bewegtbild kennenzulernen. , <br> <br/>Das Fachmodul wird an drei intensiven Workshops gestartet und begleitet. Jeder Studierende realisiert einen kurzen Film bis maximal 3 Minuten.<br/> <br/>Workshop 1<br/>Freitag, 06.11. – Sonntag, 08.11.2020Kameratechnik und Bildgestaltung<br/>Einführung und Übung<br/>Durchführung: Christoph Hertel<br/> <br/>Workshop 2<br/>Freitag, 11.12. – Samstag, 12.12.2020 Editing – technische und praktische Einführung <br/>Einführung und praktische Übung. <br/>Rechner mit installierten Schnittprogramm Premiere sind mitzubringen.<br/>Durchführung: Paloma Llambías<br/> <br/>Workshop 3<br/>Freitag, 22 .01 – Samstag, 23. 01.2021 - Color Grading <br/>Die Welt der Kurven - Einführung und Übung in die Technik und die Kunst des Color gradings<br/>Voraussetzung für die Teilnahme an dem Workshop ist das kostenlose Programm <br/>DaVinci Resolve <br/>Durchführung: Adam Streicher<br/> <br/>Mindestens eine Einzelkonsultation mit den Lehrenden, die fristgerechte Abgabe (1.3.2021) eines kurzen 30 Sek bis 3 Min Videos sowie der Besuch aller drei Workshops sind Voraussetzung für den erfolgreichen Abschluss des Fachkurses.</br>

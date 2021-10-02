@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Max and I, Max and Me
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49874&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Werk-/Fachmodul
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 321110018
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Moodle/BBB</p>, <br/>, <p> </p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Mindaugas Gapsevicius :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: In the Shared Habitats exhibitions organized by Media Environments, many works reflected on the relationship between living organisms and computing machines. This course is an attempt to question this relationship in practice: how do I connect the organism with a computing machine? How can I sense the organism, influence it, and come up with aesthetic results in this technical setup? To produce aesthetic results, we will use the Max/MSP/Jitter visual programming language. If necessary, students will be invited to use Arduino microcontrollers or other technologies to sense and manipulate the organisms. In the first half of the semester, students without Max/MSP/Jitter skills will implement simple tasks, while more experienced students will be given individual assignments. In addition to working at home, we will use an online seminar, the GMU wiki, and online tutorials. The second half of the semester will be devoted to implementing individual ideas. Students enrolled in the Shared Habitats project module are encouraged to take this course. The necessary tools will be provided. Participation in the Big Blue Button online seminar.

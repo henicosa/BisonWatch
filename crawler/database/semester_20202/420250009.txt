@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Zeichenregime der Künste und Wissenschaften
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47542&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 420250009
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: BA Studienmodul: Zeichentheorie
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Fgeschichte-und-theorie-der-kulturtechniken%2Fwillkommen%2F&timestamp=1631059232822&hash=d2badd10356b9ddad80728bd7bd1a0e4
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 17:00 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Bernhard Siegert
+# Beschreibung
+Beschreibung :3 S: Im Seminar wechseln Unterrichtseinheiten zu Grundlagen der Zeichentheorie (Semiotik, Strukturalismus, Pragmatismus, Dekonstruktion usw.) ab mit historischen Fallstudien. Diese betreffen den konkreten Zeichengebrauch in den Künsten und den Wissenschaften. Dabei interessiert uns besonders die theoretische und historische Entfaltung des Unterschieds zwischen repräsentationalen und operationalen Zeichen sowie das Verhältnis zwischen Zeichen, Signalen und Kanälen (Rauschen). Ein Schwerpunkt des Seminars wird dabei auf den Zeichenregimen der Mathematik liegen, weil sich an ihnen besonders deutlich die historischen Brüche ablesen lassen, die der Genese der digitalen Medienkultur zugrunde liegen.

@@ -1,0 +1,58 @@
+Veranstaltungstitel :3 S: Making a Film about Water with Artistic Researchh as Storytelling Methodology
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51432&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Blockveranstaltung
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Bauhaus Modul - Making a Film about water with Artistic Research as Storytelling Methodology
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.vanessaramosvelasquez.me&timestamp=1631111296886&hash=6e84460ea3fa937845c354af8958d2ed
+Sprache :3 S: englisch
+Fakultät :3 S: Lehrveranstaltungen der Bauhaus.Module
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Dieser Termin findet online statt.</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Dieser Termin findet online statt.</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Dieser Termin findet in Präsenz statt. </p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Dieser Termin findet online statt.</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Dieser Termin findet online statt.</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Dieser Termin findet in Präsenz statt. </p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Ausstellung - Ort wird bekanntgegeben</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Ausstellung - Ort wird bekannt gegeben.</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Julia Bee :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N.
+# Beschreibung
+Beschreibung :3 S: A Block Seminar joining Theory with Practice offering an introduction into the field of Artist Research (AR) as an interdisciplinary Methodology in Independent Filmmaking and the building blocks for making a short film (Theme: Water) with little to no budget. A key feature of AR in Filmmaking is that the narrative develops from ”process”, not ”plot”. AR reveals the innermost structures that build the narrative, whereby both the approaches and aspects of research become transparent. The author gets to enjoy this as revelations in their own creative process, while the public is ushered into experiencing both a perspective on a theme and the storytelling frameworks. AR welcomes methods from any field of study and is instrumental to form a collaborative bridge among disciplines and Bauhaus faculties. The course will conclude with a public exhibit of all student films.

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Zum Begreifen nah. Die Kunst der treffenden Beschreibung.
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47297&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 6
+Veranstaltungsnummer :3 S: 320210062
+Max. Teilnehmer/-innen :3 S: 16
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:00 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Online-Veranstaltung</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Stephan Ganser :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Die Kunst des Schreibens ist auch die Kunst des Beschreibens. Wie schildere ich eine Situation so, dass sich andere darin lebendig wiederfinden? Wie skizziere ich einen Charakter, der zum Mitfühlen einlädt? Wie erzähle ich, wie es ist, in von Maden durchsetzte Schokolade zu beißen? Wie bringe ich eine große Idee auf einen Bierdeckel? In drei halbtägigen Präsenzterminen und vier Online-Sessions bekommt ihr das ganze Handwerkszeug, um Dinge, Ideen, Situationen, Gefühle mit Worten treffend zu vermitteln. Der Kurs ist interaktiv, mit zahlreichen kleinen Übungen. Wir arbeiten auch auf ein Abschlussprojekt für die Winterwerkschau hin - das Thema wird von euch im ersten Kurztermin mitbestimmt.

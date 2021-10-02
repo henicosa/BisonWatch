@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Infrastruktur- und Immobilienmanagement
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50275&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Integrierte Vorlesung
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 912005
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 15
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Personen
+Personen :3 S: missing,Ansgar Bendiek :3 S: Fakultät Bauingenieurwesen,Birgit Bode
+# Beschreibung
+Beschreibung :3 S: Die Studierenden kennen die Modelle und Instrumente der Investitionen und Finanzierung von Infrastruktur- und Immobilienprojekten in Abgrenzung zur Wirtschaftlichkeitsuntersuchung und Unternehmensfinanzierung, sowie die Methoden und Verfahren der strukturierten Finanzierung und können diese auch unter Berücksichtigung projekttypischer bzw. sektorspezif ischer Besonderheiten anwenden. Darüber hinaus verfügen die Studierenden über die Grundlagen für das lebenszyklusübergreifen de, risikobewusste und wirtschaftliche Denken im Bereich des Infrastruktur_und Immobilienmanagements und ProjektControllings bzw. des Controllings von Projektgesellschaften. Die Studierenden können den Begriff der Wirtschaftlichkeit als mehrdimensionales Beurteilungskriterium wirtschaftlichen Handelns anwenden und beherrschen die verschiedenen Verfahren zur Wirtschaftlichkeitsuntersuchung für Entscheidungen bei Projekten und im Unternehmen. Sie verfügen über Fähigkeiten zum Aufbau und die Anwendung eines wirtschaftliches und finanzielles Cash-Flow Modells zur Visualisierung der qualitative und quantitative Ein- und Auszahlungen während der Laufzeit eines Projektes.

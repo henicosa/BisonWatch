@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Basic Discrete Structures
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47616&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Blockveranstaltung
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: Block
+Bemerkung :3 S: , <p>Online course, Block seminar Oct 5th to Oct 9th, 2020</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Nathalie Lang :3 S: Fakultät Bauingenieurwesen,Benjamin Burse
+# Beschreibung
+Beschreibung :3 S: Grundlegende Kenntnisse bestimmter mathematischer Strukturen sind unerlässlich für das Verständnis wichtiger Konzepte aus der Informatik. Warum ist es so schwer eine Lösung für das Traveling  Salesman Problem zu finden? Warum ist RSA ein sicheres asymetrisches Kryptosystem? In diesem Kurs werden wir einige der wichtigsten Konzepte, wie z.B. finite Felder, Graphen und Logikgrundlagen, grundlegend diskuttieren. Das Ziel ist, Studierenden eine Basis im Bereich dieser Strukturen zu vermitteln bevor das Semester losgeht, in dem eben diese Konzepte zur Anwendung kommen werden. Der Kurs besteht aus einem theoretischen Teil, wo die Themen vorgestellt werden und einem praktischen Teil, wo Aufgaben gelöst werden sollen.

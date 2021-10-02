@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Kunststoffwerkstatt
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=46790&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Werkstattkurs
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 3595032
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Uwe Kirmse
+# Beschreibung
+Beschreibung :3 S: Die Grundlagen der Kunststoffbearbeitung und Arbeitsschutz an Kunststoffbearbeitungsmaschinen. Richtlinien für das Arbeiten in den Werkstätten der Bauhausstraße 7.

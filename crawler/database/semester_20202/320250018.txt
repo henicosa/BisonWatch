@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: PCB Arts
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47921&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Werk-/Fachmodul
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 320250018
+Max. Teilnehmer/-innen :3 S: 18
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fcloud.uni-weimar.de%2Fs%2FDYdt2qX5XZM8QPd&timestamp=1631058574818&hash=c5a50cdef6d897d49d7e74a9ca9a87f7
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 15:15 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Max Neupert :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Kaum ein industrieller Prozess ist so optimiert und perfektioniert, und dabei individualisierbar und komplex wie die Produktion von Leiterplatten. Gleichzeitig ist dieser Prozess für jeden zugänglich, ob Eletroniker*in oder Hobbyist*in, Enthusiast*in oder Künstler*in - dank einem starken Wettbewerb, erschwinglichen Preisen und einfach nutzbaren Werkzeugen. Die Dateien für die Produktion können hochgeladen werden um ein sofortiges Angebot zu erhalten. Nach dem Bezahlen kann der Kunde in Echtzeit den Produktionsverlauf nachverfolgen., <br><br/></br>

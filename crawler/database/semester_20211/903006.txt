@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Urban infrastructure developement in economical underdeveloped countries
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50129&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Integrierte Vorlesung
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 903006
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fenrol%2Findex.php%3Fid%3D31363&timestamp=1631116197642&hash=4999dbc9744ef95aedd1162ea0df6a07
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Eckhard Kraft :3 S: Fakultät Bauingenieurwesen,Thomas Haupt :3 S: Fakultät Bauingenieurwesen,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: The course increases the knowledge and understanding for differing cultural and economic circumstances or boundary conditions when planning new infrastructure solutions in an international context. Students will learn how to identify structural problems and adapt technical solutions to local settings. Special attention is directed on the ability to balance the economic feasibility versus the ecological necessity of a project when developing new infrastructural solutions. Altogether the course provides insight into environmental, economic as well as socio-cultural conditions and prerequisites in non-industrialized societies. Suitable technical solutions specifically developed for local requirements are being presented and investigated. Special focus is laid on:

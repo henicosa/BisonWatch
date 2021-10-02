@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: ["\n\t\t\t\t\t\t\t\t\t\t        \t2. Kernmodul: N 54°28'13'' E 9°50'36'' - Einzelansicht\n        "]
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49727&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Entwurf
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 1110110
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, 2. Kernmodul\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, 2. Kernmodul\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, 2. Kernmodul
+Erwartete Teilnehmer/-innen :3 S: 22
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 11:30 bis 17:30 s.t.
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Informationsveranstaltung</p>,
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,keine öffentliche Person :3 S: Fakultät Architektur und Urbanistik,Heike Büttner-Hyman :3 S: Fakultät Architektur und Urbanistik,Daniel Guischard :3 S: missing,Laura Stroszeck :3 S: Fakultät Architektur und Urbanistik,Clemens Helmke
+# Beschreibung
+Beschreibung :3 S: Unser Semesterprojekt beschäftigt sich mit dem , <em>Zueinander-Bringen</em>,  und der , <em>Vielheit</em>, .

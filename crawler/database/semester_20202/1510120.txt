@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: 3. Kernmodul: Wie zusammen leben – Wohnen in Leipzig
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47984&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Entwurf
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 1510120
+Max. Teilnehmer/-innen :3 S: 45
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 18\r, <br/>, 3. Kernmodul - Grundlagen des Konstruierens\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, 3. Kernmodul - Grundlagen des Konstruierens
+Erwartete Teilnehmer/-innen :3 S: 42
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Farchitektur-und-urbanistik%2Fprofessuren%2Fwohnungsbau%2F&timestamp=1631108613317&hash=e6dfc7a394c023780812f73f57093da6
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Abschlusspräsentation digital</p>,
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Verena von Beckerath :3 S: Fakultät Architektur und Urbanistik,Jessica Christoph :3 S: Fakultät Architektur und Urbanistik,Hanna Schlösser :3 S: Fakultät Architektur und Urbanistik,Till Hoffmann
+# Beschreibung
+Beschreibung :3 S: Das Entwurfsstudio dient der Einführung in die Architektur des Wohnens unter Berücksichtigung entwurfsrelevanter konstruktiver Vertiefungen. Das Grundstück für ein mehrgeschossiges Wohnhaus für eine Baugemeinschaft befindet sich in Leipzig. Die Bearbeitung, die alle wesentlichen Dimensionen eines Projektes umfasst, erfolgt in diesem Semester neben einem Teilprojekt in Einzelarbeit grundsätzlich in Dreiergruppen und wird von wöchentlich stattfindenden Konsultationen, mehreren Kolloquien sowie Gastbeiträgen begleitet. Weiterhin ist ein Studientag in Leipzig geplant. Das Studio richtet sich an Studierende im 3. Semester im B.Sc. Architektur. Voraussetzung für die Teilnahme ist die Bereitschaft für eine intensive Arbeit im virtuellen Atelier sowie zum experimentellen Umgang mit Zeichnung, Modellbau, Fotografie und weiteren geeigneten Darstellungsmethoden.

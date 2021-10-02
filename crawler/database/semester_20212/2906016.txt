@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Secondary Hazards and Risks (land-use, site studies)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50802&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Integrierte Vorlesung
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 2906016
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fbauingenieurwesen%2Fprofessuren%2Fgeotechnik%2Flehre%2F&timestamp=1631112520556&hash=f4212d4db325e68253fa07436a08ad93
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Digital (BBB)</p>,
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Torsten Wichtmann :3 S: Fakultät Bauingenieurwesen,Guido Morgenthal :3 S: Fakultät Bauingenieurwesen,Gunther Aselmeyer
+# Beschreibung
+Beschreibung :3 S: The objective of this module is focused on deepening the skills of the students to judge the risk of a landslide (secondary hazard) in a given sloping ground caused by a primary hazard (e.g. earthquake, heavy rainfall). The students learn advanced methods for the investigation and monitoring of possibly instable soil and rock masses. They deepen their knowledge with respect to different methods of slope stability analysis under static loading and seismic impact. The students are able to study slope stability by means of the finite element method. They know various methods of slope stabilization. They know and can apply basic methods of Geotechnical Earthquake Engineering. To fix the theoretical background the students have to apply the methods learned at given tasks within a project.

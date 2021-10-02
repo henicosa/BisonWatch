@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Parametric Modeling for Architectural and Urban Design
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49850&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Übung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 120112401
+Max. Teilnehmer/-innen :3 S: 27
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Werkzeuge | Methoden\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Werkzeuge | Methoden\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Werkzeuge | Methoden\r, <br/>,  , <br/>, Urbanistik, B.Sc. PO 2020\r, <br/>, Wahlmodul\r, <br/>, Urbanistik, B.Sc. PO 14\r, <br/>, Wahlmodul
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Abdulmalik Abdulmawla :3 S: Fakultät Architektur und Urbanistik,Sven Schneider
+# Beschreibung
+Beschreibung :3 S: Parametric Modeling is a powerful tool in the architectural and urban design process. By creating models, that do not only represent the geometry but rather relationships between the geometrical elements it becomes possible to create numerous variations of a design concept. These design variants can be analysed and optimized for certain criteria. Thereby the designer gains a deeper insight into his/her design concept.

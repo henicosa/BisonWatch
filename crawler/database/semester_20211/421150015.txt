@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: „Bauhaus-Universität Weimar: Episoden des Machens“
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49640&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 421150015
+Max. Teilnehmer/-innen :3 S: 30
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Online via Moodle</p>, <br/>, <p><a href=https://moodle.uni-weimar.de/course/view.php?id=31019>https://moodle.uni-weimar.de/course/view.php?id=31019</a></p>, <br/>, <p> </p>,
+# Personen
+Personen :3 S: Fakultät Medien,Marcel Drescher
+# Beschreibung
+Beschreibung :3 S: In dieser Lehrveranstaltung erfolgt eine praktische Auseinandersetzung mit dem Phänomen des Maker Movements. Ziel ist es, verschiedene Aspekte des „Machens” an der Bauhaus-Universität Weimar aufzudecken und zu dokumentieren. Es soll eine Momentaufnahme des Maker Movements an unserer Universität entstehen. Dabei werden die Studierenden selbst zu Makern, indem sie ihre Entdeckungen und Erkenntnisse in Form eines selbstgewählten Mediums (z.B. Fotografie, Video-Dokumentation, Podcast, Interview, Portrait) festhalten. Im Rahmen der Veranstaltung werden verschiedene Kompetenzen geschult, die für die spätere berufliche Praxis von Relevanz sind (u. a. Erstellung von Konzepten, journalistisches Arbeiten, Medienproduktion, selbstorganisierte Team- und Projektarbeit, Präsentation).

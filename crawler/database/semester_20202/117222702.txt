@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Methoden der Planungswissenschaften
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=46999&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 117222702
+Max. Teilnehmer/-innen :3 S: 30
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Pflichtmodul - Planungs- und Gesellschaftswissenschaften\r, <br/>, Urbanistik, M.Sc. PO 2020 2-semestrig\r, <br/>, Pflichtmodul - Planungs- und Gesellschaftswissenschaften\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Pflichtmodul - Planungs- und Gesellschaftswissenschaften
+Erwartete Teilnehmer/-innen :3 S: 20
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Farchitektur-und-urbanistik%2Fprofessuren%2Fraumplanung-und-raumforschung%2Flehre%2F&timestamp=1631058509948&hash=48ccccfc476b09905b0c8271798ea3db
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 17:00 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Max Welch Guerra
+# Beschreibung
+Beschreibung :3 S: Die Lehrveranstaltung untersucht zwei recht unterschiedliche Gegenstände, die in der Fachwelt wenig beachtet werden – trotz ihrer Bedeutung für die räumliche Planung.

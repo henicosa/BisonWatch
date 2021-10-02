@@ -1,0 +1,22 @@
+Veranstaltungstitel :3 S: Projekt "Transfer- und Gründungsmanagement"
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50011&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 911018
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D30792&timestamp=1631115875163&hash=63119bcfa19c39fc22b8cd86b3e5dbfc
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Präsenztermine nach Ansage - ansonsten Online/Hybrid</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Sebastian Händschke :3 S: Fakultät Bauingenieurwesen,Birgit Bode
+# Beschreibung

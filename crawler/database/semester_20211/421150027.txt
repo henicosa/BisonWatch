@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Die Organisationsform der Plattform in der Medienwirtschaft
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49610&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 421150027
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p><a href=https://moodle.uni-weimar.de/course/view.php?id=30559>https://moodle.uni-weimar.de/course/view.php?id=30559</a></p>, <br/>, <p> </p>,
+# Personen
+Personen :3 S: Fakultät Medien,Christopher Buschow
+# Beschreibung
+Beschreibung :3 S: Die Organisationsform der Plattform dominiert zunehmend alle Medienteilmärkte. Spotify ist zum wichtigsten Distributionskanal für Musik geworden, während sich im Bewegtbildmarkt Netflix, Amazon Prime und Co. als zentrale Zugangskanäle zu Videoinhalten etablieren. Der Journalismus wiederum ist stark abhängig von Social-Media-Plattformen wie Facebook und Twitter, die für viele junge Menschen der wichtigste Ort sind, um Nachrichten zu konsumieren. In Plattform-Ökosystemen wie Youtube und Twitch entsteht eine neuartige „Creator-Economy“, in der einzelne Kreative und Medienschaffende ein Geschäft auf Grundlage der Infrastrukturen und Ressourcen einer Plattform aufbauen. Welche Auswirkungen hat diese zunehmende „Plattformisierung“ der Medienwirtschaft? Wie weit ist sie in einzelnen Teilmärkten der Medienwirtschaft vorangeschritten? Warum gibt es beispielsweise (noch) kein „Netflix für Nachrichten“? Die Vorlesung betrachtet Plattformen als neue Organisationsform in der Medienwirtschaft und fragt nach ihren Auswirkungen auf Branchenstrukturen, Medienproduktion sowie -nutzung. Die Studierenden lernen am Beispiel verschiedener Medienmärkte und Medienunternehmen zentrale Herausforderungen im Management digitaler Plattform-Ökosysteme zu verstehen und zu beschreiben sowie vor dem Hintergrund wissenschaftlicher Theorien zu erklären und kritisch zu reflektieren. Hierzu werden theoretische Ansätze der Organisations- und (Medien-)Managementforschung herangezogen. Die Veranstaltung richtet sich im Rahmen der Bauhaus.Module explizit an alle Studierenden der Bauhaus-Universität Weimar. Belegungsvoraussetzungen: * Erstes Vorwissen im Bereich Digitalisierung (z.B. auf wirtschaftlicher, technischer, rechtlicher oder politischer Ebene) * Ausgeprägtes (wissenschaftliches oder persönliches) Interessen an den Implikationen der Digitalisierung für Medien, Wirtschaft und Gesellschaft

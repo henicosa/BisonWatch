@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: New Black Cinema
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47586&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 420250015
+Max. Teilnehmer/-innen :3 S: 30
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: BA und MA Studienmodul: Black Theory
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Fbildtheorie%2F&timestamp=1631058550258&hash=533f8f8b393ab9c3bea98661ad523dec
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Digital via Moodle</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Katia Schwerzmann :3 S: Fakultät Medien,Manuela Klaut
+# Beschreibung
+Beschreibung :3 S: Im Seminar werden wir uns mit den Filmen des »New Black Cinema« beschäftigen und stellen uns vor dem Hintergrund der aktuellen Ereignisse und vergangener Rechtsprozesse (Die Ermordungen von Alton Sterling, Rumain Brisbon und George Floyd, der Prozess um Rodney King, u.v.a.) die Frage danach,wie Polizeigewalt gegen afroamerikanische BürgerInnen die realen, dokumentarischen Bilder struktureller Gewalt in kinematographische Bilder verwandelt - und wie diese Filme an der Rückeroberung der Geschichte durch die afroamerikanische Bevölkerung mitarbeiten. Strukturelle Gewalt und Unterdrückung müssen als solche erkannt und benannt werden, um deren Opfer aus der stereotypen Kriminalisierung lösen zu können. Daraus ergibt sich ein weiterer Punkt der kritischen Betrachtung von Filmgeschichte überhaupt, dem sich das Seminar widmen wird: Welche Arbeits- und Analysekategrorien kann man aus den Konventionen, die eine Genre vorgibt noch ziehen? Ist »Black Cinema« überhaupt ein Genre, wenn es als differenzierende Kategorie die Hautfarbe der Regisseure meint - und was wäre der Begriff, nach dem wir diese Filme als stilistische Schule oder gemeinsame kulturpolitische Perspektive der FilmemacherInnen verstehen, sehen und lesen? , <br>Sie können für das Seminar ergänzend selbst Filme vorschlagen, die wir gemeinsam auswählen. Dazu senden Sie bitte bis zum 30.10. 2020 eine E-Mail mit dem Filmtitel an manuela.klaut@uni-weimar.de</br>

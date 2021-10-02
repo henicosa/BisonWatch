@@ -1,0 +1,22 @@
+Veranstaltungstitel :3 S: Integrated Solid Waste Management
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48035&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Integrierte Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: B01-903006/01
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fbauingenieurwesen%2Fprofessuren%2Fbiotechnologie-in-der-ressourcenwirtschaft%2F&timestamp=1631058346065&hash=014c133ba024a8c879aba5bc93fbb570
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Eckhard Kraft :3 S: Fakultät Bauingenieurwesen,Thomas Haupt :3 S: Fakultät Bauingenieurwesen,keine öffentliche Person
+# Beschreibung

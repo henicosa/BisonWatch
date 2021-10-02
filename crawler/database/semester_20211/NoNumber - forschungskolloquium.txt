@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Forschungskolloquium
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49196&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Kolloquium
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 15
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fde%2Farchitektur-und-urbanistik%2Fprofessuren%2Fdenkmalpflege-und-baugeschichte%2Fforschung%2Fforschungskolloquium%2F&timestamp=1631115474837&hash=c2b9806e0f108153e84abb8dc68f51a4
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: bis
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Hans-Rudolf Meier
+# Beschreibung
+Beschreibung :3 S: Im Forschungskolloquium werden laufende aktuelle Forschungsarbeiten der MitarbeiterInnen der Professur Denkmalpflege und Baugeschichte, von Doktoranden sowie ggf. von anderen Wissenschaftlern mit Projekten zur Denkmalpflege oder Architektur- und Baugeschichte vorgestellt, <br/>, und diskutiert. Gelegentlich werden auch wichtige neue Fachbücher diskutiert.

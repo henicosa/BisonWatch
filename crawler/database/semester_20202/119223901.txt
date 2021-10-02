@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: European Cities
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=47555&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 119223901
+Max. Teilnehmer/-innen :3 S: 25
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflichtmodu - Planung\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflichtmodu - Planung\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflichtmodu - Planung\r, <br/>,  , <br/>, European Urban Studies, M.Sc. PO 2020\r, <br/>, Pflichtmodul - European Cities\r, <br/>, European Urban Studies, M.Sc. PO 18\r, <br/>, Pflichtmodul - European Cities
+Erwartete Teilnehmer/-innen :3 S: 15
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>online</p>,
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Daniela Zupan
+# Beschreibung
+Beschreibung :3 S: What is the ”European City”? How did cities in Europe develop historically? And what are trends and challenges that characterize contemporary European urban development?, <br>By engaging with these questions, the lecture provides basic and interdisciplinary knowledge on European urban development. It discusses central concepts related to the ”European City”, provides an overview of foundational research, and explores new strands in urban studies. It illustrates these developments with case studies from different European cities. In the first part, the lecture reflects on the history of urban development and the material and immaterial urban heritage in European cities, and engages with the analytical and normative dimensions of the ”European City”. In the second part, it confronts the conceptual and theoretical concepts with current socio-spatial, economic and political developments in different European cities, such as neoliberal urbanism, processes of postsocialist urban transformation or the construction of heritage.</br>

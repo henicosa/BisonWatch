@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Deutsch für Geflüchtete (Ma)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48433&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 117122803
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlmodul\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlmodul\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlmodul\r, <br/>,  , <br/>, Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 2020 2-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Wahlpflichtmodul
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2Fwww.uni-weimar.de%2Fde%2Farchitektur%2Fprofessur%2Fstadtforschung&timestamp=1631058019613&hash=62945c779160b3987cac0ec91f17b980
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: bis
+Terminrhythmus :3 S: Block
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Frank Eckardt
+# Beschreibung
+Beschreibung :3 S: Der Kurs „Deutsch für Geflüchtete“ im Rahmen der Sprachwerkstatt Wortschatz vom Netzwerk Welcome Weimar, bietet Interessierten die Chance, Deutschunterricht für und mit Geflüchteten zu gestalten, sowie ihn durchzuführen. Die Kurse finden wöchentlich 1,5 Stunden digital statt und werden je nach Zahl der Anmeldungen entweder im Tandem oder in größeren Gruppen stattfinden (erfahrungsgemäß ein bis zwei Lehrende für vier bis sieben Teilnehmende). Personen, die bereits an der Sprachwerkstatt teilgenommen haben und die den Unterricht mit Geflüchteten aus dem letzten Semester fortsetzen wollen, können das gern auf Anfrage tun.

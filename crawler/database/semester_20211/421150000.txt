@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Dämontologie
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49696&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 421150000
+Max. Teilnehmer/-innen :3 S: 25
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: Studienmodul Diversity 2
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Fmedienphilosophie%2Fwillkommen%2Fhttps%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Ffilm-und-medienwissenschaft%2F&timestamp=1631115320422&hash=3fda6f6ef01ec5b982b545d608104b3c
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 18:00 bis 20:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Lehrraum wird noch bekannt gegeben</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Rudolf Engell :3 S: Fakultät Medien,Simon Frisch
+# Beschreibung
+Beschreibung :3 S: <span style=font-size: 12pt;>Wir gehen dem Dasein der Dämonen und den Dämonen des Daseins auf den Grund. Ausgehend von den Filmen der Vorlesungsreihe und von eingehenden Lektüren der aktuellen Dämonologie und Dämontologie (Eugene Thacker, Jimena Canales u.v.a.) lernen wir das ganz, ganz andere, das Nicht-Dasein, kennen und verstehen.</span>

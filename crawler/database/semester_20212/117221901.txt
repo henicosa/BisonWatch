@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Überörtliche Planung und Ökonomie
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50987&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 117221901
+Max. Teilnehmer/-innen :3 S: 5
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Urbanistik, M.Sc. PO 2021\r, <br/>, Pflichtmodule - Bachelorvorleistungen - Wahlpflichtmodule\r, <br/>, Urbanistik, M.Sc. PO 2020 - 4-semestrig\r, <br/>, Bachelorvorleistungen - Wahlpflichtmodule\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Bachelorvorleistungen - Wahlpflichtmodule
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Farchitektur-und-urbanistik%2Fprofessuren%2Fraumplanung-und-raumforschung%2Flehre%2F&timestamp=1631112613369&hash=ca913601dd058e2cf674f6f6d6ca8bc6
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 17:00 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Hörsaal B</p>,
+# Personen
+Personen :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N. :3 S: Fakultät Architektur und Urbanistik,Max Welch Guerra
+# Beschreibung
+Beschreibung :3 S: Die Vorlesung „Stadt- und Regionalökonomie“ vermittelt die Bedeutung von gesamtgesellschaftlicher Produktion und Reproduktion für die Raumentwicklung und die Rolle der räumlichen Planung dabei. Sie führt anhand der historischen Herausbildung der Raumökonomie (Thünen u.a.) und ebenso anhand aktueller Probleme der räumlichen Entwicklung in die ökonomische Betrachtung der räumlichen Entwicklung ein. Behandelt werden Standorttheorien, regionale Wachstumstheorien, Kritik des Wachstumsbegriffs und der Wachstumsorientierung in Bezug auf Wachstums-, Schrumpfungs-, und Stagnationsräume. Raumentwicklung wird über Produktlebenszyklen, Theorie der langen Wellen, innovative Milieus und der Lernfähigkeit von Regionen erläutert. Fiskalpolitik unter besonderer Berücksichtigung föderaler Strukturen spielt ebenso eine Rolle.

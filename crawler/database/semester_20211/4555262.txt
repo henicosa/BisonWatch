@@ -1,0 +1,38 @@
+Veranstaltungstitel :3 S: Visualisierung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48910&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 3
+Veranstaltungsnummer :3 S: 4555262
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 17:00 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Übung /Lab class (Master)</p>, <br/>, <p>- taught online (live sessions) -</p>, <br/>, <p> </p>,
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 10:00 bis 12:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>schriftl. Prüfung / written exam</p>,
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Übung (Bachelor)</p>, <br/>, <p>- taught online (live sessions)-</p>, <br/>, <p> </p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Vorlesung/Lecture</p>, <br/>, <p>- taught online (live&amp;recorded)-</p>, <br/>, <p>Moodle: <a href=https://moodle.uni-weimar.de/course/view.php?id=31089>https://moodle.uni-weimar.de/course/view.php?id=31089</a></p>, <br/>, <p> </p>, <br/>, <p> </p>,
+# Personen
+Personen :3 S: Fakultät Medien,Bernd Fröhlich :3 S: Fakultät Medien,Gareth Rendle :3 S: Fakultät Medien,Joshua Reibert :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N.
+# Beschreibung
+Beschreibung :3 S: Im ersten Teil der Veranstaltung werden die wichtigsten Verfahren und Techniken aus dem Bereich der Informationsvisualisierung für folgende Datentypen vorgestellt: multi-dimensionale und hierarchische Daten, Graphen, Zeitreihen und mengenbasierte Daten. Der zweite Teil beschäftigt sich mit verschiedenen Ansätzen und Algorithmen zur Visualisierung volumetrischer und vektorieller Simulations- und Messdaten. Die Veranstaltung wird englischsprachig angeboten.

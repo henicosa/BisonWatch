@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Draußen. Ephemeres für den öffentlichen Raum
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48051&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Blockveranstaltung
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 120222201
+Max. Teilnehmer/-innen :3 S: 10
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Architektur\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Architektur\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Architektur
+Erwartete Teilnehmer/-innen :3 S: 10
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: 08:00 bis 20:00
+Terminrhythmus :3 S: Block
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Fritz Barth :3 S: Fakultät Bauingenieurwesen,Juliane Steffen
+# Beschreibung
+Beschreibung :3 S: Das Seminar findet als Präsenz-Blockveranstaltung innerhalb der vorlesungsfreien Zeit im März 2021 (08.–12.03.2021) statt. Dr. Fritz Barth wird in der gesamten Woche Konsultationen durchführen und die Stegreife täglich begleiten., <br>Es handelt sich um 3 Stegreifentwürfe in Weimar: Kiosk, Konzertmuschel, Informationspavillon - Beiläufiges mit städtebaulichem Anspruch, jeweils innerhalb eines Tages zu bewältigen.</br>

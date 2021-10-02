@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: „Bunt ist meine Lieblingsfarbe.“ Vom Farbensinn und der Farberinnerung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49572&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 421150019
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: BA-Projektmodul ”Mediale Welten 2”
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Ftheorie-medialer-welten%2F&timestamp=1631115106659&hash=542565ff40b282e6def6fa61be548874
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Digital via Moodle</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Franziska Klemstein
+# Beschreibung
+Beschreibung :3 S: In dem Seminar werden anhand der Themen Farbwahrnehmung und Farberinnerung künstlerische, ästhetische und wissenschaftsgeschichtliche Fragestellungen thematisiert. Ausgehend von dem Gropius-Zitat „Bunt ist meine Lieblingsfarbe“ werden die Verhältnisse von Kunst und Technik sowie Raum und Farbe hinsichtlich gesellschaftlicher Debatten sowie dem Zusammenhang von gestalteter Umwelt und Sinneswelt untersucht. Hierzu werden u.a. auch Hermann von Helmholtz, Max Lüscher und Dorothea Seeligmüller in die Betrachtung mit einbezogen. Auf diese Weise sollen wissenschaftsgeschichtliche und künstlerische Diskurse in Abhängigkeit medialer Brüche hinterfragt und diskutiert werden.

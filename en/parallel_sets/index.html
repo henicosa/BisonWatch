@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" type="text/css" href="/index.css" />
+    <title>BisonWatch</title>
+
+    <style>
+        text {
+            font-size: 12px;
+        }
+
+    </style>
+</head>
+
+<body>
+    <main>
+        <h1><a href="/index.html">&#8962; </a> | Kurs-Selektor </h1>
+
+        <section>
+            <p id="description">Diese Visualisierung zeigt alle Kurse der Bauhaus-Universität Weimar im aktuellen Semester. 
+                
+            </p>
+
+            
+            <svg id="legend"></svg>
+            <svg id="parallel_set"></svg>
+
+            <div>
+                <h3>Ergebnisse</h3>
+                <div id="result">
+                    <table id="resulttable">
+                    </table> 
+                </div>
+            </div>
+
+            <p>Durch die Auswahl eines Attributs (Klick auf den dazugehörigen Balken im Diagramm) werden die dazugehörigen Kurse dargestellt. 
+                Auf diese Weise kann mit Hilfe dieser Visualisierung die angebotenen Kurse nach Fakultät, Sprache, Tag und SWS gefiltert werden. </p>
+
+            <p>Kurze Tipps zur Interpretation des Diagramms:
+                <ul>
+                    <li>Beim Hovern über ein Band werden die zusammenhängenden Attribute und die Anzahl des Auftretens angezeigt. </li>
+                    <li>Durch ein Klick auf einen Balken eines Attributs, werden die Kurse angezeigt, die mit diesem Attribut zusammenhängen. 
+                        Es können beliebig viele Balken ausgewählt werden, die dann rot dargestellt werden. 
+                        Um die Auswahl aufzuheben muss der ausgewählte Balken erneut angeklickt werden.
+                    <li>Die gefilterten Kurse werden in einer Liste unter der Visualisierung angezeigt.
+                        Mit einem Klick auf den Veranstaltungstitel wird die dazugehörige Bisonseite aufgerufen.
+                        Mit einem Klick auf die lehrende Person, wird die Person im Lehrendennetzwerk angezeigt.</li>
+                </ul> 
+            </p>
+
+            
+        </section>
+
+        <div class="task">
+            <h3>Credits</h3>
+            <ul>
+                <li>D3 Examples: <a href="https://observablehq.com/@d3/zoomable-circle-packing">https://observablehq.com/@d3/zoomable-circle-packing</a></li>
+                <li>Vizualization Course: <a href="https://www.uni-weimar.de/de/medien/professuren/medieninformatik/vr/teaching/ss-2021/course-visualization/">https://www.uni-weimar.de/de/medien/professuren/medieninformatik/vr/teaching/ss-2021/course-visualization/</a></li>
+            </ul>
+        </div>
+
+        <div class="footer">
+            <p>Code (GPL-3): <a href="https://github.com/henicosa/BisonWatch">https://github.com/henicosa/BisonWatch</a></p>
+            <p>Kontakt: <a href="mailto:ludwig.david.lorenz@uni-weimar.de">ludwig.david.lorenz@uni-weimar.de</a> und
+            <a href="mailto:sophie.alice.grimme@uni-weimar.de">sophie.alice.grimme@uni-weimar.de</a></p>
+        </div>
+    </main>
+    <script type="module" src="/code/parallel_sets/main.js"></script>
+</body>
+
+</html>

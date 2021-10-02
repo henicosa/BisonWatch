@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Zwischenmenschliches Design
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48111&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Wissenschaftliches Modul
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 320230018
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 14:00 bis 16:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Johannes Lang :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Soziale Dimensionen des Designs sind in den letzten Jahren besonders virulent geworden. Dies nicht nur deshalb, weil die globalen sozialen Missstände und Ungerechtigkeiten medial vermittelt besonders sichtbar werden, sondern auch, weil sich das Verständnis sozialer Prozesse geändert hat. Es besteht mehr und mehr die Einsicht, dass soziale Prozesse nicht nur eine Angelegenheit gewissermaßen unsichtbarer makrosoziologischer „Regime“ in Politik und Wirtschaft sind und auch nicht bloß eine unsichtbare mikrosoziologische Angelegenheit unserer individuellen alltäglichen Entscheidungen als wirtschaftlicher KonsumentIn und politischer BürgerIn, sondern auch und insbesondere mit der Gestaltung der Dinge zusammenhängen., <br>Innerhalb der gestaltungsnahen Diskurse und Praktiken wird diese Tendenz unter Bezeichnungen wie „Social Design“, „Transformation Design“ oder schlicht „Gesellschaftsdesign“ verhandelt. Es wird hierbei gefragt, inwiefern Gestaltung zu einem positiven gesellschaftlichen Wandel beiträgt und beitragen kann. Implizit steht hierbei meist ein makrosoziologisches Verständnis im Vordergrund, also die Frage, welchen Anteil Gestaltung an gesamtgesellschaftlichen Veränderungen hat, in welcher Weise es Massenphänomene initiiert und reguliert, aktuelle kollektive Probleme adressieren kann oder kulturelle Identitäten bildet. <br/>In Abgrenzung zu dieser eher globalen Perspektive auf die sozial konstitutive Rolle von Gestaltung möchten wir in dem Seminar eine dezidiert mikrosoziologische Perspektive einnehmen, indem wir konkret nach der aktiven Rolle designter Dinge in der Konstituierung von zwischenmenschlichen Beziehungen fragen. Welchen Einfluss hat die Gestaltung des gegenständlichen Umfeldes auf die Art und Weise, wie wir uns wechselseitig wahrnehmen, wie wir übereinander denken und wie wir uns handelnd zueinander verhalten? Statt dem Design der Gesellschaft steht also das Design zwischenmenschlicher Beziehungen im Vordergrund des Seminars. <br/>Im Gegensatz zu meinem letzten Seminar „Gestaltete Wirklichkeit II“, das mehr philosophisch ausgerichtet war, werden wir in diesem Seminar konkrete soziale Gestaltungsprojekte und eigene empirische Beobachtungen analysieren und auf ihre zwischenmenschlichen Effekte und Implikationen hin befragen. Dies auch deshalb, da das Thema des zwischenmenschlichen Designs durch Dinge bisher noch kaum erforscht ist. Wir werden also versuchen, anhand konkreter Beispiele uns selbst theoretische Einsichten in die unterschiedlichen Aspekte von zwischenmenschlichem Design zu erarbeiten. Ergänzend zum Seminar erscheint im November im Springer VS Verlag der von Martina Fineder und mir herausgegebene Band Zwischenmenschliches Design – Sozialität und Soziabilität durch Dinge: <br/><a href=https://www.springer.com/de/book/9783658302689>https://www.springer.com/de/book/9783658302689</a></br>

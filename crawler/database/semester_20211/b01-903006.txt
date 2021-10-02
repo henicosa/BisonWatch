@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Stoffstrommanagement
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49046&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Integrierte Vorlesung
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: B01-903006
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D30803&timestamp=1631116107993&hash=474f93c1adc947dadfcd8992b30c760c
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Eckhard Kraft :3 S: Fakultät Bauingenieurwesen,Thomas Haupt :3 S: Fakultät Bauingenieurwesen,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Ziel der Vorlesung ist anthropogene Stoffwechselprozesse aufzuzeigen und die entstehenden Materialflüsse mit etablierten Bilanzierungsmethoden zu analysieren. Die Kursteilnehmer erlernen die Fähigkeit, Stoffe und Güter im Sinne von Materialströmen unabhängig und systematisch zu betrachten. Sie kennen anschließend die Methoden zur Beschreibung und Bewertung regionaler und betrieblicher Stoffhaushaltssysteme und sind befähigt, Stoffbilanzen durchzuführen sowie Wachstums- und Prognosemodelle zu erstellen.

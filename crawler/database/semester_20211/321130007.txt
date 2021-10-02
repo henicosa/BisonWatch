@@ -1,0 +1,38 @@
+Veranstaltungstitel :3 S: Diverse Bauhaus: Erweiterung einer Rassismus-kritischen Perspektive auf alle Formen von Diskriminierung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49952&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Wissenschaftliches Modul
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 321130007
+Max. Teilnehmer/-innen :3 S: 35
+Semester :3 S: SoSe 2021
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Moodle &amp; BigBlueButton</p>,
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:00 bis 12:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Kickoff</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Alexandra Toland :3 S: Fakultät Medien,Julia Bee :3 S: missing,Margarita Garcia :3 S: Universitätsleitung /  Universitätsverwaltung,Anke Schulze :3 S: Zentrale Einrichtungen,Miriam Benteler :3 S: Zentrale Einrichtungen,Michael Wallner :3 S: Zentrale Einrichtungen,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: The Bauhaus University enacted in 2019 anti-discrimination guidelines prohibiting discrimination due to: age, gender, ethnic or social background, disability, sexual orientation, and religious and political views. How do these values fit into our society, and into our current learning and personal priorities and goals? How can we better reflect an anti-discriminatory stance and a diverse Bauhaus in our public and personal lives?

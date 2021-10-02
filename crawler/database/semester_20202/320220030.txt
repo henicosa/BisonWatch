@@ -1,0 +1,38 @@
+Veranstaltungstitel :3 S: THE TROUBLE WITH HISTORY. Art, Memory, Monuments
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=48015&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 320220030
+Max. Teilnehmer/-innen :3 S: 19
+Semester :3 S: WiSe 2020/21
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 19
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 14:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 13:30 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 10:00 bis 17:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 10:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Danica Dakic-Trogemann :3 S: Fakultät Kunst und Gestaltung,Ina Weise :3 S: Fakultät Kunst und Gestaltung,Raul Walch :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Wie können Orte der Geschichte als Bühne für die Auseinandersetzung über zeitgenössische künstlerische, politische und gesellschaftliche Fragestellungen aktiviert werden? Wie kann es gelingen, einer Musealisierung eines historisch so bedeutsamen Ereignisses wie der Friedlichen Revolution von 1989 die Auseinandersetzung mit gegenwärtigen oder zukünftigen politisch-gesellschaftlichen Realitäten entgegenzusetzen? Oder wie können die Potenziale eines zu entstehenden „Forums für Freiheit und Bürgerrechte“ für die Zukunft aktiviert werden? Nach einem einführenden Workshop von Kunsthistorikerin und Kuratorin Bojana Pejic unter dem Titel „Monuments, Memory and the Aftermath: Why do monuments fall down?“ werden die bereits im Rahmen des Semesterprojektes MINIMENTS behandelten Fragestellungen vertieft und weitergeführt. Durch eine Reihe von interdisziplinären Workshops und Vorträgen werden komplexe Themen wie Geschichte, Erinnerung und Aktivismus hinterfragt und künstlerisch erforscht. In einem Workshop mit Gastperformerin und Schauspielerin Amila Terzimehic werden „(Un)disciplined body“-Konzepte performativ erprobt.
