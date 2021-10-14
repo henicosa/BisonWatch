@@ -208,3 +208,10 @@ span a {
     position: absolute;
     top: 20;
 }
+
+#footer_item {
+  display:inline;
+  float:none;
+  padding-left: 10%;
+  padding-right: 10%;
+}
