@@ -12,14 +12,14 @@ import marked from "marked";
 import whatwhyhow from "./whatwhyhow.md";
 import { parallelcoordinates } from "./parallelcoordinates";*/
 
-var dataset = "/data/bisondata20212.csv"
+var dataset = "../../data/bisondata20212.csv"
 
 const urlSearchParams = new URLSearchParams(window.location.search);
 var historic_data = urlSearchParams.get('historic');
 if (historic_data != undefined && historic_data == "yes") {
   historic_data = true
   d3.select("#historic")._groups[0][0].checked = true
-  dataset = "/data/bisondata.csv"
+  dataset = "../../data/bisondata.csv"
   d3.select("#description").text("This visualisation shows the lecturers of the Bauhaus University and their shared courses since and including winter semester 2019/20.")
 } else historic_data = false
 
@@ -97,7 +97,7 @@ loadBisonDataset(dataset).then((bisond) => {
     if (d3.select("#historic")._groups[0][0].checked) {
       window.open("?historic=yes", "_top")
     } else {
-      window.open("/en/lecturer_network", "_top")
+      window.open("../../en/lecturer_network", "_top")
     }  
   });
 
