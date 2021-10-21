@@ -13,7 +13,7 @@ import { parallelcoordinates } from "./parallelcoordinates";*/
 
 
 // Laden der Bisondaten
-loadBisonDataset("/data/bisondata20212.csv").then((bisond) => {
+loadBisonDataset("../../data/bisondata20212.csv").then((bisond) => {
   var height = 500
   var width = 932
 
@@ -94,7 +94,7 @@ function update(svg, attributeSelect, bisond, height, width, translate) {
   var margin = ({top: 80, right: 0, bottom: 150, left: 40})
   var color = "steelblue"
 
-  console.log(svg)
+
   svg.selectAll("g").remove()
 
   const attribute = translate(attributeSelect.property("value"));
@@ -150,12 +150,12 @@ function update(svg, attributeSelect, bisond, height, width, translate) {
       , Sonstiges: roll.get("Sonstiges")!= undefined ? roll.get("Sonstiges") : 0} 
     }
   )
-  console.log(Object.keys(data[0]))
+
   var categories = ["AU", "KG", "M", "B", "Sonstiges"]
   var stack = d3.stack()
     .keys(categories)
 
-  console.log(data)
+
 
   
   if (attribute == "day") data = data.sort((a, b) => {return sorter[a.name] > sorter[b.name]})
@@ -202,7 +202,6 @@ function update(svg, attributeSelect, bisond, height, width, translate) {
         .text(data.y))
 
   var cdata = stack(data)
-  console.log(data)
 
   const groups = svg.append('g')
   // Each layer of the stack goes in a group

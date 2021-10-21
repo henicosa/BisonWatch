@@ -4,13 +4,13 @@ import { loadTitanicDataset } from "../titanic";
 import { loadBisonDataset } from "../bison";
 import d3_colorLegend from "https://api.observablehq.com/@d3/color-legend.js?v=3"
 
-var dataset = "/data/bisondata20212.csv"
+var dataset = "../../data/bisondata20212.csv"
 
 const urlSearchParams = new URLSearchParams(window.location.search);
 var historic_data = urlSearchParams.get('historic');
 if (historic_data != undefined && historic_data == "yes") {
   historic_data = true
-  dataset = "/data/bisondata.csv"
+  dataset = "../../data/bisondata.csv"
   d3.select("#description").text("Diese Visualisierung zeigt alle Kurse der Bauhaus-Universität seit einschließlich WiSe 2019/20.")
 } else historic_data = false
 //
@@ -45,7 +45,7 @@ loadBisonDataset(dataset).then((bisond) => {
     description.append("c").text("Diese Visualisierung zeigt alle Kurse von ")
     description.append("strong").text(searchParam)
     description.append("c").text(historic_data ? " seit einschließlich WiSe 2019/20. (" : " im aktuellen Semester. (")
-    description.append("a").attr("href", "/de/parallel_sets").text("Auswahl aufheben")
+    description.append("a").attr("href", "../../de/parallel_sets").text("Auswahl aufheben")
     description.append("c").text(")")
     keys = ["courseType", "language", "day", "sws"]
     var color_keys = []
