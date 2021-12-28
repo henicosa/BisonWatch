@@ -1,6 +1,10 @@
 <img src="public/bisonwatch logo.svg" alt="BisonWatch Logo" height="170px">
 
 Interface for visualizing and exploring the Bauhaus university's course catalog
+
+## Service
+You can check the running instance on: https://www.uni-weimar.de/bisonwatch/
+
 ## Features
 The interface supports various visualizations.
 
