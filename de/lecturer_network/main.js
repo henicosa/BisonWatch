@@ -26,11 +26,13 @@ if (historic_data != undefined && historic_data == "yes") {
 // Laden der Bison-Daten
 loadBisonDataset(dataset).then((bisond) => {
 
-  // generate base url to the lecturer network visualisation
+  // generate base url to the parralel sets visualisation
   var selector_url = window.location.toString().split("/")
-  if (selector_url[selector_url.length -1] == "") selector_url.pop()
-    selector_url.pop()
-  selector_url.push("parallel_sets")
+  // pop query string
+  selector_url.pop()
+  // pop visualiser reference
+  selector_url.pop()
+  selector_url.push("parallel_sets/")
   selector_url = new URL(selector_url.join("/"))
 
   var blacklist = ["N.N", "N.N.", " N.N.", "missing", "keine öffentliche Person", " ", ""]

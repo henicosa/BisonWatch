@@ -179,7 +179,7 @@ loadBisonDataset(dataset).then((bisond) => {
     "So." : "Su.",
     "missing" : "Not specified", 
     "Fakultät Bauingenieurwesen" : "Faculty of Civil Engineering",
-    "Fakultät Architektur und Urbanistik" : "Faculty of Architecture and Urban Studies",
+    "Fakultät Architektur und Urbanistik" : "Faculty of Architecture and Urbanism",
     "Fakultät Medien" : "Faculty of Medien",
     "Fakultät Kunst und Gestaltung" : "Faculty of Art and Design",
     "Zentrale Veranstaltungen der Universität" : "Central events of the university",
@@ -346,11 +346,13 @@ loadBisonDataset(dataset).then((bisond) => {
 
       // generate base url to the lecturer network visualisation
       var lecturer_network_url = window.location.toString().split("/")
-      if (lecturer_network_url[lecturer_network_url.length -1] == "") lecturer_network_url.pop()
-      lecturer_network_url.pop()
-      lecturer_network_url.push("lecturer_network")
-      lecturer_network_url = new URL(lecturer_network_url.join("/"))   
-
+	  // pop query string
+	  lecturer_network_url.pop()
+	  // pop visualiser reference
+	  lecturer_network_url.pop()
+	  lecturer_network_url.push("lecturer_network/")
+	  lecturer_network_url = new URL(lecturer_network_url.join("/"))
+	  
       // generate entry for each course in the selection
       selection.forEach(course => {
         var table_row = table.append("tr")
