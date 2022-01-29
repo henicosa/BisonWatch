@@ -26,11 +26,13 @@ if (historic_data != undefined && historic_data == "yes") {
 // Laden der Bison-Daten
 loadBisonDataset(dataset).then((bisond) => {
 
-  // generate base url to the lecturer network visualisation
+  // generate base url to the parralel sets visualisation
   var selector_url = window.location.toString().split("/")
-  if (selector_url[selector_url.length -1] == "") selector_url.pop()
-    selector_url.pop()
-  selector_url.push("parallel_sets")
+  // pop query string
+  selector_url.pop()
+  // pop visualiser reference
+  selector_url.pop()
+  selector_url.push("parallel_sets/")
   selector_url = new URL(selector_url.join("/"))
 
   var blacklist = ["N.N", "N.N.", " N.N.", "missing", "keine öffentliche Person", " ", ""]
@@ -44,7 +46,7 @@ loadBisonDataset(dataset).then((bisond) => {
   svg2.append("circle").attr("cx",10).attr("cy",65).attr("r", 6).style("fill", "#94C11C")
   svg2.append("circle").attr("cx",10).attr("cy",85).attr("r", 6).style("fill", "#006B94")
   svg2.append("circle").attr("cx",10).attr("cy",105).attr("r", 6).style("fill", "grey")
-  svg2.append("text").attr("x", 20).attr("y", 30).text("Faculty of Architecture and Urban Studies")
+  svg2.append("text").attr("x", 20).attr("y", 30).text("Faculty of Architecture and Urbanism")
   svg2.append("text").attr("x", 20).attr("y", 50).text("Faculty of Civil Engineering").attr("alignment-baseline","middle")
   svg2.append("text").attr("x", 20).attr("y", 70).text("Faculty of Art and Design",).attr("alignment-baseline","middle")
   svg2.append("text").attr("x", 20).attr("y", 90).text("Faculty of Media").attr("alignment-baseline","middle")
@@ -309,7 +311,7 @@ loadBisonDataset(dataset).then((bisond) => {
     lecturer_force_selected_name = ""
     d3.select("#tip").select("div").remove()
     d3.select("#search_input").property("value", "")
-    d3.select("#description").text("This visualisation shows the lecturers of the Bauhaus University and their shared courses" + (historic_data ? " since and including winter semester 2019/20."  : " in the current semester."))
+    d3.select("#description").text("This visualisation shows the lecturers of the Bauhaus-Universität and their shared courses" + (historic_data ? " since and including winter semester 2019/20."  : " in the current semester."))
   }
   
 

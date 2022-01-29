@@ -56,7 +56,7 @@ loadBisonDataset("../../data/bisondata20212.csv").then((bisond) => {
     "So." : "Su.",
     "missing" : "Not specified", 
     "Fakultät Bauingenieurwesen" : "Faculty of Civil Engineering",
-    "Fakultät Architektur und Urbanistik" : "Faculty of Architecture and Urban Studies",
+    "Fakultät Architektur und Urbanistik" : "Faculty of Architecture and Urbanism",
     "Fakultät Medien" : "Faculty of Medien",
     "Fakultät Kunst und Gestaltung" : "Faculty of Art and Design",
     "Zentrale Veranstaltungen der Universität" : "Central events of the university",

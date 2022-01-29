@@ -45,7 +45,7 @@ loadBisonDataset(dataset).then((bisond) => {
     description.append("c").text("Diese Visualisierung zeigt alle Kurse von ")
     description.append("strong").text(searchParam)
     description.append("c").text(historic_data ? " seit einschließlich WiSe 2019/20. (" : " im aktuellen Semester. (")
-    description.append("a").attr("href", "../../de/parallel_sets").text("Auswahl aufheben")
+    description.append("a").attr("href", "../../de/parallel_sets/").text("Auswahl aufheben")
     description.append("c").text(")")
     keys = ["courseType", "language", "day", "sws"]
     var color_keys = []
@@ -321,11 +321,15 @@ loadBisonDataset(dataset).then((bisond) => {
     } else {
 
       // generate base url to the lecturer network visualisation
-      var lecturer_network_url = window.location.toString().split("/")
-      if (lecturer_network_url[lecturer_network_url.length -1] == "") lecturer_network_url.pop()
-      lecturer_network_url.pop()
-      lecturer_network_url.push("lecturer_network")
-      lecturer_network_url = new URL(lecturer_network_url.join("/"))   
+      // generate base url to the parralel sets visualisation
+	  var lecturer_network_url = window.location.toString().split("/")
+	  // pop query string
+	  lecturer_network_url.pop()
+	  // pop visualiser reference
+	  lecturer_network_url.pop()
+	  lecturer_network_url.push("lecturer_network/")
+	  lecturer_network_url = new URL(lecturer_network_url.join("/"))
+	
 
       // generate entry for each course in the selection
       selection.forEach(course => {
