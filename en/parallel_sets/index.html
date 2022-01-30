@@ -6,6 +6,7 @@
     <link rel="icon" type="image/svg+xml" href="../../favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" type="text/css" href="../../index.css" />
+    <link rel="stylesheet" type="text/css" href="../../w3.css">
     <title>BisonWatch</title>
 
     <style>
@@ -19,15 +20,18 @@
 <body>
     <main>
         <div class="header"> EN/<a href="../../de/parallel_sets/">DE</a> </div>
+        
+        <div class="w3-container">
         <h1><a href="../../en/">&#8962; </a> | Course selector </h1>
 
         <section>
             
             <p id="description">This visualisation shows all courses at Bauhaus-Universität Weimar in the current semester. </p>
 
-            
-            <svg id="legend"></svg>
-            <svg id="parallel_set"></svg>
+            <div>
+                <svg id="legend"></svg>
+                <svg id="parallel_set"></svg>
+            </div>
 
             <div>
                 <h3>Results</h3>
@@ -67,8 +71,10 @@
             <p>Code (GPL-3): <a href="https://github.com/henicosa/BisonWatch">https://github.com/henicosa/BisonWatch</a></p>
             <p>Contact: <a href="mailto:ludwig.david.lorenz@uni-weimar.de">ludwig.david.lorenz@uni-weimar.de</a> and <a href="mailto:sophie.alice.grimme@uni-weimar.de">sophie.alice.grimme@uni-weimar.de</a></p>
             <br>
-            <div id="footer_item"><a href="https://www.uni-weimar.de/de/fs/impressum/">Legal notice</a></div> <div id="footer_item"><a href="https://www.uni-weimar.de/de/fs/datenschutz/">Data protection</a></div>
+            <div id="footer_item"><a href="https://www.uni-weimar.de/de/fs/impressum/">Legal notice</a></div> 
+            <div id="footer_item"><a href="https://www.uni-weimar.de/de/fs/datenschutz/">Data protection</a></div>
         </div>
+    </div>
     </main>
     <script type="module" src="main.js"></script>
 </body>

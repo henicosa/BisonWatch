@@ -6,6 +6,7 @@
     <link rel="icon" type="image/svg+xml" href="../../favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" type="text/css" href="../../index.css" />
+    <link rel="stylesheet" type="text/css" href="../../w3.css">
     <title>BisonWatch - Lecturer Network</title>
 
     <style>
@@ -19,52 +20,63 @@
 <body>
     <main>
         <div class="header"> EN/<a href="../../de/lecturer_network/">DE</a> </div>
-        <h1><a href="../../en/">&#8962; </a> | lecturer network</h1>
+        
+        <div class="w3-container">
+            <h1><a href="../../en/">&#8962; </a> | lecturer network</h1>
 
+                
             <p id="description">This visualisation shows the Bauhaus-Universität lecturers and their shared courses in the current semester. </p>
-            <center>Find a lecturer: <input id="search_input" list="search"> </center>
-            
-            <svg id="lecturer_network"></svg>
-            
-            <div>
-                <svg id= "legend" height=120 width=250></svg> 
-            </div>       
-            
-            <datalist id="search">
-            </datalist> 
+            <div class="w3-card-4 w3-margin">  
 
-            <p>This visualisation shows the network of course trainers at the Bauhaus-Universität Weimar. <br \>
-                The more courses are led by one person, the bigger is that person's node in the network. 
-                If a course is led by several people, these people are connected with edges in the network.
-                The closer two people are to each other, the more courses they manage together. 
-            </p>
+                <div class="w3-round w3-padding-16 w3-light-gray">
+                    <center>Find a lecturer: <input id="search_input" list="search"> </center>
+                </div>
 
-            <input type="checkbox" id="historic" value="bool">
-            <label for="historic"> Include course data since WiSe 2019/20 in the visualisation.</label>
+                <svg id="lecturer_network"></svg>
+         
 
-            <p>Short tips on how to interpret the diagram:
+                <div>
+                    <svg id= "legend" height=120 width=250></svg> 
+                </div>    
+            </div>     
+                
+                <datalist id="search">
+                </datalist> 
+
+                <p>This visualisation shows the network of course trainers at the Bauhaus-Universität Weimar. <br \>
+                    The more courses are led by one person, the bigger is that person's node in the network. 
+                    If a course is led by several people, these people are connected with edges in the network.
+                    The closer two people are to each other, the more courses they manage together. 
+                </p>
+                <div class="task w3-padding">
+                    <input class="w3-form" type="checkbox" id="historic" value="bool">
+                    <label for="historic"> Include course data since WiSe 2019/20 in the visualisation.</label>
+                </div>
+                
+                <p>Short tips on how to interpret the diagram:
+                    <ul>
+                        <li>The diagram can be zoomed into by turning the mouse wheel or a finger pinch. And the current view can be moved by holding and pressing the mouse button.</li>
+                        <li>A specific teacher can be selected via the search field. The teacher is coloured red in the network and all persons who are not connected to the teacher are greyed out.</li>
+                        <li>If no specific teacher is selected in the search field, hovering over a person will display the person's name and highlight all persons associated with that person.</li>
+                        <li>By selecting a person, a link is displayed in the headline that leads to the listing of all events of this person.</li>
+                    </ul>
+                </p>
+            </section>
+
+            <div class="task">
+                <h3>Credits</h3>
                 <ul>
-                    <li>The diagram can be zoomed into by turning the mouse wheel or a finger pinch. And the current view can be moved by holding and pressing the mouse button.</li>
-                    <li>A specific teacher can be selected via the search field. The teacher is coloured red in the network and all persons who are not connected to the teacher are greyed out.</li>
-                    <li>If no specific teacher is selected in the search field, hovering over a person will display the person's name and highlight all persons associated with that person.</li>
-                    <li>By selecting a person, a link is displayed in the headline that leads to the listing of all events of this person.</li>
+                    <li>Disjoint Force-Directed Graph by Mike Bostock: <a href="https://observablehq.com/@d3/disjoint-force-directed-graph">https://observablehq.com/@d3/disjoint-force-directed-graph</a></li>
+                    <li>Vizualisation Course: <a href="https://www.uni-weimar.de/de/medien/professuren/medieninformatik/vr/teaching/ss-2021/course-visualization/">https://www.uni-weimar.de/de/medien/professuren/medieninformatik/vr/teaching/ss-2021/course-visualization/</a></li>
                 </ul>
-            </p>
-        </section>
+            </div>
 
-        <div class="task">
-            <h3>Credits</h3>
-            <ul>
-                <li>Disjoint Force-Directed Graph by Mike Bostock: <a href="https://observablehq.com/@d3/disjoint-force-directed-graph">https://observablehq.com/@d3/disjoint-force-directed-graph</a></li>
-                <li>Vizualisation Course: <a href="https://www.uni-weimar.de/de/medien/professuren/medieninformatik/vr/teaching/ss-2021/course-visualization/">https://www.uni-weimar.de/de/medien/professuren/medieninformatik/vr/teaching/ss-2021/course-visualization/</a></li>
-            </ul>
-        </div>
-
-        <div class="footer">
-            <p>Code (GPL-3): <a href="https://github.com/henicosa/BisonWatch">https://github.com/henicosa/BisonWatch</a></p>
-            <p>Contact: <a href="mailto:ludwig.david.lorenz@uni-weimar.de">ludwig.david.lorenz@uni-weimar.de</a> and <a href="mailto:sophie.alice.grimme@uni-weimar.de">sophie.alice.grimme@uni-weimar.de</a></p>
-            <br>
-            <div id="footer_item"><a href="https://www.uni-weimar.de/de/fs/impressum/">Legal notice</a></div> <div id="footer_item"><a href="https://www.uni-weimar.de/de/fs/datenschutz/">Data protection</a></div>
+            <div class="footer">
+                <p>Code (GPL-3): <a href="https://github.com/henicosa/BisonWatch">https://github.com/henicosa/BisonWatch</a></p>
+                <p>Contact: <a href="mailto:ludwig.david.lorenz@uni-weimar.de">ludwig.david.lorenz@uni-weimar.de</a> and <a href="mailto:sophie.alice.grimme@uni-weimar.de">sophie.alice.grimme@uni-weimar.de</a></p>
+                <br>
+                <div id="footer_item"><a href="https://www.uni-weimar.de/de/fs/impressum/">Legal notice</a></div> <div id="footer_item"><a href="https://www.uni-weimar.de/de/fs/datenschutz/">Data protection</a></div>
+            </div>
         </div>
     </main>
     <script type="module" src="main.js"></script>

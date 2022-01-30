@@ -1,207 +1,213 @@
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
-    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
     font-size: 1.2rem;
     font-weight: 400;
 }
 
 main {
-  max-width: 1000px;
-  margin: 0 auto;
+    max-width: 1000px;
+    margin: 0 auto;
 }
 
 a {
-  color: #512DA8;
-  text-decoration: none;
+    color: #512DA8;
+    text-decoration: none;
 }
 
 a:hover {
-  text-decoration: underline;
+    text-decoration: underline;
 }
 
 a:visited {
-  color: #311B92;
+    color: #311B92;
 }
 
 h1 {
-  font-size: 3rem;
-  font-weight: 400;
-  margin: 3rem 0 1rem 0;
+    font-size: 3rem;
+    font-weight: 400;
+    margin: 3rem 0 1rem 0;
 }
 
 h2 {
-  font-size: 2.5rem;
-  font-weight: 400;
-  margin: 2rem 0 1rem 0;
+    font-size: 2.5rem;
+    font-weight: 400;
+    margin: 2rem 0 1rem 0;
 }
 
 h3 {
-  font-size: 2rem;
-  font-weight: 400;
-  margin: 1rem 0 1rem 0;
+    font-size: 2rem;
+    font-weight: 400;
+    margin: 1rem 0 1rem 0;
 }
 
 table {
-  width: 100%;
-  border: none;
+    width: 100%;
+    border: none;
 }
 
 th,
 td {
-  border-bottom: 1px solid #ddd;
-  padding: 0 5px;
+    border-bottom: 1px solid #ddd;
+    padding: 0 5px;
 }
 
 th {
-  text-align: left;
-  text-transform: uppercase;
-  font-weight: 500;
+    text-align: left;
+    text-transform: uppercase;
+    font-weight: 500;
 }
 
-td > span {
-  padding: 1px 5px;
-  margin: 0px 10px;
+td>span {
+    padding: 1px 5px;
+    margin: 0px 10px;
 }
 
 span.tag {
-  display: inline;
-  padding: 6px 10px;
-  border-radius: 5px;
-  background-color: black;
-  color: white;
-  justify-content: center;
+    display: inline;
+    padding: 6px 10px;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    justify-content: center;
 }
 
 code {
-  font-family: monospace;
-  font-size: 1.1rem;
-  background-color: #B0BEC5;
-  color: black;
-  border-radius: 4px;
-  padding: 0.1rem 0.2rem;
+    font-family: monospace;
+    font-size: 1.1rem;
+    background-color: #B0BEC5;
+    color: black;
+    border-radius: 4px;
+    padding: 0.1rem 0.2rem;
 }
 
 div.faq {
-  padding: 0.2rem 1rem 1rem 1rem;
-  margin-top: 2rem;
-  margin-bottom: 2rem;
-  margin-right: 2rem;
-  margin-left: 2rem;
-  border-radius: 6px;
-  background-color: #CFD8DC;
+    padding: 0.2rem 1rem 1rem 1rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    margin-right: 2rem;
+    margin-left: 2rem;
+    border-radius: 6px;
+    background-color: #CFD8DC;
 }
 
 div.task {
-  padding: 0.1rem 1.2rem;
-  margin: 2rem 0;
-  border-radius: 6px;
-  background-color: #CFD8DC;
+    padding: 0.1rem 1.2rem;
+    margin: 2rem 0;
+    border-radius: 6px;
+    background-color: #CFD8DC;
 }
 
 span.monospace {
-  font-family: monospace;
+    font-family: monospace;
 }
 
 li {
-  margin-top: 5px;
+    margin-top: 5px;
 }
 
 div.footer {
-  padding: 0.1rem 1.2rem;
-  position: static;
-  margin-top: 100px;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  background-color: #CFD8DC;
-  text-align: center;
+    padding: 0.1rem 1.2rem;
+    position: static;
+    margin-top: 100px;
+    padding-bottom: 1em;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #CFD8DC;
+    text-align: center;
 }
 
 div.header {
-  position: static;
-  left: 0;
-  margin-top: 10px;
-  bottom: 0;
-  width: 100%;
-  text-align: right;
+    position: static;
+    left: 0;
+    margin-top: 10px;
+    bottom: 0;
+    width: 100%;
+    text-align: right;
 }
-
 
 select {
-  width: 20%;
-  padding: 4px 15px;
-  border: 1px solid grey;
-  border-radius: 4px;
-  background-color: whitesmoke;
+    width: 20%;
+    padding: 4px 15px;
+    border: 1px solid grey;
+    border-radius: 4px;
+    background-color: whitesmoke;
 }
+
 
 /* Referenz: https://webdeasy.de/top-css-buttons/ */
 
 .button {
-  display: inline-block;
-  padding: 0.75rem 1.25rem;
-  border-radius: 10rem;
-  color: #fff;
-  width: 21rem;
-  text-transform: uppercase;
-  font-size: 1rem;
-  letter-spacing: 0.15rem;
-  transition: all 0.3s;
-  position: relative;
-  overflow: hidden;
-  z-index: 1;
+    display: inline-block;
+    padding: 0.75rem 1.25rem;
+    border-radius: 10rem;
+    color: #fff;
+    width: 21rem;
+    text-transform: uppercase;
+    font-size: 1rem;
+    letter-spacing: 0.15rem;
+    transition: all 0.3s;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
 }
 
 .button:after {
-  content: "";
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: #0cf;
-  border-radius: 10rem;
-  z-index: -2;
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #0cf;
+    border-radius: 10rem;
+    z-index: -2;
 }
+
 .button:before {
-  content: "";
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 0%;
-  height: 100%;
-  background-color: #008fb3;
-  transition: all 0.3s;
-  border-radius: 10rem;
-  z-index: -1;
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0%;
+    height: 100%;
+    background-color: #008fb3;
+    transition: all 0.3s;
+    border-radius: 10rem;
+    z-index: -1;
 }
+
 .button:hover {
-  color: #fff;
+    color: #fff;
 }
+
 .button:hover:before {
-  width: 100%;
+    width: 100%;
 }
 
 .container {
-  padding-top: 50px;
-  margin: 0 auto;
-  width: 100%;
-  text-align: center;
+    padding-top: 50px;
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
 }
 
 span {
-  display: block;
-  margin-top: 2rem;
-  font-size: 0.7rem;
-  color: #777;
-}
-span a {
-  font-size: 0.7rem;
-  color: #999;
-  text-decoration: underline;
+    display: block;
+    margin-top: 2rem;
+    font-size: 0.7rem;
+    color: #777;
 }
 
+span a {
+    font-size: 0.7rem;
+    color: #999;
+    text-decoration: underline;
+}
+
+
 /* Pseudo elements for icons */
+
 .icon {
     display: block;
     text-align: center;
@@ -210,8 +216,8 @@ span a {
 }
 
 #footer_item {
-  display:inline;
-  float:none;
-  padding-left: 10%;
-  padding-right: 10%;
+    display: inline;
+    float: none;
+    padding-left: 10%;
+    padding-right: 10%;
 }

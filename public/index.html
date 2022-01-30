@@ -2,74 +2,73 @@
 <html lang="en">
 
 <head>
-  <meta charset="utf-8" />
-  <link rel="icon" type="image/svg+xml" href="favicon.svg" />
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="stylesheet" type="text/css" href="index.css" />
-  <title>BisonWatch</title>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" type="text/css" href="index.css" />
+    <link rel="stylesheet" type="text/css" href="w3.css">
+    <title>BisonWatch</title>
 </head>
 
 <body>
-  <main>
-    <div class="header">
-      <a href="en/">EN</a>/DE
-    </div>
-    <figure><img src="bisonwatch logo.svg" height="200" width="1000"></figure>
-    
-    <section>
-      <p id="description">Diese Visualisierungen veranschaulichen die Daten des Bisonportals der Bauhaus-Universität Weimar in verschiedenen Zusammenhängen. </p>
-    </section>      
-    <ol> 
-      <center>Du willst... <br /> </center>
-      <div class="container">        
-      <a href="de/parallel_sets/" class="button"> <i class="icon fa fa-indent"></i>...Kurse filtern</a><br><br>
-      <a href="de/lecturer_network/" class="button"> <i class="icon fa fa-spinner"></i>...Lehrende erforschen</a><br><br>
-      <a href="de/bar_chart/" class="button"> <i class="icon fa fa-bar-chart"></i>...Fakultäten vergleichen</a><br><br>
-      </div>  
-   </ol>
+    <main>
+        <div class="header">
+            <a href="en/">EN</a>/DE
+        </div>
+        <div class="w3-container">
+            <div class="w3-container"><img src="bisonwatch logo.svg" height="30%" width="100%"></div>
 
-  <div class="faq">
-    <h3>Wie benutze ich BisonWatch?</h3>
-    Wir haben dafür ein kleines Video auf Englisch produziert: <br />
-    <div style="padding:56.25% 0 0 0 ; margin-top: 0.5rem; position:relative;"><iframe src="https://player.vimeo.com/video/607184662?h=e092cd8c71&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="demo bisonwatch.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-  </div>
+            <div class="w3-panel w3-pale-green">
+                <p id="description">Diese Visualisierungen veranschaulichen die Daten des Bisonportals der Bauhaus-Universität Weimar in verschiedenen Zusammenhängen. </p>
+            </div>
+            <ol>
+                <center>Du willst... <br /> </center>
+                <div class="container">
+                    <a href="de/parallel_sets/" class="button"> <i class="icon fa fa-indent"></i>...Kurse filtern</a><br><br>
+                    <a href="de/lecturer_network/" class="button"> <i class="icon fa fa-spinner"></i>...Lehrende erforschen</a><br><br>
+                    <a href="de/bar_chart/" class="button"> <i class="icon fa fa-bar-chart"></i>...Fakultäten vergleichen</a><br><br>
+                </div>
+            </ol>
 
-  <div class="faq">
-    <h3>Wie funktioniert BisonWatch?</h3>
-    BisonWatch sammelt Veranstaltungsdaten mit einem WebCrawler aus dem Bisonportal. Ein WebCrawler ist ein Programm 
-    das automatisiert durch ein Webseite surft und die Informationen, auf das es dabei stößt, in einer eigenen 
-    Datenbank abspeichert. Diese Veranstaltungsdaten werden dann auf dieser Seite visualisiert. <br />
-    Mehr Informationen dazu findest du in unserem <a href="https://github.com/henicosa/BisonWatch">Github-Repository</a>.
-  </div>
+            <div class="faq">
+                <h3>Wie benutze ich BisonWatch?</h3>
+                Wir haben dafür ein kleines Video auf Englisch produziert: <br />
+                <div style="padding:56.25% 0 0 0 ; margin-top: 0.5rem; position:relative;"><iframe src="https://player.vimeo.com/video/607184662?h=e092cd8c71&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"
+                        title="demo bisonwatch.mp4"></iframe></div>
+                <script src="https://player.vimeo.com/api/player.js"></script>
+            </div>
 
-  <div class="faq">
-    <h3>Ich bin selbst Lehrende/r, was passiert mit meinen Daten?</h3>
-    Grundsätzlich werden nur öffentliche Daten, also Daten, die für externe Besucher im Bisonportal einsehbar sind, erhoben.
-    Zu diesen Daten gehören auch personenbezogene Daten. Diese sind:
-    <ul>
-      <li>Die Namen der Lehrpersonen einer Veranstaltung (ohne akademischen Titel)</li>
-      <li>Die zugehörige Fakultät in der die Lehrperson beschäftigt sind</li>
-    </ul>
-    Diese Daten werden aggregiert, also zu neuen Daten zusammengefasst. Dadurch entsteht für jede Lehrperson im Datensatz 
-    ein neues Datenobjekt, das 
-    <ul>
-      <li>eine Liste aller Lehrveranstaltungen des/r Lehrenden und </li>
-      <li>eine Liste aller Lehrenden, mit denen die Lehrperson eine gemeinsame Veranstaltung anbietet,</li>
-    </ul> enthält. Die Rechte an deinen eigenen Daten bleiben dir erhalten. Bei weiteren Fragen oder Einwänden kontaktiere 
-    uns gern.
-  </div>
+            <div class="faq">
+                <h3>Wie funktioniert BisonWatch?</h3>
+                BisonWatch sammelt Veranstaltungsdaten mit einem WebCrawler aus dem Bisonportal. Ein WebCrawler ist ein Programm das automatisiert durch ein Webseite surft und die Informationen, auf das es dabei stößt, in einer eigenen Datenbank abspeichert. Diese Veranstaltungsdaten
+                werden dann auf dieser Seite visualisiert. <br /> Mehr Informationen dazu findest du in unserem <a href="https://github.com/henicosa/BisonWatch">Github-Repository</a>.
+            </div>
 
-  <div class="footer">
-      <p>Code (GPL-3): <a href="https://github.com/henicosa/BisonWatch">https://github.com/henicosa/BisonWatch</a></p>
-      <p>Kontakt: <a href="mailto:ludwig.david.lorenz@uni-weimar.de">ludwig.david.lorenz@uni-weimar.de</a> und <a href="mailto:sophie.alice.grimme@uni-weimar.de">sophie.alice.grimme@uni-weimar.de</a></p>
-      <br>
-      <div id="footer_item"><a href="https://www.uni-weimar.de/de/fs/impressum/">Impressum</a></div> <div id="footer_item"><a href="https://www.uni-weimar.de/de/fs/datenschutz/">Datenschutz</a></div>
-  </div>
+            <div class="faq">
+                <h3>Ich bin selbst Lehrende/r, was passiert mit meinen Daten?</h3>
+                Grundsätzlich werden nur öffentliche Daten, also Daten, die für externe Besucher im Bisonportal einsehbar sind, erhoben. Zu diesen Daten gehören auch personenbezogene Daten. Diese sind:
+                <ul>
+                    <li>Die Namen der Lehrpersonen einer Veranstaltung (ohne akademischen Titel)</li>
+                    <li>Die zugehörige Fakultät in der die Lehrperson beschäftigt sind</li>
+                </ul>
+                Diese Daten werden aggregiert, also zu neuen Daten zusammengefasst. Dadurch entsteht für jede Lehrperson im Datensatz ein neues Datenobjekt, das
+                <ul>
+                    <li>eine Liste aller Lehrveranstaltungen des/r Lehrenden und </li>
+                    <li>eine Liste aller Lehrenden, mit denen die Lehrperson eine gemeinsame Veranstaltung anbietet,</li>
+                </ul> enthält. Die Rechte an deinen eigenen Daten bleiben dir erhalten. Bei weiteren Fragen oder Einwänden kontaktiere uns gern.
+            </div>
 
+            <div class="footer">
+                <p>Code (GPL-3): <a href="https://github.com/henicosa/BisonWatch">https://github.com/henicosa/BisonWatch</a></p>
+                <p>Kontakt: <a href="mailto:ludwig.david.lorenz@uni-weimar.de">ludwig.david.lorenz@uni-weimar.de</a> und <a href="mailto:sophie.alice.grimme@uni-weimar.de">sophie.alice.grimme@uni-weimar.de</a></p>
+                <br>
+                <div id="footer_item"><a href="https://www.uni-weimar.de/de/fs/impressum/">Impressum</a></div>
+                <div id="footer_item"><a href="https://www.uni-weimar.de/de/fs/datenschutz/">Datenschutz</a></div>
+            </div>
+        </div>
 
-  </main>
+    </main>
 </body>
 
 </html>
-
