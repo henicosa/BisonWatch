@@ -45,7 +45,7 @@ loadBisonDataset(dataset).then((bisond) => {
     description.append("c").text("This visualisation shows all courses by ")
     description.append("strong").text(searchParam)
     description.append("c").text(historic_data ? " since and including winter semester 2019/20. (" : " in the current semester. (")
-    description.append("a").attr("href", "../../en/parallel_sets").text("Cancel selection")
+    description.append("a").attr("href", "../../en/parallel_sets/").text("Cancel selection")
     description.append("c").text(")")
     keys = ["courseType", "language", "day", "sws"]
     var color_keys = []
@@ -93,7 +93,7 @@ loadBisonDataset(dataset).then((bisond) => {
   var selection = keys.map(d => new Set())
 
   
-  var svg = d3.select("#parallel_set").attr("width", width).attr("height", height); 
+  var svg = d3.select("#parallel_set").attr("viewBox", [0, 0, width, height]);
 
   const weekdays = ["Mo.", "Di.", "Mi.", "Do.", "Fr.", "Sa.", "So.", "missing"]
   const weekday_sorter = {
@@ -197,7 +197,7 @@ loadBisonDataset(dataset).then((bisond) => {
   }
 
   // Legend
-  d3.select("#legend").attr("width", width).attr("height", 30).append("g")
+  d3.select("#legend").attr("viewBox", [0, 0, width, 30]).append("g")
   .style("font", "10px sans-serif")
   .selectAll("text")
   .data(keys)
