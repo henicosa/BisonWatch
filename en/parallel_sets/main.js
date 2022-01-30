@@ -1,8 +1,7 @@
 import * as d3 from "d3";
 import { sankey as Sankey, sankeyLinkHorizontal as SLH } from 'd3-sankey';
-import { loadTitanicDataset } from "../titanic"; 
 import { loadBisonDataset } from "../bison";
-import d3_colorLegend from "https://api.observablehq.com/@d3/color-legend.js?v=3"
+
 
 var dataset = "../../data/bisondata20212.csv"
 
