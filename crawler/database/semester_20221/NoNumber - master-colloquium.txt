@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Master-Colloquium
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53251&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Kolloquium
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 25
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Integrated Urban Development and Design, M.Sc. PO 2020\r, <br/>, Master-Colloquium\r, <br/>, Integrated Urban Development and Design, M.Sc. PO 18\r, <br/>, Master-Colloquium
+Erwartete Teilnehmer/-innen :3 S: 25
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: bis
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Philippe Schmidt
+# Beschreibung
+Beschreibung :3 S: The course is the platform for presentation and discussion of the Masters theses. The candidates will present the intermediate results of their work on their individual topics. Suggestions for further action will be made by fellow students and academics attending the colloquium. Admission for the Master examination is required for participation. Performance record (attestation) will be achieved by giving an oral presentation.

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Medienästhetik der Blindheit
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53615&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 16
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Studienmodul ”Medien und Dis/Abilities”
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 17:00 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Katja Hettich
+# Beschreibung
+Beschreibung :3 S: Die Figur der oder des Blinden ist ein wiederkehrender Topos in Literatur, Kunst und audiovisuellen Medien. Die Faszination lässt sich durch verschiedene Aspekte erklären: Blinden Personen werden konventionell bestimmte Eigenschaften (wie Hilflosigkeit, aber auch Weisheit, Gerechtigkeit und Güte) zugeschrieben, die sie zu idealen Trägern verschiedener Narrative und genrespezifischer Zuschaueradressierungen machen. Ihnen hängen zudem über die individuellen Fallgeschichten hinausreichende Bedeutungen und symbolische Überhöhungen an, die Diskurse der Blindheit bereits seit der Antike prägen und die so immer wieder reproduziert, aber auch in Frage gestellt und neu verhandelt werden. Gerade für Bildmedien bringt die Thematisierung von Blindheit zudem immer auch ein selbstreflexives Moment mit sich: Sie destabilisiert vermeintliches Wissen über Sichtbarkeit und Unsichtbarkeit, über visuelle Wahrnehmung als Erkenntnisform und fordert somit eine Auseinandersetzung mit Wahrnehmungs- und Darstellungsgewohnheiten unserer okularzentrischen Kultur heraus., <br>Im Rückgriff auf Konzepte von Blindheit, wie sie im Rahmen der Disability Studies entwickelt worden sind, wird sich das Seminar mit medialen Repräsentationen von Blindheit, insbesondere im Film, beschäftigen. Ausgehend von der Prämisse, dass Blindheit nicht als sensorische Einschränkung, sondern als spezifische Ausprägung von Wahrnehmung zu fassen ist, werden wir untersuchen, über welche Formen audiovisuelle Medien blinde Wahrnehmungsqualitäten vermitteln.<br/>In Ergänzung zur theoretischen und analytischen Auseinandersetzung mit Mediendiskursen und -ästhetiken der Blindheit werden wir uns außerdem mit den Rezeptionspraktiken blinder Filmzuschauer:innen widmen. Ein Fokus liegt dabei auf dem sogenannten Hörfilm: Filmfassungen mit einer zusätzlichen Audiodeskriptions-Tonspur, über die in Dialogpausen eine Sprechstimme visuelle Informationen in Verbalsprache übersetzt. Eine Einführung in die Geschichte, Theorie, Praxis und Rezeption des Hörfilms wird zum einen die Basis für einige praktische Übungen schaffen, in denen Studierende selbst erste Erfahrungen mit dem Schreiben von Audiodeskriptionstexten sammeln und darüber ihr Verständnis für das Zusammenspiel von Tonspur und Bildern schulen können. Zum anderen wird die Auseinandersetzung mit dem Phänomen des Hörfilms die Grundlage bilden, um Fragen nach der Ontologie des Filmischen und der Spezifik filmischer Erfahrung, die das Medium seit seinen Anfängen begleitet haben, im Rahmen des Seminars neu zu perspektivieren.</br>

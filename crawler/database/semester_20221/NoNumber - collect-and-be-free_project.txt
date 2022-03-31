@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Collect and be free_project
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53759&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 16
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 8
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch oder englisch (gemeinsame Festlegung)
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Wolfgang Kissel :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person :3 S: Fakultät Kunst und Gestaltung,Ana Vallejo Cuartas
+# Beschreibung
+Beschreibung :3 S: Arbeitest du gerade an einem Animationsprojekt? Oder findest du kein passendes Projektmodul für deine Idee? Dann bist du beim Collect and be free_project richtig! Hier geht es um ein Projektmodul, in dem abwechselnd Einzelkonsultationen sowie gemeinsame Sitzungen stattfinden, in denen die Projektfortschritte präsentiert werden. Es besteht die Möglichkeit, die Probleme der Produktion von Animationsprojekten zu besprechen und passende Lösungen dafür zu finden.

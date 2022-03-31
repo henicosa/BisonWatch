@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Medien und Disability Studies
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53614&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 16
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Studienmodul ”Medien und Dis/Abilities”
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 17:00 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Sichtung</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Katja Hettich
+# Beschreibung
+Beschreibung :3 S: Hervorgegangen aus dem politischen Engagement von Behindertenbewegungen insbesondere in den USA und Großbritannien haben sich die „Disability Studies” als eine Querschnittsdisziplin formiert, die inzwischen auch an deutschen Universitäten neue Sichtweisen auf das Thema Behinderung jenseits enger medizinischer oder rehabilitationswissenschaftlicher Grenzen und zudem die Neuperspektivierung grundlegender menschlicher Erfahrungen ermöglicht. Für die kulturwissenschaftliche Forschung bringen die Disability Studies neue Impulse, insofern die von ihnen vertretene Auffassung von Behinderung und Nicht-Behinderung als einander durchdringende kulturelle Konzepte auf produktive Weise Auffassungen von Normalität und Abweichung, Gesundheit und Krankheit, Natur und Kultur destabilisiert., <br>Im Seminar werden wir diese Impulse aufnehmen und Behinderung als analytische Kategorie fruchtbar machen, über die sich medienkulturelle Diskurse und Praktiken neu fassen lassen oder in bestimmten Aspekten überhaupt erst sichtbar werden. Anhand von Textlektüren werden im Kurs grundlegende Begriffsbestimmungen und Theorieansätze der Disability Studies erarbeitet und in Verschränkung mit medienkulturwissenschaftlichen Fragestellungen diskutiert. Auf dieser Grundlage werden wir uns einerseits mit historischen und zeitgenössischen Repräsentationen von Menschen mit Behinderungen in Medien, Kunst und Literatur auseinandersetzen. Andererseits werden wir konkrete medienkulturelle Praktiken und Techniken nicht nur im Zeichen der Inklusion, Partizipation und Gleichstellung behinderter Personen behandeln, sondern auch hinsichtlich ihres Potenzials, die Selbst- und Welterfahrung Nicht-Behinderter zu verändern und zu erweitern – ein Aspekt, der im zweiten Seminar des Moduls („Medienästhetik der Blindheit”) noch vertieft werden wird.</br>

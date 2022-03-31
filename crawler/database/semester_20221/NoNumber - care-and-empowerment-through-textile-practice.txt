@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Care and Empowerment Through Textile Practice
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=54042&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Wissenschaftliches Modul
+SWS :3 S: 14
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.carmengomezvega.wordpress.com&timestamp=1648732699178&hash=76850904e042871d475a992490f451c2
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Personen
+Personen :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N. :3 S: Fakultät Kunst und Gestaltung,Alexandra Toland :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Dieses Online-Seminar bietet die Möglichkeit, unterschiedliche Textilkunstpraktiken anhand konkreter Fallstudien zu untersuchen. Das Seminar legt einen Schwerpunkt auf praxisorientierte Forschung und lädt Studierende ein, eigene textile Arbeiten in Reaktion auf Ansätze aus anderen Disziplinen wie Visual Studies, Kulturgeographie, Feminist Studies und Ethnographischer Forschung zu entwickeln. Unter Anleitung der Dozenten ermutigt die Struktur des Studiengangs die Studierenden, die Zusammenhänge zwischen Care, Empowerment und Textilkunst zu verstehen und eigenständige künstlerische Forschungsinteressen zu verfolgen. Das Seminar steht allen Studierenden offen, die sich für textile Kunst interessieren und bereit sind, sich durch praktische und schriftliche Reflexion mit Literatur auseinanderzusetzen. Durch Lesen, kreative Praxis, Diskussion und Kritik entwickeln die Studierenden ein scharfes Verständnis für die Konzeptualisierung und Materialität der Textilkunst, die bedeutende Rolle von Frauen darin, ihre Kollektivität und ihren Aktivismus, indem sie ihr tägliches Leben als Antwort auf Probleme in Fäden festhalten und Probleme in einer sich schnell verändernden Welt.

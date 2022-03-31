@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Queeres Fragen nach Subjektivierung und Ontologie
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53583&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Projektmodul Medien-/Filmphilosophisches Projektmodul 2
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 19:00 bis 20:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Sebastian Lederle
+# Beschreibung
+Beschreibung :3 S: Das Seminar sucht im Zweitakt von Theoriereflexion und Materialanalyse sich einer Erschließung und Vertiefung genderbezogener und queerer Theorieansätze und medial-künstlerischer Darstellungsformen von Queerness zuzuwenden. Grundlegend ist dabei die Überlegung, dass es bei queer weniger um einen bestimmten Gegenstand oder Inhalt handelt, sondern um eine diskursiv-performative Verschiebung innerhalb bestehender Ordnungsstrukturen und -raster, durch die sowohl ein methodischer, reflexionsanleitender Gesichtspunkt, eine ontologische Ebene als auch Modi medialer Präsentation und Repräsentation aufgerufen werden. Insofern arbeiten die medialen Präsentationsweisen von gender wie queerness stets dabei mit, wer wie (nicht) gesehen, gehört usw wird, welche Akte und Rahmenbedingungen rigide Normativität einüben, in Frage stellen, aber eben auch Handlen und Denken von innen her überhaupt erst informieren und als Beziehung zu sich selbst und anderen hervorbringen. Damit verfügen sie über ein komplexes, differenziertes, implizites Wissen des Zusammenhangs von (Inter)Subjektivierung, Diskurs und Seinsweisen. Dem soll an Hand geeigneter Theorietexte und exemplarischer Beispiel aus Film, sozialen Medien und Literatur nachgegangen werden.

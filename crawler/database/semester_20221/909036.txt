@@ -1,0 +1,33 @@
+Veranstaltungstitel :3 S: Radverkehrsanlagen
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53635&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Integrierte Vorlesung
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 909036
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Lehrveranstaltungen der Bauhaus.Module
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 13:00 bis 14:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 11:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Uwe Plank-Wiedenbeck :3 S: Fakultät Bauingenieurwesen,Julius Uhlmann :3 S: Fakultät Bauingenieurwesen,Tina Feddersen :3 S: Fakultät Bauingenieurwesen,Wido Hamel
+# Beschreibung
+Beschreibung :3 S: Die Veranstaltung Radverkehrsplanung richtet sich an fahrradbegeisterte Studierende aus den Bereichen Urbanistik, Bauingenieurwesen und Baumanagement sowie Umweltingenieurwissenschaften, die nicht vorrangig in der Vertiefungsrichtung Verkehr studieren. Das Modul besteht aus der Vorlesung „Straßenplanung von Innerortsanlagen” und einem breitgefächerten Seminar zum Thema Radverkehr. Es werden sowohl planerisch, technische Fähigkeiten als auch Kenntnisse in den Themenbereichen Design & Gestaltung von Radverkehrsanlagen, Radverkehrspolitik und Öffentlichkeitsarbeit erworben. , <br><br><br>TEIL A: In der Vorlesung werden Fachkompetenzen für den Straßenentwurf (mit dem Schwerpunkt Innerortsentwurf) vermittelt. Hierfür werden u.a. Kenntnisse in den nachfolgenden Bereichen erworben: Entwurf von plangleichen und planfreien Knotenpunkten, Straßenausstattung (Leit- und Schutzeinrichtungen, Beschilderung, Markierung), Aspekt der Eingliederung der Straße in das Umfeld, Umweltaspekte in der Straßenplanung, Lärmschutz an Straßen, Belange der unterschiedlichen Verkehrsteilnehmer/ Nutzergruppen, Sicherheitsaspekte, Planungsablauf, Straßenbetrieb, CAD / Visualisierung im Straßenentwurf.  Im Rahmen eines Beleges wird ein innerstädtischer Knotenpunkt entworfen.<br/><br/><br/>TEIL B: Im Seminar werden grundlegende Kenntnisse in den Bereichen Straßenraumgestaltung und Design mit dem Schwerpunkt Radverkehrsanlagen vermittelt, wobei insbesondere auf die enge Verbindung von Design, Verkehrssicherheit, Verkehrsqualität und Wohlbefinden für den Radverkehr Wert gelegt wird. Ebenso werden auf aktuelle politische Rahmenbedingungen und Möglichkeiten zur Förderung des Radverkehrs eingegangen. Im Zuge einer ganzheitlichen Betrachtung des Radverkehrs werden Möglichkeiten und kreative Formen der Öffentlichkeitsarbeit im Bereich Radverkehr vorgestellt und diskutiert. Die regelmäßige Teilnahme wird erwartet. Da eine Fahrradexkursion in diesem Semester nicht möglich sein wird, werden kleine praktische Aufgaben, welche mit dem eigenen Fahrrad durchgeführt werden können, das Seminarformat ergänzen.</br></br></br>

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Bauhaus.Modul: Public Housing around the World - Departures from the Global North
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53774&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 922110013
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 15
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Lehrveranstaltungen der Bauhaus.Module
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N.
+# Beschreibung
+Beschreibung :3 S: Public housing discourse has long been dominated around the supposed ‘best practices’ models of the global north. This sidelines the development trajectories of public housing in other geographies like the Global South, post-colonial or post-socialist spaces and the lack of theoretical background impedes the researchers wanting to work amidst these spaces. The course aims at filling this gap and broadening the discourse around public housing to equip early-career researchers with the tools to form a perspective around these geographies. The course will be specifically addressing forms of public housing in the context of India, Russia and Brazil. We will explore these cases together with the extra support of the guest lecturers (researchers and activists) who will share the knowledge of how the particular programs of public housing are designed in contexts different from the traditional models of Global North.

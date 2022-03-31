@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Bauen mit Holz, Stroh und Lehm - Vertiefung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=54021&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 121120205
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Projektmodul - Projekt begleitendes Seminar oder\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Projektmodul - Projekt begleitendes Seminar oder\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Projektmodul - Projekt begleitendes Seminar oder\r, <br/>, Wahlpflichtmodul - Planung
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D37906&timestamp=1648732638170&hash=70ccc2847750b0312dda3f934d0d9761
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Klaus Schmitz-Gielsdorf
+# Beschreibung
+Beschreibung :3 S: Seminar zum Thema Bauen mit Holz, Stroh und Lehm. Vorträge von Expertinnen, Recherche der Studierenden, Diskussion der Vor- und Nachteile, Reflexion der Notwendigkeit.

@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Bodenmechanik
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=52944&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Integrierte Vorlesung
+SWS :3 S: 5
+Veranstaltungsnummer :3 S: 2906001
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 07:30 bis 09:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Gewährleistungsbereich,Detlef Rütz :3 S: Fakultät Bauingenieurwesen,Patrick Staubach
+# Beschreibung
+Beschreibung :3 S: Motivation und Einführung: Schadensfälle, Boden- und Felsarten, Quartärgeologie;Bodenphysikalische Grundlagen: Modellbildungen, Dreistoffsystem, Feld-/Laborversuche;Bodenmechanische Eigenschaften und Kenngrößen; Wasser im Boden;Kontinuumsmechanik: Spannungen/Verformungen im Baugrund, Setzungen, Konsolidation;Bruchmechanik: Scherfestigkeit, Grundbruch, Gleiten, Kippen, Böschungsbruch; Erddruck;Sicherheitskonzepte

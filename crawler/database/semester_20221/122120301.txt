@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: 300m Wissenschaft: Von der versteckten Universität zur Science Mile
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53346&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 122120301
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Projektmodul - Projekt\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Projektmodul - Projekt\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Projektmodul - Projekt
+Erwartete Teilnehmer/-innen :3 S: 5
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Conrad Völker
+# Beschreibung
+Beschreibung :3 S: Der Campus im Bereich der Coudraystraße ist der forschungs- und drittmittelstärkste Bereich der Bauhaus-Universität Weimar. Neben zahlreichen Professuren mit hervorragend ausgestatteten Laboren haben dort auch zwei An-Institute (MFPA und WBA) sowie das Sprachenzentrum ihren Sitz. Gleichzeitig ist der Coudray Campus baulich von Unscheinbarkeit geprägt. Um die Erscheinung des Campus sowie dessen Potenziale hervorzuheben, bedarf es eines durchdachten Gesamtkonzepts.

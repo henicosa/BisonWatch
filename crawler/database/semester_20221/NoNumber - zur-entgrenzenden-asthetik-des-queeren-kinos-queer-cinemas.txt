@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Zur entgrenzenden Ästhetik des Queeren Kinos/Queer Cinemas
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53568&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Plenum
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Projektmodul Medien-/Filmphilosophisches Projektmodul 2
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Christiane Voss
+# Beschreibung
+Beschreibung :3 S: Queeres Kino ist Thema dieses Plenums, das diesen Begriff nicht nur dafür verwenden will, um Filme einem Genre zuordnen zu können, sondern das nach den Logiken und Effeken von den quer-sich-zur-Norm-stellenden Verfahren - besonders auch im film- und medienästhetischen Feld - und generell darüberhinaus fragen will. , <br>Die Tendenz queerer Verfahren etwa Grenzen von Genre, Geschlecht, Klasse, Rasse und traditioneller Logiken zu überschreiten oder zu verwischen, führt zu Verunsicherungen in den Vorstellungen von Subjektivität und Identität ebenso wie zu Desorientierungen von körperlichen, mentalen und politischen Verortungen in der Welt und berührt grundlegend Fragen der Verletzlichkeit und des Prekärseins auf mehreren Ebenen (Judith Butler).<br/>Mit Rückgriff auf poststrukturalistische Theorien werden in der Queer-Theorie Unterdrückungs- und Machtverhältnisse der gesellschaftlichen, insbesondere geschlechtlichen und sexuellen Ordnung, sowie die Verschränkung von Identitäten und Machtverhältnissen aufgezeigt und dekonstruiert. Während der Schwerpunkt ldort nach wie vor auf den Themen Sex, Gender und Begehren liegt, soll in dem Plenum eine dezidiert ästhetische Erweiterung des Konzepts des Queerings ausgelotet werden, wie es sich in bewegtbildichen Formaten artikuliert und sedimentieren kann. <br/>Wie verhalten sich Konzepte des Ungehorsams zu ästhetischen Dimensionen der Verschränkung von Hören und Tönen und wie lassen sich Atmosphären, Stimmungen, Affekte und sogar Urteile queerfilmisch fassen und umsetzen?<br/>Diese und viele Fragen mehr werden im Plenum diskutiert und auf Basis der Lektüre des Sammelbandes Queers Kino /Queere Ästhetiken als Dokumentationen des Prekären, hrsg. von Astrid Deuber-Mankowsy et al. . vertiefend erforscht.</br>

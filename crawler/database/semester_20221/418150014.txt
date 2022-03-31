@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Einführung in die Medienökonomik
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53519&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 418150014
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Björn Kuchinke
+# Beschreibung
+Beschreibung :3 S: Die Vorlesung richtet sich an Bachelorstudierende und stellt eine Einführung in die Medienökonomik dar. In der Veranstaltung werden zunächst weiterführende mikro- und medienökonomische Grundlagen vermittelt. Hierzu zählen etwa Lock-In-Effekte, Standards, indirekte und direkte Netzeffekte. Darauf aufbauend werden die Medienmärkte Print und Rundfunk anhand von Fallstudien analysiert. Hierbei geht es darum, den Studierenden ökonomische Informationen über diese Märkte an die Hand zu geben, die modelltheoretischen Konzeptionen anzuwenden sowie die Spezifitäten, die Besonderheiten sowie die Funktionsweise dieser Märkte zu erklären. Abschließend werden die wirtschaftspolitischen und wettbewerbspolitischen Implikationen analysiert. Somit sollen die Studierenden auch an ein eigenständiges Literaturstudium herangeführt werden.

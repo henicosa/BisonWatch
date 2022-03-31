@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: 1:1 - Von der Skizze zum Bau
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53699&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 122124202
+Max. Teilnehmer/-innen :3 S: 5
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Projektmodul - Begleitseminar oder\r, <br/>, Wahlpflicht - Technik\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Projektmodul - Begleitseminar oder\r, <br/>, Wahlpflicht - Technik\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Projektmodul - Begleitseminar oder\r, <br/>, Wahlpflicht - Technik
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Stephan Schütz :3 S: Fakultät Architektur und Urbanistik,Kassandra Löffler :3 S: Fakultät Architektur und Urbanistik,Julius Tischler
+# Beschreibung
+Beschreibung :3 S: Wie wird aus meinem Plan ein Bauwerk? Das verpflichtende Begleitseminar zum Semesterentwurf „Freibad-Kolonnade“ stellt die theoretische Untermalung und Handlungsempfehlung für eine Entwurfsrealisierung dar. Der Fokus des Entwurfsprojektes richtet sich auf eine ressourcenschonende Holzbauweise, sodass das Seminar auch materialspezifische sowie konstruktive Eigenschaften und Möglichkeiten in der Ausführung beleuchtet. Damit sollen die Arbeitsschritte und Anforderungen von der Skizze über Ausführungs- und Werkpläne bis hin zur Detailzeichnung vermittelt und erprobt werden. Die Sprache der Architekturschaffenden ist die Zeichnung und in dem Seminar soll das zeichnerische Vokabular gefestigt und erweitert werden, sodass es von Ausführenden verstanden wird. Dabei werden alle Schritte und Anforderungen größerer Bauvorhaben einmal durchgegangen. Angefangen bei der Erstellung eines Bauantrages, der Beschäftigung mit rechtlichen Anforderungen an unsere Ideen, dem Zeichnen von Ausführungsplänen bis hin zur Planung von Bauabläufen und dem Zuschnitt des Materials. Diese stellen die Grundlage dar, für das Konstruieren von Details und Einholen von Angeboten, um schließlich das Ziel eines jeden Entwurfs zu erreichen: „, <em>Das Endziel aller bildnerischen Tätigkeiten ist der Bau!“</em>,  (Walter Gropius).

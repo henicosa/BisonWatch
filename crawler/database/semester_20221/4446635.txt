@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Einführung in die Mediengeschichte
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53565&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 4446635
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Einführungsmodul Einführung in die Mediengeschichte
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 17:00 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Steubenstraße 6, Haus F - Audimax</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Angelika Seppi
+# Beschreibung
+Beschreibung :3 S: Mediengeschichten sind eine zweischneidige Angelegenheit. Sie erfordern eine doppelte Perspektive auf die Medialität der Geschichte und die Historizität der Medien: keine Geschichte ohne je spezifische Medien der Speicherung, Übertragung und Verarbeitung; keine Medien ohne je spezifische historische Kontexte, Praktiken und Gebrauchsweisen. Die Vorlesung setzt bei diesem Double-Bind an und stellt ausgewählte mediale Konstellationen quer durch die Geschichte vor. Ziel der Vorlesung ist es nicht, DIE Mediengeschichte zu rekonstruieren, sondern einen Einblick in die Vielfalt, Komplexität und Kontingenz medienhistorischer Entwicklungen zu vermitteln. Grundlegende mediale Funktionen des Speicherns, Übertragens und Verarbeitens werden dabei mit der Differenzierung in akustische, optische und symbolische Medien überblendet und bilden den roten Faden durch das Labyrinth heterogener medialer Welten. Dabei wird klar: Was überhaupt und in welchen Hinsichten jeweils als Medium in den Blick gerät, ist an sich bereits eine historische Frage, die immer wieder neue Antworten und Umschriften der Mediengeschichte herausfordert.

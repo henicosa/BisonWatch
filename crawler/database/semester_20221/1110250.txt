@@ -1,0 +1,48 @@
+Veranstaltungstitel :3 S: 4. Kernmodul: Die Leere im Zentrum - Jena
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53633&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Entwurf
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 1110250
+Max. Teilnehmer/-innen :3 S: 27
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, 4. Kernmodul\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, 4. Kernmodul\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, 4. Kernmodul
+Erwartete Teilnehmer/-innen :3 S: 27
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 11:00 bis 13:15
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Zwischenpräsentation</p>,
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Zwischenpräsentation</p>,
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Zwischenpräsentation</p>,
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:00 bis 20:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Abschlussrundgang</p>,
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Andreas Garkisch :3 S: Fakultät Architektur und Urbanistik,Johann Simons :3 S: Fakultät Architektur und Urbanistik,Max Weisthoff :3 S: Fakultät Architektur und Urbanistik,Michael Kraus
+# Beschreibung
+Beschreibung :3 S: Das 4. Kernmodul ist eine Einführung in das städtebauliche Entwerfen. In didaktisch aufeinander aufbauenden Phasen von der Analyse über die Konzeptfindung bis zur Ausarbeitung wird ein überschaubares städtebauliches Projekt in Teamarbeit von Architektur- und Urbanistikstudent*innen erarbeitet.

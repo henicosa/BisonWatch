@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Medien und lokale Mentalitäten im Archiv
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53573&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Studienmodul Archiv 2
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 19:00 bis 20:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Jörg Paulus
+# Beschreibung
+Beschreibung :3 S: Historische Phänomene wie der Mesmerismus sind immer auch mediale Phänomene. Sie folgen dabei auch je eigenen Geographien und Topographien die sie zugleich mit hervorbringen. In diesem Seminar sollen beide Aspekte miteinander in Verbindung gebracht werden: Medien und Mentalitäten werden in ihren lokalen Bindungen an Städte wie Berlin, Paris, Dresden und Wien, aber auch an die ländlichen Provinzen Europas und darüber hinaus betrachtet. Zugleich geht es darum, zu untersuchen, wie diese Zusammenhänge sich in regionalen und überregionalen - und heute besonders auch: in digitalen Archiven abbilden. Vorgesehen ist - soweit es die Lage zulässt - eine Exkursion auf den Spuren solcher Mentalitäten in Städten und Archiven.

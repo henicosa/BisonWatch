@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Nachhaltiges Bauen II
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53679&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 1754260
+Max. Teilnehmer/-innen :3 S: 60
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflicht - Technik\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflicht- Technik\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflicht - Technik
+Erwartete Teilnehmer/-innen :3 S: 60
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>online</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Jürgen Ruth :3 S: Fakultät Architektur und Urbanistik,Katharina Elert :3 S: Fakultät Architektur und Urbanistik,Lukas Kirschnick
+# Beschreibung
+Beschreibung :3 S: Die interdisziplinäre Vorlesungsreihe Nachhaltiges Bauen richtet sich an Masterstudierende aus den Fakultäten Architektur und Urbanistik und Bauingenieurwesen, die sich in kompakter Form mit Nachhaltigkeitsaspekten und -zertifikaten und den daraus resultierenden ökologischen, ökonomischen und soziokulturellen Anforderungen an Gebäude auseinandersetzen wollen. Die Vorlesungen orientieren sich am Curriculum der Deutschen Gesellschaft für Nachhaltiges Bauen und vermitteln, verteilt über zwei Semester, das notwendige Grundlagenwissen aus den Bereichen Architektur, Bauphysik, Gebäudetechnik, Betriebswirtschaft und Baumanagement. Die Prüfungsleistung wird entweder in Form einer schriftlichen Klausur oder einer kleinen Belegarbeit abgeprüft (abhängig von Pandemiesituation). Außerdem kann die Prüfung zum „registered professional” als Vorstufe zum DGNB-Auditor abgelegt werden. Die regelmäßige Teilnahme und eigenständiges Vertiefen von Inhalten werden erwartet.

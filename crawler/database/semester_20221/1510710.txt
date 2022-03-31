@@ -1,0 +1,33 @@
+Veranstaltungstitel :3 S: 2. Planungsprojekt: Der Bürgerbahnhof Plagwitz in Leipzig - ein "Park für uns statt für Profite"?
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53038&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 1510710
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Urbanistik, B.Sc. PO 2021\r, <br/>, 2. Planungsprojekt\r, <br/>, Urbanistik, B.Sc. PO 2020\r, <br/>, 2. Planungsprojekt
+Erwartete Teilnehmer/-innen :3 S: 20
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Johanna Günzel :3 S: Fakultät Architektur und Urbanistik,Lisa Vollmer :3 S: Fakultät Architektur und Urbanistik,Timmo Krüger
+# Beschreibung
+Beschreibung :3 S: In den 1990er Jahren hatte die Stadt Leipzig, wie viele andere Kommunen der ehemaligen DDR, zunächst mit hohem Leerstand zu kämpfen. Dadurch sind Freiräume entstanden, in denen sich Initiativen und Praktiken einer Stadt von unten, bspw. gemeinschaftliche Gärten, Repair-Cafés und Hausprojekte, entwickeln konnten. Diese Entwicklungen ergänzten die Stadtplanung, stellten sie aber auch in Frage und fordern sie bis heute heraus. Ab Anfang der 2000er Jahre setzte in Leipzig eine beispiellose Wende der Einwohner:innenentwicklung ein. Damit stieg der Druck auf die angeeigneten und umgenutzten Leerstände und Brachflächen, die die Stadt (noch) auszeichnen.

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: 80/4 _ bau.uni.weiter
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53517&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 122120401
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Architektur\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Architektur\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Architektur
+Erwartete Teilnehmer/-innen :3 S: 20
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 11:00 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Hagen Höllering
+# Beschreibung
+Beschreibung :3 S: Während andere noch über Nachverdichtung, graue Energie und Ressourcenschonung reden, wollen wir uns im Seminar 80 I 4  im Sommersemester 2022 konkret mit Flächenpotentialen auf dem Campus der Bauhaus-Universität Weimar beschäftigen und eine umsetzbare Machbarkeitsstudie erarbeiten., <br>Dafür lassen wir Testballons steigen, bauen Luftschlösser und holen sie auf den Boden des  Machbaren zurück.<br>Die Hürden auf dem Weg zum Ruhm heißen:<br>Bauplanungs- und Bauordnungsrecht, Brandschutz, Immissionsschutz, Denkmalschutz, Statik, Kosten- und Terminplanung, Gestaltungsbeirat…<br/>Dafür suchen wir engagierte und motivierte Studierende, die sich mit den Möglichkeiten am Standort beschäftigen möchten und ihre Erkenntnisse in einer Dokumentation als Eingangsgröße für einen nachfolgenden Entwurf zur Verfügung stellen.<br/><br/>Werde Lückenfüller und bau dir deine Uni!</br></br></br>

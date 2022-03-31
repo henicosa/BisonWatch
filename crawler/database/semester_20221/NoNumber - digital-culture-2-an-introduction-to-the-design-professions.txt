@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Digital Culture 2: An Introduction to the Design Professions
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=54094&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 50
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Jan Willmann :3 S: Fakultät Kunst und Gestaltung,Michael Braun :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: The recent shift in digital technology has substantially affected the design professions and has led to entirely new approaches, methods and tools that were still inconceivable just a few years ago. These new possibilities have not only fostered novel material (and immaterial) practices in design and related fields (such as, for example, art, media and architecture), but have also transformed almost every aspect of our lives. While the Winter Semester was navigating through the history of the digital, the Summer Semester will focus on the theory of the digital, and, as such, bringing forward recent digital discourses and practices of digital culture. Topics include digital craft, authorship, programmable matter, human-machine interaction, robotics and automation, digital sustainability, internet of things, etc. In this, the lecture takes a cross-disciplinary – being designed for a student audience that is particularly concerned with and interested in digital thinking., <br><br/></br>

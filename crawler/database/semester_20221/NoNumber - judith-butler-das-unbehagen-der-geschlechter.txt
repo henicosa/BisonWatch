@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Judith Butler: Das Unbehagen der Geschlechter
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53582&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Studienmodul Diskursanalyse/Wissensgeschichte
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Sebastian Lederle
+# Beschreibung
+Beschreibung :3 S: Judith Butlers Buch Gender Trouble. Feminsm and the subversion of identity (1990) wird gemeinhin als Grundbuch der gender und queer studies angesehen und gilt darüber hinaus als einer der wichtigsten und einflussreichsten Texte kulturwissenschaftliche und philosophischer Theoriebildung seit seinem Erscheinen. Ziel des Seminars ist es, dem Buch in seinem Anspruch und komplexen Voraussetzungen durch genau Lektüre und Rekonstruktion der Argumente, Präsuppositionsanalysen, Zusammenführungen verschiender Denkfiguren und verzweigter Gedankengänge begreiflich zu machen. Es geht dabei methodisch zunächst darum, ein Verständnis davon zu erarbeiten und zu vertiefen, was es heißt, mit Begriffen begirfflich und mit Diskursen diskursiv unter ständiger Rücksicht auf Textkenntnis, Gedankenführung und Problemstellungen umzugehen. Vor diesem Hintergrund geht es inhaltlich um Fragen nach der Verkomplizierung der Sex/Gender-Differenz, den verwendeten Verständnissen von Diskursivität, Performanz, Ironie und Parodie sowie Subjektwerdung, Identität, Macht und dem Verhältnis von Kultur und Natur.

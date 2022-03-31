@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Einführung in die Situationsanalyse
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53587&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Projektmodul Kultursoziologie 1
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>online</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Ekkehard Coenen
+# Beschreibung
+Beschreibung :3 S: Die Situationsanalyse von Adele Clarke stellt eine Weiterentwicklung der Grounded-Theory-Methodologie (Glaser/Strauss) dar. Dieser Forschungsansatz ernennt die Situation zum ultimativen Forschungsgegenstand und vereint dabei Perspektiven aus dem Symbolischen Interaktionismus und dem Poststrukturalismus. Von Bedeutung sind nun nicht nur Handlungen und Interaktionen, sondern z.B. auch die Diskurse und Artefakte, die in der Situation zum Tragen kommen. Die Situationsanalyse folgt dem postmodern turn in drei Grundannahmen: a) Wissen ist stets sozial konstruiert und situiertes Wissen (Haraway), b) Gesellschaften bilden kein großes Ganzes, sondern sind vielmehr als ein Mosaik aus Diskursen, Arenen und sozialen Welten zu verstehen, und c) das wissende Subjekt muss entgrenzt und dezentriert werden., <br>Dieses Seminar führt die Student*innen in die Grundzüge der Situationsanalyse ein. Zum einen werden die methodologischen Vorannahmen diskutiert. Zum anderen wenden sich die Studierenden anhand eigener Fragestellungen einem Forschungsfeld zu, um eigene Situationsanalysen zu erstellen. Dazu werden die Seminarteilnehmer*innen in Kleingruppen eingeteilt, in denen Sie praktische Übungen durchführen und somit den Werkzeugkoffer der Situationsanalyse erproben werden.</br>

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Promotionskolloquium
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53922&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Wissenschaftliches Modul
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fkunst-und-gestaltung%2Fstudium%2Flehramt-an-gymnasien%2F&timestamp=1648733073913&hash=48e18f6ca8675c6d108e94ae982b4f47
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 10:00 bis 18:00
+Terminrhythmus :3 S: vierwöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person :3 S: Fakultät Kunst und Gestaltung,Andrea Dreyer
+# Beschreibung
+Beschreibung :3 S: Das Modul richtet sich an Forschungsinteressierte und Promovend*innen die sich aktuell relevanten Fragen der Vermittlung und Aneignung stellen und in Betreuung durch Frau Prof. Dr. Andrea Dreyer im Rahmen des Ph.D.- bzw. Dr. phil.-Vorhabens stehen., <br> <br/>Im gemeinsamen Austausch werden Themenstellungen geschärft, methodische Vorgehensweisen präzisiert sowie individuelle Fragen im künstlerisch-praktischen wie wissenschaftlichen Forschungsprozess diskutiert.</br>

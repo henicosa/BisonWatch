@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Physiological Computing
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53954&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 418260001
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fusability&timestamp=1648733039884&hash=99dbe8688c0cc457d337ac64bef06cc7
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Lecture (in person)</p>,
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Excercise (online until further notice)</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Jan Ehlers
+# Beschreibung
+Beschreibung :3 S: Physiological computing applies physiological data (like brain waves, skin conductance changes, pupil dynamics or heart rate variability) to generate user-state representations and enable computer systems to dynamically adapt to changes in cognitive and/or affective processing. By connecting the brain/body to a machine, the boundaries of the nervous system are extended which enables us to communicate with machines directly via processes that underlie our thoughts and emotions.

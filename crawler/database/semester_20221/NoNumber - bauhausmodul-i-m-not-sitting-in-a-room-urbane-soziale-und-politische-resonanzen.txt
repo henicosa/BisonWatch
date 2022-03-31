@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Bauhaus.Modul: I´m not sitting in a room – urbane, soziale und politische Resonanzen
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53716&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 16
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 18
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Nathalie Singer :3 S: Fakultät Kunst und Gestaltung,Frederike Moormann :3 S: Fakultät Kunst und Gestaltung,Elena Zieser :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Wusstest Du, dass Elefanten mit den Füßen hören, Walfische über eine Entfernung von Hamburg nach Neapel miteinander kommunizieren und Delphine sich beim Namen nennen können? Oder das die Tierzeichnungen in den Höhlen der Neandertaler auch Resonanz- und Echopunkte kennzeichneten? Was sind eigentlich akustische Forensik und akustische Kriegsführung? Und wie würden zukünftige Städte aussehen, wenn sie vom Ohr gedacht, entworfen und gestaltet sind?, <br> Das interdisziplinäre Projektmodul „I’m not sitting in a room” möchte im Zusammenspiel von Theorie und Praxis und ausgehend von der Untersuchung diverser Resonanzphänomene, verschiedene urbane, soziale und politische Räume neu erkunden.<br/> Im Fokus steht zuerst die Vermittlung theoretischer Grundlagen im Themenfeld der Resonanztheorien, Raumakustik, Stadtklang-Gestaltung, Ökosphäre und Politics of Listening. Die einzelnen Disziplinen werden durch die Expertise von geladenen Gastvorträgen aus Kunst und Wissenschaft erweitert. <br/>Ausgehend von der theoretischen Auseinandersetzung sollen dann im weiteren Verlauf des Projekts verschiedene urbane Räume praktisch erkundet werden. In interdisziplinären Arbeitsgruppen werden Exkursionen, Feldstudien und Stadterkundungen vorgenommen. Dabei sollen neue Entwurfsmodelle und Gestaltungsideen gewonnen werden, die das Ohr und die Kulturtechnik des (Zu)Hörens als Ausgangspunkt sozialer, ökologischer und politischer Stadtraumgestaltung nehmen. <br/>Die entstehenden verschiedenen künstlerischen Ergebnisse der Feldstudien sollen im Rahmen einer Werkschau u.A. zur Summaery 2022 präsentiert werden.</br>

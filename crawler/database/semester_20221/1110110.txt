@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: 2. Kernmodul: appoggiando_ Anlehnung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53705&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Entwurf
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 1110110
+Max. Teilnehmer/-innen :3 S: 22
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, 2. Kernmodul\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, 2. Kernmodul
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Farchitektur-und-urbanistik%2Fprofessuren%2Fgrundlagen-des-entwerfens%2F&timestamp=1648732551960&hash=a1d658d8e35dbaa58e4134e9c5696b16
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:30 bis 14:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 11:00 bis 17:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Heike Büttner-Hyman :3 S: Fakultät Architektur und Urbanistik,Daniel Guischard :3 S: Fakultät Architektur und Urbanistik,Clemens Helmke :3 S: Fakultät Architektur und Urbanistik,Eva Pfrommer
+# Beschreibung
+Beschreibung :3 S: „So nimm nun wie von einer in zwei geteilten Linie die ungleichen Teile und teile wiederum jeden Teil nach demselben Verhältnis, das Geschlecht des Sichtbaren und das des Denkbaren: (...) Und nun nimm mir auch die diesen Teilen zugehörigen Zustände der Seele dazu, die Vernunfteinsicht dem obersten, die Verstandesgewissheit dem zweiten, dem dritten aber weise den Glauben an und dem vierten die Wahrscheinlichkeit; (...)“(1) Im Liniengleichnis von Platon werden , <em>Sichtbares und Denkbares</em>,  innerhalb einer Reihung verschiedener Wissensgrundlagen zueinander in Beziehung gesetzt. In unserem Semesterprojekt begehen wir eine , <em>Recherche</em>,  im Zusammenhang mit dem Entwerfen; wir , <em>Forschen durch das Entwerfen</em>, . Sie sucht nach strukturellen Perspektiven in der Architektur und Kunst, umfasst Kulturwissenschaft, Literatur-, (in Teilen auch) Naturwissenschaft, Soziologie, Philosophie. Beim, <em> Forschen durch das Entwerfen</em>,  beobachtet die forschende Entwerfer:in das Thema aus einer Distanz heraus. Die Beobachtung erfolgt aus der Perspektive der Erkennbarkeit und entwickelt daraus neues Verständnis. Als Material dienen uns Fotos, Geschichten, Erzählungen, Objekte, Bilder und Zeichnungen. „Die Metamorphose von Pflanzen“, die Johann Wolfgang von Goethe 1790 erarbeitete, die Morphologie, ist auch Teil unserer Betrachtung. Im Zusammenhang mit naturwissenschaftlichen Erkenntnissen, z.B. der Biotechnik, in der es vereinfacht darum geht, Methoden natürlicher Formfindungen zu betrachten und bezogen auf die Architektur von den räumlichen Bedingungen und Menschen erzeugte Formen zu untersuchen, zu verbessern, oder für eine industrielle Nutzung brauchbar zu machen, wollen wir , <em>Anwendungen von Formen</em>,  in der Architektur studieren. , <em>Forschen durch das Entwerfen</em>,  geht von den Materialien und den Abläufen aus. Es ist ein systematisches Forschen durch praktische Herausforderungen im Entwurf von Architekturen, Artefakten, Objekten, die dazu führen, neue Information und Konzepte in , <em>mitteilbare Erkenntnis</em>,  zu verwandeln. Skizzen helfen die Wahrnehmung zu trainieren, um , <em>Physiognomien</em>,  herauszuarbeiten und anhand von Kollagen und Foto Sequenzen wird die Relevanz kulturwissenschaftlicher Recherche im Bereich der Architektur, Kunst zur analytischen Erfassung von Entwurfsprozessen deutlich. Wir betrachten Ereignisse unter dem Gesichtspunkt der , <em>Veränderbarkeit</em>, , wobei hierbei überwiegend neue Erkenntnisse durch Modelle und Zeichnungen entstehen. In einer späten Entwurfsphase ist das Wissen im Objekt, in der Architektur selbst verkörpert, es entsteht eine , <em>diskursive und bildliche Kommunikation</em>, . Eine nachträgliche Analyse des Entwurfs hat bisher immer zu aufschlussreichen Erkenntnissen geführt. Zum Beispiel beschreibt Maurice Merleau-Ponty den menschlichen Körper als das „zur-Welt-sein“: „Der Leib ist das Vehikel des „Zur-Welt-Seins“, und einen Leib haben heißt für den Lebenden, sich einem bestimmten Milieu (hier als Umwelt) zugesellen, sich mit bestimmten Vorhaben identifizieren und darin beständig sich engagieren.“ Merleau-Pontys „zur Welt sein“ zeigt auf, mit welchen Besonderheiten, an der Schwelle von Innen- und Außenwelt, interagiert werden kann. Mit Hilfe Merleau-Ponty ́s Theorien wollen wir der Frage nachgehen, „was uns die Dinge sagen“ und womit im Prozess des forschenden Skizzierens und Zeichnens interagiert werden kann. Der Prozess und das Einlassen auf ein , <em>Forschen durch das Entwerfen</em>,  ist das Ziel unserer Aufgabenstellung.

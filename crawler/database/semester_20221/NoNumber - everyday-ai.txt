@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Everyday AI
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53596&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 25
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Studienmodul Digitale Kulturen
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Sabine Wirth
+# Beschreibung
+Beschreibung :3 S: Algorithmen und Techniken des sog. maschinellen Lernens, welche oft mit dem Begriff der ‚künstlichen Intelligenz‘ (KI) umschrieben werden, sind nicht mehr nur Gegenstand von Science-Fiction oder Teil von Experimentalanordnungen in Media-Labs, sondern sind

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Lost (in) music
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53896&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 18
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch oder englisch (gemeinsame Festlegung)
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Sa.
+Zeit :3 S: 10:00 bis 16:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Julius Winckler :3 S: missing,Lucas Hübner :3 S: Fakultät Kunst und Gestaltung,Jörn Hintzer :3 S: Fakultät Kunst und Gestaltung,Jakob Hüfner
+# Beschreibung
+Beschreibung :3 S: Was wäre, wenn in Deutschland keine Musik mehr gespielt werden dürfte? Weder Zuhause, noch in einem Restaurant oder Fahrstuhl? Wenn Musiker*innen verfolgt würden? Wenn die einzige Möglichkeit unsere Musik zu bewahren wäre, diese in eine andere Kultur zu überführen? Genau dies geschieht gerade wieder in Afghanistan.

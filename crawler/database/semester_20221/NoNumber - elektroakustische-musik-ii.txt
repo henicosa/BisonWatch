@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Elektroakustische Musik II
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53778&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Werk-/Fachmodul
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch und englisch (zweisprachig)
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:15 bis 12:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Robert Rehnig :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Im Grundlagenkurs Elektroakustische Musik II - Einführung in die Analyse und Praxis der Elektroakustischen Musik bauen wir auf den Kurs des Wintersemesters auf. Neben weiteren Schlaglichtern der Musik- und Kunstgeschichte beschäftigen wir uns mit Analyse, graphischer Notation und Akustik. Ein wesentlicher Bestandteil wird jedoch die Auseinandersetzung mit der Praxis sein. Bis zum Ende des Semesters sollen eigene Studien in den Bereichen Elektroakustische Komposition, Performance oder Klangkunst entstehen., <br><br/></br>

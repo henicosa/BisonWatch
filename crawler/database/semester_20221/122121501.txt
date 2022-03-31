@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Das Atelierhaus (als Typologie)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53822&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 122121501
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Projektmodul - Entwurf\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Projektmodul - Entwurf\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Projektmodul - Entwurf
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Farchitektur-und-urbanistik%2Fprofessuren%2Fwohnungsbau%2F&timestamp=1648732717005&hash=465e3231fed0cceb1b896c31524d8ac7
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:00 bis 17:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Beverly Engelbrecht :3 S: Fakultät Architektur und Urbanistik,Hanna Schlösser :3 S: Fakultät Architektur und Urbanistik,Verena von Beckerath
+# Beschreibung
+Beschreibung :3 S: <em>Wenn Architektur nicht nur beeinflussen, festlegen oder bestimmen, sondern auch ermöglichen, nicht nur disziplinieren und kontrollieren, sondern auch befreien kann, sollten wir uns fragen: Wo, wie und mit wem möchten wir leben? Welche Wohnform wollen wir für welche Lebensphase? Oder gibt es eine bessere Alternative zum Wohnen? </em>, Ludger Schwarte, Revolutionen des Wohnens, in: ARCH+ 244 – Wien. Das Ende des Wohnbaus (als Typologie)

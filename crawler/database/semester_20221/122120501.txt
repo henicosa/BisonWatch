@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Messeakademie 2022: Entwerfen im historischen Umfeld - Altbau.Umbau.Neubau
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53806&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 122120501
+Max. Teilnehmer/-innen :3 S: 10
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Projektmodul - Projekt\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Projektmodul - Projekt\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Projektmodul - Projekt
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Farchitektur-und-urbanistik%2Fprofessuren%2Fdenkmalpflege-und-baugeschichte%2Fprofessur%2F&timestamp=1648732996154&hash=910bed252af0ad04fc88e15310de9fe6
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Christine Dörner :3 S: Fakultät Architektur und Urbanistik,Kirsten Angermann :3 S: Fakultät Architektur und Urbanistik,Hans-Rudolf Meier
+# Beschreibung
+Beschreibung :3 S: Der alle zwei Jahre stattfindende studentische Wettbewerb der Denkmalmesse Leipzig im Rahmen der „Messeakademie“ findet in diesem Jahr wieder unter dem Motto „Entwerfen im historischen Umfeld – Altbau.Umbau.Neubau“ statt. Zur Bearbeitung als Entwurf bietet die Professur zwei der vier als Wettbewerbsstandorte ausgegebenen Aufgaben an:

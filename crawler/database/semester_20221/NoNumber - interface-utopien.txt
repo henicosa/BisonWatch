@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Interface-Utopien
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53597&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 25
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Studienmodul Digitale Kulturen
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Sabine Wirth
+# Beschreibung
+Beschreibung :3 S: Das Seminar will nachverfolgen, wie die Idee der Unmittelbarkeit, welche bereits frühe Mediendiskurse durchzieht, in den Visionen des Gebrauchs digitaler Medien eine neue Konjunktur erfährt und zu einem Leitbild der User Interface-Gestaltung wurde. Dabei kommen nicht nur Utopien der Mensch-Computer-Interaktion wie die des „interfaceless interface”, der unmittelbaren Kopplung von menschlichen Körpern und Computern oder die der unauffälligen Zuhandenheit von Computertechnologie in den Blick, sondern auch das potentielle Umschlagen dieser Utopien in Dystopien. Neben aktuellen Ansätzen der Interface-Theorie werden wir zum einen medienhistorische Texte aus den 1920er und 1930er Jahren lesen, die den paradoxalen Traum vom unmittelbaren Medium der Kommunikation thematisieren. Zum anderen werden konkrete Ideen aus der Vor- und Frühgeschichte des Personal Computers diskutiert: insbesondere Konzeptionen der Human-Computer Interaction (HCI) der 1950er/60er/70er Jahre wie sie bei Vannevar Bush, J.C.R. Licklider, Douglas Engelbart, Alan Kay, Ivan Sutherland, Mark Weiser und anderen Wegbereitern des Personal Computing zu finden sind. Neben der medientheoretischen und -geschichtlichen Hinführung sollen schließlich gegenwärtige Konzepte und Umsetzungen wie Ubiquitous Computing, Internet der Dinge, Calm Technology oder Wearables diskutiert werden, die unauffällig in Umgebungen oder in menschliche Träger*innen eingebetteten werden. Dabei kommt nicht nur die Relation zwischen Computertechnologie, Mensch und Umwelt in den Blick, sondern auch der menschliche Körper als Interface.

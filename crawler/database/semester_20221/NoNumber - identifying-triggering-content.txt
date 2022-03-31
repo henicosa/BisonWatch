@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Identifying triggering content
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=54215&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 10
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 5
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Personen
+Personen :3 S: Fakultät Medien,Benno Stein :3 S: Fakultät Medien,Magdalena Wolska
+# Beschreibung
+Beschreibung :3 S: A trigger is a stimulus that elicits negative emotions or feelings of distress; these may be evoked by acts/events of whatever type, for instance, violence, trauma, death, eating disorders, or obscenity. In order to make it possible for sensitive audiences to prepare for the content, the use of so-called ``trigger warnings---labels indicating the type of triggering content present---has become common in online communities and education. In this project we will investigate properties of (a subset of) triggering content using computational methods based on a corpus of fanfiction in which stories have been labelled with trigger warnings by the authors themselves. First, we will annotate segments of text which do contain distressing content. Annotations will be analyzed and a human judgement-based gold-standard dataset will be constructed. Then, we will build classifiers to identify the triggering segments automatically (machine learning). The specific type of triggers to address will be agreed upon with the students at the beginning of the course.

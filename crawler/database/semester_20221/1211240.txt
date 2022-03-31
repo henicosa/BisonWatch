@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Instrumente und Verfahren der Stadt- und Regionalplanung (Ba)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=52980&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 1211240
+Max. Teilnehmer/-innen :3 S: 60
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Architektur | Planung\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Architektur | Planung\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Architektur | Planung\r, <br/>,  , <br/>, Urbanistik, B.Sc. PO 2021\r, <br/>, Pflichtmodul\r, <br/>, Urbanistik, B.Sc. PO 2020\r, <br/>, Pflichtmodul
+Erwartete Teilnehmer/-innen :3 S: 40
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 18:45 bis 20:15
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Lisa Vollmer :3 S: Fakultät Architektur und Urbanistik,Johann Schwind
+# Beschreibung
+Beschreibung :3 S: Instrumente und Verfahren sind ein Schlüssel für die Erarbeitung, aber vor allem für die Umsetzung von Planungsvorstellungen in die baulich-räumliche Wirklichkeit der Kommune oder Region. In der Vorlesung wird ein Überblick über Instrumente und Verfahren der Stadt- und Regionalplanung sowie deren historische Entwicklung gegeben. Insbesondere werden politische und verwaltungsorganisatorische Aspekte von Planungsaufgaben umrissen. Es werden sowohl die formellen wie auch die informellen Instrumente und Verfahren vorgestellt und an konkreten Beispielen vertieft. Die Vorlesung weckt Sensibilität für direkte und indirekte Formen planerischen Handelns. Sie vermittelt ferner, wie unterschiedlich Instrumente und Verfahren der Stadt- und Regionalplanung formalisiert sind, wie sehr deren Verbindlichkeit variiert und wie unterschiedlich auch deren Zeithorizont sein kann.

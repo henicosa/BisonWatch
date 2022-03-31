@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: MOOC zur Investition und Finanzierung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53727&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 421150025
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Personen
+Personen :3 S: Fakultät Medien,Matthias Maier
+# Beschreibung
+Beschreibung :3 S: Die Vorlesung wir als MOOC (Massive Open Online Course) angeboten. In der Veranstaltung geht es um folgende fünf Themen: (1) Corporate Governance und Stakeholder Management. (2) Grundsätze der Kapitalbeschaffung und des Kapitaleinsatzes im Unternehmen. (3) Ermittlung von Kapitalkosten und Planung des optimalen Kapitaleinsatzes. (4) Leverage-Effekte und Risikomanagement (5) Working Capital Management. Für die einzelnen Themengebiete gibt es On-Demand-Videos, begleitende Artikel, Arbeitsmaterialien und Aufgaben zur individuellen Bearbeitung. Die Inhalte aus dieser Veranstaltung werden im Seminar weiter vertieft und im Hinblick auf Fragen zur Investition und Finanzierung von Medienunternehmen spezifiziert.

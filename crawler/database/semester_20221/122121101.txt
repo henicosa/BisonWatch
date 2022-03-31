@@ -1,0 +1,48 @@
+Veranstaltungstitel :3 S: Zwischen Mailand und Mendrisio, zwischen Como und Varese. 25 Jahre Zwischenstadt
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53634&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 122121101
+Max. Teilnehmer/-innen :3 S: 18
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Projektmodul - Projekt\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Projektmodul - Projekt\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Projektmodul - Projekt
+Erwartete Teilnehmer/-innen :3 S: 16
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:00 bis 13:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:00 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Zwischenpräsentation</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:00 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Zwischenpräsentation</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:00 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Zwischenpräsentation</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:00 bis 20:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Schlusspräsentation</p>,
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Andreas Garkisch :3 S: Fakultät Architektur und Urbanistik,Johann Simons :3 S: Fakultät Architektur und Urbanistik,Max Weisthoff :3 S: Fakultät Architektur und Urbanistik,Michael Kraus
+# Beschreibung
+Beschreibung :3 S: Das Erscheinen des Buches „ZWISCHENSTADT: zwischen Ort und Welt, Raum und Zeit, Stadt und Land“ von Thomas Sieverts jährt sich 2022 bereits zum 25. Mal. Das Buch ist eine der erfolgreichsten Publikationen über Städtebau, Stadt- und Raumentwicklung der letzten Jahrzehnte. Seinen Erfolg verdankt es sicherlich auch seinem ambivalenten Titel, der viel Raum für Interpretationen lässt. Das Ziel des Buches, die Augen für die Räume jenseits der großen Zentren zu öffnen, hat das Buch, zumindest für kurze Zeit, erreicht. Sieverts hat es geschafft, dem oft verschlossen wirkenden Expertenthema der Raumentwicklung eine größere Bühne zu geben. Die damalige Diskussion hat den Fokus weg vom verkrusteten Streit über das Neue Berlin und hin zu den wirklich anstehenden Problemen der Stadt- und Raumentwicklung geführt. Bewegt hat sie indes leider nichts, nach wie vor schreitet der Grad an Versiegelung und Zersiedelung der Landschaft voran.

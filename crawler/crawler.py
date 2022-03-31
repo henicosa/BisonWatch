@@ -5,7 +5,7 @@ import data2csv as d2c
 
 import re
 numelem = 10000
-year = "2021"
+year = "2022"
 # 1 für Sommer, 2 für Winter
 semester = "1"
 dataset = year + semester
@@ -26,7 +26,8 @@ for search_link in search_link_queue:
     soup = BeautifulSoup(r.text, 'html.parser')
     course_tags = soup("a", "regular")
     for i in range(len(course_tags)-3):
-        link_queue.append(course_tags[3+i]["href"])
+        course_link = course_tags[3+i]["href"]
+        link_queue.append(course_link)
         numelem -= 1
         if numelem < 0:
             break
@@ -37,8 +38,9 @@ for search_link in search_link_queue:
 for link in link_queue:
     try:
         b2d.process_url(link, dataset)
-    except Exception:
+    except Exception as e:
         print("FATALER FEHLER : " + url)
+        print(e)
 
 
 d2c.data2csv(dataset)

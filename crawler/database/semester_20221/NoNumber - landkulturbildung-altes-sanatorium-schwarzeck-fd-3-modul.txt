@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: LandKulturBildung. Altes Sanatorium Schwarzeck (FD 3-Modul)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53924&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Wissenschaftliches Modul
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 30
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fkunst-und-gestaltung%2Fstudium%2Flehramt-an-gymnasien%2F&timestamp=1648732945452&hash=649da6697f488fb8afc546c923c8d0f6
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:00 bis 16:00
+Terminrhythmus :3 S: gerade Wo
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person :3 S: Fakultät Kunst und Gestaltung,Andrea Dreyer
+# Beschreibung
+Beschreibung :3 S: Unser Blick auf Kunst und Kultur, auf Kreativität und deren Motor für Gesellschaft, auf Politik, Wirtschaft und Ökologie ist überwiegend urban geprägt. Denken wir an kulturelle Bildungsansprüche wie die Begegnung mit Artefakten, die inklusiven Zugänge zu Museen, die partizipativen Vermittlungsansätze in zeitgenössischen Kunstgalerien – unsere Perspektive ist eine urbane, die vom ländlichen Raum eine identische Offenheit und Zugewandtheit zu Kunst und (Hoch-)Kultur erwartet, obgleich die Zugänge auch heute nicht nur infrastrukturell erschwert, sondern aufgrund der regionalen wie lokalen Sozialisation zum Teil andere sind, als jene, die wir bisher in den Blick nehmen. Emanzipatorische künstlerische, gestalterische und (bau-)kulturelle Bildungsprozesse können jedoch einen wesentlichen Beitrag leisten, Beteiligungskulturen zu erforschen, zu entwickeln und mit zu gestalten, wenn wir unsere urbanen Perspektiven verlassen und jenen Gehör verschaffen, die Expert*innen ihres Lebensumfeldes sind. Welchen Beitrag die Kulturelle Bildung hierzu leisten kann, soll im Seminarkontext erforscht werden. Auf Grundlage der Sensibilisierung für die Thematik im Kontext des je individuellen professionellen Selbstverständnisses und einer interessengeleiteten Recherche zu einem baukulturellen Kleinod im ländlichen Raum Thüringens, sollen mit Akteuren vor Ort Ideen zu deren Aneignung entwickelt sowie interessen- und theoriegeleitet reflektiert werden. Empfohlen wird die Teilnahme am gleichnamigen Fachmodul, geleitet von Sandra Rücker, welches die Möglichkeit bietet, die Ideen medial unter Anwendung zeitgemäßer Technologien in Vermittlungszusammenhängen zu übersetzen und damit Dritten zugänglich zu machen.

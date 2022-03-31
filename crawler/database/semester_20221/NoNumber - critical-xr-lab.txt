@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Critical XR Lab
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53877&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Werk-/Fachmodul
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch und englisch (zweisprachig)
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 15:15 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Jörg Brinkmann :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Critical XR Lab is a beginner module that offers an Introduction to the Unity game engine. The course will be taught in the Digital Bauhaus Lab, where participants will be able to experiment with different virtual reality (VR) and augmented reality (AR) technologies and concepts. , <br>The course will be taught in two phases: In phase one participants will be introduced to an overview of the Unity interface and different techniques (Lights, Skyboxes, Prefabs, Timeline, Animation) and technologies (VR headsets, 360 video, AR apps). The learning phase will be accompanied by lectures and discussions that are focused on finding strategies for dealing with the possibilities and challenges of working artistically with Game Engines and VR/AR technologies. At the end of phase one, students will have created an experience with Unity. In phase two students are challenged to reflect, discuss, rethink and rework their Unity experience, based on individual research and experienced insights. The course emphasises on artistic and opposing ways of working with XR concepts. It’s aim is to establish individual approaches to VR/AR; challenging new mediums that offer artists new possibilities for expression and intercultural communication.</br>

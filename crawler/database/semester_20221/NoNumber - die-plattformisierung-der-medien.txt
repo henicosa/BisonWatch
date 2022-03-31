@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Die Plattformisierung der Medien
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53731&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Open-Book-Prüfung: 20.07.2022, 9:00-13:00 Uhr</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Christopher Buschow
+# Beschreibung
+Beschreibung :3 S: Plattformisierung erfasst zunehmend alle Medienteilmärkte. Der Begriff meint den Prozess der Durchdringung von immer mehr Lebens-, Wirtschafts- und Gesellschaftsbereichen mit digitalen Plattformen, auf denen mehrere Nutzendengruppen (in der simpelsten Form z.B. Käufer*innen und Verkäufer*innen) zusammengebracht werden und mittels derer ihre Interaktion organisiert wird. Spotify ist zum wichtigsten Distributionskanal für Musik geworden, während sich im Bewegtbildmarkt Netflix, Amazon Prime und Co. als zentrale Zugangskanäle zu Videoinhalten etablieren. Der Journalismus wiederum ist stark angewiesen auf Social-Media-Plattformen wie Facebook und Instagram, die für viele junge Menschen der wichtigste Ort sind, um Nachrichten zu konsumieren. In Plattform-Ökosystemen wie Youtube und Twitch entsteht eine neuartige „Creator-Economy”, in der einzelne Kreative und Medienschaffende ein Geschäft auf Grundlage der Infrastrukturen und Ressourcen einer Plattform aufbauen. Dem gegenüber stehen genossenschaftlich betrieben ‚Platform Cooperatives’. Welche Folgen hat die Ausbreitung der Organisationsform der Plattform für die Medienwirtschaft? Wie weit ist sie in einzelnen Teilmärkten der Medienwirtschaft vorangeschritten? Warum gibt es beispielsweise (noch) kein „Netflix für Nachrichten”?

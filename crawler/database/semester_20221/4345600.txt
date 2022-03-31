@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Computer Graphics II: Computer Animation
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53952&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 3
+Veranstaltungsnummer :3 S: 4345600
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Lab class</p>,
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 17:00 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Lecture</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Charles Wüthrich :3 S: Fakultät Medien,Gianluca Pandolfo
+# Beschreibung
+Beschreibung :3 S: Das Ziel der Veranstaltungen ist die interdisziplinäre Vermittlung ästhetischer und technischer Aspekte der Computergrafik und -Animation von der Theorie bis in die Praxis., <br> <br>Die Veranstaltung besteht aus einer eigens für Medienkünstler / Gestalter entwickelten Vorlesung und einer Übung, in der Künstler und Informatiker interdisziplinär zusammen arbeiten können. <br/><br/>In der Vorlesung werden die Studenten mit den nötigen technischen Details versorgt.<br/><br/>Die Übung wird von M.F.A Gianluca Pandolfo geleitet und deckt sowohl technische als auch ästhetische Grundlagen ab (Modellieren, Rendern, Animieren). Gearbeitet wird mit Blender 3D. Ziel der Übung ist die Fertigstellung eines einminütigen 3D-Animationsfilms als finale Abgabe.</br></br>

@@ -1,0 +1,53 @@
+Veranstaltungstitel :3 S: LandKulturBildung. Altes Sanatorium Schwarzeck
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=54008&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 3
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 16:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 16:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Exkursion</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 16:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Exkursion</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 16:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 17:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person :3 S: Fakultät Kunst und Gestaltung,Sandra Rücker :3 S: Fakultät Kunst und Gestaltung,Andrea Dreyer
+# Beschreibung
+Beschreibung :3 S: Der Luftkurort Bad Blankenburg am Nordrand des Thüringer Waldes besitzt einen geschichtsträchtigen Kulturstandort, dessen Bedeutung für das öffentliche Leben in der ländlich geprägten Region in die Jahre gekommen ist. 1901 wurde am südlichen Rande der Kleinstadt das Thüringer Waldsanatorium Schwarzeck gegründet. Auf dem circa 10.000 qm großen Areal entstand sukzessive ein Gebäudekomplex, in welchem sich verschiedene Baustile zu einer spannungsvollen Gesamtkomposition ergänzen: Regionaltypische Landhaus- und Sommerfrische-Architektur treffen Einflüsse des späten Weimarer Bauhauses. , <br>Der Mitbegründer Dr. Paul Wiedeburg vertrat einen ganzheitlichen Gesundheitsbegriff auf dem neusten Stand der Wissenschaft: Neben Diät- und Fastenkuren sind es besonders Psycho- und Hynosetherapien, welche die Heilanstalt weit über die Grenzen Thüringens hinaus bekannt machten. Wahrscheinlich lockte dies auch den Maler Marc Chagall zur therapeutischen Behandlung seiner Drogensucht in das Schwarzatal. Schwarzeck blieb jedoch nicht allzeit ein Ort der Erholung. Die Nationalsozialisten widmeten die Anlage in eine Luftwaffenschule um, in welcher sogleich die verwundeten Luftwaffensoldaten ab 1944 behandelt wurden. Nachdem der Gebäudekomplex nach dem 2. Weltkrieg kurze Zeit zur Notunterkunft für Umsiedler*innen wurde, nutze die SED das Objekt als Bezirksparteischule. <br>Nach einer Fehlprivatisierung steht das Objekt seit 2004 leer. Diebstähle, Brandstiftungen und Vandalismus beschleunigten seinen Verfall. Heute ist Schwarzeck ein beliebtes Lost Place, das von der Natur allmählich zurückerobert wird.</br></br>

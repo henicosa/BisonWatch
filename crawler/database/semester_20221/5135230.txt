@@ -1,0 +1,22 @@
+Veranstaltungstitel :3 S: Oral Skills - Conversation and Discussion (C 1)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=52869&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Kurs
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 5135230
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fcms%2Funiversitaet%2Fzentrale-einrichtungen%2Fsprachenzentrum%2Ffremdsprachen-im-ss-2009%2Fenglisch%2Fenglish-skills-c-1%2Foral-skills.html&timestamp=1648733021406&hash=174b9edd5d4cc3bd414225a299610fe1
+Sprache :3 S: englisch
+Fakultät :3 S: Sprachenzentrum
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Gewährleistungsbereich,Kathryn Arsenault
+# Beschreibung

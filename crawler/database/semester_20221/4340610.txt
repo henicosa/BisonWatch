@@ -1,0 +1,38 @@
+Veranstaltungstitel :3 S: Mediengeschichte
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53613&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Plenum
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 4340610
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Einführungsmodul Einführung in die Mediengeschichte
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Gruppe B = Fabian Winter</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Gruppe A = Prof. Dr. Jörg Paulus</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Gruppe C = Celina Berghaus, Martin Siegler</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Nachholtermin Gruppe C</p>,
+# Personen
+Personen :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N. :3 S: Fakultät Medien,Martin Siegler :3 S: Fakultät Medien,Fabian Winter :3 S: Fakultät Medien,Jörg Paulus
+# Beschreibung
+Beschreibung :3 S: Das Plenum verfolgt zwei Ziele. Zum ersten gilt es anhand ausgewählter Ereignisse und medientechnologischer Erfindungen/Innovationen einen Überblick über Epochen, Evolutionen und Zäsuren der Mediengeschichte zu gewinnen. Was endet eigentlich mit einer neuen Erfindung? Und welche Entwicklungen und Folgeeffekte bringt schließlich das neue Medium hervor? Zum zweiten wird sich das Plenum den Fragen widmen, wie man treffend über Ereignisse der Mediengeschichte schreiben kann und wie sich Gesellschaftsgeschichte als Mediengeschichte schreibt. Das Plenum bildet zusammen mit der Einführung in die Filmgeschichte“ (Frisch) und der Vorlesung „Mediengeschichte“ (Seppi) das Einführungsmodul „Mediengeschichte“; obligatorisch für BA-(E)MK im 2. Semester, mit einem Umfang von 8 LVS und 12 Credits. Im Sommersemester 2022 wird das Plenum, je nach Lage, entweder digital oder in Präsenz stattfinden. Bitte melden Sie sich daher unbedingt vor Veranstaltungsbeginn im Moodle-Raum für eine der drei Teilgruppen an, damit wir entsprechend kurzfristig mit Ihnen kommunizieren können.

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Forschungskolloquium: Markenführung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53719&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 420150001
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 11:00 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Maria Rauch :3 S: Fakultät Medien,Timo Janson
+# Beschreibung
+Beschreibung :3 S: Das Forschungskolloquium dient dazu, die Inhalte der Veranstaltungen des Projektmoduls „Marketing und Medien” zusammen zu führen, kritisch zu reflektieren und in einer wissenschaftlichen (empirischen) Projektarbeit aufzuarbeiten.

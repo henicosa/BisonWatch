@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Optimization in Applications (P)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=54138&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul/Projekt
+SWS :3 S: 3
+Veranstaltungsnummer :3 S: 451006
+Max. Teilnehmer/-innen :3 S: 30
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D38763&timestamp=1648733020841&hash=2f3ca210b6274b225562bc4e0ea1dd49
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Tom Lahmer
+# Beschreibung
+Beschreibung :3 S: <span style=text-decoration: underline;><strong>Optimization in Applications (451006):</strong> </span>

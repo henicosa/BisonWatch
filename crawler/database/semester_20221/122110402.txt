@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Zeichenexkursion in die Altstadt von Görlitz
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=52999&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Workshop
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 122110402
+Max. Teilnehmer/-innen :3 S: 30
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Werkzeuge | Methoden\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Werkzeuge | Methoden\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Werkzeuge | Methoden
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: bis
+Terminrhythmus :3 S: BlockSat.
+Bemerkung :3 S: , <p>nach Plauen</p>,
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Sabine Zierold
+# Beschreibung
+Beschreibung :3 S: Görlitz besitzt eine beeindruckende historische Altstadt mit aufwendig restaurierten Bauten aus der Gotik, der Renaissance, des Barock und dem Jungendstil. Görlitz gilt als städtebauliches Gesamtkunstwerk und größtes zusammenhängendes Flächendenkmal in Deutschland mit zahlreichen Plätzen und verwinkelten Gassen, am Grenzfluss der Neiße gelegen. Die Altstadt wollen wir zeichnerisch bequem zu Fuß von der Jugendherberge aus erkunden. Benötigt werden Zeichenblock A3, Zeichenstifte, Zeichenhocker und Skizzenbuch. Die Gruppe trifft sich vor der Abreise für eine kurze Einführung., <br><br>Bezahlung:<br>3 Nächte mit Frühstück in der Jugendherberge Görlitz-City, Peterstraße 15<br>Pro Person: 84,84 EUR / Reise-Haftpflicht-/Unfallversicherung / ohne Selbstbeteiligung (freiwillig): 0,75 EUR, www.goerlitz-city.jugendherberge.de<br><br/>Anreise:<br/>Die Anreise erfolgt individuell. Günstige Zugverbindung:<br/>03.06., Abfahrt 7:04 Uhr Weimar, Ankunft (mit Umstieg) 10:48 Uhr Görlitz<br/>06.06., Abfahrt 14:33 Uhr G rlitz, Ankunft (mit Umstieg) 19:40 Uhr Weimar<br/>(66, 90 EUR Hin- und Rückfahrt, weitere Ermäßigungen mit Bahncard und Thoska sind zu prüfen.</br></br></br></br></br>

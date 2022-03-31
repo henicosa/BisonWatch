@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Freibad-Kolonnade
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53698&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 122124201
+Max. Teilnehmer/-innen :3 S: 5
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Projektmodul - Projekt\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Projektmodul - Projekt\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Projektmodul - Projekt
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Julius Tischler :3 S: Fakultät Architektur und Urbanistik,Kassandra Löffler :3 S: Fakultät Architektur und Urbanistik,Stephan Schütz
+# Beschreibung
+Beschreibung :3 S: GRUNDLAGE:, <br>Das Freibad in der Gemeinde Rippershausen in Südthüringen ist eines der letzten verbliebenen Bäder in der Region. Es wird von einem Selbsthilfeverein in ehrenamtlicher Arbeit betrieben und bildet als einziger öffentlicher Ort den sozialen Mittelpunkt des Dorfes. Im Sommer findet auf dem Gelände ein alljährliches Kultur- und Musikfestival statt. Zur Weiterentwicklung dieses wichtigen sozialen Standorts wurde ein Masterplan für eine architektonisch-strukturelle Neufassung des Geländes entwickelt. Dieser definiert eine lange hölzerne Kolonnade, welche als Verbindungselement für notwendige Architekturbausteine (Kulturbühne, Nebengebäude, Umkleiden, …) dienen und so dem Gemeinsinn ein architektonisches Zeichen geben soll.</br>

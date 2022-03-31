@@ -1,0 +1,38 @@
+Veranstaltungstitel :3 S: Japanische Klangwelt und darstellende Kunst
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53628&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Projektmodul Ostasiatische Ästhetik und Philosophie
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 13:00 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 13:00 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 13:00 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 13:00 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Makiko Nishikaze
+# Beschreibung
+Beschreibung :3 S: In dem Seminar, das Teil des Projektmoduls Ostasiatische Ästhetik und Philosophie ist, geht es um Erfahrungen und Übungen zu den Aspekten Klang und darstellend-performative Künste aus der japanischen Kultur: Musik mit Instrument und Stimme, die erzählerischen und theatralen Formen des No und des Kyogen, Bunraku und Rakugo.

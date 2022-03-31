@@ -1,0 +1,43 @@
+Veranstaltungstitel :3 S: Bauhaus.Modul: Public Arts Garage: Transnational Tinkering in Transdisciplinary Art and Public Space
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=54003&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 10
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 15:00 bis 18:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Introduction (Online-Veranstaltung)</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 15:00 bis 18:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Session 1 (Montreal) (Online-Veranstaltung)</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 15:00 bis 18:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Session 3 (Weimar)</p>,
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 15:00 bis 18:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Session 2 (Belfast) (Online-Veranstaltung)</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 15:00 bis 18:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Wrap-up (Online-Veranstaltung)</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Alexandra Toland :3 S: Fakultät Kunst und Gestaltung,Martin Leibinger
+# Beschreibung
+Beschreibung :3 S: The ”Public Arts Garage” is a seminar focused on interdisciplinary and international collaboration in approaches to art and public space. A Garage can be more than a storage space. It can be a repository for tools and ideas, a refuge from the daily routine, a safe space where creative people come together sharing the enjoyment of making and tinkering. Embracing this ”Garage” spirit, the seminar connects students from MA and Ph.D. level, from different disciplines, countries and academic cultures to create collaborative interdisciplinary approaches to art and public space. The seminar is focused on performance and reformative research methodologies. We match students in tandems across three international partner institutions. The tandem partners collaborate through digital exchange and create interdisciplinary artistic projects with a physical outcome at both their locations. We encourage cross-disciplinary collaboration among students, finding approaches together with their tandem partners and embracing differences in disciplines, academic cultures and local context.

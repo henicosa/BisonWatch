@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: In Dialog with the Virtual Museum 2
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=54216&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 10
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 5
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Personen
+Personen :3 S: Fakultät Medien,Benno Stein :3 S: Fakultät Medien,Marcel Gohsen :3 S: Fakultät Medien,Johannes Kiesel
+# Beschreibung
+Beschreibung :3 S: This project aims to create an interactive and immersive environment for learning about a specific topic. Users will be in a virtual replication of Walter Gropius office, a historically significant room for the Bauhaus Movement, to experience its history.

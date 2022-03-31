@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: 2. Kernmodul: rimodellamento_ Umformung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53704&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Entwurf
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 110110
+Max. Teilnehmer/-innen :3 S: 22
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, 2. Kernmodul\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, 2. Kernmodul
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Farchitektur-und-urbanistik%2Fprofessuren%2Fgrundlagen-des-entwerfens%2F&timestamp=1648732554244&hash=457a7ffc5ec307a3349df5110dbc2c45
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:30 bis 14:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 11:00 bis 17:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Eva Pfrommer :3 S: Fakultät Architektur und Urbanistik,Clemens Helmke :3 S: Fakultät Architektur und Urbanistik,Daniel Guischard :3 S: Fakultät Architektur und Urbanistik,Heike Büttner-Hyman
+# Beschreibung
+Beschreibung :3 S: Für etwas stehen, sich auf etwas beziehen, auf etwas verweisen: Schon Aristoteles bemerkte in seinen Ausführungen über die „hexis“ (Haltung): „Erfahrung, griechisch „empeiria“, ist „etwas von langjähriger Übung, Geschicklichkeit, Fachkunde, Bewährung und einsichtiger Tüchtigkeit.“ Sie steht in enger Beziehung zu zwei anderen Begriffen, „techne“ (Kunstfertigkeit, Können) und „episteme“ (Wissen). „Bei den Menschen entsteht Erfahrung aus der Erinnerung, denn die wiederholten Erinnerungen schließen sich in der Verfügbarkeit einer einzigen Erfahrung zusammen, wie denn Erfahrung sowohl der Einsicht, wie dem Können ähnlich zu sein scheint.“ (...) Wir müssen, sagt Aristoteles, unendlich viele Dinge lernen, weil wir sie nicht mit auf die Welt gebracht haben - wir lernen sie, indem wir sie als Tätigkeiten ausführen: „Denn was man erst lernen muss, bevor man es ausführen kann, das lernt man, indem man es ausführt. Baumeister wird man, indem man baut, (...).“(1) In unserem Semesterprojekt stellen wir anhand von theoretischen Auseinandersetzungen Texte, Material über Architekt:innen, Künstler:innen und deren Verwendung von Skizzen gegenüber und erarbeiten nachvollziehbare Zusammenhänge mit dem , <em>gefundenen Material</em>, . Es geht hierbei um sich wechselseitig bedingende Aspekte von , <em>Sicherinnern und Erkennen</em>, , , <em>Wiederholung und Differenz</em>, , , <em>Reproduktion und Reflexion</em>, . Skizzen können Ergebnis eines vorgestellten Bildes oder eine Mischung aus Vorstellung, Wahrnehmung und sprachlichen Bildern sein; sie können selbst visuelle Vorstellungen hervorrufen. Diese Vorstellungen können beim Skizzieren Metaphern hervorbringen, die es ermöglichen, imaginäres zu erfahren. , <em>Forschende Zeichnungen</em>,  sind gegenüber verbalen Metaphern bildhaft und die bildhafte Ebene ist im kognitiven Denken das Bindeglied zu konkreten Erfahrungen. Jede von ihnen leistet mehr als nur Assoziationen zusammenzuführen; sie bilden unerwartete, neue Bedeutungen aus der gesamten Erfahrung der Entwerfer:in. Es soll gezeigt werden wie das Skizzieren als Werkzeug nicht (nur) für die Vorstellung, sondern als Hilfsmittel dem Entwerfen dient. Architekt:innen nutzen die beschreibende Skizze um mit sich selbst in Dialog zu treten, sich selbst über ihr Entstehen und Verwirklichung bewußt zu werden. Im Prozess des Skizzierens ist das konsequente Selektieren, ordnen, kein Ergebnis des zufälligen Weglassens. Mit Hilfe zunächst vager Vorstellungen sich dem Gefundenen anzunähern, ist genau das, was im Prozess des Skizzierens geschieht; eine direkte Hinführung zum Entwurf. Das nicht abgeschlossene, nicht präzisierte, Vorläufige, ermöglicht uns das Zeichenhafte umzuinterpretieren und es in unseren persönlichen, metaphorischen Raum zu stellen. Figurenstudien aneinanderzureihen, übereinanderliegend zu zeichnen, zu spiegeln, Objekte perspektivisch zu drehen, sind in Studienskizzen von Leonardo da Vinci zu sehen. „(...) denn in der Wahrnehmung verworrener Dinge findet der Geist Anregung zu neuen Erfindungen.“(2) Anhand von Leonardos Wasserstudien zeigt sich, dass es keine Trennung zwischen technischer Zeichnung und künstlerischem Entwurf gibt. Es ist hier sehr anschaulich zu erkennen, daß der Prozess des Zeichnens selbst etwas hervorbringt. „Statt den Einfall am Papier festzuhalten, hält die Skizze den Strom der Vorstellungen in Bewegung. Im Suchen nach einer neuen Lösung, entwickelte Leonardo neue Bedeutungen in den Formen, die er in seinen vorhandenen Skizzen sah.“(3)

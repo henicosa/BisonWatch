@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Brückentragwerke - Entwurf und Modellierung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53045&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 204028
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D38983&timestamp=1648732694522&hash=5b2fd297a1e8a9809698406be2659f6f
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: bis
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Projekteinführung - Information über Termine und Räume via MOODLE</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Guido Morgenthal :3 S: Fakultät Bauingenieurwesen,Marcel Helmrich :3 S: Fakultät Bauingenieurwesen,Hans-Georg Timmler :3 S: Fakultät Bauingenieurwesen,Alexander Stanic
+# Beschreibung
+Beschreibung :3 S: Projektspezifischer Entwurf und numerische Modellierung eines Brückentragwerks:

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Diffuse Orte
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53638&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Übung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 118210401
+Max. Teilnehmer/-innen :3 S: 16
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Werkzeuge | Methoden\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Werkzeuge | Methoden\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Werkzeuge | Methoden
+Erwartete Teilnehmer/-innen :3 S: 16
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Martin Ahner
+# Beschreibung
+Beschreibung :3 S: Nach längerer Abwesenheit eines analogen fotografischen Angebotes in den zurückliegenden Semestern an unserer Fakultät, sollen im Sommer die Räume des Fotolabors wieder mit Aktivität gefüllt werden., <br>Zum einen begeben wir uns gedanklich auf eine Tour d’Horizon zu bildgebenden Parametern – technischer und gestalterischer Natur –  zum anderen wird sich der Kurs auch ganz praktisch mit der analogen Fotografie auseinander setzten und mit einer eigenen Position schließen. Nähere Informationen zu Inhalten und Ablauf wird eine Auftaktveranstaltung geben. Mit Kosten für Verbrauchsmaterialien ist zu rechnen.</br>

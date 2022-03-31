@@ -1,0 +1,58 @@
+Veranstaltungstitel :3 S: Urban Aesthetics
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53989&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Wissenschaftliches Modul
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fcloud.uni-weimar.de%2Fs%2FZ2rkbAmHRd6R8rt&timestamp=1648733263240&hash=84ae6c35673613b0f57830c990aa02c5
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 15:15 bis 17:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 15:15 bis 17:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 15:15 bis 17:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 15:15 bis 17:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 15:15 bis 17:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 15:15 bis 17:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 15:15 bis 17:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 15:15 bis 17:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person :3 S: Fakultät Kunst und Gestaltung,Alexander Schwinghammer
+# Beschreibung
+Beschreibung :3 S: The seminar aims at opening up critical discussion of the social, political and everyday dimensions of urban aesthetics and aesthetical interventions on the urban space. We will examine design, experience, and other imaginations of urban space from an interdisciplinary perspective and explore linkages of art and design practices with spatial research approaches. The seminar starts with analytical takes on spatial practice, representations of space, and spaces of representation. During the course of the seminar we will encounter general theory positions as well as discuss specific case studies of particular cities. The discussion of theories and case studies is complemented by visual research. , <br>Participants are expected to write an essay or produce a visual presentation (video-essay, photo-essay, performance) about one of the topics that are tackled during the seminar sessions.</br>

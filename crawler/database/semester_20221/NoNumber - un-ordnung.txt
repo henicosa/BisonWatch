@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Un/Ordnung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53560&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Plenum
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 30
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Projektmodul Kulturtechniken 1
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Angelika Seppi
+# Beschreibung
+Beschreibung :3 S: Kulturelle Ordnungen beruhen auf einer spezifischen Verteilung von Unterschieden. Dass Unterschiede nicht einfach gegeben sind, sondern kulturtechnisch artikuliert, prozessiert und iteriert werden, ist eine der zentralen Thesen der Kulturtechnikforschung. Daraus folgt, dass Ordnungen erstens stets gemacht sind und zweites immer auch ein potentielles Kippmoment miteinschließen, weshalb es treffender ist, von Un/Ordnungen zu sprechen. Das Plenum geht konkreten Szenen der Un/Ordung und den sie konstituierenden Kulturtechniken nach. Es bildet zusammen mit dem Seminar „Grundlagen der Kulturtechnikforschung“ (M. Hiller) und dem Seminar „Grenzobjekte: Inskriptionen“ (A. Seppi) das Projektmodul Kulturtechniken 1. Das Plenum verfolgt das Ziel, die in den Seminaren erworbenen Kenntnisse zu vertiefen, auf konkrete Fallstudien anzuwenden und darauf aufbauend eigene Fragestellungen und methodische Ansätze für Projekt- und Hausarbeiten zu entwickeln.

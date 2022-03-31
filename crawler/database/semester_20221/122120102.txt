@@ -1,0 +1,48 @@
+Veranstaltungstitel :3 S: Trittschall - Klang zum Betreten
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53605&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Blockveranstaltung
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 122120102
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflicht - Architektur\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflicht - Architektur\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflicht - Architektur\r, <br/>,  , <br/>, MediaArchitecture, M.Sc. PO 2020\r, <br/>, Theoriemodul - Gestalten im Kontext\r, <br/>, MediaArchitecture, M.Sc. PO 18\r, <br/>, Theoriemodul - Gestalten im Kontext
+Erwartete Teilnehmer/-innen :3 S: 15
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch und englisch (zweisprachig)
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:45 bis 15:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>online</p>,
+# Zeit
+Tag :3 S: Sa.
+Zeit :3 S: 09:00 bis 18:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: 09:00 bis 18:00
+Terminrhythmus :3 S: BlockWE
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:45 bis 15:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>online</p>,
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: 09:00 bis 18:00
+Terminrhythmus :3 S: BlockWE
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: 09:00 bis 18:00
+Terminrhythmus :3 S: BlockWE
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Yvonne Graefe
+# Beschreibung
+Beschreibung :3 S: In Kooperation mit Soundart-Studierenden der Hochschule der Künste Bern und Prof. Dr. Teresa Carrasco wollen wir uns in dieser Veranstaltung praktisch wie theoretisch mit kompositorischen Verfahren in der Musik des 20. und des 21. Jahrhunderts beschäftigen. Inhalt werden aktuelle Werke aus den Bereichen Gamemusik, interaktive Systeme oder Machine Learning sein. Die Studierenden in Weimar werden die Methoden der Kompositionsstrategien und Ästhetiken, in außermusikalische Kontexte übersetzen. Die entstehende Architektur (virtuell oder real) soll dabei einem ereignisorientierten Meta-Referenzsystem folgen und ein gewisses Maß an Interaktivität beinhalten. Diese Interaktivität kann auch auf einer einfachen mechanischen Ebene entstehen. In einem Wettbewerbsverfahren wird ein 1:1 „Klangstück“ entwickelt, errichtet und Ende Juni gemeinsam mit den Studierenden aus Bern in Weimar bespielt. , <br><br/></br>

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: WW 58 Wasserversorgungstechnik
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=54261&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Prüfung
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 60
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 26
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fwbbau&timestamp=1648733313565&hash=5f271f8a6ef49f1d5048c8fc638a3660
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: 09:00 bis 17:00
+Terminrhythmus :3 S: Block
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,keine öffentliche Person :3 S: Fakultät Bauingenieurwesen,Konrad Irmisch :3 S: Fakultät Bauingenieurwesen,Silvio Beier
+# Beschreibung
+Beschreibung :3 S: Dieser Kurs eignet sich für Mitarbeiterinnen und Mitarbeiter aus Wasserversorgungsunternehmen, Fachbehörden und Ingenieurbüros, die im Rahmen ihrer beruflichen Praxis mit Aufgaben und Fragestellungen der Wasseraufbereitung und der Wasserverteilung bereits betraut sind oder sich zukünftig befassen werden. Er ist als fachliche Weiterführung des Kurses WW 57 aber auch für den genannten Personenkreis empfehlenswert.

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Transformationen in Leipzig und Dresden
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53941&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Workshop
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 122120701
+Max. Teilnehmer/-innen :3 S: 10
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Projektmodul - Projektbegleitendes Seminar oder\r, <br/>, Wahlpflicht - Technik\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Projektmodul - Projektbegleitendes Seminar oder\r, <br/>, Wahlpflicht - Technik\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Projektmodul - Projektbegleitendes Seminar oder\r, <br/>, Wahlpflicht - Technik
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: bis
+Terminrhythmus :3 S: Block
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Johannes Kühn :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N.
+# Beschreibung
+Beschreibung :3 S: Unterstützend zu dem Seminar , <em>Strukturelle Resilienz </em>, werden in dem Workshop gemeinsam gebaute Beispiele besucht, die auf exemplarische Weise einen Umnutzungsprozess durchlaufen haben. In Form einer Exkursion konzipiert, beleuchtet der Workshop anschaulich, wie sich städtische Transformationsprozesse abspielen. Dabei spannt sich der Betrachtungshorizont vom urbanen Kontext über Grundrisstypologien bis zum Detail, in dem Alt und Neu aufeinandertreffen.

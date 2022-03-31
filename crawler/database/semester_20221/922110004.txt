@@ -1,0 +1,73 @@
+Veranstaltungstitel :3 S: Bauhaus.Modul: Heritage Futures - Time Capsule
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53804&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 922110004
+Max. Teilnehmer/-innen :3 S: 25
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch und englisch (zweisprachig)
+Fakultät :3 S: Lehrveranstaltungen der Bauhaus.Module
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 14:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 18:00 bis 20:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 10:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 14:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 18:00 bis 20:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 10:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 14:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 14:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 18:00 bis 20:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 10:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 14:00 bis 17:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N. :3 S: Fakultät Architektur und Urbanistik,Jenny Price :3 S: Fakultät Architektur und Urbanistik,Hans-Rudolf Meier
+# Beschreibung
+Beschreibung :3 S: Welche Ideen, Praktiken, Objekte oder Strukturen aus unserer Vergangenheit oder Gegenwart werden wir in Zukunft brauchen? Welche Fähigkeiten können wir nutzen, um Aspekte unseres Erbes zu bewahren, zu schützen oder zu verändern? Und was passiert mit den Dingen, die wir nicht brauchen oder wollen? In diesem Modul werden wir untersuchen, welche Rolle das Erbe in unserer Zukunft spielt, indem wir uns Dinge vorstellen, die wir behalten oder wegwerfen möchten, und mögliche Lösungen entwickeln, wie wir dies tun können. Unter Verwendung interdisziplinärer Ideen und Methoden werden wir gemeinsam eine Zeitkapsel entwerfen, die bestimmte materielle und immaterielle Strukturen aus unserer Vergangenheit und Gegenwart vor dem Hintergrund aktueller Veränderungen wie der Digitalisierung und des Klimawandels bewahren soll. Durch die Überwindung der Zeit befreit die Zeitkapsel der Bauhaus-Universität Weimar das Erbe von seiner Rückwärtsgewandtheit und schärft das Bewusstsein für die Notwendigkeit des gemeinsamen Handelns und Arbeitens.

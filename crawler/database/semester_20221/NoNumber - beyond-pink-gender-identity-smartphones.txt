@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Beyond Pink – Gender, Identity & Smartphones
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=54179&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 10
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 6
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Personen
+Personen :3 S: Fakultät Medien,Eva Hornecker :3 S: Fakultät Medien,Britta Schulte
+# Beschreibung
+Beschreibung :3 S: Crash test dummies have for a long time been modelled after young, able-bodied, cis-male bodies, which has put others, especially women and children at risk as crashes affected them differently (find this and other examples e.g. here 1). Biases like these can make their way into technology design, even if these technologies have for a long time been considered neutral. But if we want to overcome these biases, how can we take the needs of more diverse groups into account, without falling back onto stereotypes? While HCI has always prided itself on taking the perspective of (potential) users into account, increasingly methods and underlying assumptions are questioned and extended.

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Different Worlds
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53866&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Werk-/Fachmodul
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: 10:00 bis 18:00
+Terminrhythmus :3 S: BlockWE
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N. :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: This course is an introduction to the DIY biolab and its uses in relation to artistic practices. We will learn how to follow safety rules, how to cook media for organisms, and how to care for the various organisms. Organisms presented include Acetobacter bacteria, Euglena gracilis flagellates, and Physarum polycephalum slime molds. The Driver\s license also includes hands-on use of equipment in the bio lab, such as microliter pipettes, clean benches, centrifuges, and microscopes. , <br><br/></br>

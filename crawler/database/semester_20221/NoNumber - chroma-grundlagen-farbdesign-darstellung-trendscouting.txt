@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: CHROMA Grundlagen Farbdesign, Darstellung, Trendscouting
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53749&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 6
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 14
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 10:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person :3 S: Fakultät Kunst und Gestaltung,Almut Nowack
+# Beschreibung
+Beschreibung :3 S: Farbe ist ein komplexes Kommunikationsmittel, ein Sinneseindruck, Überlebensfaktor, Orientierungshilfe und noch einiges mehr. Noch vor allen anderen Merkmalen von Objekten, reagieren wir auf ihre Farbigkeit.

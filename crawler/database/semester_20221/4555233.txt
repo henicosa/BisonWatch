@@ -1,0 +1,33 @@
+Veranstaltungstitel :3 S: Programmiersprachen
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=52878&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 4555233
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.+uni-weimar.de%2Fmedien%2Fvr&timestamp=1648733062712&hash=3171e4782f22d8f008296697aa27533e
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Übung Gruppe 1<br><br/></br></p>, <br/>, <p> </p>,
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Vorlesung</p>, <br/>, <p>- taught online (first two sessions live, rest recorded)-<br><br>Moodle Link: <a href=https://moodle.uni-weimar.de/course/view.php?id=30935>https://moodle.uni-weimar.de/course/view.php?id=30935</a></br></br></p>,
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Übung Gruppe 1<br><br/></br></p>, <br/>, <p> </p>,
+# Personen
+Personen :3 S: Fakultät Medien,Bernd Fröhlich :3 S: Fakultät Medien,Anton Lammert :3 S: Fakultät Medien,Adrian Kreskowski
+# Beschreibung
+Beschreibung :3 S: Das Ziel dieser Veranstaltung ist die Kenntnis und Beherrschung der wesentlichen Konzepte imperativer und moderner objektorientierter Programmiersprachen am Beispiel von C++11/14/17/20. Zentrale Themen der Vorlesung sind: Klassen und Klassenhierarchien, Übergabe- und Rückgabemechanismen für Funktionen und Methoden, const correctness, Speicherverwaltung und (smarte) Zeiger sowie generische und funktionale Programmierung.

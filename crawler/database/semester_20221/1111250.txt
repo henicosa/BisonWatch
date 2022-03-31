@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Stadt als Denkmal
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53022&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 1111250
+Max. Teilnehmer/-innen :3 S: 50
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Urbanistik, B.Sc. PO 2021\r, <br/>, Pflichtmodul\r, <br/>, Urbanistik, B.Sc. PO 2020\r, <br/>, Pflichtmodul
+Erwartete Teilnehmer/-innen :3 S: 40
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Hans-Rudolf Meier
+# Beschreibung
+Beschreibung :3 S: <span style=font-family:>Stadtplanung und moderne Denkmalpflege sind Disziplinen, die sich beide vor gut hundert Jahren institutionell etabliert haben, beide im Gefolge des zuvor nie gekannten raschen Wandels der Städte. Mit der Krise der Moderne, die nicht zuletzt eine Krise der modernen Stadtplanung war, entstand um 1970 die städtebauliche Denkmalpflege, die seither wesentlicher Faktor und Korrektiv der Stadtentwicklung ist. Das Bemühen, die Stadt und bedeutende Bauten, die für sie konstitutiv erscheinen, zu bewahren, reicht freilich weit vor die Moderne zurück. In einem ersten als Vorlesung konzipierten Teil der Lehrveranstaltung wird ein Überblick geboten über die Geschichte des bewahrenden Umgangs mit Stadt von den Schutzbestimmungen für römische Städte bis zu aktuellen Diskussionen um „Urban Heritage“. Daran anschließend wird im Seminarteil gemeinsam ein Überblick über die wichtigsten Texte, die sich direkt oder indirekt mit dem Thema befassen – von Camillo Sitte (1889) über Kevin Lynch (1960), Alexander Mitscherlich (1964) und Aldo Rossi (1966) bis zum New Urbanism - erarbeitet. </span>

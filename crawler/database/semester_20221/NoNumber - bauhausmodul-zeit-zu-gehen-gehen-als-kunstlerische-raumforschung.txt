@@ -1,0 +1,33 @@
+Veranstaltungstitel :3 S: Bauhaus.Modul: Zeit zu Gehen – Gehen als künstlerische Raumforschung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53909&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Workshop
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: bis
+Terminrhythmus :3 S: BlockWE
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: bis
+Terminrhythmus :3 S: BlockWE
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: bis
+Terminrhythmus :3 S: BlockWE
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person :3 S: Fakultät Kunst und Gestaltung,Katrin Steiger :3 S: Gewährleistungsbereich,Cora Groos
+# Beschreibung
+Beschreibung :3 S: Wir verlassen den Seminarraum und den Campus und entdecken den Raum Weimars und seine Umgebung neu.\u2028\u2028 Im Zusammenspiel von Performance und Spaziergang betreiben wir künstlerische Raumforschung. Wir erforschen uns, den Raum und das dazwischen. Das Gehen als alltägliche Praxis wird zur forschenden und künstlerischen Praxis, es ist Forschungsgegenstand, Tool und Ausdrucksmittel zugleich. Wir suchen keinen Weg zum Ziel, sondern finden Raum. Durch Performance können wir diesen tiefer erfahren, erforschen und sichtbar machen, indem wir unseren Raum mit Zeit erweitern. Studierende aller Fachrichtungen sind eingeladen sich dem Gehen als forschender und künstlerischer Praxis zu öffnen und ihre eigenen Fachkompetenzen zu erweitern.

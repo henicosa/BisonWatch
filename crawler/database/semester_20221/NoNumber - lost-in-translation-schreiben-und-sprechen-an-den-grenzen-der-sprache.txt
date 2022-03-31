@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Lost in translation. Schreiben und Sprechen an den Grenzen der Sprache
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53712&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Werk-/Fachmodul
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch oder englisch (gemeinsame Festlegung)
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Frederike Moormann :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Kann man ohne Worte sprechen? Ist ein Husten schon eine Äußerung? Und lassen sich die Äußerungen von Maschinen in menschliche Stimme übersetzen? , <br>Wie diese Fragen bewegt sich das Fachmodul ”Lost in Translation” an den Grenzen der Sprache. Wir beschäftigen uns ein Semester mit der Übersetzung von Geräusch in Stimme und Wort und umgekehrt. <br/>Dabei machen wir in kleine Schreib- und Stimm-Experimente: eine Geschichte ohne Worte erzählen, die Äußerungen einer Katze in Buchstabenfolgen notieren oder eine Klang-Notation maschineller Rhythmen. Angeregt werden unsere Experimente von einer gemeinsamen Beschäftigung mit zeitgenössischen Debatten und künstlerischen Projekten rund um Animismus, Cyborgs, konkrete Poesie und Privatsprachen. Zusammen testen wir die Grenzen des Sprachlichen und Stimmlichen.</br>

@@ -1,0 +1,53 @@
+Veranstaltungstitel :3 S: Let the maschine do the work!? (FD1-Modul)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=54011&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Wissenschaftliches Modul
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 15:15 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 15:15 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 15:15 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 15:15 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 15:15 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 15:15 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 15:15 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person :3 S: Fakultät Kunst und Gestaltung,Elisa Rufenach-Ruthenberg :3 S: Fakultät Kunst und Gestaltung,Andrea Dreyer
+# Beschreibung
+Beschreibung :3 S: Nicht erst seit den pandemiebedingten Schließungen von Schulen, Museen, Ausstellungen, Galerien, Kulturzentren und Theatern finden digitale Lehr- und Lerntools Einzug in die tägliche Bildungspraxis. Und zwar nicht nur insofern es der Distanzunterricht, das Homeschooling oder hybride Formen des Lehr-Lern-Prozesses notwendig werden lassen, sondern allein aufgrund der Tatsache, dass nützliche Hard- und Softwares Lehrende dabei unterstützen, trotz der diagnostizierten Heterogenität der Lerngruppen nach Möglichkeit jeder einzelnen Person in ihrem wesentlichen und situativen So-Sein gerecht zu werden. , <br>Doch: »Let the machine do the work.«. Kann sie das? Darf sie das? Von welcher Arbeit ist hier die Rede? <br>Die kunstpädagogische Praxis ist ohne jeden Zweifel in vielfältigen Arbeitsweisen zu finden, sie ist facettenreich und komplex. Doch was macht ihre Komplexität aus, was macht sie als kunst_pädagogische_praxis spezifisch? Wie lässt sie sich rechtfertigen? Könnte eine Maschine diese Arbeit übernehmen?</br></br>

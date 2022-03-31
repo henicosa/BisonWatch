@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: 5. Kernmodul: Helmholtz-Campus im Südraum Leipzig
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=54023&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Entwurf
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 510003
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, 5. Kernmodul\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, 5. Kernmodul\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, 5. Kernmodul
+Erwartete Teilnehmer/-innen :3 S: 20
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D37904&timestamp=1648732572326&hash=8ffbd79f2912febd3477ff9a992236a3
+Sprache :3 S: deutsch und englisch (zweisprachig)
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Bernd Nentwig :3 S: Fakultät Architektur und Urbanistik,Klaus Schmitz-Gielsdorf :3 S: Fakultät Architektur und Urbanistik,Pauline Schroeder
+# Beschreibung
+Beschreibung :3 S: Im Südraum Leipzig soll ein neues Helmholtz-Forschungszentrum zum Klimawandel entstehen. Das Projekt unter dem Motto Wissen schafft Perspektiven für die Region!, ist Teil des vom Bundesministeriums für Bildung und Forschung (BMBF) im Rahmen des Strukturstärkungsgesetzes Kohleregionen angestoßenen Prozesses. In Zusammenarbeit mit dem Helmholtz-Institut UFZ Leipzig soll ein neuer Camput im Südraum Leipzigs geplant werden, Gesamtkonzept und Vertiefung im Hochbau.

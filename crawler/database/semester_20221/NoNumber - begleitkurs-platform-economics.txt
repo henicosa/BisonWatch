@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Begleitkurs Platform Economics
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53637&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 15:00 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Jürgen Rösch
+# Beschreibung
+Beschreibung :3 S: Das Studienmodul „Platform Economics” beschäftigt sich mit dem Aufbau und der Funktionsweise digitaler Plattformen. Im Fokus stehen dabei Netzwerkeffekte, wie sich diese auf Unternehmen auswirken und wie Unternehmen Netzwerkeffekte optimal nutzen können. Der Begleitkurs ist sehr praktisch ausgerichtet. Die Theorien aus der Vorlesung stellen das notwendige Rüstzeug dar, um in Gruppen- und Einzelarbeiten echte Plattformen zu analysieren und die Bedeutung von Netzwerkeffekten auf Markteintritt, Pricing, Qualitätsmanagement, Wachstum, etc. verstehen zu können. Im Sinne des „Reverse Engineerings” werden existierende Plattformen betrachtet, die Methoden können aber auch auf eigene Ideen/Projekte angewendet werden. Im Begleitkurs wird die aktive Mitarbeit erwartet, am Ende soll das gelernte Wissen den anderen Teilnehmern präsentiert werden.

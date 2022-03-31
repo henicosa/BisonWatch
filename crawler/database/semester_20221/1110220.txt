@@ -1,0 +1,38 @@
+Veranstaltungstitel :3 S: 4. Kernmodul: Konversion Karl Krause - in neues Quartier im Leipziger Osten
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53813&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Entwurf
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 1110220
+Max. Teilnehmer/-innen :3 S: 27
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, 4. Kernmodul\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, 4. Kernmodul\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, 4. Kernmodul
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch und englisch (zweisprachig)
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:00 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:00 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:00 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Steffen de Rudder :3 S: Fakultät Architektur und Urbanistik,Pola Koch :3 S: Fakultät Architektur und Urbanistik,Martina Maldaner Jacobi
+# Beschreibung
+Beschreibung :3 S: In Leipzig gibt es noch einige Flächenreserven, aber keine Brache ist so groß wie das Karl-Krause-Gelände im Leipziger Osten. Die alte Maschinenfabrik ist schon lange weg, das Druckmaschinenwerk VEB Polygraph ist auch schon länger verschwunden. Seitdem wächst ein kleiner Wald auf dem Gelände, es gibt Geröll und Gebüsch und die typische Ruderal-Romantik verlassener Orte.

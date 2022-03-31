@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: M-SID (Market-ready Sustainable Interior Design)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53700&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 120223103
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflicht - Technik\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflicht - Technik\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflicht - Technik
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Lehrveranstaltungen der Bauhaus.Module
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Stephan Schütz :3 S: Fakultät Architektur und Urbanistik,Kassandra Löffler :3 S: Fakultät Architektur und Urbanistik,Julius Tischler
+# Beschreibung
+Beschreibung :3 S: LERN- UND LEHRZIELE:, <br>Die Teilnehmenden des Seminars planen, gestalten, detaillieren und bauen ein frei gewähltes nachhaltiges Faltmöbel oder einen Einrichtungsgegenstand aus gewellten Papierwerkstoffen. Der Fokus liegt auf dem Bereich der Working Spaces. Hier können Objekte für zukünftige Arbeitswelten erdacht oder auch für den Bereich des Home-Office gestaltet werden. Sowohl der theoretischen Herleitung und Begründung des Entwurfs als auch dessen materialbezogener Konstruktion sowie wirtschaftlicher und praktischer Umsetzbarkeit wird große Bedeutung beigemessen. Ein weiteres Ziel des Seminars ist die Verknüpfung von detaillierten Entwurfs- und Planungsleistungen unter Berücksichtigung verschiedener Anforderungen des freien Marktes hinsichtlich Wirtschaftlichkeit, Umsetzbarkeit und Marktfähigkeit. Im Seminarverlauf werden verschiedene Input-Sessions durchgeführt, welche von den Lehrenden und Projektpartnern begleitet werden. Die Bandbreite reicht von konstruktiv-materialtechnischen und ergonomischen Inhalten über Marketing- bzw. betriebswirtschaftlichen Aspekten bis hin zu Ausstellung und Bewerbung des finalen Produkts.</br>

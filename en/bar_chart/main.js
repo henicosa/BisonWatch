@@ -1,5 +1,5 @@
 import * as d3 from "d3";
-import { loadBisonDataset } from "../bison";
+import { loadBisonDataset, global_settings } from "../bison";
 
 
 // Importe für alte Visualisierungen
@@ -11,9 +11,10 @@ import marked from "marked";
 import whatwhyhow from "./whatwhyhow.md";
 import { parallelcoordinates } from "./parallelcoordinates";*/
 
+var dataset = "../../data/" + global_settings["most_recent_dataset"]["id"] + ".csv"
 
 // Laden der Bisondaten
-loadBisonDataset("../../data/bisondata20212.csv").then((bisond) => {
+loadBisonDataset(dataset).then((bisond) => {
   var height = 500
   var width = 932
 
@@ -65,6 +66,10 @@ loadBisonDataset("../../data/bisondata20212.csv").then((bisond) => {
     "englisch" : "English",
     "deutsch/englisch" : "German/English",
     "deutsch/französisch" : "German/French",
+    "französisch" : "French",
+    "deutsch oder englisch (gemeinsame Festlegung)" : "German or English (joint vote)",
+    "deutsch und englisch (zweisprachig)" : "German and English (bilingual)",
+    "deutsch und französisch (zweisprachig)" : "German and French (bilingual)",
     "NaN" : "Not specified"
   }
 

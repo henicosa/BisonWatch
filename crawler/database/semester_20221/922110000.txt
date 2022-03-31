@@ -1,0 +1,88 @@
+Veranstaltungstitel :3 S: Bauhaus.Modul: ANDERS.BAUEN - Warum wir eine Bauwende brauchen und was wir dafür tun können
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53890&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 922110000
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Lehrveranstaltungen der Bauhaus.Module
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 16:00 bis 17:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Seminar</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 18:00 bis 19:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Vortrag (hybrid)</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 16:00 bis 17:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Seminar</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 10:00 bis 15:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Exkursion</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 16:00 bis 17:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Seminar</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 18:00 bis 19:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Vortrag (hybrid)</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 18:00 bis 19:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Vortrag (hybrid)</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 10:00 bis 15:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Exkursion</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 18:00 bis 19:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Vortrag (hybrid)</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 18:00 bis 19:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Vortrag (hybrid)</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 16:00 bis 17:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Seminar</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 16:00 bis 17:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Seminar</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 16:00 bis 17:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Seminar</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 16:00 bis 17:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Seminar</p>,
+# Personen
+Personen :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N. :3 S: Fakultät Architektur und Urbanistik,Sebastian Schröter
+# Beschreibung
+Beschreibung :3 S: Rund 40% der weltweiten CO2-Emissionen, sowie 60% des Abfallaufkommens gehen auf die Bauindustrie zurück. Zeit zu handeln! Doch wie?

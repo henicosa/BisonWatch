@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Design Basics: Principles and Elements in the Bauhaus Context
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=52946&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul/Fachkurs
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 18
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fsummerschool%2Fen%2Fcourses-2%2Fart-design%2Fdesign-basics-principles-and-elements-in-the-bauhaus-context%2F&timestamp=1648732729371&hash=d49460af92a0fc0d725de82bc005978f
+Sprache :3 S: englisch
+Fakultät :3 S: Zentrale Veranstaltungen der Universität
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: bis
+Terminrhythmus :3 S: BlockWE
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N.
+# Beschreibung
+Beschreibung :3 S: <span style=font-family: verdana, geneva, sans-serif; font-size: 10pt;><strong>Design Basics: Principles and Elements in the Bauhaus Context</strong></span>, <br/>, <span style=font-family: verdana, geneva, sans-serif; font-size: 10pt;>The foundation course at the Bauhaus is considered the cradle of design teachings. The course focuses on the tension between this history and the contemporary application of basic design principles. Topics are composition, creativity and the development of design skills. The focus is on practical work with visual elements such as point, line and surface. The aim is to develop an application-related understanding of the compositional effect of design principles such as contrast, tension, proportion, dominance....</span>

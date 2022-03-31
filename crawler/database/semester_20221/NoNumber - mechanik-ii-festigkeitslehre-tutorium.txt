@@ -1,0 +1,38 @@
+Veranstaltungstitel :3 S: Mechanik II - Festigkeitslehre (Tutorium)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53136&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Tutorium
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D38071&timestamp=1648732987740&hash=a5be36a5507d18fe2711fd93e6cfc5ea
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Tutorin: Luisa Kaufmann</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 07:30 bis 09:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Tutorin: Vera Laura Impkamp</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 17:00 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Tutoren: Aaron Maas, Vera Laura Imkamp und Luisa Kaufmann (abwechselnd)</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Tutoren: Aaron Maas, Vera Laura Imkamp und Luisa Kaufmann (abwechselnd)</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Timon Rabczuk :3 S: Fakultät Bauingenieurwesen,Sara Torres Achicanoy
+# Beschreibung
+Beschreibung :3 S: Tutorium zur Lehrveranstaltung Mechanik II - Festigkeitslehre

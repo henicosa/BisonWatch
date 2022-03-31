@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: The Sound of Distraction
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=54159&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 10
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 6
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch oder englisch (gemeinsame Festlegung)
+Fakultät :3 S: Fakultät Medien
+# Personen
+Personen :3 S: Fakultät Medien,Jan Ehlers :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N.
+# Beschreibung
+Beschreibung :3 S: Recent research emphasizes that environmental noise causes stress, disturbs sleep and impairs cognitive performance. Empirical evidence from epidemiologic studies even suggests that ongoing noise pollution increases the risk of cardiovascular effects. The current project aims to differentiate the influence of selected sound variables on individual levels of stress, bodily arousal and cognitive performance. Eye-tracking measures are applied to determine psychological and physiological changes during task processing in situations of environmental noises. Project students are asked to work themselves into the wearable eye-tracking technology and to carry out experiments in real-world settings. In a second part of the project, results from the field study are contrasted against findings from lab sessions to evaluate possibilities and limitations of physiological computing in the field of noise research.

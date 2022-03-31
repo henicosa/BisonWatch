@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Postsocialist Weimar
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53665&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 122123901
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: European Urban Studies, M.Sc. PO 2020\r, <br/>, study project
+Erwartete Teilnehmer/-innen :3 S: 15
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Daniela Zupan
+# Beschreibung
+Beschreibung :3 S: This research-oriented study project engages with the socialist legacies and postsocialist urban transformations in Weimar. Through a collaborative mapping of the Waldstadt in Weimar Schöndorf it aims to gain a deeper understanding of the logics, effects, and lived experiences of postsocialist transformation in Eastern Germany. Constructed shortly before the German reunification at the northern fringe of the city, the Waldstadt reflects the shifting dynamics from being a showcase of late socialist housing production to becoming a laboratory of postsocialist capitalist transformation. As cartographic representations are an important part of how we make sense of the world, we will approach the Waldstadt through deep mapping, understanding maps not merely as instruments of capturing reality, but of co-producing reality, as structuring society’s perceptions, imaginations, and knowledge. From this perspective, we seek to understand the Waldstadt’s role within Weimar: how is the city of Weimar presented in official and public accounts, and what role does the Waldstadt as socialist heritage play within these depictions? Has this relation changed during the postsocialist period? The project then aims to challenge dominant perceptions and mappings of the Waldstadt through in-depth fieldwork and by actively involving local residents. Focussing on the profound ruptures that shaped the everyday living experiences in the Waldstadt since the 1990s, it aims to produce a multifaceted and multi-layered map of this place, thereby opening up new perspectives on Weimar and its postsocialist transformation. During the study project, students will acquire in-depth knowledge on the dynamics and effects of profound urban transformations and learn about approaches and tools to study them; they will get to know mapping as a research method and carry out an individual/group mapping project. Most of the time will be devoted to conducting research in the field.

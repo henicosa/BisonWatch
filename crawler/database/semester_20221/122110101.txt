@@ -1,0 +1,48 @@
+Veranstaltungstitel :3 S: poly.chrom II - Der Klang der Farbe
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53094&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Übung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 122110101
+Max. Teilnehmer/-innen :3 S: 25
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, Wahlpflichtmodule - Werkzeuge | Methoden\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, Wahlpflichtmodule - Werkzeuge | Methoden\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, Wahlpflichtmodule - Werkzeuge | Methoden
+Erwartete Teilnehmer/-innen :3 S: 15
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 11:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 15:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 15:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 15:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 15:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:00 bis 15:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Abgabe</p>,
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Luise Nerlich
+# Beschreibung
+Beschreibung :3 S: poly.chrom möchte Sicherheit im Umgang mit Farbe geben und auf Zusammenhänge und Wechselwirkungen von Kontext und Farbe aufmerksam machen. An Hand von acht analogen und digitalen Übungen zur Farbwirkung, zu Farbzusammensetzungen, Farbskalen und zu Farbklängen werden unterschiedliche Farbsysteme analysiert und angewendet. , <br>Im Sommersemester werden wir die Chance haben, mit der Akkordeonklasse der Hochschule für Musik Franz Liszt Weimar unter der Leitung von Frau Prof. Claudia Buder zu arbeiten. Es ist vorgesehen, einen aktiven Austausch der Disziplinen Architektur und Musik zu praktizieren: die Studierenden der Klasse stellen zeitgenössische Werke für Akkordeon vor, zu denen wir im Kurs poly.chrom II arbeiten werden. <br>Die im Kurs poly.chrom II entstehenden Arbeiten werden wiederum Vorlage für Improvisationen der Akkordeonklasse sein. Ein Konzert im Rahmen der summaery ist für den 16.7. geplant.<br>Basierend auf dem Phänomen der Zeit und diesem musikalischen Werk sollen musikalische Parameter die Grundlage der Farbbetrachtungen des Wahlpflichtmoduls „poly.chrom II – Der Klang der Farbe” bilden.<br><br><br><br/></br></br></br></br></br></br>

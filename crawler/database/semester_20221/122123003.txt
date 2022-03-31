@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Modern Architecture of South Asia: History, Theory & Critique
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53848&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 122123003
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflicht - Theorie\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflicht - Theorie\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflicht - Theorie\r, <br/>,  , <br/>, MediaArchitecture, M.Sc. PO 2020\r, <br/>, Theoriemodul - Architekturtheorie\r, <br/>, MediaArchitecture, M.Sc. PO 18\r, <br/>, Theoriemodul - Architekturtheorie
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Jasper Cepl :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N.
+# Beschreibung
+Beschreibung :3 S: Architecture, being a diverse discipline, alters in its vocabulary and design sense with changes in the geographical conditions. This course shall explore the origin of Architectural modernism in South Asia and its unique outlook comprehending an indigenous approach. It will cover the diversity of South Asia in terms of soil conditions, food, culture, language and infrastructural evolution, etc.

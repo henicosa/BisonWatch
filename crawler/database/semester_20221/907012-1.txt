@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Informatik für Ingenieure - Vorlesung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53145&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 3
+Veranstaltungsnummer :3 S: 907012/1
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D38954&timestamp=1648732900313&hash=e6933fe5138a3e0bb20e8690c0919f93
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Digital über MOODLE/BBB</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Helga Tauscher :3 S: Fakultät Bauingenieurwesen,Benjamin Burse :3 S: Fakultät Bauingenieurwesen,Daniel Luckey :3 S: Fakultät Bauingenieurwesen,Jens-Uwe Wagner
+# Beschreibung
+Beschreibung :3 S: Die Lehrenden geben einen Überblick über Grundlagen der Bauinformatik sowie über objektorientierte Konzepte (insbesondere Klassen und Objekte, Methoden, Kontrollstrukturen, Ausnahmebehandlung, Ein-/Ausgaben, Datenstrukturen, Algorithmen, etc.), Softwareentwurf, Programmierung in Java, Einführung in Datenbanksysteme, logischer Datenbankentwurf mit dem relationalen Modell, konzeptueller Datenbankentwurf, relationale Anfragesprachen, physischer Datenbankentwurf, Datenintegration, erweiterte Konzepte, exemplarische Anwendungen der Bauinformatik.

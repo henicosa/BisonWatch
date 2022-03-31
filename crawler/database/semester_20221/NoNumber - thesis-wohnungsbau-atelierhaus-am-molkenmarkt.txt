@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Thesis Wohnungsbau - Atelierhaus am Molkenmarkt
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=54071&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Entwurf
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Hanna Schlösser :3 S: Fakultät Architektur und Urbanistik,Beverly Engelbrecht :3 S: Fakultät Architektur und Urbanistik,Verena von Beckerath
+# Beschreibung
+Beschreibung :3 S: <em>Wenn Architektur nicht nur beeinflussen, festlegen oder bestimmen, sondern auch ermöglichen, nicht nur disziplinieren und kontrollieren, sondern auch befreien kann, sollten wir uns fragen: Wo, wie und mit wem möchten wir leben? Welche Wohnform wollen wir für welche Lebensphase? Oder gibt es eine bessere Alternative zum Wohnen?</em>,  Ludger Schwarte, Revolutionen des Wohnens, in: ARCH+ 244 – Wien. Das Ende des Wohnbaus (als Typologie)

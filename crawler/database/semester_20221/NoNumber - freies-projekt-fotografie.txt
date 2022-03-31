@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Freies Projekt Fotografie
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53736&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 18
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 9
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.postdigitale-fotokunst.de&timestamp=1648732828287&hash=8623fc33d136946a0f1667c3f45f34ac
+Sprache :3 S: deutsch und englisch (zweisprachig)
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 10:00 bis
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Raum: Fotowerkstatt</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Birgit Wudtke :3 S: Fakultät Kunst und Gestaltung,Pio Rahner :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Im vierten bis siebten Semester können maximal zwei Projektmodule in einem Umfang von 18 LP als freie Projekte (Projektmodule) absolviert werden, sofern diese Projektmodule von einer Professur des Studienganges fachlich begleitet werden.

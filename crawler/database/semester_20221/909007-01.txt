@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Verkehrstechnik: Teil: Straßenverkehrstechnik
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=52906&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Integrierte Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 909007/01
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>im SR 305 M13 C</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Julius Uhlmann :3 S: Fakultät Bauingenieurwesen,Uwe Plank-Wiedenbeck :3 S: Fakultät Bauingenieurwesen,Philipp Viehweger
+# Beschreibung
+Beschreibung :3 S: Die Studierenden erlangen durch Vorlesungen, Seminar und die Belegbearbeitung ein vertieftes Wissen einerseits zu Grundlagen und Methoden des Verkehrsmanagements. Vertiefender Kenntniserwerb im umweltorientierten Verkehrsmanagement, insbesondere Maßnahmen zur Reduzierung von Luftschadstoffen und Lärm. Erwerb vertiefender Kenntnisse im Einsatz von Technologien zur Navigation, Kommunikation und zum Datenmanagement. Vermögen zur kritischen Auseinandersetzung mit verkehrsbeeinflussenden Fragestellungen. Andererseits lernen die Studierenden die Herangehensweise bei der Planung von Knotenpunkten mit und ohne Lichtsignalanlage. Dabei sind sie in der Lage, Probleme zu erfassen und, gemäß den etablierten Regelwerken, Lösungsalternativen zu erarbeiten, gegenüber zu stellen und abzuwägen sowie Entscheidungen zu treffen und zu begründen. Dies schließt die Fähigkeit zur kritischen Auseinandersetzung mit verkehrstechnischen Fragestellungen ein. Die Studierenden erhalten einen Überblick über mögliche Steuerungsverfahren von Lichtsignalanlagen und deren Anwendungsbereiche. , <br>Erwerb und Einübung von Kompetenzen in der softwaregestützten Planung von Lichtsignalanlagen. Die Studierenden sind fähig, Problemstellungen konstruktiv zu diskutieren und zu analysieren sowie abschließend Lösungen auszuarbeiten, zu dokumentieren und zu präsentieren<br/><br/>Die wesentlichen Lehrinhalte im Bereich Verkehrsmanagement sind:</br>

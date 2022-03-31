@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Projekt Bauschadensanalyse
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=52889&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 102007
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Findex.php%3Fcategoryid%3D12239&timestamp=1648733065916&hash=d5b933d5831f063d75477d2e532468cd
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Andrea Osburg :3 S: Fakultät Bauingenieurwesen,Thomas Baron :3 S: Fakultät Bauingenieurwesen,Alexander Flohr
+# Beschreibung
+Beschreibung :3 S: Schwerpunkte: Feuchte und bauschädliche Salze, zerstörende und zerstörungsfreie Prüfverfahren, mikroskopische Analyseverfahren, chemische Analysemethoden, mineralogische Phasenanalyse, Bauzustandsanalyse, Schädigung von Naturstein, Mauerziegel, Mörtel, Beton, Holzschadensanalyse, Hinweise zur Instandsetzung

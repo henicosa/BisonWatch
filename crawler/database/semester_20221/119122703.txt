@@ -1,0 +1,33 @@
+Veranstaltungstitel :3 S: European Spatial planning
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53097&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 119122703
+Max. Teilnehmer/-innen :3 S: 14
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: European Urban Studies, M.Sc. PO 2020\r, <br/>, Spatial Planning\r, <br/>, European Urban Studies, M.Sc. PO 18\r, <br/>, Spatial Planning
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Farchitektur-und-urbanistik%2Fprofessuren%2Fraumplanung-und-raumforschung%2Flehre%2F&timestamp=1648732784046&hash=fe2c9f0a941dab2267eb60bfe63814f1
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Piero Sassi
+# Beschreibung
+Beschreibung :3 S: The seminar ”European Spatial Planning” is part of the module ”European cities”. It is specifically designed for students of the master program ”European Urban Studies, M.Sc.”. Aim of the seminar is to develop an understanding and a wider reflexion on the diversity of planning cultures in Europe through the analysis of models, theories, key concepts and case studies. Furthermore, this seminar proposes to explore and question more thoroughly some of the main challenges spatial planning is facing in contemporary Europe. We will raise and discuss some of the following questions: what are the main principles of spatial planning in European countries? What are the main challenges spatial planning must face? What are the political and planning responses and what kind of instruments are developed?

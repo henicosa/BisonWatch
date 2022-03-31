@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Earthquake engineering and structural design (L + E + P)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=52937&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 6
+Veranstaltungsnummer :3 S: 202002
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D38540&timestamp=1648732757043&hash=95d2e234f19e8ff87af6915fec27f292
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 17:00 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>NHRE - Group A+B</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Jochen Schwarz :3 S: Fakultät Bauingenieurwesen,Christian Kaufmann :3 S: Fakultät Bauingenieurwesen,Lars Abrahamczyk :3 S: Fakultät Bauingenieurwesen,Silke Beinersdorf
+# Beschreibung
+Beschreibung :3 S: Students are trained and qualified in tasks of earthquake engineering, natural hazard and risk determining parameters. Students will be able to process input data, to realize design decision for structures of different building type and risk potential, to apply modern building codes and design concepts, to develop earthquake resistant structures and to evaluate structural design.

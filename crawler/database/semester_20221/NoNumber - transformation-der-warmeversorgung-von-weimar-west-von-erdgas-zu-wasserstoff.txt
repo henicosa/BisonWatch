@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Transformation der Wärmeversorgung von Weimar West von Erdgas zu Wasserstoff
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=54183&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 5
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Informationsveranstaltung in der Schwanseestr. 1a</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Mark Jentsch :3 S: Fakultät Bauingenieurwesen,Sebastian Büttner
+# Beschreibung
+Beschreibung :3 S: Vor dem Hintergrund der signifikanten Unsicherheiten bezüglich der zukünftigen Versorgung mit Erdgas müssen zeitnah Lösungen gefunden werden, um die Wärmeversorgung auf Basis dieses Energieträgers durch alternative Systeme zu ersetzen. Eine häufig genannte Option sind Wärmepumpensysteme. Diese sind jedoch für Bestandsgebäude, die hohe Vorlauftemperaturen für die Versorgung mit Wärme benötigen, nicht geeignet. Hier bieten sich insbesondere Wasserstofflösungen an.

@@ -1,0 +1,38 @@
+Veranstaltungstitel :3 S: Grundlagen der Baukonstruktion - Übung - Laubenpieper
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53680&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Übung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 117210704
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, Pflichtmodul
+Erwartete Teilnehmer/-innen :3 S: 100
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:45 bis 13:15
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:45 bis 13:15
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:45 bis 13:15
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:45 bis 13:15
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N. :3 S: Fakultät Architektur und Urbanistik,Martin Ahner
+# Beschreibung
+Beschreibung :3 S: Ein festes Bestandteil im Bachelor Curriculum des ersten Studienjahrs (2.Semester) ist das vorlesungsbegleitende Übungsformat zu den Grundlagen der Baukonstruktion. Auf Grundlage eines ortsgebundenen Kurzentwurfes werden in vertiefenden, wöchentlichen Betrachtungen einzelne baukonstruktive Detailpunkte exemplarisch erläutert und selbstständig auf das eigene Bauvorhaben modifiziert, d.h. in einer gebundenen Maßstabszeichnung M 1:5 regelkonform gezeichnet. Eine individuelle Kommentierung gibt Aufschluss und fordert ggfs. zu konstruktiven Änderungen auf. Ziel dieser Übung ist, am Kursende, neben einem funktionierenden Gebäudeentwurf (Tiny House), alle relevanten baukonstruktiven Detailpunkte als zusammenhängenden Fassadenschnitt zu erläutern. Ein Detailmodell ergänzt die gestalterische Absicht. Zu den Modalitäten und Umfang der Übungsfolge wird in der Auftaktveranstaltung näher eingegangen.

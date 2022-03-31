@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Quantum Algorithms and Cryptanalysis
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53955&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 3
+Veranstaltungsnummer :3 S: 420160003
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Lecture</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Lab class</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Stefan Lucks :3 S: Fakultät Medien,Nathalie Lang
+# Beschreibung
+Beschreibung :3 S: For many people, the term quantum resembles some complex term often referenced in science-fiction. In the world of cryptography, people tend to draw apocalyptic scenarios about how quantum computers will destroy all of our known cryptographic algorithms. But is that really the case?<br />Let us together explore the world of quantum algorithms and cryptanalysis by learning how the quantum model of computation works, what its limitations are, and what conclusions we can draw from it for the field of cryptography.

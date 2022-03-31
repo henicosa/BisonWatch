@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: ZUSAMMEN:BAUEN
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=54104&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Workshop
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 122124203
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflicht - Technik\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflicht - Technik\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflicht - Technik
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: 08:00 bis 20:00
+Terminrhythmus :3 S: BlockWE
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Stephan Schütz :3 S: Fakultät Architektur und Urbanistik,Julius Tischler :3 S: Fakultät Architektur und Urbanistik,Kassandra Löffler
+# Beschreibung
+Beschreibung :3 S: Der Workshop „ZUSAMMEN:BAUEN“ richtet sich an handwerklich begabte oder begeisterte Studierende, die Erfahrung im Umgang mit Maschinen zur Holzbearbeitung haben oder diese ausbauen möchten. Einerseits geht es darum zusammen - als Team - etwas zu bauen und andererseits um das Zusammenbauen temporärer Architektur. Das Ziel ist die Planung, Vorfabrikation und der Aufbau von Bauteilen für das Master-Projekt „Freibad-Kolonnade“. Dieses Projekt soll einen wichtigen sozialen Standort im Dorfgefüge von Rippershausen in Südthüringen mittels einer hochwertigen Holzarchitektur reaktivieren und aufwerten. Im Rahmen des Workshops erarbeiten wir Detaillösungen von Holzverbindungen und beschäftigen uns intensiv mit Konstruktionen im Maßstab 1:1. Dazu gehören auch die Passfähigkeit und die Fügung von transportablen Elementen.

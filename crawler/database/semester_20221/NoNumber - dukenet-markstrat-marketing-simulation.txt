@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Dukenet MarkStrat Marketing Simulation
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=54001&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 10
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Personen
+Personen :3 S: Fakultät Medien,Timo Janson
+# Beschreibung
+Beschreibung :3 S: Die Erprobung unternehmerischen Handelns unter Unsicherheit steht im Mittelpunkt dieser Veranstaltung. Im Rahmen des Blockseminars sollen die Studierenden ihr erworbenes Wissen aus dem Bereich Marketing und Strategie, unter simulierten Marktbedingungen realitätsnah erproben. Zum Einsatz kommt dabei das Planspiel MarkStrat.

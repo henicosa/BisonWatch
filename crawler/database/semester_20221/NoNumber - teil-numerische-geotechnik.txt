@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Teil: Numerische Geotechnik
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53053&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Integrierte Vorlesung
+SWS :3 S: 3
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Gewährleistungsbereich,Detlef Rütz :3 S: Fakultät Bauingenieurwesen,Patrick Staubach
+# Beschreibung
+Beschreibung :3 S: Grundlagen Bruch- und Kontinuumsmechanik und ihre Anwendung in der Geotechnik; Materialverhalten und mechanische Eigenschaften von Böden; Bodenmechanische Stoffmodelle (Elastizitätstheorie, Pseudohypoelastizität, Elastoplastizität, Verfestigungstheorien); Modellierung und Lösung geotechnischer Aufgaben und Randwertprobleme mit Hilfe der FEM. FEM-Analysen an beispielhaft ausgewählten geotechnischen Berechnungsaufgaben.

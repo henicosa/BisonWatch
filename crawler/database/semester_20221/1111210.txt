@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Aktuelle Fragen der Stadt- und Regionalplanung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=52971&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 1111210
+Max. Teilnehmer/-innen :3 S: 45
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Urbanistik, B.Sc. PO 2020\r, <br/>, Pflichtmodul\r, <br/>, Urbanistik, B.Sc. PO 14\r, <br/>, Pflichtmodul
+Erwartete Teilnehmer/-innen :3 S: 40
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 15:15 bis 18:30
+Terminrhythmus :3 S: gerade Wo
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Lisa Vollmer
+# Beschreibung
+Beschreibung :3 S: Das Seminar gibt einen Überblick über aktuelle fachliche und wissenschaftliche Diskussionen der Stadt- und Regionalplanung und dient zugleich der Auseinandersetzung mit dem Berufsfeld der Stadt- und Regionalplaner im Kontext aktueller Tendenzen der Stadt- und Regionalentwicklung. Den inhaltlichen Schwerpunkt bilden aktuelle planungswissenschaftliche Fragestellungen, die zu Beginn des Seminares mit den Studierenden gemeinsam ausgewählt und nachfolgend vertieft betrachtet werden. Im Sinne einer Berufsfelderkundung wird es zudem die Möglichkeit bieten, sich kurz vor Abschluss des Studiums mit den eigenen beruflichen Wünschen und Perspektiven auseinanderzusetzen. Hierzu werden Planerinnen und Planer eingeladen, die ihren eigenen Berufsweg und ihre Berufspraxis reflektieren und für Fragen zu Berufseinstieg und -praxis zur Verfügung stehen.

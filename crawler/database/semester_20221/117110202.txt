@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Übung Bauwirtschaft
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53087&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Übung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 117110202
+Max. Teilnehmer/-innen :3 S: 200
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Architektur | Planung\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Architektur | Planung\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Architektur | Planung
+Erwartete Teilnehmer/-innen :3 S: 150
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fde%2Farchitektur-und-urbanistik%2Fprofessuren%2Fbaumanagement-und-bauwirtschaft%2Flehre%2Fuebungen%2F&timestamp=1648733258795&hash=37c08e25e260e665110974b162f9fc72
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>im Wechsel mit der Vorlesung Grundlagen der Bauwirtschaft – Termine der Professur beachten.</p>,
+# Personen
+Personen :3 S: Gewährleistungsbereich,Alexandra Pommer
+# Beschreibung
+Beschreibung :3 S: Das Seminar richtet sich an Studierende, die ergänzend zur Vorlesung Grundlagen der Bauwirtschaft eine Übung besuchen wollen. Schwerpunkte liegen dabei unter anderem auf der Berechnung von Flächen und Rauminhalten nach DIN 277, der Berechnung von Kosten nach DIN 276 oder der Baufinanzierung.

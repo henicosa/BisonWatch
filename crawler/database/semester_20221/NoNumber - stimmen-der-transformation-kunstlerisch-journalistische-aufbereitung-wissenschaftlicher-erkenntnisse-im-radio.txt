@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Stimmen der Transformation - Künstlerisch/Journalistische Aufbereitung wissenschaftlicher Erkenntnisse im Radio
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53696&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Werk-/Fachmodul
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Jason Langheim :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Vor 32 Jahren fand die deutsch-deutsche Vereinigung statt. Die Erinnerung an diese „Wiedervereinigung” wird dabei noch allzu oft als Erfolgsgeschichte erzählt. , <br>Demgegenüber stehen die Geschichten der Menschen der neuen Bundesländer sowie migrantisierter Menschen aus Ost und West, aus deren Erfahrungen sich ein widersprüchliches Bild ergibt: <br/>Während einige sich im vereinigten Deutschland angekommen fühlen, sprechen andere davon, noch immer abgehängt und verkannt zu bleiben.  <br/>Vor diesem Hintergrund werden wir uns in dem Modul „Stimmen der Transformation”  mit Umbruchserfahrungen und einschneidenden Wendeerlebnissen derjenigen beschäftigen, <br/>die häufig ungehört bleiben: Bewohner:innen der ehemaligen DDR. Mit ihrer Geschichte und dabei auch den Erfahrungen migrantischer und jüdischer Menschen, werden wir uns künstlerisch und journalistisch auseinandersetzen.<br/> Dazu gründen wir eine Radio-Redaktion. In einer regelmäßigen Sendung werden wir uns den verschiedenen Facetten des bis heute andauernden Prozess der Transformation widmen. <br/>Dabei wollen wir verschiedene Formate erproben: Live-Gespräche, Umfragen, Reportagen, künstlerische Verarbeitungen, Musik etc.<br/> Für das nötige Expert:innenwissen sorgt unser Kooperationspartner – der Forschungsverbund Diktaturerfahrung und Transformation der Friedrich-Schiller-Universität Jena. </br>
