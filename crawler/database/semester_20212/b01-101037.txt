@@ -9,14 +9,14 @@ Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: B19-3200 Ressourcen und Recycling
 Erwartete Teilnehmer/-innen :3 S: 
 Rhythmus :3 S: jedes 2. Semester
-Hyperlink :3 S: missing
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fenrol%2Findex.php%3Fid%3D36171&timestamp=1648741113184&hash=a9bc5c2a1656d7b8a8a9de3381a86119
 Sprache :3 S: deutsch
 Fakultät :3 S: Fakultät Bauingenieurwesen
 # Zeit
 Tag :3 S: Mi.
 Zeit :3 S: 07:30 bis 10:45
 Terminrhythmus :3 S: wöch.
-Bemerkung :3 S: , <p>Vorlesung (Übungen im Raum 107, C11B, Übungstermine lt. Aushang)</p>,
+Bemerkung :3 S: , <p>Die Vorlesung wurde in den Raum 109 der C11B verlegt (Übungen finden im Raum 107, C11B statt, Übungstermine lt. Aushang)</p>,
 # Personen
 Personen :3 S: Fakultät Bauingenieurwesen,Thomas Baron
 # Beschreibung

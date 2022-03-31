@@ -17,7 +17,12 @@ Tag :3 S: Di.
 Zeit :3 S: 09:15 bis 16:45
 Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:00 bis 13:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
 # Personen
-Personen :3 S: Fakultät Architektur und Urbanistik,Martin Schmidt :3 S: Fakultät Architektur und Urbanistik,Julia Heinemann :3 S: Fakultät Architektur und Urbanistik,Luise Nerlich :3 S: Fakultät Architektur und Urbanistik,Sabine Zierold :3 S: Fakultät Architektur und Urbanistik,Martin Ahner
+Personen :3 S: Fakultät Architektur und Urbanistik,Martin Schmidt :3 S: Fakultät Architektur und Urbanistik,Luise Nerlich :3 S: Fakultät Architektur und Urbanistik,Sabine Zierold :3 S: Fakultät Architektur und Urbanistik,Martin Ahner
 # Beschreibung
 Beschreibung :3 S: <strong>Ein Weg zur Architektur</strong>

@@ -14,10 +14,10 @@ Sprache :3 S: deutsch
 Fakultät :3 S: Fakultät Architektur und Urbanistik
 # Zeit
 Tag :3 S: missing
-Zeit :3 S: 09:00 bis 18:00
+Zeit :3 S: 09:00 bis 17:00
 Terminrhythmus :3 S: Block
 Bemerkung :3 S: 
 # Personen
-Personen :3 S: Fakultät Architektur und Urbanistik,Roy Müller :3 S: Fakultät Architektur und Urbanistik,Hagen Höllering :3 S: Fakultät Architektur und Urbanistik,Martin Schmidt :3 S: Fakultät Architektur und Urbanistik,Julia Heinemann :3 S: Fakultät Architektur und Urbanistik,Martin Ahner :3 S: Fakultät Architektur und Urbanistik,Luise Nerlich :3 S: Fakultät Architektur und Urbanistik,Sabine Zierold
+Personen :3 S: Fakultät Architektur und Urbanistik,Roy Müller :3 S: Fakultät Architektur und Urbanistik,Hagen Höllering :3 S: Fakultät Architektur und Urbanistik,Martin Schmidt :3 S: Fakultät Architektur und Urbanistik,Martin Ahner :3 S: Fakultät Architektur und Urbanistik,Luise Nerlich :3 S: Fakultät Architektur und Urbanistik,Sabine Zierold
 # Beschreibung
 Beschreibung :3 S: <strong>Der Einführungskurs im BA-Studiengang Architektur</strong>

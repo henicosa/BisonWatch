@@ -9,7 +9,7 @@ Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: 
 Erwartete Teilnehmer/-innen :3 S: 14
 Rhythmus :3 S: jedes 2. Semester
-Hyperlink :3 S: missing
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D35539&timestamp=1648740591252&hash=bf0f91072856d05b98631ac34174910b
 Sprache :3 S: deutsch
 Fakultät :3 S: Fakultät Bauingenieurwesen
 # Zeit
@@ -18,25 +18,10 @@ Zeit :3 S: 09:15 bis 16:45
 Terminrhythmus :3 S: Einzel
 Bemerkung :3 S: 
 # Zeit
-Tag :3 S: Fr.
+Tag :3 S: Sa.
 Zeit :3 S: 09:15 bis 16:45
 Terminrhythmus :3 S: Einzel
 Bemerkung :3 S: 
-# Zeit
-Tag :3 S: Fr.
-Zeit :3 S: 09:15 bis 16:45
-Terminrhythmus :3 S: Einzel
-Bemerkung :3 S: 
-# Zeit
-Tag :3 S: Fr.
-Zeit :3 S: 09:15 bis 16:45
-Terminrhythmus :3 S: Einzel
-Bemerkung :3 S: 
-# Zeit
-Tag :3 S: Fr.
-Zeit :3 S: 09:15 bis 16:45
-Terminrhythmus :3 S: Einzel
-Bemerkung :3 S: , <p>Ausweichtermin</p>,
 # Zeit
 Tag :3 S: Fr.
 Zeit :3 S: 09:15 bis 16:45
@@ -48,30 +33,45 @@ Zeit :3 S: 09:15 bis 16:45
 Terminrhythmus :3 S: Einzel
 Bemerkung :3 S: 
 # Zeit
-Tag :3 S: Sa.
+Tag :3 S: Fr.
 Zeit :3 S: 09:15 bis 16:45
 Terminrhythmus :3 S: Einzel
-Bemerkung :3 S: 
+Bemerkung :3 S: , <p>digital</p>,
 # Zeit
 Tag :3 S: Sa.
 Zeit :3 S: 09:15 bis 16:45
 Terminrhythmus :3 S: Einzel
-Bemerkung :3 S: 
+Bemerkung :3 S: , <p>digital</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>digital</p>,
 # Zeit
 Tag :3 S: Sa.
 Zeit :3 S: 09:15 bis 16:45
 Terminrhythmus :3 S: Einzel
-Bemerkung :3 S: 
+Bemerkung :3 S: , <p>digital</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Ausweichtermin (digital)</p>,
 # Zeit
 Tag :3 S: Sa.
 Zeit :3 S: 09:15 bis 16:45
 Terminrhythmus :3 S: Einzel
-Bemerkung :3 S: , <p>Ausweichtermin</p>,
+Bemerkung :3 S: , <p>Ausweichtermin (digital)</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>digital</p>,
 # Zeit
 Tag :3 S: Sa.
 Zeit :3 S: 09:15 bis 16:45
 Terminrhythmus :3 S: Einzel
-Bemerkung :3 S: 
+Bemerkung :3 S: , <p>digital</p>,
 # Personen
 Personen :3 S: missing,Uwe Arnold :3 S: missing,keine öffentliche Person
 # Beschreibung

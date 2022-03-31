@@ -17,6 +17,21 @@ Tag :3 S: Mi.
 Zeit :3 S: 09:00 bis 12:00
 Terminrhythmus :3 S: Einzel
 Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:00 bis 12:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:00 bis 12:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:00 bis 12:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
 # Personen
 Personen :3 S: Fakultät Bauingenieurwesen,Guido Morgenthal
 # Beschreibung

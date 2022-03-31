@@ -9,7 +9,7 @@ Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlmodul\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlmodul\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlmodul\r, <br/>,  , <br/>, Urbanistik, M.Sc. PO 2021\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 2020 2-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Wahlpflichtmodul
 Erwartete Teilnehmer/-innen :3 S: 
 Rhythmus :3 S: einmalig
-Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2Fwww.uni-weimar.de%2Fde%2Farchitektur%2Fprofessur%2Fstadtforschung&timestamp=1631111037253&hash=b314b0895c573b92059d0b73f959703e
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2Fwww.uni-weimar.de%2Fde%2Farchitektur%2Fprofessur%2Fstadtforschung&timestamp=1648740283140&hash=ca3176ded078901b45013b5645bae7d8
 Sprache :3 S: deutsch
 Fakultät :3 S: Fakultät Architektur und Urbanistik
 # Zeit
@@ -20,4 +20,4 @@ Bemerkung :3 S:
 # Personen
 Personen :3 S: Fakultät Architektur und Urbanistik,Frank Eckardt
 # Beschreibung
-Beschreibung :3 S: Dieses Semester wollen wir die Sprach- und Lernwerkstatt „Wortschatz“ als Bauhaus.Modul anbieten und somit die Anrechnung von drei Leistungspunkten nicht nur Angehörigen der Fakultät Architektur & Urbanistik, sondern allen Interessierten zugänglich zu machen.
+Beschreibung :3 S: Dieses Semester wollen wir die Sprach- und Lernwerkstatt „Wortschatz” als Bauhaus.Modul anbieten und somit die Anrechnung von drei Leistungspunkten nicht nur Angehörigen der Fakultät Architektur & Urbanistik, sondern allen Interessierten zugänglich zu machen.

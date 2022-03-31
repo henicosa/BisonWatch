@@ -1,28 +1,22 @@
-Veranstaltungstitel :3 S: Grundlagen des Building Information Modeling
-Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50846&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+Veranstaltungstitel :3 S: Prüfung: Grundlagen Building Information Modeling
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49465&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
 # Grunddaten :3 S: 
-Veranstaltungsart :3 S: Integrierte Vorlesung
-SWS :3 S: 4
+Veranstaltungsart :3 S: Prüfung
+SWS :3 S: missing
 Veranstaltungsnummer :3 S: 907013
 Max. Teilnehmer/-innen :3 S: 
 Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: 
 Erwartete Teilnehmer/-innen :3 S: 
-Rhythmus :3 S: jedes 2. Semester
+Rhythmus :3 S: jedes Semester
 Hyperlink :3 S: missing
 Sprache :3 S: deutsch
 Fakultät :3 S: Fakultät Bauingenieurwesen
 # Zeit
 Tag :3 S: Mo.
-Zeit :3 S: 09:15 bis 10:45
-Terminrhythmus :3 S: wöch.
-Bemerkung :3 S: , <p>Vorlesung</p>,
-# Zeit
-Tag :3 S: Mo.
-Zeit :3 S: 11:00 bis 12:30
-Terminrhythmus :3 S: wöch.
-Bemerkung :3 S: , <p>Übung</p>,
+Zeit :3 S: 13:00 bis 15:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>MBB14 schreibt nur 60 Minuten!</p>,
 # Personen
-Personen :3 S: Fakultät Bauingenieurwesen,Christian Koch :3 S: Fakultät Bauingenieurwesen,Jens-Uwe Wagner
+Personen :3 S: Fakultät Bauingenieurwesen,Christian Koch
 # Beschreibung
-Beschreibung :3 S: Um BIM-Lehre auf höchstem universitären Niveau zu gewährleisten, setzt die Lehrveranstaltung „Building Information Modeling” konsequent die BIM-Lehrinhalte  um, die der Arbeitskreis Bauinformatik im Jahr 2015 definiert hat und denen u.a. die Bauingenieur-Fachschaften-Konferenz zugestimmt hat. Ziel der universitären BIM-Ausbildung ist die Vermittlung von methodischen Kenntnissen, die die Absolventen in die Lage versetzen, BIM-Prozesse in Unternehmen und öffentlichen Institutionen einzuführen, zu gestalten, zu überwachen und weiterzuentwickeln. Hierfür ist ein Verständnis der zugrundeliegenden Methoden und Technologien unabdingbar. In der Lehrveranstaltung „Building Information Modeling” werden unter anderem Kenntnisse in folgenden Themenfeldern vermittelt, <br><br>    - Einführung und Motivation<br/>    - Digitale Bauwerksmodellierung<br/>    - Geometrie-Repräsentationen<br/>    - BIM-Datenaustausch<br/>    - BIM-Datenhaltung und -management<br/>    - Digitale Prozessmodellierung<br/>    - Berufsbilder, -rollen<br/>    - BIM-Anwendungen und -Vorteile, BIM-Mehrwert<br/>    - BIM-Werkzeuge<br/><br/>Durch die Vermittlung dieser Inhalte erlangen Absolventen folgende Kompetenzen:<br/><br/>    - Gestaltung und Koordination digitaler Wertschöpfungsprozesse<br/>    - Initiierung und Management von BIM-Projekten<br/>    - Analyse und Bewertung von BIM-Softwareprodukten, Planung des Einsatzes<br/>    - BIM-Forschung und technologische Weiterentwicklung, Konzeption neuer BIM-Softwareprodukte<br/>    - Herbeiführen strategischer Unternehmensentscheidungen in Bezug auf BIM-gestütztes Planen, Bauen und Betreiben<br/>    - Beratung von Bauherrn, insbesondere der öffentlichen Hand<br/>    - Beratung politischer Entscheidungsträger</br></br>

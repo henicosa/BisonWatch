@@ -18,23 +18,23 @@ Zeit :3 S: 09:15 bis 12:30
 Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: 
 # Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 11:00 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 11:00 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>online via BBB</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 11:00 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
 Tag :3 S: Mi.
 Zeit :3 S: 09:15 bis 12:30
-Terminrhythmus :3 S: Einzel
-Bemerkung :3 S: 
-# Zeit
-Tag :3 S: Fr.
-Zeit :3 S: 09:15 bis 15:45
-Terminrhythmus :3 S: Einzel
-Bemerkung :3 S: 
-# Zeit
-Tag :3 S: Fr.
-Zeit :3 S: 09:15 bis 15:45
-Terminrhythmus :3 S: Einzel
-Bemerkung :3 S: 
-# Zeit
-Tag :3 S: Fr.
-Zeit :3 S: 09:15 bis 15:45
 Terminrhythmus :3 S: Einzel
 Bemerkung :3 S: 
 # Personen

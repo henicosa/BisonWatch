@@ -22,6 +22,16 @@ Tag :3 S: Di.
 Zeit :3 S: 13:30 bis 15:00
 Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 11:00 bis 12:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Klausur, Steubenstraße 6A, Haus D - Pool 1 und Pool 2</p>,
 # Personen
 Personen :3 S: Fakultät Medien,Timo Janson
 # Beschreibung

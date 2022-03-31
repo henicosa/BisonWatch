@@ -1,23 +1,21 @@
-Veranstaltungstitel :3 S: Bauplanungs- /Bauordnungsrecht
-Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50669&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+Veranstaltungstitel :3 S: Prüfung: Bauplanungs-/Bauordnungsrecht
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49473&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
 # Grunddaten :3 S: 
-Veranstaltungsart :3 S: Vorlesung
-SWS :3 S: 2
+Veranstaltungsart :3 S: Prüfung
+SWS :3 S: missing
 Veranstaltungsnummer :3 S: 901020
 Max. Teilnehmer/-innen :3 S: 
 Semester :3 S: WiSe 2021/22
-Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>, Architektur, M.Sc. PO 13\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>, Architektur, M.Sc. PO 11\r, <br/>, Wahlpflichtmodul - Planung
+Zugeordnetes Modul :3 S: 
 Erwartete Teilnehmer/-innen :3 S: 
-Rhythmus :3 S: jedes 2. Semester
+Rhythmus :3 S: 
 Hyperlink :3 S: missing
-Sprache :3 S: deutsch
+Sprache :3 S: missing
 Fakultät :3 S: Fakultät Bauingenieurwesen
 # Zeit
-Tag :3 S: Mi.
-Zeit :3 S: 09:15 bis 10:45
-Terminrhythmus :3 S: wöch.
-Bemerkung :3 S: , <p>Veranstaltung findet Online statt !</p>,
+Tag :3 S: Di.
+Zeit :3 S: 11:00 bis 12:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
 # Personen
-Personen :3 S: Fakultät Bauingenieurwesen,Hans-Joachim Bargstädt :3 S: Fakultät Bauingenieurwesen,Marianne Pieper :3 S: Fakultät Bauingenieurwesen,Birgit Bode
 # Beschreibung
-Beschreibung :3 S: Die Vorlesung Bauplanungs- und Bauordnungsrecht vermittelt - anhand  von Fällen aus der täglichen Praxis - Architekten und Bauingenieuren das  gesamte Rüstzeug im Bauplanungs- und Bauordnungsrecht, also z. B.  Aufstellung eines Bebauungsplanes,  die bauplanungsrechtlichen Voraussetzungen für die Genehmigung eines  Bauantrages und dessen Durchsetzung, die bauordnungsrechtlichen Probleme  wie Erschließung, Abstandsflächen und Verfahrensfragen zum Bauantrag,  zum Vorbescheid u. a. m.

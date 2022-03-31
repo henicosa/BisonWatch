@@ -16,7 +16,17 @@ Fakultät :3 S: Fakultät Bauingenieurwesen
 Tag :3 S: Mo.
 Zeit :3 S: 15:15 bis 16:45
 Terminrhythmus :3 S: wöch.
-Bemerkung :3 S: , <p>Vorlesung für alle Studiengange (BIB + MBB + UIB) - <strong>Weimarhalle, kleiner Saal</strong></p>,
+Bemerkung :3 S: , <p>Vorlesung erfolgt am 13.12.2021 und 03.01.2022 online/digital</p>, <br/>, <p> </p>,
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Vorlesung für alle Studiengange (BIB + MBB + UIB) - <strong>Weimarhalle, kleiner Saal</strong></p>, <br/>, <p><strong>Vorlesung erfolgt am 13.12.2021 und 03.01.2022 online/digital</strong></p>,
 # Personen
 Personen :3 S: Fakultät Bauingenieurwesen,Torsten Müller
 # Beschreibung

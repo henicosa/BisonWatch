@@ -14,12 +14,12 @@ Sprache :3 S: missing
 Fakultät :3 S: missing
 # Zeit
 Tag :3 S: missing
-Zeit :3 S: 08:00 bis 18:00
+Zeit :3 S: 08:00 bis 20:00
 Terminrhythmus :3 S: Block
 Bemerkung :3 S: 
 # Zeit
 Tag :3 S: missing
-Zeit :3 S: 08:00 bis 18:00
+Zeit :3 S: 08:00 bis 20:00
 Terminrhythmus :3 S: Block
 Bemerkung :3 S: 
 # Personen

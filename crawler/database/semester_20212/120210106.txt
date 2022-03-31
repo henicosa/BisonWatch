@@ -13,7 +13,7 @@ Hyperlink :3 S: missing
 Sprache :3 S: deutsch
 Fakultät :3 S: Fakultät Architektur und Urbanistik
 # Zeit
-Tag :3 S: Fr.
+Tag :3 S: Mo.
 Zeit :3 S: 11:00 bis 12:30
 Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: 

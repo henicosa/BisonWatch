@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: AUFHÖREN? ANFANGEN! Die 1000 Tode der Malerei
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51796&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 6
+Veranstaltungsnummer :3 S: 321210001
+Max. Teilnehmer/-innen :3 S: 5
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fkunst-und-gestaltung%2Fprofessuren%2Fexperimentelle-malerei-und-zeichnung%2F&timestamp=1648740060694&hash=0fc4e4b56aa17f10b92f13bc1ddfdf6e
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 11:00 bis 16:30
+Terminrhythmus :3 S: gerade Wo
+Bemerkung :3 S: , <p>Präsenztermine</p>,
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 11:00 bis 16:30
+Terminrhythmus :3 S: unger. Wo
+Bemerkung :3 S: , <p>Onlinetermine</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Roman Liska :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Die Malerei wurde schon oft totgesagt und ist dennoch heute so vital wie nie. Dieser Fachkurs setzt sich mit ihren vielen vermeintlichen Toden, sowie dem Wesen der Malerei an sich auseinander und insbesondere mit den Bedingungen, unter denen sie im Informationszeitalter neue Relevanz entfaltet.

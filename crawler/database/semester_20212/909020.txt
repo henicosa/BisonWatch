@@ -16,7 +16,7 @@ Fakultät :3 S: Fakultät Bauingenieurwesen
 Tag :3 S: Fr.
 Zeit :3 S: 09:00 bis 11:00
 Terminrhythmus :3 S: Einzel
-Bemerkung :3 S: 
+Bemerkung :3 S: , <p>R 305, Marienstr. 13C</p>,
 # Personen
 Personen :3 S: Fakultät Bauingenieurwesen,Uwe Plank-Wiedenbeck
 # Beschreibung

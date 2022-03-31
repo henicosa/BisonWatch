@@ -17,15 +17,5 @@ Tag :3 S: Di.
 Zeit :3 S: 18:00 bis 20:00
 Terminrhythmus :3 S: Einzel
 Bemerkung :3 S: 
-# Zeit
-Tag :3 S: Di.
-Zeit :3 S: 18:00 bis 20:00
-Terminrhythmus :3 S: Einzel
-Bemerkung :3 S: 
-# Zeit
-Tag :3 S: Di.
-Zeit :3 S: 18:00 bis 20:00
-Terminrhythmus :3 S: Einzel
-Bemerkung :3 S: 
 # Personen
 # Beschreibung

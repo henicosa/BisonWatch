@@ -13,10 +13,10 @@ Hyperlink :3 S: missing
 Sprache :3 S: missing
 Fakultät :3 S: Fakultät Bauingenieurwesen
 # Zeit
-Tag :3 S: Fr.
+Tag :3 S: Mi.
 Zeit :3 S: bis
 Terminrhythmus :3 S: Einzel
-Bemerkung :3 S: 
+Bemerkung :3 S: , <p>mdl. Prüfung</p>,
 # Personen
 Personen :3 S: Fakultät Bauingenieurwesen,Matthias Kraus
 # Beschreibung

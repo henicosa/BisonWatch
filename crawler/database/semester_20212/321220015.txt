@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: EinBlick
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50775&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 18
+Veranstaltungsnummer :3 S: 321220015
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: missing
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: bis
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Jörn Hintzer :3 S: Fakultät Kunst und Gestaltung,Jakob Hüfner :3 S: Fakultät Kunst und Gestaltung,Burkhart von Scheven :3 S: Fakultät Kunst und Gestaltung,Stefanie Schwarz :3 S: Fakultät Kunst und Gestaltung,Markus Weisbeck :3 S: Fakultät Kunst und Gestaltung,Birgit Wudtke :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person :3 S: Fakultät Kunst und Gestaltung,Adrian Palko
+# Beschreibung
+Beschreibung :3 S: Die Lehrenden der VK bieten nacheinander Kurz-Projekte an, die den Studierenden des 1. Semesters  Bachelor der Visuellen Kommunikation einen Einblick in die verschiedenen Fachinhalte, Methoden, Medien und Techniken geben.

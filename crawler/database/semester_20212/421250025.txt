@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: (An-)Ordnungen des Archivs
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51273&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 421250025
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Bestandteil des B.A.-Projektmoduls Archiv- und Literaturforschung 2
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Farchiv-und-literaturforschung%2Fwillkommen%2F&timestamp=1648740020212&hash=99fd728383ec37625e551880847ed05f
+Sprache :3 S: deutsch
+Fakultät :3 S: missing
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Dieses Seminar findet online statt.</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Maria Brannys :3 S: Fakultät Medien,Jörg Paulus
+# Beschreibung
+Beschreibung :3 S: In Archiven realisieren sich vielfältige (An-)Ordnungen, in denen den verwahrten, gesammelten, ausgehobenen oder ausgestellten Objekten je nach Verortung eine andere Bedeutung zukommt und die von der historischen Quelle über den Informationsträger bis hin zum Schauobjekt reichen kann. Doch nicht nur die Objekte allein verändern ihre Bedeutung. Die Anordnungen – von den einzelnen Schriftelementen auf der Seite, bis hin zu ihrer Verortung und Verwahrung in Schubladen, Kisten oder auf Schreibtischen und in Schränken - beeinflussen neben Praktiken und Handlungen des Umgangs mit dem Verwahrten auch Denkprozesse und somit die Konstitution und Transformation von Wissen. Da die Ordnung dem Archiv nicht vorausgeht, sondern den Dingen zuallererst abgerungen werden muss, schließt sich die Frage, wie und nach welchen Kriterien Archivalien im Ordnungssystem des Archivs integriert werden können, an. Damit geraten neben Praktiken des Ein- und Ausschlusses, der Verzeichnung und Verortung auch die materiellen und medialen Bedingungen der Wissensordnungen in den Blick.

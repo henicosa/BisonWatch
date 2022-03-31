@@ -9,9 +9,9 @@ Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: 
 Erwartete Teilnehmer/-innen :3 S: 
 Rhythmus :3 S: jedes 2. Semester
-Hyperlink :3 S: missing
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D35679&timestamp=1648740028324&hash=5ec069bb8d1d978da261512643360dd3
 Sprache :3 S: englisch
-Fakultät :3 S: Fakultät Medien
+Fakultät :3 S: Fakultät Bauingenieurwesen
 # Zeit
 Tag :3 S: Mo.
 Zeit :3 S: 17:00 bis 18:30

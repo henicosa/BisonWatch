@@ -15,7 +15,32 @@ Fakultät :3 S: Fakultät Architektur und Urbanistik
 # Zeit
 Tag :3 S: Do.
 Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Marienstraße 13a HS A</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 16:45
 Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: 09:00 bis 18:00
+Terminrhythmus :3 S: Block
+Bemerkung :3 S: , <p>Zwischenrundgang</p>,
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 13:00 bis 20:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: 09:00 bis 18:00
+Terminrhythmus :3 S: Block
+Bemerkung :3 S: , <p>Abschlussrundgang</p>,
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: 09:00 bis 20:00
+Terminrhythmus :3 S: Block
 Bemerkung :3 S: 
 # Personen
 Personen :3 S: Fakultät Architektur und Urbanistik,Clemens Helmke :3 S: Fakultät Architektur und Urbanistik,Heike Büttner-Hyman

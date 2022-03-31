@@ -23,5 +23,5 @@ Zeit :3 S: 13:30 bis 15:00
 Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: , <p>Poolübung (Beginn wird in der Vorlesung bekannt gegeben)</p>,
 # Personen
-Personen :3 S: Fakultät Bauingenieurwesen,Matthias Kraus :3 S: Fakultät Bauingenieurwesen,Silvio Mämpel
+Personen :3 S: Fakultät Bauingenieurwesen,Matthias Kraus :3 S: Fakultät Bauingenieurwesen,Christin Sirtl
 # Beschreibung

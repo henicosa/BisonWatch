@@ -9,19 +9,24 @@ Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: 
 Erwartete Teilnehmer/-innen :3 S: 
 Rhythmus :3 S: 
-Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fen%2Fmedia%2Fchairs%2Fcomputer-science-department%2Fwebis%2Fhome%2F&timestamp=1631111237086&hash=8956f9ffc867a78eb4d2850526f8e119
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D36220&timestamp=1648740615965&hash=da50b20960de810a9d539afb1525f127
 Sprache :3 S: englisch
 Fakultät :3 S: Fakultät Medien
 # Zeit
 Tag :3 S: Do.
 Zeit :3 S: 09:15 bis 10:45
 Terminrhythmus :3 S: wöch.
-Bemerkung :3 S: , <p>Lecture</p>, <br/>, <p>Location: Fitnessraum, Jakobsplan 1</p>,
+Bemerkung :3 S: , <p>Lecture</p>, <br/>, <p> </p>,
 # Zeit
 Tag :3 S: Do.
-Zeit :3 S: 11:00 bis 12:30
+Zeit :3 S: 11:00 bis 13:00
 Terminrhythmus :3 S: wöch.
-Bemerkung :3 S: , <p>Lab class</p>, <br/>, <p>Location: Fitnessraum, Jakobsplan 1</p>, <br/>, <p>dates: 28. Oktober 2021<br>          11. November 2021<br>          25. November 2021<br>            9. Dezember 2021<br>            6. Januar 2022<br>          20. Januar 2022<br>            3. Februar 2022</br></br></br></br></br></br></p>,
+Bemerkung :3 S: , <p>Lab class</p>, <br/>, <p>dates: 28. Oktober 2021<br>          11. November 2021<br>          25. November 2021<br>            9. Dezember 2021<br>            6. Januar 2022<br>          20. Januar 2022<br>            3. Februar 2022</br></br></br></br></br></br></p>,
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:00 bis 11:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>written exam</p>,
 # Personen
 Personen :3 S: Fakultät Medien,Benno Stein :3 S: Fakultät Medien,Janek Bevendorff :3 S: Fakultät Medien,Michael Völske
 # Beschreibung

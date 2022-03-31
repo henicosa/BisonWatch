@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Freies Projekt - Fotografie
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51477&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 18
+Veranstaltungsnummer :3 S: 321220019
+Max. Teilnehmer/-innen :3 S: 9
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.birgitwudtke.net&timestamp=1648740464024&hash=0479b2da7d54e016111a7b893c4b4ce2
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Birgit Wudtke
+# Beschreibung
+Beschreibung :3 S: Im vierten bis siebten Semester können maximal zwei Projektmodule in einem Umfang von 18 LP als freie Projekte (Projektmodule) absolviert werden, sofern diese Projektmodule von einer Professur des Studienganges fachlich begleitet werden.

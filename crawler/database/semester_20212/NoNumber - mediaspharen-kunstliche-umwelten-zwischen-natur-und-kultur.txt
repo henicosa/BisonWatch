@@ -1,23 +1,21 @@
 Veranstaltungstitel :3 S: Mediasphären. Künstliche Umwelten zwischen Natur und Kultur
-Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51269&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51932&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
 # Grunddaten :3 S: 
-Veranstaltungsart :3 S: Seminar
-SWS :3 S: 2
+Veranstaltungsart :3 S: Sonstige Veranstaltung
+SWS :3 S: missing
 Veranstaltungsnummer :3 S: 
-Max. Teilnehmer/-innen :3 S: 30
+Max. Teilnehmer/-innen :3 S: 
 Semester :3 S: WiSe 2021/22
-Zugeordnetes Modul :3 S: Projektmodul Medienökologie. Vom Anthropozän zum Mediozän
-Erwartete Teilnehmer/-innen :3 S: 30
-Rhythmus :3 S: einmalig
-Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Fmedienphilosophie%2Fwillkommen%2F&timestamp=1631111324135&hash=7c496a8896ae3e6e6a3a5f0bf2c0406e
-Sprache :3 S: deutsch
-Fakultät :3 S: Fakultät Medien
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: missing
 # Zeit
 Tag :3 S: Di.
 Zeit :3 S: 13:30 bis 15:00
-Terminrhythmus :3 S: wöch.
+Terminrhythmus :3 S: Einzel
 Bemerkung :3 S: 
 # Personen
-Personen :3 S: Fakultät Medien,Martin Siegler
 # Beschreibung
-Beschreibung :3 S: Indoor-Ski am Persischen Golf, Korallenriffe in Berlin Mitte, Bienenstöcke auf Hochhausdächern – unsere Umwelten sind längst nicht mehr nur ‚natürlich‘ oder ‚künstlich‘; sie bilden vielmehr hybride Mischformen aus gemachter Natur und naturgewordener Technik. Im Zeitalter des Anthropozäns werden Umwelten von Menschen, Tieren und Pflanzen aufwändig modelliert, konstruiert, klimatisiert und programmiert. Doch auch wenn uns die Hybridität von Umwelten heute besonders eindrücklich vor Augen steht, reicht ihre Geschichte weit zurück. Schon die ersten Gärten bildeten subtile Geflechte aus Naturwüchsigkeit und kulturtechnischem Eingriff. Sind wir also immer schon hybrid gewesen? Waren unsere Umwelten immer schon „Mediasphären?”

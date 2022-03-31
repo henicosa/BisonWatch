@@ -14,9 +14,9 @@ Sprache :3 S: englisch
 Fakultät :3 S: Fakultät Architektur und Urbanistik
 # Zeit
 Tag :3 S: Mo.
-Zeit :3 S: 13:30 bis 15:00
+Zeit :3 S: 13:00 bis 14:30
 Terminrhythmus :3 S: wöch.
-Bemerkung :3 S: 
+Bemerkung :3 S: , <p>online</p>,
 # Personen
 Personen :3 S: Fakultät Architektur und Urbanistik,Frank Eckardt
 # Beschreibung

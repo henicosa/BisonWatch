@@ -14,9 +14,9 @@ Sprache :3 S: missing
 Fakultät :3 S: Fakultät Bauingenieurwesen
 # Zeit
 Tag :3 S: Mi.
-Zeit :3 S: 13:00 bis 14:00
+Zeit :3 S: 15:00 bis 16:00
 Terminrhythmus :3 S: Einzel
 Bemerkung :3 S: 
 # Personen
-Personen :3 S: Fakultät Bauingenieurwesen,Hans-Joachim Bargstädt
+Personen :3 S: Fakultät Bauingenieurwesen,Sebastian Händschke
 # Beschreibung

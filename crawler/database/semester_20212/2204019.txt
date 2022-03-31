@@ -9,7 +9,7 @@ Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: 
 Erwartete Teilnehmer/-innen :3 S: 
 Rhythmus :3 S: jedes 2. Semester
-Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2FBauing%2Fvbau%2F&timestamp=1631111288750&hash=c1c1d54f33f012f80094c1bd89eaa7bf
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D36602&timestamp=1648740705315&hash=a029cc26159b1e1cd242b6414fc366c8
 Sprache :3 S: englisch
 Fakultät :3 S: Fakultät Bauingenieurwesen
 # Zeit
@@ -18,6 +18,6 @@ Zeit :3 S: 13:30 bis 16:45
 Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: , <p>Seminarroom 1+2 Weimarhalle / Digital via BBB</p>,
 # Personen
-Personen :3 S: Fakultät Bauingenieurwesen,Guido Morgenthal :3 S: Fakultät Bauingenieurwesen,Samir Chawdhury :3 S: missing,Tajammal Abbas :3 S: Fakultät Bauingenieurwesen,Igor Kavrakov
+Personen :3 S: Fakultät Bauingenieurwesen,Guido Morgenthal :3 S: Fakultät Bauingenieurwesen,Samir Chawdhury :3 S: Fakultät Bauingenieurwesen,Igor Kavrakov
 # Beschreibung
 Beschreibung :3 S: The students will be familiar with bridges in the context of their functions as critical infrastructure. They will be familiar with the design objectives with specific emphasis on risks associated with natural hazards and with strategies to limit damage and to ensure operability after a major natural disaster. They will be able to develop structural concepts and to carry out detailed design of such structures, including the application of relevant codes of practice.

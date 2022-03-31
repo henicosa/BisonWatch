@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Siehst du, was man im Bild alles nicht sieht?
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51380&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 6
+Veranstaltungsnummer :3 S: 321210015
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 10:00 bis
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Online-Veranstaltung</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Pio Rahner :3 S: Fakultät Kunst und Gestaltung,Birgit Wudtke :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Der Fachkurs Fotografie ist grundsätzlich für jedes Semester geeignet. Themenorientierte, praktische Aufgabenstellungen führen in die Grundlagen der Bildbetrachtung und der Entwurfsarbeit ein. Im Fokus diese Kurses steht die Objektfotografie. Das Stilleben spielt eine Rolle. Aber auch archivarische Bilder oder Fotografien aus dem täglichen Onlinegeschäft; die Produktfotografie., <br/>, Wir gucken einerseits nach fotografischen und künstlerischen Positionen und andererseits nach Alltagspraktiken in der Onlinecontent Produktion., <br/>, Wir beleuchten die Punkte, die am Ende ein Foto ausmachen aber im Bild nicht direkt zu sehen sind. Dabei werden wir auf fotografische Ansätze und Bildsprachen, <br/>, aufmerksam. , <br/>, Das Ziel ist ein ganzheitlicher Blick auf die Fotografie als Medium. Die eigenen Arbeitsansätze und Ergebnisse sollen Hinblick auf eine eigene Bildsprache, umfassend befragt und analysiert werden.

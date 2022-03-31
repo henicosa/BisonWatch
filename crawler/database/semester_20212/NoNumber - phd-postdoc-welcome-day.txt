@@ -9,9 +9,9 @@ Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: 
 Erwartete Teilnehmer/-innen :3 S: 30
 Rhythmus :3 S: jedes 2. Semester
-Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Funiversitaet%2Fforschung-und-kunst%2Fwissenschaftlicher-nachwuchs%2Fbauhaus-research-school%2Fveranstaltungen%2Fphd-postdoc-welcome-day%2F&timestamp=1631111382740&hash=04cb9c0ca78506713c4b184d109752a3
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Funiversitaet%2Fforschung-und-kunst%2Fwissenschaftlicher-nachwuchs%2Fbauhaus-research-school%2Fveranstaltungen%2Fphd-postdoc-welcome-day%2F&timestamp=1648740858795&hash=c7c010f69522adcf6f1b2ae1d49a5dda
 Sprache :3 S: deutsch/englisch
-Fakultät :3 S: Zentrale Veranstaltungen der Universität
+Fakultät :3 S: missing
 # Zeit
 Tag :3 S: Mi.
 Zeit :3 S: 10:00 bis 13:00

@@ -13,11 +13,31 @@ Hyperlink :3 S: missing
 Sprache :3 S: deutsch
 Fakultät :3 S: Fakultät Architektur und Urbanistik
 # Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
 Tag :3 S: Di.
 Zeit :3 S: 09:15 bis 16:45
 Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 08:00 bis 18:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Abschlusspräsentation</p>,
 # Personen
 Personen :3 S: Fakultät Architektur und Urbanistik,Stephan Schütz :3 S: Fakultät Architektur und Urbanistik,Julius Tischler :3 S: Fakultät Architektur und Urbanistik,Kassandra Löffler
 # Beschreibung
-Beschreibung :3 S: DER WEG IST DAS ZIEL, <br>Nichtmotorisierte Reisende „erfahren“ ihre Umgebung auf besondere Weise. Die reduzierte Geschwindigkeit, der weit schweifende Blick und die eigene körperliche Bewegung führen zu einer vielschichtigen Wahrnehmung von Natur und Umwelt. Eine Reise wird hier nicht als Fortkommen von A nach B verstanden, sondern als erlebnisreiche Aneinanderreihung von sehenswürdigen Orten. Der Weg ist das Ziel.<br>EIN QUARTIER FÜR INDIVIDUALREISENDE<br>Das Kernmodul widmet sich dem Entwurf einer Unterkunft, für die stetig wachsende Gruppe von Individualreisenden, welche nach Alternativen zu klassischen Fortbewegungsmitteln wie Auto, Flugzeug oder Bahn suchen und sich umweltverträglich, emissionsarm und gesund fortbewegen möchten. Gesucht wird ein Haus mit unterschiedlichen Konfigurationen für Einzelreisende, Paare, Familien und Gruppen. Es soll die Attraktivität solcher Reiseformen steigern und neue Zielgruppen erschließen.<br>EIN NACHHALTIGER ENTWURF<br/>Während des Entwurfsprozesses hinterfragen wir herkömmliche Hotelkonzepte und Zimmertypologien, um zu einer neuen und reduzierten Formen der Unterbringung zu gelangen. Ferner beschäftigen wir uns mit den Folgen des Klimawandels und besonderen Wetterereignissen, welche zu Hochwasser führen können und entwerfen hierfür konstruktive Lösungen, da sich die attraktivsten Radwanderwege entlang von Flüssen schlängen. Auf Detailebene erarbeiten wir moderne Holz(hybrid)konstruktionen und reflektieren das Konzept des zirkulären Bauens.<br/>Gemeinsam entwickeln wir ein grundlegendes Verständnis für das Bauen mit nachwachsenden Rohstoffen sowie deren Verarbeitung, Einsatzfähigkeit und Haltbarkeit.<br/>EIN SPANNENDER ENTWURFSORT<br/>Der Entwurfsort befindet sich im Elbdelta bei Hamburg, am derzeit beliebtesten deutschen Radwanderweg. Entlang seiner Strecke befinden sich klassische Unterkünfte wie Pensionen und kleine Hotels, doch sind diese nur selten auf die Bedürfnisse von Radreisenden zugeschnitten. Die weitläufige Flusslandschaft bietet hierfür einen idealen Standort für ein modernes Nachtquartier.<br/>DIE REISE ZUM ENTWURFSORT<br/>Eine entsprechende Exkursion zum Entwurfsstandort an der südelbischen Flussmündung sowie zu aktuellen Holz- und Modulbauten in Hamburg ist geplant.</br></br></br></br>
+Beschreibung :3 S: DER WEG IST DAS ZIEL, <br>Nichtmotorisierte Reisende „erfahren“ ihre Umgebung auf besondere Weise. Die reduzierte Geschwindigkeit, der weit schweifende Blick und die eigene körperliche Bewegung führen zu einer vielschichtigen Wahrnehmung von Natur und Umwelt. Eine Reise wird hier nicht als Fortkommen von A nach B verstanden, sondern als erlebnisreiche Aneinanderreihung von sehenswürdigen Orten. Der Weg ist das Ziel.<br>EIN QUARTIER FÜR INDIVIDUALREISENDE<br>Das Kernmodul widmet sich dem Entwurf einer Unterkunft, für die stetig wachsende Gruppe von Individualreisenden, welche nach Alternativen zu klassischen Fortbewegungsmitteln wie Auto, Flugzeug oder Bahn suchen und sich umweltverträglich, emissionsarm und gesund fortbewegen möchten. Gesucht wird ein Haus mit unterschiedlichen Konfigurationen für Einzelreisende, Paare, Familien und Gruppen. Es soll die Attraktivität solcher Reiseformen steigern und neue Zielgruppen erschließen.<br>EIN NACHHALTIGER ENTWURF<br>Während des Entwurfsprozesses hinterfragen wir herkömmliche Hotelkonzepte und Zimmertypologien, um zu einer neuen und reduzierten Formen der Unterbringung zu gelangen. Ferner beschäftigen wir uns mit den Folgen des Klimawandels und besonderen Wetterereignissen, welche zu Hochwasser führen können und entwerfen hierfür konstruktive Lösungen, da sich die attraktivsten Radwanderwege entlang von Flüssen schlängen. Auf Detailebene erarbeiten wir moderne Holz(hybrid)konstruktionen und reflektieren das Konzept des zirkulären Bauens.<br>Gemeinsam entwickeln wir ein grundlegendes Verständnis für das Bauen mit nachwachsenden Rohstoffen sowie deren Verarbeitung, Einsatzfähigkeit und Haltbarkeit.<br>EIN SPANNENDER ENTWURFSORT<br>Der Entwurfsort befindet sich im Elbdelta bei Hamburg, am derzeit beliebtesten deutschen Radwanderweg. Entlang seiner Strecke befinden sich klassische Unterkünfte wie Pensionen und kleine Hotels, doch sind diese nur selten auf die Bedürfnisse von Radreisenden zugeschnitten. Die weitläufige Flusslandschaft bietet hierfür einen idealen Standort für ein modernes Nachtquartier.<br/>DIE REISE ZUM ENTWURFSORT<br/>Eine entsprechende Exkursion zum Entwurfsstandort an der südelbischen Flussmündung sowie zu aktuellen Holz- und Modulbauten in Hamburg ist geplant.</br></br></br></br></br></br></br></br>

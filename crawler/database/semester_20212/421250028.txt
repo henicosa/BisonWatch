@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Texte zum Anthropozän
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51358&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 421250028
+Max. Teilnehmer/-innen :3 S: 30
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Projektmodul - Medienphilosophie 1 - Medienökologie: vom Anthropozän zum Mediozän
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Fphilosophieavmedien%2F&timestamp=1648741279655&hash=df86e0d07ff671d0fb6cdabec2cfa4f9
+Sprache :3 S: deutsch
+Fakultät :3 S: missing
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Jan Völker
+# Beschreibung
+Beschreibung :3 S: Ursprünglich markiert das Stichwort des ‚Anthropozäns‘ eine geologische Epoche: den Beginn eines Erdzeitalters, das durch den Eingriff des Menschen fundamental geprägt ist. Seit dieser im Jahr 2000 von Paul Crutzen getroffenen Feststellung hat sich eine weite Diskussion um das Anthropozän entwickelt, die den Begriff auf die verschiedensten Felder geführt hat. Naturwissenschaftliche, philosophische und künstlerische Arbeiten formieren verschiedene, sich kreuzende und verbindende Ansätze, in denen der Planet als eigenständige Kraft beobachtet, verstanden, adressiert wird. Zugleich geht mit dieser Fokussierung eine Verschiebung einher, die nicht weniger umfassende Auswirkungen hat: Die Idee des Anthropozäns rückt die Handlungsmacht des Menschen in den Hintergrund, um stattdessen die Wirkmächtigkeit umfassenderer Gefüge hervortreten zu lassen., <br/>, <br/>, Gegenstand des Seminars sind einführende, grundlegende Texte zum Anthropozän aus den unterschiedlichen Feldern, auf denen dieser Begriff sich entwickelt., <br/>, <br/>, Das Seminar wird für Präsenz geplant, die endgültige Entscheidung wird Anfang Oktober getroffen. Bitte tragen Sie sich unbedingt in den entsprechenden Moodle-Raum ein

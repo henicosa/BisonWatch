@@ -17,6 +17,11 @@ Tag :3 S: Do.
 Zeit :3 S: 09:15 bis 16:45
 Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:00 bis 18:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
 # Personen
 Personen :3 S: Fakultät Architektur und Urbanistik,Andreas Garkisch :3 S: Fakultät Architektur und Urbanistik,Michael Kraus :3 S: Fakultät Architektur und Urbanistik,Max Weisthoff :3 S: Fakultät Architektur und Urbanistik,Claudia Knepper
 # Beschreibung

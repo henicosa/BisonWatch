@@ -16,7 +16,32 @@ Fakultät :3 S: Fakultät Bauingenieurwesen
 Tag :3 S: Fr.
 Zeit :3 S: 11:00 bis 12:30
 Terminrhythmus :3 S: Einzel
-Bemerkung :3 S: 
+Bemerkung :3 S: , <p>Präsenz im Hörsaal 2, C13A</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Online über BBB</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Online über BBB</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Präsenz im Hörsaal 2, C13A</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Präsenz im Hörsaal 2, C13A</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Präsenz im Hörsaal 2, C13A</p>,
 # Personen
 Personen :3 S: Fakultät Bauingenieurwesen,Hans-Joachim Bargstädt :3 S: Fakultät Bauingenieurwesen,Martina Mellenthin Filardo :3 S: Fakultät Bauingenieurwesen,Birgit Bode
 # Beschreibung

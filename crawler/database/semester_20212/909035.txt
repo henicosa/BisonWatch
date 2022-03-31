@@ -1,4 +1,4 @@
-Veranstaltungstitel :3 S: Microscopic traffic simulation
+Veranstaltungstitel :3 S: Prüfung: Microscopic traffic simulation
 Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50966&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
 # Grunddaten :3 S: 
 Veranstaltungsart :3 S: Prüfung
@@ -16,7 +16,8 @@ Fakultät :3 S: Fakultät Bauingenieurwesen
 Tag :3 S: Do.
 Zeit :3 S: 13:00 bis 14:00
 Terminrhythmus :3 S: Einzel
-Bemerkung :3 S: 
+Bemerkung :3 S: , <p>Raum 305 M13C</p>,
 # Personen
 Personen :3 S: Fakultät Bauingenieurwesen,Uwe Plank-Wiedenbeck
 # Beschreibung
+Beschreibung :3 S: Raum 305 M13C

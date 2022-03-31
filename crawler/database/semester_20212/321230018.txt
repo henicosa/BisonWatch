@@ -1,0 +1,38 @@
+Veranstaltungstitel :3 S: Geschichte und Theorien des Sozialen im Design
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51973&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Wissenschaftliches Modul
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 321230018
+Max. Teilnehmer/-innen :3 S: 30
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 16:00 bis 18:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 16:00 bis 19:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 16:00 bis 19:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 16:00 bis 19:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Onlineveranstaltung</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Johannes Lang :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Nachdem wir im letzten Wintersemester im Seminar „Zwischenmenschliches Design“ uns mit gegenwärtigen Theorien und Methoden des Social Design auseinandergesetzt haben, werden wir in diesem Seminar uns mehr der historischen Entwicklung sozialer Bestrebungen im Design zuwenden. Wie wurde über die Rolle von Design in sozialen Zusammenhängen nachgedacht? Lassen sich im historischen Verlauf unterschiedliche Ansätze herausdestillieren und gegeneinander abgrenzen? Wie wird in den jeweiligen Strömungen – angefangen mit der Arts-and-Crafts-Bewegung, dem Deutschen Werkbund, dem Bauhaus, dem Social Engineering Mitte des 20. Jahrhunderts, der Postmoderne, den demokratischen und partizipatorischen Ansätzen und dem Material turn der Akteur-Netzwerk-Theorie – das Verhältnis von designten Dingen und sozialen Prozessen aufgefasst, gestaltet und eingefordert? Diese und weitere Fragen werden wir anhand ausgewählter Texte und Beispiele diskutieren.

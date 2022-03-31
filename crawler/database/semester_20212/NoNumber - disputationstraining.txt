@@ -9,9 +9,9 @@ Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: 
 Erwartete Teilnehmer/-innen :3 S: 8
 Rhythmus :3 S: jedes 2. Semester
-Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fveranstaltungen.uni-weimar.de%2Fde%2F767&timestamp=1631111054623&hash=63eaadd7e771df9df5c11403c4049f92
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fveranstaltungen.uni-weimar.de%2Fde%2F767&timestamp=1648740317896&hash=fcebbc324a29ef1912a2e524e7cd0898
 Sprache :3 S: deutsch
-Fakultät :3 S: Zentrale Veranstaltungen der Universität
+Fakultät :3 S: missing
 # Zeit
 Tag :3 S: missing
 Zeit :3 S: bis

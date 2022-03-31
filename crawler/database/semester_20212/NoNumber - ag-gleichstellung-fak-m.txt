@@ -14,12 +14,7 @@ Sprache :3 S: missing
 Fakultät :3 S: Fakultät Medien
 # Zeit
 Tag :3 S: Mo.
-Zeit :3 S: 10:00 bis 14:00
-Terminrhythmus :3 S: Einzel
-Bemerkung :3 S: 
-# Zeit
-Tag :3 S: Mo.
-Zeit :3 S: 10:00 bis 14:00
+Zeit :3 S: 13:00 bis 16:00
 Terminrhythmus :3 S: Einzel
 Bemerkung :3 S: 
 # Personen

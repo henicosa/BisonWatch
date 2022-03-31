@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Tausend Plateaux
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51280&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 421250020
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Freies Studienmodul An den Quellen der Queerness
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Fmedienphilosophie%2Fwillkommen%2F&timestamp=1648741267151&hash=84407e48518e40cfc39b22c7157a2df4
+Sprache :3 S: deutsch
+Fakultät :3 S: missing
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: unger. Wo
+Bemerkung :3 S: , <p>Das Studienmodul An den Quellen der Queerness findet 14-tägig von 9:15 - 12:30 Uhr zu folgenden Terminen im Hörsaal B in der Marienstraße 13c statt:<br>29.10.,12.11., 26.11., 10.12., 7.1, 21.1, 4.2.</br></p>,
+# Personen
+Personen :3 S: Fakultät Medien,Rudolf Engell
+# Beschreibung
+Beschreibung :3 S: Raus aus der Komfortzone und willkommen in einer wilden Welt „Out of the box“! Wir werden in diesem Seminar (Passagen und Kapitel aus) Gilles Deleuzes und Félix Guattaris oft unverständlich wirkendem, aber auf jeden Fall grundstürzendem Werk „Tausend Plateaux“ gemeinsam lesen. Dieses Werk, „das wichtigste Buch des 20. Jhdts.“ (Foucault), „das erste Werk des 21. Jhdts.“ (Siegert), 1980 in französischer und 1992 in deutscher Sprache erschienen, ist DER Bezugstext für sämtliche Spielarten und Facetten queeren Denkens überhaupt. Ohne dieses Buch würden dem heutigen Queer-Feminismus und Queer-Post-Genderdiskurs, der jüngeren Queer-Ökologie- und Extinction-Rebellion-Debatte, dem queer-dekolonialen Diskurs und der dekolonialen aktuellen Ethnographie die wichtigsten Impulse fehlen. Es hat die für alles queere Denken unverzichtbaren Konzepte etwa des „Rhizoms“, des „Glatten“ und des „Gekerbten“, des „organlosen Körpers“ und des „Tier-Werdens“, „Minoritär-Werdens“ und „Anders-Werdens“ aufgebracht und entfaltet. Selbst da, wo wir es gar nicht mehr wissen, stecken oft Deleuzes/Guattaris „Tausend Plateaux“ dahinter., <br/>, Wer mitreden will in der Welt des Queer, muß dieses Buch unbedingt kennen. Auch wenn in Wahrheit die allerwenigsten je hineingeschaut haben, die in queeren Diskursen mitschwimmen (möchten). Das soll sich ändern! Es lohnt jeden Aufwand! Anders denken kann funktionieren! Aber es ist auch anstrengend. Es ist Arbeit! Harte Arbeit!! Wie damals in Nanterre 1968, als Deleuze und Guattari einander trafen an der wilden Reformuniversität, müssen Sie: Lesen, lesen, lesen und reden, reden, reden. Miteinander, mit Ihren Lehrpersonen, mit den Autoren. Nur so geht es. Anders denken findet nicht in Kuschelecken, Schonräumen und Komfortzonen statt. Es schenkt Ihnen nichts (und alles). Queeres, anderes Denken labert nicht einfach so herum im luftleeren und schalltoten Raum. Es ist etwas anderes als Tagebuchschreiben und Meinungen haben. Es muß, während es anders denkt, zugleich das denken, was die anderen gedacht haben und noch denken, muß es bloß eben ganz anders denken. Daraus erst folgt dann das eigene Andere. Wenn Sie dazu bereit sind – dann los!

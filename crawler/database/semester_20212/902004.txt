@@ -1,5 +1,5 @@
 Veranstaltungstitel :3 S: Prüfung: Externes Rechnungswesen
-Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50683&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49449&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
 # Grunddaten :3 S: 
 Veranstaltungsart :3 S: Prüfung
 SWS :3 S: missing
@@ -13,10 +13,10 @@ Hyperlink :3 S: missing
 Sprache :3 S: deutsch
 Fakultät :3 S: Fakultät Bauingenieurwesen
 # Zeit
-Tag :3 S: Di.
-Zeit :3 S: 17:00 bis 18:30
+Tag :3 S: Fr.
+Zeit :3 S: 13:00 bis 14:30
 Terminrhythmus :3 S: Einzel
 Bemerkung :3 S: 
 # Personen
-Personen :3 S: Fakultät Bauingenieurwesen,Hans-Joachim Bargstädt :3 S: Fakultät Bauingenieurwesen,Birgit Bode
+Personen :3 S: Fakultät Bauingenieurwesen,Wolfgang Hölzer
 # Beschreibung

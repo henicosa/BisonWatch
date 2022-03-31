@@ -13,11 +13,31 @@ Hyperlink :3 S: missing
 Sprache :3 S: deutsch
 Fakultät :3 S: Fakultät Medien
 # Zeit
-Tag :3 S: missing
-Zeit :3 S: bis
-Terminrhythmus :3 S: wöch.
+Tag :3 S: Sa.
+Zeit :3 S: 09:15 bis 15:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: So.
+Zeit :3 S: 09:15 bis 15:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Sa.
+Zeit :3 S: 09:15 bis 15:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: So.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Sa.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: Einzel
 Bemerkung :3 S: 
 # Personen
-Personen :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N.
+Personen :3 S: Fakultät Medien,David Zakoth :3 S: Fakultät Medien,Matthias Bender
 # Beschreibung
 Beschreibung :3 S: Durch Digitalisierung und immer schnelleren technischen Fortschritt ergeben sich in vielen Branchen tiefgreifende Veränderungen und daraus resultierend Chancen für disruptive Innovationen und neue Geschäftsmodelle. Um den grundlegenden Wandel insbesondere für die Medienbranche zu verstehen wird dabei die Betrachtung der Musikindustrie im Fokus der Veranstaltung stehen. Es werden theoretische Konzepte aus dem Innovations-, Marken- und Strategischen Management gelehrt und angewandt. Vertiefend wird mittels Case Studies, Design Thinking sowie unter Einbezug eines Praxisreferenten (ehemaliger Musik-Produktmanager) u.a. folgenden Fragestellungen nachgegangen: Welche Auswirkungen hat das Aufkommen von Streaminganbietern auf das Geschäftsmodell der etablierten Musiklabels? Welche Veränderungen birgt die Digitalisierung für den Aufbau und die Vermarktung von Künstlermarken? Welche Bedeutung haben Innovationen für die Musikindustrie? Wie könnte die Musikindustrie in 10 Jahren aussehen?

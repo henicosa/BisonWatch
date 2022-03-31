@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Comprehending Urban Space
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51986&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 121221104
+Max. Teilnehmer/-innen :3 S: 16
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: European Urban Studies, M.Sc. PO 2020\r, <br/>, Urban and landscape planning\r, <br/>, European Urban Studies, M.Sc. PO 18\r, <br/>, Urban and landscape planning
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 17:00 bis 20:00
+Terminrhythmus :3 S: gerade Wo
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 17:00 bis 20:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Pola Koch :3 S: Fakultät Architektur und Urbanistik,Stefan Signer :3 S: Fakultät Architektur und Urbanistik,Steffen de Rudder
+# Beschreibung
+Beschreibung :3 S: We experience the city through its spaces, in which we move every day. The street and squares, the images of the facades and houses shape our perception and our well-being. Urban places can remain in our memory forever, in a positive or negative way, or they leave no memory at all. Cities are highly complex entities that we can understand better if we learn to read their spatial order. In our seminar we want to introduce you to techniques of an urban morphological approach. You will learn analytical and drawing methods that help you to understand the city as a spatial system. In a series of practical exercises using the city of Weimar as an example, we will approach the spaces, the structures and the image of the city.

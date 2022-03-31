@@ -17,7 +17,17 @@ Tag :3 S: Fr.
 Zeit :3 S: 09:15 bis 12:30
 Terminrhythmus :3 S: gerade Wo
 Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>online</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
 # Personen
-Personen :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N.
+Personen :3 S: Fakultät Architektur und Urbanistik,Karl Beelen
 # Beschreibung
 Beschreibung :3 S: Seminar | 1.FS.M.Sc.EU/ M.SC U./ M.Sc.A. | Dr. Ir. Arch. Karl Beelen | 3ECTS | 2SWS

@@ -14,7 +14,7 @@ Sprache :3 S: missing
 Fakultät :3 S: Fakultät Architektur und Urbanistik
 # Zeit
 Tag :3 S: Mi.
-Zeit :3 S: 17:00 bis 19:00
+Zeit :3 S: 15:30 bis 19:00
 Terminrhythmus :3 S: Einzel
 Bemerkung :3 S: 
 # Personen

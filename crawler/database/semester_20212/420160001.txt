@@ -13,16 +13,21 @@ Hyperlink :3 S: missing
 Sprache :3 S: englisch
 Fakultät :3 S: Fakultät Medien
 # Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Online (Moodle)</p>,
+# Zeit
 Tag :3 S: Di.
 Zeit :3 S: 09:15 bis 10:45
 Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: , <p>Exercise</p>,
 # Zeit
-Tag :3 S: Do.
-Zeit :3 S: 13:30 bis 15:00
-Terminrhythmus :3 S: wöch.
-Bemerkung :3 S: , <p>Online (Moodle)</p>,
+Tag :3 S: Fr.
+Zeit :3 S: 10:00 bis 12:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>written exam</p>,
 # Personen
-Personen :3 S: Fakultät Bauingenieurwesen,Timon Rabczuk :3 S: Fakultät Bauingenieurwesen,Daniela Torres Achicanoy
+Personen :3 S: Fakultät Bauingenieurwesen,Timon Rabczuk :3 S: Fakultät Bauingenieurwesen,Sara Torres Achicanoy
 # Beschreibung
 Beschreibung :3 S: Einführung in die Mechanik

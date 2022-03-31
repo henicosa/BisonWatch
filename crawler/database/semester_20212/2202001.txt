@@ -9,14 +9,19 @@ Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: 
 Erwartete Teilnehmer/-innen :3 S: 
 Rhythmus :3 S: jedes 2. Semester
-Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.edac.biz%2F&timestamp=1631112524553&hash=1664743a2ae351f6ca71944beec676f1
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D35956&timestamp=1648741141455&hash=a4d65a35cd0471a116fdffe540819a98
 Sprache :3 S: englisch
 Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Group I - Regional ground motion</p>, <br/>, <p>The grouping will be arranged individually as announced in the lecture.</p>,
 # Zeit
 Tag :3 S: Di.
 Zeit :3 S: 13:30 bis 15:00
 Terminrhythmus :3 S: wöch.
-Bemerkung :3 S: , <p>Group 1 (A + B) - Regional ground motion</p>,
+Bemerkung :3 S: , <p>Group III - Regional ground motion</p>, <br/>, <p>The grouping will be arranged individually as announced in the lecture.</p>,
 # Personen
 Personen :3 S: Fakultät Bauingenieurwesen,Jochen Schwarz :3 S: Fakultät Bauingenieurwesen,Christian Kaufmann :3 S: Fakultät Bauingenieurwesen,Lars Abrahamczyk :3 S: Fakultät Bauingenieurwesen,Silke Beinersdorf
 # Beschreibung

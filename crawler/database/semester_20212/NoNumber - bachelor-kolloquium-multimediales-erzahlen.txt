@@ -11,13 +11,13 @@ Erwartete Teilnehmer/-innen :3 S:
 Rhythmus :3 S: jedes Semester
 Hyperlink :3 S: missing
 Sprache :3 S: deutsch
-Fakultät :3 S: Fakultät Kunst und Gestaltung
+Fakultät :3 S: missing
 # Zeit
 Tag :3 S: Do.
 Zeit :3 S: bis
 Terminrhythmus :3 S: Einzel
 Bemerkung :3 S: 
 # Personen
-Personen :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person :3 S: Fakultät Kunst und Gestaltung,Walter Bauer-Wabnegg
+Personen :3 S: missing,keine öffentliche Person :3 S: missing,Walter Bauer-Wabnegg
 # Beschreibung
 Beschreibung :3 S: Heranführung an die Fragestellungen des Multimedialen Erzählens. Kritische Begleitung bei der Erstellung einer medienkünstlerischen oder gestalterischen Bachelor-Arbeit.

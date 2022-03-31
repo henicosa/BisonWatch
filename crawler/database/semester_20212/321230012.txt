@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Lehrfilm/\xa0Podcast/E-Lecture (FD 1/3)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51393&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Wissenschaftliches Modul
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 321230012
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:00 bis 16:00
+Terminrhythmus :3 S: gerade Wo
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:00 bis 16:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Nastasja Keller :3 S: Fakultät Kunst und Gestaltung,Andrea Dreyer :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Kunstlehrende in ihrem Selbstverständnis befragen, Unterrichtstörungen verhandeln, Medien und Konzepte für die Präsenz- wie Onlinelehre entwickeln - das Seminarangebot bietet die Gelegenheit, sich individuell wissenschaftlich-reflexiv wie gestalterisch einem Thema zu widmen, dass unter den Nägeln brennt. Im Seminar wird die inhaltliche Auseinandersetzung mit den individuellen Frage- und Problemstellungen sowie die didaktische Reduktion des erworbenen Wissens begleitet, im gleichnamigen Fachmodul erfolgt die gestalterische Betreuung der entwickelten Konzepte und Ideen zur Kommunikation der Erkenntnisse. In Auseinandersetzung mit gestalterischen Grundprinzipien zeitbasierter Medien werden gemeinsam relevante Aspekte für eine gute Gestalt unter Berücksichtigung einer altersgerechten wie inklusiven Ansprache der Rezipienten herausgearbeitet und angewandt.

@@ -4,7 +4,7 @@ Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=
 Veranstaltungsart :3 S: Projekt
 SWS :3 S: 8
 Veranstaltungsnummer :3 S: 1210430
-Max. Teilnehmer/-innen :3 S: 6
+Max. Teilnehmer/-innen :3 S: 4
 Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: Urbannistik, B.Sc. PO 2020\r, <br/>, 5. Planungsprojekt\r, <br/>, Urbanistik, B.Sc. PO 14\r, <br/>, 5. Planungsprojekt
 Erwartete Teilnehmer/-innen :3 S: 
@@ -16,6 +16,11 @@ Fakultät :3 S: Fakultät Architektur und Urbanistik
 Tag :3 S: Do.
 Zeit :3 S: 09:15 bis 16:45
 Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: Einzel
 Bemerkung :3 S: 
 # Personen
 Personen :3 S: Fakultät Architektur und Urbanistik,Sigrun Langner :3 S: Fakultät Architektur und Urbanistik,Pia Müller :3 S: Fakultät Architektur und Urbanistik,Atidh Langbein

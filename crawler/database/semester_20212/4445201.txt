@@ -9,14 +9,14 @@ Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: 
 Erwartete Teilnehmer/-innen :3 S: 
 Rhythmus :3 S: jedes 2. Semester
-Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fmedien%2Fcv&timestamp=1631111385513&hash=026b3e063e983259dc7aca8811ad4917
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fmedien%2Fcv&timestamp=1648740861730&hash=6b7064512e3d9d395df7134e561c4d3b
 Sprache :3 S: englisch
 Fakultät :3 S: Fakultät Medien
 # Zeit
 Tag :3 S: Mo.
 Zeit :3 S: 11:00 bis 12:30
 Terminrhythmus :3 S: wöch.
-Bemerkung :3 S: , <p>Lecture - online in Moodle <a>https://moodle.uni-weimar.de/course/view.php?id=26729</a></p>, <br/>, <p>Registration for this online course starts Oct, 26th 2020</p>,
+Bemerkung :3 S: , <p>Lecture - online in Moodle https://moodle.uni-weimar.de/course/view.php?id=35823</p>, <br/>, <p>Registration for this online course starts Oct, 08th 2021</p>, <br/>, <p> </p>,
 # Zeit
 Tag :3 S: Mo.
 Zeit :3 S: 13:30 bis 15:00
@@ -24,9 +24,14 @@ Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: , <p>Übung - online in Moodle</p>,
 # Zeit
 Tag :3 S: Mo.
+Zeit :3 S: 10:00 bis 12:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mo.
 Zeit :3 S: 13:30 bis 15:30
 Terminrhythmus :3 S: Einzel
-Bemerkung :3 S: , <p>Klausur</p>, <br/>, <p>Ort: Weimarhalle SR1+2</p>,
+Bemerkung :3 S: , <p>Klausur</p>, <br/>, <p>Ort: Audimax</p>,
 # Personen
 Personen :3 S: Fakultät Medien,Volker Rodehorst :3 S: Fakultät Medien,Mariya Kaisheva
 # Beschreibung

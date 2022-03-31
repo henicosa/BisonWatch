@@ -11,11 +11,21 @@ Erwartete Teilnehmer/-innen :3 S: 12
 Rhythmus :3 S: jedes Semester
 Hyperlink :3 S: missing
 Sprache :3 S: missing
-Fakultät :3 S: Fakultät Bauingenieurwesen
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
 # Zeit
 Tag :3 S: Do.
 Zeit :3 S: 09:15 bis 16:45
 Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:00 bis 18:00
+Terminrhythmus :3 S: Einzel
 Bemerkung :3 S: 
 # Personen
 Personen :3 S: Fakultät Bauingenieurwesen,Jürgen Ruth :3 S: Fakultät Architektur und Urbanistik,Katharina Elert :3 S: Fakultät Architektur und Urbanistik,Katrin Linne

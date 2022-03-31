@@ -9,9 +9,9 @@ Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: Einführungsmodul: Einführung in die Medien- und Kulturtheorie
 Erwartete Teilnehmer/-innen :3 S: 
 Rhythmus :3 S: jedes 2. Semester
-Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Fmedienphilosophie%2Fwillkommen%2F&timestamp=1631111068979&hash=1eba2a5d348c38630095101e271f2da7
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Fmedienphilosophie%2Fwillkommen%2F&timestamp=1648740338567&hash=8996122dce27a915ce0a1222d3347121
 Sprache :3 S: deutsch
-Fakultät :3 S: Fakultät Medien
+Fakultät :3 S: missing
 # Zeit
 Tag :3 S: Mo.
 Zeit :3 S: 07:30 bis 09:00
@@ -24,7 +24,7 @@ Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: , <p>Gruppe 2 - Im Lichthauskino (Martin Siegler)</p>,
 # Zeit
 Tag :3 S: Di.
-Zeit :3 S: 13:00 bis 15:30
+Zeit :3 S: 13:30 bis 15:00
 Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: , <p>Gruppe 3 - Im Lichthauskino (Katja Hettich)</p>,
 # Personen

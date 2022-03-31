@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Projekt energetische Nutzungspotentiale heizwertreicher Verwertungsabfälle am Industriestandort Rudolstadt-Schwarza
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=52072&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 951006
+Max. Teilnehmer/-innen :3 S: 5
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Schwanseestr. 1a</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Mark Jentsch :3 S: Fakultät Bauingenieurwesen,Sebastian Büttner
+# Beschreibung
+Beschreibung :3 S: Am Industriestandort Rudolstadt-Schwarza gewährleistet der Zweckverband Abfallwirtschaft Saale-Orla (ZASO) mit dem Eigenbetrieb der Thermischen Verwertungsanlage Schwarza (TVS) die Verwertung heizwertreicher Reststoffe der Standortunternehmen und gleichzeitig die Frischdampfversorgung der Thüringer Wärme Service GmbH (TWS), die wiederum die Standortunternehmen mit Energie versorgt.

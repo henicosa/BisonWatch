@@ -1,4 +1,4 @@
-Veranstaltungstitel :3 S: Instrumente und Verfahren der Landesplanung
+Veranstaltungstitel :3 S: Verschoben SoSe 2022 - Instrumente und Verfahren der Landesplanung
 Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50873&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
 # Grunddaten :3 S: 
 Veranstaltungsart :3 S: Vorlesung
@@ -9,14 +9,9 @@ Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: Urbanistik, B.Sc. PO 2020\r, <br/>, Pflichtmodul\r, <br/>, Urbanistik, B.Sc. PO 14\r, <br/>, Pflichtmodul
 Erwartete Teilnehmer/-innen :3 S: 
 Rhythmus :3 S: jedes 2. Semester
-Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fde%2Farchitektur-und-urbanistik%2Fprofessuren%2Fraumplanung-und-raumforschung%2Flehre%2F&timestamp=1631111231148&hash=1b929e536e8989f926f6cd50dc1acf0a
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fde%2Farchitektur-und-urbanistik%2Fprofessuren%2Fraumplanung-und-raumforschung%2Flehre%2F&timestamp=1648741355784&hash=35e400bd2ce2843498590f58a6e713b6
 Sprache :3 S: deutsch
 Fakultät :3 S: Fakultät Architektur und Urbanistik
-# Zeit
-Tag :3 S: Fr.
-Zeit :3 S: 13:30 bis 15:00
-Terminrhythmus :3 S: wöch.
-Bemerkung :3 S: 
 # Personen
 Personen :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N. :3 S: Fakultät Architektur und Urbanistik,Max Welch Guerra
 # Beschreibung

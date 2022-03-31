@@ -13,10 +13,10 @@ Hyperlink :3 S: missing
 Sprache :3 S: deutsch
 Fakultät :3 S: Fakultät Bauingenieurwesen
 # Zeit
-Tag :3 S: Mi.
-Zeit :3 S: 09:00 bis 11:00
+Tag :3 S: Do.
+Zeit :3 S: 09:00 bis 12:00
 Terminrhythmus :3 S: Einzel
-Bemerkung :3 S: , <p>Sporthalle Falkenburg</p>,
+Bemerkung :3 S: 
 # Personen
 Personen :3 S: Fakultät Bauingenieurwesen,Thorsten Beckers
 # Beschreibung

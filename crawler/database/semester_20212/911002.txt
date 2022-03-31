@@ -9,54 +9,54 @@ Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: 
 Erwartete Teilnehmer/-innen :3 S: 
 Rhythmus :3 S: jedes 2. Semester
-Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fbauingenieurwesen%2Fprofessuren%2Fimmobilienwirtschaft-und-management%2Flehre%2Fmasterstudium%2Fseminare%2F&timestamp=1631112633386&hash=f601f7975c6f34058682e23279923b08
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D35343&timestamp=1648741345212&hash=148913d639511c298d65cf7e8e694cc6
 Sprache :3 S: englisch
 Fakultät :3 S: Fakultät Bauingenieurwesen
 # Zeit
 Tag :3 S: Mo.
 Zeit :3 S: 17:00 bis 20:15
 Terminrhythmus :3 S: Einzel
-Bemerkung :3 S: , <p>Online Webinar - BBB</p>,
+Bemerkung :3 S: , <p>Block A (Schluer)</p>, <br/>, <p>Webinar</p>,
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 07:30 bis 10:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Block A (Schluer)</p>, <br/>, <p>Webinar</p>,
 # Zeit
 Tag :3 S: Mo.
-Zeit :3 S: 17:00 bis 20:15
-Terminrhythmus :3 S: Einzel
-Bemerkung :3 S: , <p>Online Webinar - BBB</p>,
-# Zeit
-Tag :3 S: Mo.
-Zeit :3 S: 17:00 bis 20:15
-Terminrhythmus :3 S: Einzel
-Bemerkung :3 S: , <p>Online Coaching - BBB</p>,
-# Zeit
-Tag :3 S: Mo.
-Zeit :3 S: 17:00 bis 20:15
-Terminrhythmus :3 S: Einzel
-Bemerkung :3 S: , <p>Online Webinar - BBB</p>,
-# Zeit
-Tag :3 S: Di.
-Zeit :3 S: 07:30 bis 10:45
-Terminrhythmus :3 S: Einzel
-Bemerkung :3 S: , <p>Online Webinar - BBB</p>,
-# Zeit
-Tag :3 S: Di.
-Zeit :3 S: 07:30 bis 10:45
-Terminrhythmus :3 S: Einzel
-Bemerkung :3 S: , <p>Online Webinar - BBB</p>,
-# Zeit
-Tag :3 S: Di.
-Zeit :3 S: 07:30 bis 10:45
-Terminrhythmus :3 S: Einzel
-Bemerkung :3 S: , <p>Online Webinar - BBB</p>,
-# Zeit
-Tag :3 S: Di.
-Zeit :3 S: 07:30 bis 10:45
-Terminrhythmus :3 S: Einzel
-Bemerkung :3 S: , <p>Online Webinar - BBB</p>,
-# Zeit
-Tag :3 S: Mi.
-Zeit :3 S: 13:30 bis 15:00
+Zeit :3 S: 17:00 bis 18:30
 Terminrhythmus :3 S: Einzel
 Bemerkung :3 S: , <p>Opening Exam</p>,
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: bis
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Coaching/Review (Schluer)</p>, <br/>, <p>ViCo with each group</p>,
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 17:00 bis 20:15
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Block B (Schluer)</p>, <br/>, <p>Webinar</p>,
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 07:30 bis 10:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Block B (Schluer)</p>, <br/>, <p>Webinar</p>,
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: bis
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Coaching/Review (Schluer)</p>, <br/>, <p>ViCo with each group</p>,
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 17:00 bis 20:15
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Block C (Schluer)</p>, <br/>, <p>Webinar</p>,
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 07:30 bis 10:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Block C (Schluer)</p>, <br/>, <p>Webinar</p>,
 # Personen
 Personen :3 S: Fakultät Bauingenieurwesen,Hans-Joachim Bargstädt :3 S: Fakultät Bauingenieurwesen,Thomas Vogl :3 S: Fakultät Bauingenieurwesen,Birgit Bode
 # Beschreibung

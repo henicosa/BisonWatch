@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Rearranging Pixels VII
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51727&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 10
+Veranstaltungsnummer :3 S: 421210010
+Max. Teilnehmer/-innen :3 S: 6
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedieninformatik%2Fgrafische-datenverarbeitung%2F&timestamp=1648741086376&hash=fa47a20a17c0e72a9f283689db0dd114
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Personen
+Personen :3 S: Fakultät Medien,Charles Wüthrich :3 S: Fakultät Medien,Francesco Andreussi
+# Beschreibung
+Beschreibung :3 S: Since the introduction of digital cameras, computer raster monitors and printing devices, the world of pixels has been ordered on a square based raster, limiting optimal signal sampling to two main directions, and creating collateral problems where the grid density causes undersampling of the light signal. This project will tackle the problem, exploring new and unconventional ways of sampling light signals. The focus will be set on the development of new robust methods and on their evaluation, and compare traditional square sampling to the new methods. The conception and development of new devices will be a major focus of the project.

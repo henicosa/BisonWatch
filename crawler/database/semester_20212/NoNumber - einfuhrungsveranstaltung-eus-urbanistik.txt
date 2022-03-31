@@ -1,7 +1,7 @@
 Veranstaltungstitel :3 S: Einführungsveranstaltung EUS/ Urbanistik
-Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51789&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51936&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
 # Grunddaten :3 S: 
-Veranstaltungsart :3 S: Informationsveranstaltung
+Veranstaltungsart :3 S: Sonstige Veranstaltung
 SWS :3 S: missing
 Veranstaltungsnummer :3 S: 
 Max. Teilnehmer/-innen :3 S: 
@@ -11,22 +11,6 @@ Erwartete Teilnehmer/-innen :3 S:
 Rhythmus :3 S: 
 Hyperlink :3 S: missing
 Sprache :3 S: missing
-Fakultät :3 S: Fakultät Architektur und Urbanistik
-# Zeit
-Tag :3 S: Mi.
-Zeit :3 S: 08:30 bis 12:30
-Terminrhythmus :3 S: Einzel
-Bemerkung :3 S: , <p>Begrüßung Master European Urban Studies/ Urbanistik</p>,
-# Zeit
-Tag :3 S: Mi.
-Zeit :3 S: 10:00 bis 12:00
-Terminrhythmus :3 S: Einzel
-Bemerkung :3 S: , <p>Begrüßung Master European Urban Studies</p>,
-# Zeit
-Tag :3 S: Do.
-Zeit :3 S: 10:00 bis 12:00
-Terminrhythmus :3 S: Einzel
-Bemerkung :3 S: , <p>Begrüßung Bachelor Urbanistik</p>,
+Fakultät :3 S: Fakultät Bauingenieurwesen
 # Personen
-Personen :3 S: Fakultät Architektur und Urbanistik,Elodie Vittu :3 S: Fakultät Architektur und Urbanistik,Caroline Kauert
 # Beschreibung

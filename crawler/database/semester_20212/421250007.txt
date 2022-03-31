@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Zeichen und Maschinen
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51330&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 421250007
+Max. Teilnehmer/-innen :3 S: 30
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: BA-Studienmodul Zeichentheorie
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Fgeschichte-und-theorie-der-kulturtechniken%2Fwillkommen%2F&timestamp=1648741484737&hash=16042b1f5f344fb466db7a4e50537736
+Sprache :3 S: deutsch
+Fakultät :3 S: missing
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Angelika Seppi
+# Beschreibung
+Beschreibung :3 S: Das industrielle Zeitalter steht für eine weitgehende Maschinisierung der grundlegenden Ebenen der ökonomischen, sozialen und epistemischen Produktion. Dies betrifft auch und vor allem das Regime der Zeichen und die Mechanismen der Subjektivierung, die es anleitet. Mit der Entwicklung moderner Aufschreibesysteme, der Herausbildung elektronischer Übertragungstechniken, der Durchsetzung des Computers und des World Wide Web nimmt das Seminar maßgebliche Entwicklungen der jüngeren Mediengeschichte zum Ausgang, um nach dem gewandelten Status der Zeichen zu fragen, den sie implizieren. Dabei wird eine maschinische Dimension der Zeichenprozesse freigelegt, die sich keineswegs auf das industrielle Zeitalter und seine Medien beschränkt, sondern überall greift, wo Zeichen im Gebrauch stehen. Das Seminar geht der leitenden Frage nach dem Verhältnis von Zeichen und Maschinen anhand ausgewählter Text- und Objektstudien aus unterschiedlichen Epochen der Wissenschaft, Kunst und Literatur nach.

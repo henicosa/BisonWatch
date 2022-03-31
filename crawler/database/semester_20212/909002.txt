@@ -9,24 +9,24 @@ Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: 
 Erwartete Teilnehmer/-innen :3 S: 
 Rhythmus :3 S: jedes 2. Semester
-Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fvsp&timestamp=1631112499195&hash=80c62a7b69383209b67f2a9cd96cd802
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D35424&timestamp=1648741081789&hash=d9459d805addc6e5edbb1fa0d2635afe
 Sprache :3 S: deutsch
 Fakultät :3 S: Fakultät Bauingenieurwesen
 # Zeit
 Tag :3 S: Fr.
 Zeit :3 S: 09:15 bis 18:00
 Terminrhythmus :3 S: Einzel
-Bemerkung :3 S: , <p>R 305 M13 Dachgeschoss</p>,
+Bemerkung :3 S: , <p>HS 001, C11C</p>,
 # Zeit
 Tag :3 S: Fr.
 Zeit :3 S: 09:15 bis 18:00
 Terminrhythmus :3 S: Einzel
-Bemerkung :3 S: , <p>R 305 M13 Dachgeschoss</p>,
+Bemerkung :3 S: , <p>HS 001, C11C</p>,
 # Zeit
 Tag :3 S: Fr.
 Zeit :3 S: 09:15 bis 18:00
 Terminrhythmus :3 S: Einzel
-Bemerkung :3 S: , <p>R 305 M13 Dachgeschoss</p>,
+Bemerkung :3 S: , <p>HS 001, C11C</p>,
 # Personen
-Personen :3 S: Fakultät Bauingenieurwesen,Julius Uhlmann :3 S: missing,Asmus Schriewer
+Personen :3 S: Fakultät Bauingenieurwesen,Julius Uhlmann :3 S: Fakultät Bauingenieurwesen,Asmus Schriewer
 # Beschreibung

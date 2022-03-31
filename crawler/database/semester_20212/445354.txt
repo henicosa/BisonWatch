@@ -9,9 +9,9 @@ Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: Einführungsmodul: Einführung in die Medien- und Kulturtheorie
 Erwartete Teilnehmer/-innen :3 S: 
 Rhythmus :3 S: jedes 2. Semester
-Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fstruktur%2Ffachbereich-medienwissenschaft%2Flehrprofil%2F&timestamp=1631112617298&hash=e8baf980c914f95a669c213c4d6a3438
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fstruktur%2Ffachbereich-medienwissenschaft%2Flehrprofil%2F&timestamp=1648741325911&hash=53590d294c79fc6226774f81f476b27e
 Sprache :3 S: deutsch
-Fakultät :3 S: Fakultät Medien
+Fakultät :3 S: missing
 # Zeit
 Tag :3 S: Do.
 Zeit :3 S: 13:30 bis 15:00

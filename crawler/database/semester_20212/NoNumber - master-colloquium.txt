@@ -6,7 +6,7 @@ SWS :3 S: missing
 Veranstaltungsnummer :3 S: 
 Max. Teilnehmer/-innen :3 S: 25
 Semester :3 S: WiSe 2021/22
-Zugeordnetes Modul :3 S: Advanced Urbanism, Master of Science PO 13\r, <br/>, Modul Pflichtmodul - Masterthesis\r, <br/>, Advanced Urbanism, Master of Science PO 14\r, <br/>, Modul Pflichtmodul - Masterthesis\r, <br/>, Europäische Urbanistik, Master of Science PO 13\r, <br/>, Modul Pflichtmodul - Masterthesis\r, <br/>, Europäische Urbanistik, Master of Science PO 14\r, <br/>, Modul Pflichtmodul - Masterthesis
+Zugeordnetes Modul :3 S: Integrated Urban Development and Design, M.Sc. PO 2020\r, <br/>, Master-Colloquium\r, <br/>, Integrated Urban Development and Design, M.Sc. PO 18\r, <br/>, Master-Colloquium
 Erwartete Teilnehmer/-innen :3 S: 25
 Rhythmus :3 S: jedes Semester
 Hyperlink :3 S: missing
@@ -18,6 +18,6 @@ Zeit :3 S: bis
 Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: 
 # Personen
-Personen :3 S: Fakultät Architektur und Urbanistik,Lisa Vollmer :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N.
+Personen :3 S: Fakultät Architektur und Urbanistik,Philippe Schmidt
 # Beschreibung
 Beschreibung :3 S: The course is the platform for presentation and discussion of the Masters theses. The candidates will present the intermediate results of their work on their individual topics. Suggestions for further action will be made by fellow students and academics attending the colloquium. Admission for the Master examination is required for participation. Performance record (attestation) will be achieved by giving an oral presentation.

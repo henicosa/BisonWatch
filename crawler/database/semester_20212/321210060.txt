@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Audiobaukasten I: Einführung in die Radioproduktion
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51521&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 321210060
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Als Präsenzveranstaltung geplant. Änderungen aufgrund der Pandemie vorbehalten.</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Jason Langheim :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Im Audiobaukasten geht es darum, die Arbeit in einem professionellen Ton- und Radiostudio kennenzulernen. Vermittelt werden dabei die Grundlagen des Signalflusses im Studio sowie der Einsatz von Equalizern und Dynamikeffekten. , <br>Im Mittelpunkt steht außerdem der Umgang mit gängigen Schnittprogrammen (z.B. Reaper) und mobiler Aufnahmetechnik.<br/>Die Teilnahme am Audiobaukasten qualifiziert zur selbstständigen Arbeit in den Studios des Experimentellen Radios und befähigt zur Produktion eigener Audiobeiträge. <br/>Für die erfolgreiche Kursteilnahme ist neben der regelmäßigen aktiven Teilnahme auch die Mitwirkung an der 48 Stunden-Sendung am Ende des Semesters erforderlich.</br>

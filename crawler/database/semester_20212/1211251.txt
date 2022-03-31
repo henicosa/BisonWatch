@@ -9,14 +9,14 @@ Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: Urbanistik, B.Sc. PO 2020\r, <br/>, Pflichtmodule\r, <br/>, Urbanistik, B.Sc. PO 14\r, <br/>, Pflichtmodule
 Erwartete Teilnehmer/-innen :3 S: 
 Rhythmus :3 S: jedes 2. Semester
-Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Farchitektur-und-urbanistik%2Fprofessuren%2Fraumplanung-und-raumforschung%2Flehre%2F&timestamp=1631112555056&hash=c979302be1dc73c9ac4f9e7a1c5a19d6
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Farchitektur-und-urbanistik%2Fprofessuren%2Fraumplanung-und-raumforschung%2Flehre%2F&timestamp=1648741198447&hash=33ef7374af92b8882fde77b1ef46c8a5
 Sprache :3 S: deutsch
 Fakultät :3 S: Fakultät Architektur und Urbanistik
 # Zeit
 Tag :3 S: Mi.
 Zeit :3 S: 11:00 bis 12:30
 Terminrhythmus :3 S: wöch.
-Bemerkung :3 S: , <p>Audimax</p>,
+Bemerkung :3 S: 
 # Personen
 Personen :3 S: Fakultät Architektur und Urbanistik,Max Welch Guerra
 # Beschreibung

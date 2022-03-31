@@ -11,12 +11,22 @@ Erwartete Teilnehmer/-innen :3 S:
 Rhythmus :3 S: 
 Hyperlink :3 S: missing
 Sprache :3 S: deutsch
-Fakultät :3 S: Fakultät Bauingenieurwesen
+Fakultät :3 S: Fakultät Medien
 # Zeit
 Tag :3 S: Fr.
 Zeit :3 S: 11:00 bis 12:30
 Terminrhythmus :3 S: wöch.
-Bemerkung :3 S: , <p>digital via Moodle</p>, <br/>, <p> </p>, <br/>, <p> </p>,
+Bemerkung :3 S: , <p>digital via Moodle: https://moodle.uni-weimar.de/course/view.php?id=36472</p>, <br/>, <p> </p>, <br/>, <p> </p>,
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 10:00 bis 11:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>90 min. Klausur</p>,
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 13:00 bis 14:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>60 min. Klausur</p>,
 # Personen
 Personen :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N.
 # Beschreibung

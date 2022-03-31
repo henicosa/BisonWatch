@@ -9,9 +9,9 @@ Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: Medien-/Filmphilosophisches Projektmodul 1 – Extended Cinema „Zeit Bild Psyche“
 Erwartete Teilnehmer/-innen :3 S: 
 Rhythmus :3 S: einmalig
-Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Fphilosophieavmedien%2F&timestamp=1631112493890&hash=cb26ea751a24fdcff116fde0560e0300
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Fphilosophieavmedien%2F&timestamp=1648741069741&hash=b3da9b302a60b6d8cef90b5308887ee9
 Sprache :3 S: deutsch
-Fakultät :3 S: Fakultät Medien
+Fakultät :3 S: missing
 # Zeit
 Tag :3 S: Do.
 Zeit :3 S: 11:00 bis 12:30

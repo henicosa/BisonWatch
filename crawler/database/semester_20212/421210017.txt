@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Archiverfahrungen: sammeln
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51267&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Plenum
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 421210017
+Max. Teilnehmer/-innen :3 S: 30
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Projektmodul Archiv- und Literaturforschung 2
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Farchiv-und-literaturforschung%2Fwillkommen%2F&timestamp=1648740049764&hash=736d9789b6f6c84ef28aa07b21c3fa77
+Sprache :3 S: deutsch
+Fakultät :3 S: missing
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Fabian Winter
+# Beschreibung
+Beschreibung :3 S: Jörg Paulus beschreibt in seiner Einführung in den Abschnitt ‚Archiv‘ des Readers , <em>Grundlagentexte der Medienkultur </em>, (hg. von Andreas Ziemann, Wiesbaden: 2019), inwiefern eine Kernaufgabe medienkulturwissenschaftlicher Archivforschung darin bestehe, „einerseits allgemeine, den Begriff Archiv auf größere Einheiten übertragende Ansätze und Kontexte (das ‚kulturelle Archiv‘), andererseits aber auch konkrete, an institutionelle Bedingungen und Möglichkeiten geknüpfte Ansätze wechselseitig diskutierbar zu machen.“ (Ebd. S. 81) Das Plenum , <em>Archiverfahrungen: sammeln </em>, will solche Diskussionen der Wechselseitigkeit des Archivs als Metapher und Institution führen, primär aber (erste) Zugänge zum Archiv (zum metaphorischen, digitalen, institutionellen und prozessualen) initiieren. Damit flankiert das Plenum die beiden zugehörigen Theorieseminare mit dem Ziel, etwas vom berüchtigten ‚Geschmack des Archivs‘ (Farge, Göttingen: 2011) zu vermitteln. Neben der Erfahrung des (institutionellen) Archivs sollen auch solche Architekturen und Konstellationen in ihrer Archivrelation erfahren und befragt werden, deren Archivcharakter zunächst nicht ersichtlich ist (Gebäude, Gärten, Städte, Instagram, Minecraft etc.). Hierzu sind verschiedene Exkursionen in Weimar und Umgebung sowie Auseinandersetzungen mit digitalen Archivkonvoluten geplant.

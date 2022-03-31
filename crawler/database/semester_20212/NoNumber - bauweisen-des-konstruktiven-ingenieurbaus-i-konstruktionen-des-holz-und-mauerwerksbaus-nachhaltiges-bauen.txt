@@ -9,7 +9,7 @@ Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: 
 Erwartete Teilnehmer/-innen :3 S: 
 Rhythmus :3 S: jedes 2. Semester
-Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2FBauing%2Fholz%2Findex.html&timestamp=1631110966642&hash=abbd0b7b70377f3eede773d7f0cfa230
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2FBauing%2Fholz%2Findex.html&timestamp=1648740152291&hash=3955b4e3cbc3ee69f1f9547fb07e72a9
 Sprache :3 S: missing
 Fakultät :3 S: Fakultät Bauingenieurwesen
 # Zeit
@@ -18,5 +18,5 @@ Zeit :3 S: 09:15 bis 10:45
 Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: 
 # Personen
-Personen :3 S: Fakultät Bauingenieurwesen,Martin Kästner :3 S: Fakultät Bauingenieurwesen,Hans-Georg Timmler :3 S: Fakultät Bauingenieurwesen,Sebastian Rau
+Personen :3 S: Fakultät Bauingenieurwesen,Lars Abrahamczyk :3 S: Fakultät Bauingenieurwesen,Martin Kästner
 # Beschreibung

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Dance with Oskar
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=52112&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul/Fachkurs
+SWS :3 S: 6
+Veranstaltungsnummer :3 S: 321210031
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 15
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fherbert.gd%2Fgrafik-design%2Fdance-with-oskar-na-kim&timestamp=1648740239034&hash=cf78c5b5c0394a7a4bd808eb0f575aee
+Sprache :3 S: missing
+Fakultät :3 S: missing
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: 10:00 bis 16:00
+Terminrhythmus :3 S: Block
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Adrian Palko :3 S: Fakultät Kunst und Gestaltung,Markus Weisbeck
+# Beschreibung
+Beschreibung :3 S: This workshop aims to investigate how movement can translate into visual language by reinterpretation of the stage experiments of Bauhaus. Oskar Schlemmers performance piece, Bauhaus Dance shows the essential elements of the choreographic ideas. By visualizing it with various representation methods, the participants will further understand the scores and the process through time and space.

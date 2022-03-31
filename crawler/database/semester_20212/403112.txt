@@ -1,4 +1,4 @@
-Veranstaltungstitel :3 S: Prüfung: Einführung in die VWL
+Veranstaltungstitel :3 S: Prüfung: Einführung in die VWL (UIB/MBB)
 Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50357&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
 # Grunddaten :3 S: 
 Veranstaltungsart :3 S: Prüfung
@@ -14,7 +14,7 @@ Sprache :3 S: deutsch
 Fakultät :3 S: Fakultät Bauingenieurwesen
 # Zeit
 Tag :3 S: Mi.
-Zeit :3 S: 16:00 bis 17:00
+Zeit :3 S: 13:00 bis 14:00
 Terminrhythmus :3 S: Einzel
 Bemerkung :3 S: 
 # Personen

@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Robust and Leakage-Resilient Modes of Operation for  Block Ciphers
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51669&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 421250017
+Max. Teilnehmer/-innen :3 S: 10
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Personen
+Personen :3 S: Fakultät Medien,Stefan Lucks :3 S: Fakultät Medien,Nathalie Lang :3 S: Fakultät Medien,Jannis Boßert
+# Beschreibung
+Beschreibung :3 S: Once you have a block cipher, you need a mode of operation to employ the block cipher for anything useful, such as 1, <br/>, • modes for encryption, e.g., the counter mode, , <br/>, • modes for authentication, e.g., variants of the CBC-MAC,, <br/>, • and authenticated encryption modes, e.g., the Galois-Counter Mode (GCM) or the offset-code-book (OCB) mode. Most of the modes have been proven secure -- and yet, , <br/>, there are attacks against these modes. The proofs are always based on a certain set of assumptions, such as a nonce never being used a second time, , <br/>, or the decryption of an invalid ciphertext never been compromised. Thus, non-standard attacks or misuse scenarios, where the adversary may exploit a seemingly , <br/>, innocent but actually flawed implementation of the mode, allow the adversary to bypass the proven security claims. Moreover, typical proofs consider adversaries to learn , <br/>,  inputs and outputs of the mode (except for the secret key), but not any internal data. Another way to bypass proven security claims and to attack a mode is to gather , <br/>, side-channel information about internal data, e.g., by measuring the response time in a cryptographic protocol, or by measuring the power consumption of a device running , <br/>, the operation. The seminar is about, <br/>, • nonstandard attacks,, <br/>, • side-channel attacks, , <br/>, • robust modes to withstand nonstandard attacks,, <br/>, • and leakage-resilient modes for resistance to side-channel attacks.

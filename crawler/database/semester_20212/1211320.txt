@@ -15,7 +15,12 @@ Fakultät :3 S: Fakultät Architektur und Urbanistik
 # Zeit
 Tag :3 S: Fr.
 Zeit :3 S: 09:15 bis 12:30
-Terminrhythmus :3 S: wöch.
+Terminrhythmus :3 S: gerade Wo
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: gerade Wo
 Bemerkung :3 S: 
 # Personen
 Personen :3 S: Fakultät Architektur und Urbanistik,Joachim Hartlik :3 S: Fakultät Architektur und Urbanistik,Sigrun Langner

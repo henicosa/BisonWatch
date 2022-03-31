@@ -14,15 +14,10 @@ Sprache :3 S: deutsch
 Fakultät :3 S: Fakultät Architektur und Urbanistik
 # Zeit
 Tag :3 S: Mi.
-Zeit :3 S: 08:00 bis 10:45
-Terminrhythmus :3 S: wöch.
-Bemerkung :3 S: 
-# Zeit
-Tag :3 S: Do.
-Zeit :3 S: 09:15 bis 10:45
-Terminrhythmus :3 S: wöch.
-Bemerkung :3 S: 
+Zeit :3 S: 08:30 bis 10:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Gruppe 1 A bis M</p>,
 # Personen
 Personen :3 S: Fakultät Architektur und Urbanistik,Stephan Schütz
 # Beschreibung
-Beschreibung :3 S: Beschreibung folgt.....
+Beschreibung :3 S: Die Vorlesungsreihe Tragwerkskonstruktion richtet sich an Studierende des 3. Semesters im Bachelorstudium der Architektur und vermittelt elementare Grundlagen für das Konzipieren von Tragwerken. Deren Planung und Detaillierung ist ebenso Bestandteil einer künstlerischen Aussage wie die Baukörperform selbst. Stufenweise werden die einzelnen konstruktiven Glieder eines Tragwerks wie Stützen, Träger, Skelette und räumliche Tragsysteme in Kombination mit einem jeweils passfähigen Materialkanon konkretisiert. Anhand anschaulicher Architekturbeispiele werden sowohl großmaßstäbliche konstruktive Prinzipien als auch detaillierte Funktionsweisen beleuchtet und dienen so der wesentlichen Unterstützung für die Entwurfsbearbeitung.

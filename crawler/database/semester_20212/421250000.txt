@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Gender Performances
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51361&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 421250000
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Studienmodul EMK 1: Europäische Medienkultur
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Feuropaeische-medienkultur%2Fwillkommen%2F&timestamp=1648740480199&hash=7d267ec9f03ffe3f4d23b80dd7d74fbd
+Sprache :3 S: deutsch
+Fakultät :3 S: missing
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Eva Krivanec
+# Beschreibung
+Beschreibung :3 S: Im Bereich der Bühnenkünste (Theater, Oper/Musiktheater, Konzert, Kabarett, Varieté, Show, Alleinunterhalter*innen, Schausteller*innen, etc.) zeigt sich schnell, dass das Phänomen der Travestie und des Cross-Dressing eine lange Geschichte hat, dass die Bühne geradezu ein idealer Ort war und ist, um Geschlechtergrenzen zu überschreiten und zu verflüssigen.

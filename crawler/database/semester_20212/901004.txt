@@ -1,22 +1,21 @@
-Veranstaltungstitel :3 S: Baurecht
-Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50278&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+Veranstaltungstitel :3 S: Prüfung: Baurecht
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49463&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
 # Grunddaten :3 S: 
-Veranstaltungsart :3 S: Vorlesung
-SWS :3 S: 1.5
+Veranstaltungsart :3 S: Prüfung
+SWS :3 S: missing
 Veranstaltungsnummer :3 S: 901004
 Max. Teilnehmer/-innen :3 S: 
 Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: 
 Erwartete Teilnehmer/-innen :3 S: 
-Rhythmus :3 S: jedes 2. Semester
+Rhythmus :3 S: jedes Semester
 Hyperlink :3 S: missing
 Sprache :3 S: deutsch
 Fakultät :3 S: Fakultät Bauingenieurwesen
 # Zeit
-Tag :3 S: Do.
-Zeit :3 S: 09:30 bis 12:45
-Terminrhythmus :3 S: wöch.
-Bemerkung :3 S: , <p>Veranstaltung digital via MOODLE</p>,
+Tag :3 S: Mi.
+Zeit :3 S: 14:30 bis 15:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
 # Personen
-Personen :3 S: missing,Martin Havers :3 S: Fakultät Bauingenieurwesen,Hans-Joachim Bargstädt :3 S: Fakultät Bauingenieurwesen,Birgit Bode
 # Beschreibung

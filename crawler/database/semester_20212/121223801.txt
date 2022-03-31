@@ -13,11 +13,11 @@ Hyperlink :3 S: missing
 Sprache :3 S: englisch
 Fakultät :3 S: Fakultät Architektur und Urbanistik
 # Zeit
-Tag :3 S: Mo.
+Tag :3 S: Di.
 Zeit :3 S: 13:30 bis 16:45
 Terminrhythmus :3 S: wöch.
-Bemerkung :3 S: 
+Bemerkung :3 S: , <p>online</p>,
 # Personen
-Personen :3 S: Fakultät Kunst und Gestaltung,Stefan Kraus :3 S: Fakultät Architektur und Urbanistik,Reinhard König
+Personen :3 S: Fakultät Architektur und Urbanistik,Stefan Kraus :3 S: Fakultät Architektur und Urbanistik,Reinhard König
 # Beschreibung
 Beschreibung :3 S: In this seminar, media experience designer Stefan Kraus (MXZEHN) give students an insight into visual programming with the creative coding environment TouchDesigner (derivative.ca).

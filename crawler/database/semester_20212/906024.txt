@@ -18,6 +18,6 @@ Zeit :3 S: 13:30 bis 16:30
 Terminrhythmus :3 S: Einzel
 Bemerkung :3 S: 
 # Personen
-Personen :3 S: Zentrale Einrichtungen,Detlef Rütz
+Personen :3 S: Gewährleistungsbereich,Detlef Rütz
 # Beschreibung
 Beschreibung :3 S: schriftliche Klausur 180 Minuten

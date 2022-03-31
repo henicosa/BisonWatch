@@ -9,7 +9,7 @@ Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: 
 Erwartete Teilnehmer/-innen :3 S: 
 Rhythmus :3 S: jedes 2. Semester
-Hyperlink :3 S: missing
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D36260&timestamp=1648740308431&hash=541f9f55f18a473b9ba12b70d8d57343
 Sprache :3 S: deutsch
 Fakultät :3 S: Fakultät Medien
 # Zeit
@@ -22,7 +22,17 @@ Tag :3 S: Di.
 Zeit :3 S: 15:15 bis 16:45
 Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: , <p>Übung</p>,
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:00 bis 12:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Klausur</p>,
 # Personen
-Personen :3 S: Fakultät Medien,Stefan Lucks :3 S: Fakultät Medien,Jannis Boßert
+Personen :3 S: Fakultät Medien,Stefan Lucks :3 S: Fakultät Medien,Nathalie Lang
 # Beschreibung
 Beschreibung :3 S: Mathematische Strukturen sind diskret, wenn nur endliche oder abzählbar unendliche Mengen auftreten, z.B. die natürlichen Zahlen. Dies entspricht den Abstraktionen, die für die Informatik gebraucht werden. Die Veranstaltung Diskrete Strukturen behandelt die Diskrete Mathematik und Algorithmen, die auf derartigen Strukturen aufbauen.

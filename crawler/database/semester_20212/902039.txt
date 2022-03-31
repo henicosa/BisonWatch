@@ -16,12 +16,17 @@ Fakultät :3 S: Fakultät Bauingenieurwesen
 Tag :3 S: Fr.
 Zeit :3 S: 11:00 bis 12:30
 Terminrhythmus :3 S: Einzel
-Bemerkung :3 S: , <p>Startveranstaltung  --&gt; Teilnahme Pflicht!</p>,
+Bemerkung :3 S: , <p>Startveranstaltung  --&gt; Teilnahme Pflicht!</p>, <br/>, <p>Präsenz im Hörsaal 2, C13A</p>,
 # Zeit
 Tag :3 S: Fr.
-Zeit :3 S: 09:00 bis 17:00
+Zeit :3 S: 13:30 bis 18:30
 Terminrhythmus :3 S: wöch.
-Bemerkung :3 S: , <p>Zeitfenster zur Bearbeitung des Bachelorprojektes</p>,
+Bemerkung :3 S: , <p>Zwischenpräsentation  --&gt; Teilnahme Pflicht!</p>, <br/>, <p>Achtung: Online über MOODLE/BBB</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 15:15 bis 20:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Abschlusspräsentation  --&gt; Teilnahme Pflicht!</p>, <br/>, <p>Präsenz im Hörsaal A, M13C</p>,
 # Personen
 Personen :3 S: Fakultät Bauingenieurwesen,Hans-Joachim Bargstädt :3 S: Fakultät Bauingenieurwesen,Martina Mellenthin Filardo :3 S: Fakultät Bauingenieurwesen,Birgit Bode
 # Beschreibung

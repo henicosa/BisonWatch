@@ -9,15 +9,15 @@ Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: 
 Erwartete Teilnehmer/-innen :3 S: 
 Rhythmus :3 S: jedes 2. Semester
-Hyperlink :3 S: missing
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D35957&timestamp=1648740487134&hash=eeb45dfe051b59a037a6b2c2ab38d67e
 Sprache :3 S: englisch
 Fakultät :3 S: Fakultät Bauingenieurwesen
 # Zeit
-Tag :3 S: Mo.
-Zeit :3 S: 13:30 bis 15:00
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 10:45
 Terminrhythmus :3 S: wöch.
-Bemerkung :3 S: , <p>Digital via BBB</p>,
+Bemerkung :3 S: , <p>Digital via BBB</p>, <br/>, <p>We will start at 18.10.2021</p>,
 # Personen
 Personen :3 S: Fakultät Medien,Volker Rodehorst
 # Beschreibung
-Beschreibung :3 S: Students will be trained to reproduce existing natural hazard and risk related data in GIS format using GIS Software Solutions and Tools, will be able to create basic layers for hazard and risk assessment and to establish relevant links and to solve simple example tasks., <br>Students will be trained in building stock survey, vulnerability assessment, damage interpretation and handling of tools for detailed empirical and instrumental elaboration.<br/>Training in instruments, equipment and technologies for advanced detailed building survey (geodetic, photogrammetric, satellite data).</br>
+Beschreibung :3 S: Students will be trained to reproduce existing natural hazard and risk related data in GIS format using GIS Software Solutions and Tools, will be able to create basic layers for hazard and risk assessment and to establish relevant links and to solve simple example tasks., <br>Students will be trained in building stock survey, vulnerability assessment, damage interpretation and handling of tools for detailed empirical and instrumental elaboration.<br>Training in instruments, equipment and technologies for advanced detailed building survey (geodetic, photogrammetric, satellite data).</br></br>

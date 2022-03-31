@@ -9,15 +9,15 @@ Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: Basismodul Medienwissenschaft
 Erwartete Teilnehmer/-innen :3 S: 
 Rhythmus :3 S: einmalig
-Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Fmediensoziologie%2F&timestamp=1631110936049&hash=650551f6540e6083893eae4de7970215
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Fmediensoziologie%2F&timestamp=1648740094654&hash=40d40d1e174cf99e8f27288378ee9a01
 Sprache :3 S: deutsch
-Fakultät :3 S: Fakultät Medien
+Fakultät :3 S: missing
 # Zeit
 Tag :3 S: Di.
 Zeit :3 S: 13:30 bis 16:45
 Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: 
 # Personen
-Personen :3 S: Fakultät Medien,Andreas Ziemann
+Personen :3 S: Fakultät Medien,Patrick Wöhrle
 # Beschreibung
 Beschreibung :3 S: Die Einführungsveranstaltung vermittelt grundlegende wie zentrale Theorien der Medien- und Kulturwissenschaft, etwa von: Walter J. Ong, Sybille Krämer, Niklas Luhmann oder Bruno Latour. Dabei soll untersucht und diskutiert werden, welcher Medienbegriff den Theorieansätzen zugrunde liegt und auf welche Problemstellung abgezielt wird. Zum Ende der Veranstaltung werden die BA-Arbeiten der Teilnehmer:innen unter explizit medienwissenschaftlicher Perspektive präsentiert und gemeinsam diskutiert.

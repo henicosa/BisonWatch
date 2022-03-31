@@ -13,10 +13,10 @@ Hyperlink :3 S: missing
 Sprache :3 S: deutsch
 Fakultät :3 S: Fakultät Bauingenieurwesen
 # Zeit
-Tag :3 S: Di.
-Zeit :3 S: 15:30 bis 17:30
+Tag :3 S: Fr.
+Zeit :3 S: 08:30 bis 10:30
 Terminrhythmus :3 S: Einzel
-Bemerkung :3 S: , <p>Seminargebäude, Weimarhalle</p>,
+Bemerkung :3 S: , <p>Sporthalle Falkenburg, Belvederer Allee 25A</p>,
 # Personen
 Personen :3 S: Fakultät Bauingenieurwesen,Thomas Baron
 # Beschreibung

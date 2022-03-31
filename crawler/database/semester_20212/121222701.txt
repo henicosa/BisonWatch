@@ -18,6 +18,6 @@ Zeit :3 S: 09:15 bis 16:45
 Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: 
 # Personen
-Personen :3 S: Fakultät Architektur und Urbanistik,Julia Gamberini
+Personen :3 S: Fakultät Architektur und Urbanistik,Felix Lackus :3 S: Fakultät Architektur und Urbanistik,Julia Gamberini
 # Beschreibung
 Beschreibung :3 S: Thüringen, das grüne Herz Deutschlands. Identität und Identifikationsprozess einer Region durch einen grünen Referenzrahmen.

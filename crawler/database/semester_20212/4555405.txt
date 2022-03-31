@@ -9,20 +9,25 @@ Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: 
 Erwartete Teilnehmer/-innen :3 S: 
 Rhythmus :3 S: jedes 2. Semester
-Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedieninformatik%2Fvr%2Fteaching%2Fws-202021%2F&timestamp=1631111080058&hash=6b2de8fadce7d3342e490883fd58e51d
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D36194&timestamp=1648740350144&hash=14338bda40c4c8373f30ed1bdd58952c
 Sprache :3 S: deutsch/englisch
-Fakultät :3 S: Fakultät Architektur und Urbanistik
+Fakultät :3 S: Fakultät Medien
 # Zeit
 Tag :3 S: Mo.
 Zeit :3 S: 09:15 bis 10:45
 Terminrhythmus :3 S: wöch.
-Bemerkung :3 S: , <p>Vorlesung - online (Moodle) - <a href=https://moodle.uni-weimar.de/course/view.php?id=28752>https://moodle.uni-weimar.de/course/view.php?id=28752</a></p>,
+Bemerkung :3 S: , <p>Vorlesung - online (Moodle) - https://moodle.uni-weimar.de/course/view.php?id=36194</p>,
 # Zeit
 Tag :3 S: Do.
 Zeit :3 S: 13:30 bis 15:00
 Terminrhythmus :3 S: wöch.
-Bemerkung :3 S: , <p>Übung - online (Moodle) -  <a href=https://moodle.uni-weimar.de/course/view.php?id=28752>https://moodle.uni-weimar.de/course/view.php?id=28752</a></p>,
+Bemerkung :3 S: , <p>Übung - online (Moodle) </p>,
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:00 bis 11:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Klausur</p>,
 # Personen
-Personen :3 S: missing,Rhadames Carmona Suju :3 S: missing,Felix Schmidt :3 S: Fakultät Kunst und Gestaltung,Nicolai Ruckel :3 S: Fakultät Bauingenieurwesen,Benjamin Burse
+Personen :3 S: Fakultät Medien,Nicolai Ruckel :3 S: Fakultät Bauingenieurwesen,Benjamin Burse
 # Beschreibung
 Beschreibung :3 S: Das Ziel dieser einführenden Veranstaltung ist es, die Grundlagen und Konzepte der Programmierung am Beispiel der interpretierten Sprache Python 3 zu vermitteln. Zentrale Themen der Veranstaltung sind Datentypen, Variablen, Ausdrücke, Anweisungsblöcke, Kontrollstrukturen, elementare Datenstrukturen, prozedurale Programmierung sowie Grundlagen der objektorientierten Programmierung. Die Übungen bieten den Teilnehmern die Möglichkeit, den Vorlesungsstoff anhand von konkreten Aufgaben zu vertiefen. In einem Projekt zum Abschluss der Veranstaltung wird eigenständig ein minimalistisches Softwaresystem entworfen und implementiert.

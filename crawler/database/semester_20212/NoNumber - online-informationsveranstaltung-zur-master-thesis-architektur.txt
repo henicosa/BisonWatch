@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Online-Informationsveranstaltung zur Master-Thesis Architektur
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=52199&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Sonstige Veranstaltung
+SWS :3 S: 0
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,keine öffentliche Person :3 S: Fakultät Architektur und Urbanistik,Katharina Fleischmann
+# Beschreibung
+Beschreibung :3 S: In der Veranstaltung werden organisatorische Fragen rund um die Master-Thesis Architektur besprochen. Alle Interessierten sind herzlich willkommen! Die Veranstaltung findet online statt: , <a href=https://meeting.uni-weimar.de/b/kat-niz-6xn-rcv>https://meeting.uni-weimar.de/b/kat-niz-6xn-rcv</a>,  (geöffnet am 01.12.21 ab 13.20 Uhr). Eine Anmeldung oder Belegung ist nicht erforderlich.

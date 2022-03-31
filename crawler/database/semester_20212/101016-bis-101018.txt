@@ -13,10 +13,10 @@ Hyperlink :3 S: missing
 Sprache :3 S: missing
 Fakultät :3 S: Fakultät Bauingenieurwesen
 # Zeit
-Tag :3 S: Fr.
+Tag :3 S: Do.
 Zeit :3 S: 09:00 bis 12:00
 Terminrhythmus :3 S: Einzel
-Bemerkung :3 S: 
+Bemerkung :3 S: , <p>Wird in den Hörsaal 6 (C9A) verlegt.</p>,
 # Personen
 Personen :3 S: Fakultät Bauingenieurwesen,keine öffentliche Person
 # Beschreibung

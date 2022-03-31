@@ -2,7 +2,7 @@ Veranstaltungstitel :3 S: Shining Bright
 Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51581&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
 # Grunddaten :3 S: 
 Veranstaltungsart :3 S: Seminar
-SWS :3 S: 4
+SWS :3 S: 2
 Veranstaltungsnummer :3 S: 121223201
 Max. Teilnehmer/-innen :3 S: 15
 Semester :3 S: WiSe 2021/22

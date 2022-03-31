@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Visionen des Mediozäns
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51278&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Plenum
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 421210018
+Max. Teilnehmer/-innen :3 S: 30
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Projektmodul Medienphilosophie 1 - Medienökologie: Vom Anthropozän zum Mediozän
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Fmedienphilosophie%2Fwillkommen%2F&timestamp=1648741396104&hash=877c07e124108186b9a6c1bc782276f3
+Sprache :3 S: deutsch
+Fakultät :3 S: missing
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Weimarhalle</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Rudolf Engell
+# Beschreibung
+Beschreibung :3 S: Der Planet ist existenziell bedroht. Vor allem aber ist die menschliche Spezies von der Auslöschung (durch die Lebens- und Wirtschaftsweise einiger ihrer Angehöriger) bedroht. Den Planeten als solchen interessiert das vermutlich gar nicht so sehr. Aber uns interessiert es! Extinction Rebellion! Was können wir als Medienwissenschaftler*innen hier spezielles beitragen? Wir können die richtigen Fragen stellen: Was wäre denn der Planet ohne Medien, die ihn überhaupt beobachtbar, wahrnehmbar, z.B. sichtbar, messbar, beherrschbar, regulierbar machen? Was wäre er ohne den Blick durchs Fernrohr, den Blick zurück aus dem All? Was wäre das Klima ohne die Medien der Wissenschaft? Was wären die Katastrophen ohne ihre Imaginationen und Dramatisierungen auf der Leinwand und in den Massenmedien? Was wäre das Artensterben ohne das Internet der Tiere? Was wäre die politische Mobilisierung gegen das Aussterben der Menschen ohne Soziale Medien und ohne Massenmedien? Und welchen Anteil an der Zerstörung des Planeten haben denn die Medien bitteschön zugleich selbst, an der mörderischen Extraktionspolitik um des Koltans und anderer seltener Erden willen; an der unfassbar ausbeuterischen Lithiumgewinnung in den Anden, um der Akkus willen; am Sand- und Kupferbedarf, an der wahnwitzigen Kühlung der Serverparks in Wüstengegenden? Und was wäre der Mensch, um dessen Auslöschung es geht, ohne „seine” Medien, vom Feuerstein bis zum Mobiltelefon? Vermutlich nicht sehr viel. Ohne Medien kann man weder den Planeten (samt Klima, Geologie, Artenvielfalt usw.) noch die Menschen irgendwie begreifen, also auch ihren Untergang nicht. Und letzteren gewiss nicht verhindern. Leben wir tatsächlich gar nicht im Anthropozän, sondern im Mediozän?

@@ -16,8 +16,13 @@ Fakultät :3 S: Fakultät Architektur und Urbanistik
 Tag :3 S: Mo.
 Zeit :3 S: 11:00 bis 12:30
 Terminrhythmus :3 S: wöch.
-Bemerkung :3 S: , <p>Hörsaal A</p>,
+Bemerkung :3 S: , <p>Hörsaal A</p>, <br/>, <p>Achtung! ab dem 29.11.2021 online.</p>,
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:00 bis 12:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Sporthalle Falkenburg</p>,
 # Personen
-Personen :3 S: Fakultät Architektur und Urbanistik,Bernd Nentwig :3 S: Zentrale Einrichtungen,Alexandra Pommer
+Personen :3 S: Fakultät Architektur und Urbanistik,Bernd Nentwig :3 S: Gewährleistungsbereich,Alexandra Pommer
 # Beschreibung
 Beschreibung :3 S: Grundlagen der Projektentwicklung;
