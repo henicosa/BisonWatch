@@ -1,0 +1,22 @@
+Veranstaltungstitel :3 S: Projekt - Ausgründung aus der Wissenschaft
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53650&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 3
+Veranstaltungsnummer :3 S: 911019
+Max. Teilnehmer/-innen :3 S: 10
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D38109&timestamp=1648733064516&hash=b68b3c569ffd578f1ae20620450ff904
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Präsenztermine nach Ansage - ansonsten Online/Hybrid</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Sebastian Händschke :3 S: Fakultät Bauingenieurwesen,Birgit Bode
+# Beschreibung

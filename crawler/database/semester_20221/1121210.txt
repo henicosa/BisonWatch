@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Stadt Wohnen Leben
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=52915&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 1121210
+Max. Teilnehmer/-innen :3 S: 100
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflicht - Planung\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflicht - Planung\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflicht - Planung
+Erwartete Teilnehmer/-innen :3 S: 50
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fde%2Farchitektur-und-urbanistik%2Fprofessuren%2Fraumplanung-und-raumforschung%2Flehre%2F&timestamp=1648733188339&hash=15115eeb64449bcfff34254a2f05361e
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 17:00 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Max Welch Guerra
+# Beschreibung
+Beschreibung :3 S: Ein beträchtilcher Teil des Volksvermögens ist in Wohnimmobilien gebunden; an der Fläche gemessen ist das Wohnen die wichtigste stadtbildende Funktion; für Architektur und Städtebau ist es zudem das häufigste Auftragsfeld. Dennoch begegnen wir oft einer sehr simplen Vorstellung davon, wie der Wohnungssektor funktioniert und inwiefern die Wohnungsversorgung der maßgebliche Beweggrund für die Wohnungspolitik ist. Oft wird nur der Wohnungsneubau als relevant erachtet - was der so konsequenten wie verblüffenden Neubaufixierung der Architekturausbildung entspricht -, die langfristige Erhaltung und die nachmalige Verteilung von Wohnraum bleiben kaum beachtet., <br>Die Vorlesung führt zunächst historisch in die deutsche Wohnungspolitik ein. Dabei werden Schlüsselbegriffe der Stadtpolitik wie Sozialer Wohnungsbau, Stadterneuerung und Rückbau vorgestellt.<br>Einige theoretische Bezüge werden die Mechanismen der Wohnungsversorgung verständlicher machen. Die Vorlesung wird aber auch anhand von ausgewählten Weimarer Siedlungen Geschichte, Theorie und Politik des Wohnungswesens ganz plastisch erschließen helfen. <br>Bitte entnehmen Sie die Prüfungsmodalitäten den Aushängen!</br></br></br>

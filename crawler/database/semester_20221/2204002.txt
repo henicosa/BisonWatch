@@ -1,0 +1,43 @@
+Veranstaltungstitel :3 S: Einführung in die Bauweisen des KI - Stahlbetonbau
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=52953&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Integrierte Vorlesung
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 2204002
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Übung Gruppe 1 - Einschreibung am Lehrstuhl oder via Moodle</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Übung Gruppe 2 - Einschreibung am Lehrstuhl oder via Moodle</p>,
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Übung Gruppe 3 - Einschreibung am Lehrstuhl oder via Moodle</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Guido Morgenthal :3 S: Fakultät Bauingenieurwesen,Hans-Georg Timmler :3 S: Fakultät Bauingenieurwesen,Christopher Taube :3 S: Fakultät Bauingenieurwesen,Marcel Helmrich :3 S: Fakultät Bauingenieurwesen,Alexander Stanic
+# Beschreibung
+Beschreibung :3 S: Wirkungsweise des Stahl- und Spannbetons, Festigkeits- und Formänderungskenngrößen von Beton und Bewehrungsstahl; Grundlagen des Sicherheitskonzeptes; Modellbildung des Tragverhaltens von Stahlbeton und Stahlbetonelementen; Bemessung und Nachweisführung von Stahlbetonelementen; Konstruktive Durchbildung von Elementen und Tragwerken aus Stahlbeton

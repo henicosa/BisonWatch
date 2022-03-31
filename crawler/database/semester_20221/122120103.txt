@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Das Wesen Stadt - Identität, Architektur und Stadtempfinden
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53490&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 122120103
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflicht - Architektur\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflicht - Architektur\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflicht - Architektur\r, <br/>,  , <br/>, MediaArchitecture, M.Sc. PO 2020\r, <br/>, Theoriemodul - Gestalten im Kontext\r, <br/>, MediaArchitecture, M.Sc. PO 18\r, <br/>, Theoriemodul - Gestalten im Kontext
+Erwartete Teilnehmer/-innen :3 S: 20
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch oder englisch (gemeinsame Festlegung)
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: gerade Wo
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Cornelia Ehmayer-Rosinak :3 S: Fakultät Architektur und Urbanistik,Yvonne Graefe
+# Beschreibung
+Beschreibung :3 S: In diesem Seminar begeben wir uns auf die Suche nach dem „Wesen Stadt“ und stellen Fragen wie „was macht das Wesen einer Stadt aus?, woran lässt es sich erkennen? und vor allem: wie lässt es sich erforschen?. Wir erproben verschiedene Konzepte, wie man Weimars spezielle Eigenschaften, Potentiale und Probleme vermitteln kann und so zu einem nachhaltigen, gesamtgesellschaftlichen Wandel kommen kann.  , <br>Auf unserer Spurensuche lernen aktuelle Stadtentwicklungsprozesse kennen, diskutieren mit Entscheidungsträger*innen aus Politik und Verwaltung und führen Interviews mit Bewohner*innen. Auf diesem Wege eröffnen sich unterschiedliche Aspekte von Teilhabe und Mitsprache, mit denen ein erweitertes Verständnis für die gesellschaftliche Verantwortung als kreativ Schaffende einhergeht. <br>Wir werden uns die Stadt aneignen, durch mehrere Aneignungsdimensionen hindurch von der einfachen motorischen Erfahrung bis hin zum Spacing, also dem eigentätigen Schaffen von Räumen. <br>Eine praktische und eine theoretische Annäherung an das Seminarthema erfolgt in interdisziplinären Gruppen. Für die künstlerische Darstellung des Wesen Weimar gibt es methodische Freiheit und wir werden in einem wettbewerbsähnlichen Verfahren zu einem gemeinsamen Projekt finden, das im öffentlichen Raum umgesetzt wird.<br>Ziel ist, mittels eigenständigen Arbeitens im interdisziplinären Team eine tiefergehende Auseinandersetzung mit dem „Wesen Stadt“ zu erreichen und Ansatzpunkte einer qualitätsvollen Architekturvermittlung im Spannungsfeld Kunst-Design-Architektur-Psychologie zu erproben und zu reflektieren.</br></br></br></br>

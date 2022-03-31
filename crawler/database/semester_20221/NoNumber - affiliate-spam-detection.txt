@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Affiliate Spam Detection
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=54212&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 10
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 4
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Personen
+Personen :3 S: Fakultät Medien,Benno Stein :3 S: Fakultät Medien,Janek Bevendorff :3 S: Fakultät Medien,Matti Wiegmann
+# Beschreibung
+Beschreibung :3 S: Some websites on the Internet have just one purpose: to make you click on an affiliate link to a sales page, which, in turn, earns the affiliated partner a share of the sale. We call such websites Affiliate Spam. Since it is purely accidental if these websites fulfill any information need, they rely on SEO and abuse recommendation engines to attract visitors. We believe that affiliate spam should be put in its place, which is much lower in the ranking of a search engine.

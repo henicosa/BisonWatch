@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: 5. Kernmodul: Synagoge Eisenberg
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53692&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Entwurf
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 1510240
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, 5. Kernmodul - Individuelle Vertiefung\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, 5. Kernmodul - Individuelle Vertiefung\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, 5. Kernmodul
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N. :3 S: Fakultät Architektur und Urbanistik,Martin Pasztori :3 S: Fakultät Architektur und Urbanistik,Manuel Aust :3 S: Fakultät Architektur und Urbanistik,Jörg Springer
+# Beschreibung
+Beschreibung :3 S: Auf dem Areal der Waldkliniken im thüringischen Eisenberg soll ein kleinmaßstäblicher Synagogenbau für etwa 40 Betende entstehen. Zusammen mit unseren Bachelorstudenten möchten wir uns entwerfend auf die Suche nach geeigneten architektonischen Mitteln begeben, die es wie selbstverständlich vermögen, die neue Synagoge zu einem prägenden Teil der am Waldrand gelegenen Gesamtanlage werden zu lassen. Eine sorgfältige Setzung des Hauses, eine identitätsstiftende Charakterisierung spezifischer Außen- und Innenräume sowie eine wesensbildende Gebäudekonstruktion sind dabei im kommenden Sommersemester für uns von besonderem Interesse.

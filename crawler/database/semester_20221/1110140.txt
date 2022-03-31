@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: 2. Kernmodul: Tanz.Art.Pavillon für das ost-west site specific festival 2022 in Gießen
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53488&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Entwurf
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 1110140
+Max. Teilnehmer/-innen :3 S: 10
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, 2. Kernmodul\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, 2. Kernmodul
+Erwartete Teilnehmer/-innen :3 S: 10
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Sandra Trillhof :3 S: Fakultät Architektur und Urbanistik,Luise Nerlich
+# Beschreibung
+Beschreibung :3 S: Entwurfsgegenstand des Tanz.Art.Pavillon im Sommersemester ist die Entwicklung einer Bühne für eine Site-Specific-Performance. Im Rahmen des „tanzart ostwest“– site specific festivals, welches zu Pfingsten 2022 in Gießen stattfindet, wird die Tanzcompany um Tarek Assam und Massimo Gerardi vom Stadttheater Gießen mit sechs Tänzern und Tänzerinnen an verschiedenen Orten im urbanen Kontext performen. Parallel dazu werden Studierende der Hochschule für Musik und Darstellende Kunst Frankfurt/Main am Klangkonzept der Aufführung arbeiten.

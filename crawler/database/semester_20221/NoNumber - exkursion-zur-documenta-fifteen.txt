@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Exkursion zur documenta fifteen
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53994&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Exkursion
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fbkb.eyes2k.net&timestamp=1648732786941&hash=2ae73892542f44a8cc78ad39ed9dbc59
+Sprache :3 S: deutsch und englisch (zweisprachig)
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: bis
+Terminrhythmus :3 S: BlockSat.
+Bemerkung :3 S: , <p>mit individueller Anreise und ggf. mit organisierter Übernachtung vor Ort</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Birte Kleine-Benne
+# Beschreibung
+Beschreibung :3 S: Ausgestattet mit dem Wissen der beiden Seminare Was k(UNS)t gemeinschaftlich macht (, <a href=https://bkb.eyes2k.net/BauhausUni-2022-S1.html>https://bkb.eyes2k.net/BauhausUni-2022-S1.html</a>, ) und Die documenta 1 bis fifteen deinstitutionalisieren” (, <a href=https://bkb.eyes2k.net/BauhausUni-2022-Block.html>https://bkb.eyes2k.net/BauhausUni-2022-Block.html</a>, ) wollen wir uns die aktuelle documenta situiert erschließen, mit Beobachtungen, Diskussionen, vielleicht auch mit situativen Interventionen und Performances.

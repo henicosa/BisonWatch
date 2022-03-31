@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Bau Dir Deine Arbeit! Schreiben, Quellen, Stil - Einführung in das wissenschaftliche Arbeiten
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53743&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 901032
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 15
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D38075&timestamp=1648732634412&hash=1156c663ee6ad923f0b3c618df2c41e0
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>online im Moodle-Raum »Wissenschaftliches Arbeiten@Bauhaus«:</p>, <br/>, <p><a href=https://moodle.uni-weimar.de/enrol/index.php?id=610>https://moodle.uni-weimar.de/enrol/index.php?id=610</a><a href=https://moodle.uni-weimar.de/enrol/index.php?id=610>https://moodle.uni-weimar.de/enrol/index.php?id=610</a></p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Hans-Joachim Bargstädt :3 S: Fakultät Bauingenieurwesen,Martina Mellenthin Filardo :3 S: Fakultätsübergreifende Einrichtungen,Franziska Matthes :3 S: Gewährleistungsbereich,Dana Horch :3 S: Gewährleistungsbereich,Larissa Barth :3 S: Gewährleistungsbereich,Susanne Kirchmeyer :3 S: Gewährleistungsbereich,Luise Lubk :3 S: Fakultät Bauingenieurwesen,Birgit Bode
+# Beschreibung
+Beschreibung :3 S: Gemeinsam werden Schritt für Schritt die verschiedenen Phasen des wissenschaftlichen Arbeitens erarbeitet, u.a. Kriterien und Merkmale wissenschaftlichen Arbeitens, wissenschaftliche Recherche, Literaturverwaltung, Schreibprozesse, Zeitmanagement, Präsentation von Ergebnissen. Der Kurs findet online statt und ist in Themenwochen gegliedert, die durch Selbstlernphasen, Online-Seminare und interaktive Aufgaben gestaltet sind. Ziel ist es, dass Sie über das Semester hinaus kreativ, experimentell, aber sicher und nachhaltig wissenschaftliche Texte schreiben lernen.

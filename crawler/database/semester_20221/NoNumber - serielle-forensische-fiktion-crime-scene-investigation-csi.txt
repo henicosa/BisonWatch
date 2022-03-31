@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Serielle Forensische Fiktion. "Crime Scene Investigation (CSI)"
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53572&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Studienmodul Medienphilosophie
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Rudolf Engell
+# Beschreibung
+Beschreibung :3 S: CSI - Crime Scene investigation ist die erfolgreichste, langlaufendste und wichtigste der sogenannten Forensischen Serien. Wir werden sie in diesem Seminar selbst einer Forensik unterziehen, also einer öffentlich (nämlich im Seminar) durchgeführten Analyse. Dabei werden wir sehr viel erfahren über Digitalität und Erkenntis, über Serialität und Experiment, über Kausalität und Psychologie, über bildgebende Verfahren und über die Ästhetik des Fernsehens 2.0 sowie über die anhaltende Konjunktur des Forensischen. Bitte melden Sie sich rechtzeitig vor Semesterbeginn im entsprechenden Moodle-Raum an.

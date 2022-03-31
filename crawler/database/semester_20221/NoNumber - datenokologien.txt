@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Datenökologien
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53601&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Projektmodul Mediale Welten 1 Perspektiven der Medienökologie
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Moritz Hiller
+# Beschreibung
+Beschreibung :3 S: Daten sind der elementare, aber auch weitgehend abstrakte Teil unserer medialen Umgebungen. Dass und wie Daten gesammelt und von meist unbekannten Algorithmen adressiert und verarbeitet werden, produziert indes sehr konkrete Lebensrealitäten, nicht zuletzt soziale Ungleichheiten, politische Polarisierungen und technische wie rechtliche Zonen der Ungewissheit. Man denke an Predictive policing, Recommender-Systeme und autonome Fahrzeuge. Aufgabe des Seminars ist es, sich den Fragen von Produktion und Ausgestaltung medialer Welten aus datenökologischer Perspektive zu nähern. Zu diesem Zweck steht die Lektüre eines aktuellen Buchs im Mittelpunkt, das Ungleichheiten und Polarisierungen nicht als ,bug‘ unserer Datenumwelten, von Big Data und Machine Learning versteht, sondern als deren ,feature‘: , <em>Discriminating Data. Correlation, Neighborhoods, and the New Politics of Recognition</em>,  von Wendy Hui Kyong Chun, das im November 2021 erschienen ist. Erklärtes Ziel ist es, das gesamte Buch in gemeinsamen Lektüren durchzuarbeiten. Erhöhte Lesebereitschaft (eines durchaus anspruchsvollen englischsprachigen Textes) ist genauso Grundvoraussetzung zur Teilnahme wie die Bereitschaft etwa zur Übernahme eines Referats oder zum Schreiben von regelmäßigen Reading Responses. Als Prüfungsleistung wäre eine schriftliche Hausarbeit zu verfassen.

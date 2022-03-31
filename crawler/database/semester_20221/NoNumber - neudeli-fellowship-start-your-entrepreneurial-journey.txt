@@ -1,0 +1,58 @@
+Veranstaltungstitel :3 S: neudeli Fellowship: Start your entrepreneurial journey!
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53738&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fneudeli%2Ffellowship&timestamp=1648733013289&hash=af18cc4d5bc2c31d9a6d3e5ed98b13a5
+Sprache :3 S: deutsch
+Fakultät :3 S: Lehrveranstaltungen der Bauhaus.Module
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:00 bis 13:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Jurysitzung</p>, <br/>, <p>Ort: Thüringer Aufbaubank, Gorkistraße 9, 99084 Erfurt</p>,
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 16:00 bis 19:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Kick-Off</p>,
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 13:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Startup-Werkstatt „Problem Solution Fit“</p>,
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 13:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Startup-Werkstatt „Projektmanagement für Startups“</p>,
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 13:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Startup-Werkstatt „Markt &amp; Wettbewerb“</p>,
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 13:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Startup-Werkstatt „Business Model“</p>,
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 13:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Startup-Werkstatt „Marke &amp; Kommunikation“</p>,
+# Zeit
+Tag :3 S: So.
+Zeit :3 S: 10:00 bis 15:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Startup-Werkstatt „Pitch Training“, online</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Josephine Zorn :3 S: Fakultätsübergreifende Einrichtungen,Charlene Wündsch
+# Beschreibung
+Beschreibung :3 S: Du hast eine innovative Geschäftsidee und brauchst Unterstützung und Zeit, sie weiterzuentwickeln und umzusetzen? Du möchtest dich mit anderen Gründungsinteressierten austauschen und dein Netzwerk erweitern? Mit dem sechsmonatigen Startup-Programm „neudeli Fellowship“ ermöglicht dir die Gründerwerkstatt neudeli, deine Idee im Rahmen eines Bauhaus.Moduls voranzubringen! Wie setzt sich das Startup-Programm „neudeli Fellowship“ inhaltlich zusammen? Startup-Werkstätten: In den sechs „Startup-Werkstätten“ lernst du spannende Methoden und Tools kennen, die dich von deiner Idee zu einer erfolgreichen Innovation im Markt führen. Dazu gehören u.a. Design Thinking, User Research, Business Modelling und Storytelling. Vertiefendes Wissen zu gründungsrelevanten Themen (z.B. 3D-Druck, Rechtsthemen) kannst du dir in weiterführenden neudeli-Workshops aneignen. Individuelle Coachings: In persönlichen Einzelsessions arbeitest du gemeinsam mit den neudeli-Coaches an deinen projektspezifischen Herausforderungen und erhältst wertvolles Feedback, um dein Vorhaben iterativ weiterzuentwickeln. Community: Im Rahmen von neudeli Community-Events hast du die Möglichkeit, dich mit anderen Gründer*innen und Unterstützer*innen auszutauschen, in lockerer Atmosphäre neue Kontakte zu knüpfen und dein Netzwerk zu stärken. Du interessierst dich für das Startup-Programm „neudeli Fellowship“ und den Erwerb von ECTS? Dann kontaktiere uns unter „neudeli@uni-weimar.de“ und vereinbare ein Vorgespräch mit uns! Die Teilnahme am Bauhaus.Modul „neudeli Fellowship: Start your entrepreneurial journey!“ setzt die erfolgreiche Bewerbung und Aufnahme in das „neudeli Fellowship“-Programm voraus. Bewerbungsfrist ist der 03. April 2022. Alle Informationen zum Programm und zur Bewerbung findest du unter: www.uni-weimar.de/neudeli/fellowship

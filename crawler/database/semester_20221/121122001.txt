@@ -1,0 +1,33 @@
+Veranstaltungstitel :3 S: Kolloquium Brandschutz bei der Entwurfstätigkeit
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53148&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 121122001
+Max. Teilnehmer/-innen :3 S: 8
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Technik\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Technik\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Technik
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:30 bis 13:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:30 bis 13:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:30 bis 13:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Gerd Geburtig
+# Beschreibung
+Beschreibung :3 S: In einer Folge von Fachgesprächen wird während der Auftaktveranstaltung zunächst gemeinsam ein Überblick über die konkreten Entwurfstätigkeiten der teilnehmenden Studentinnen und Studenten erarbeitet. Dem schließt sich eine Übersicht der beim Entwurf eines Sonderbaus nach § 2 (4) Musterbauordnung zu berücksichtigenden Sonderbauverordnungen und -richtlinien sowie zu den öffentlich-rechtlichen Belangen an, die den Brandschutz tangieren. Im Rahmen der zweiten Veranstaltung erläutern die Studierenden ihre Entwurfsgedanken aus brandschutztechnischer Sicht und stellen den während der ersten Entwurfstätigkeit konzipierten Lösungsansatz vor. Dabei werden zum einen die jeweilige grundsätzliche Genehmigungsfähigkeit erörtert und zum anderen ein Diskurs zu auftretenden Fragen geführt. Während der Abschlussveranstaltung sind die konzeptionellen Ideen zum Brandschutz darzustellen, zu denen eine offene Diskussion der unterschiedlichen Wege vorgesehen ist.

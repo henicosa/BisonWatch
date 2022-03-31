@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Experimental structural dynamics and Structural monitoring (P)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53134&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 401009
+Max. Teilnehmer/-innen :3 S: 14
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D38915&timestamp=1648732788362&hash=56a2660f33ae9492c08de177e5e2251a
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 07:30 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Volkmar Zabel
+# Beschreibung
+Beschreibung :3 S: The students obtain deepened knowledge in structural dynamics, structural dynamic analysis, data processing, dynamic test equipment and its handling. They learn to analyse the dynamic behaviour of a structure utilizing both numerical and experimental state-of-the-art methods. Furthermore, the students have to develop strategies and concepts of investigation. The work in small groups enhances the social competence of the students.

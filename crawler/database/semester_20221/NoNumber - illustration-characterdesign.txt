@@ -1,0 +1,43 @@
+Veranstaltungstitel :3 S: Illustration & Characterdesign
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53999&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Workshop
+SWS :3 S: 1
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch und englisch (zweisprachig)
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Sa.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: So.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:15 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Alexander Schwinghammer
+# Beschreibung
+Beschreibung :3 S: In diesem Intensiv-Workshop werden wir ausdrucksstarke Illustrationen erarbeiten. Dabei wird mit verschiedene Illustrationstechniken, Materialien und Stilen experimentiert. Wir werden dynamische Figuren entwerfen und mit Proportionen, Mimik, Posen und Komposition spielen, um die gewünschte Geschichte und Stimmung unserer Illustration zu transportieren. , <br><br> In this intensive workshop we will develop expressive illustrations. Well be experimenting with different illustration techniques, styles and materials. We will design dynamic figures and play with proportions, facial expressions, poses and composition to transport the intended story/mood of our illustration.</br></br>

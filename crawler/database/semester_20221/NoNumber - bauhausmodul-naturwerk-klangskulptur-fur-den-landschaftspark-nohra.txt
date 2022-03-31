@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Bauhaus.Modul: Naturwerk - Klangskulptur für den Landschaftspark Nohra
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=54221&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Übung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 9
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Lehrveranstaltungen der Bauhaus.Module
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 16:15 bis 17:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N. :3 S: Gewährleistungsbereich,Helen Storck :3 S: Fakultät Architektur und Urbanistik,Julia Heinemann
+# Beschreibung
+Beschreibung :3 S: Beschreibung: Das  Bauhaus-Modul „Naturwerk – Klangskulptur für den Landschaftspark Nohra“ basiert auf einem Entwurfsprojekt des Studiengangs Architektur aus dem Sommersemester 2021. Das Projekt umfasst ein Erlebniskonzept für den Landschaftspark Nohra, bestehend aus interaktiven Mikroarchitekturen, die thematisch Bezug auf die Bereiche Natur, Kultur und Bildung nehmen. In Zusammenarbeit mit der Stiftung Landschaftspark Nohra soll nun eine Klangskulptur realisiert werden, wobei der Fokus auf dem Einsatz von nachhaltigen und regionalen Ressourcen liegt. Inhalt des Moduls wird die thematische Auseinandersetzung mit Klanginstallationen und Holzkonstruktionen sein, welche auf die anknüpfende Realisierung der Klangstation vorbereiten sollen. Gleichzeitig sollen sich die Teilnehmenden mit der Umgebung und dem Landschaftspark Nohra auseinandersetzen. Geplant ist eine abschließende Veranstaltung im Park, die von allen Interessierten durch Ausstellungen, Konzerte und ähnlichen Formaten gestaltet werden kann.

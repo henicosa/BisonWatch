@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Party 101: Neustartkultur  Wiederbelebung studentischer Veranstaltungspraxis in Weimar
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=54016&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 15
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Lehrveranstaltungen der Bauhaus.Module
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 17:00 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Tobias Kühn :3 S: Fakultät Architektur und Urbanistik,Martin Schmidt :3 S: Gewährleistungsbereich,Frederik Sukop :3 S: Gewährleistungsbereich,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Ausstellungen, Konzerte, Projektpräsentationen, Aktionen oder Interventionen: viel (Übung) darin ist während der Pandemie verloren gegangen. Das Bauhaus-Modul Neustartkultur widmet sich (in Workshops, Seminaren und Praktika) der Wiederbelebung und Weiterentwicklung der studentischen Veranstaltungskultur in Weimar., <br>Projektinhalte im Workshopformat reichen von der Konzeptentwicklung über Anmeldung, Finanzierung, Licht- und Tontechnik bis zur Dispositions-Planung und Durchführung von Veranstaltungen. Über diese Kompetenzen hinaus wird in Seminaren kritisch über Fragestellungen des Raumes, der Gesellschaft, des Formates und der Wirkung von Veranstaltungen in Weimar diskutiert. Die Teilnehmenden des Moduls agieren als neue Veranstaltungskultur in Weimar und bauen Brücken zwischen studentischen und städtischen Leben.</br>

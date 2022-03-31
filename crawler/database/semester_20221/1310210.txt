@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: 2. Kernmodul: Wohnen und lernen
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53643&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Entwurf
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 1310210
+Max. Teilnehmer/-innen :3 S: 35
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, 2. Kernmodul\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, 2. Kernmodul
+Erwartete Teilnehmer/-innen :3 S: 30
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch oder englisch (gemeinsame Festlegung)
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Jose Gutierrez :3 S: Fakultät Architektur und Urbanistik,Steve Liem :3 S: Fakultät Architektur und Urbanistik,Lorenz Kirchner :3 S: Fakultät Bauingenieurwesen,Juliane Steffen :3 S: Fakultät Architektur und Urbanistik,Paul Althaus
+# Beschreibung
+Beschreibung :3 S: Die Schönheit, aber auch die Herausforderung des Berufsfelds der Architektur liegt in der gleichzeitigen Beherrschung von vielen unterschiedlichen Teildisziplinen. Wir müssen lernen komplexe Zusammenhänge zu verstehen und zahlreiche lose Elemente in eine sinnvolle Beziehung miteinander zu bringen., <br>In diesem Semester wollen wir unseren Blick auf diesen mehrdimensionalen Aspekt der Entwurfstätigkeit schärfen. In einer Vorübung soll ein Kanon architektonischer Referenzen untersucht werden. Anhand verschiedener Werkzeuge wie Handskizzen, Axonometrien und des Modellbaus werden wichtige Aspekte aus den ausgewählten Referenzprojekten extrahiert und in einen gemeinsamen Fundus überführt, der als Ausgangslage für die Entwurfsprojekte dient.<br>Die Entwurfsaufgabe (Gruppenarbeit) befasst sich mit einem Studierendenwohnheim in München. Auf einem Grundstück mit angrenzenden Bestandsbauten plant die Erzdiözese München ein Wohnheim für Studierende, welches um besondere räumliche Angebote wie z.B. Sport- und Gemeinschaftsräume ergänzt werden soll.<br>Fragen nach Gemeinschaft und Rückzug und wie sich verschiedene Wohnkonzepte räumlich ausdrücken können werden im Mittelpunkt des architektonischen Diskurses stehen.</br></br></br>

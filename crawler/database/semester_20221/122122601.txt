@@ -1,0 +1,43 @@
+Veranstaltungstitel :3 S: Planungsprojekt: C the unseen
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53951&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 122122601
+Max. Teilnehmer/-innen :3 S: 2
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Urbanistik, B.Sc. PO 2021\r, <br/>, Angleichstudium- Projekte\r, <br/>, Urbanistik, B.Sc. PO 2020 4-semestrig\r, <br/>, Bachelorvorleistungen - Projekte
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 14:00 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:00 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:00 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:00 bis 18:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Sigrun Langner :3 S: Fakultät Architektur und Urbanistik,Pia Müller :3 S: Fakultät Architektur und Urbanistik,Atidh Langbein :3 S: Fakultät Architektur und Urbanistik,Hinnerk Utermann
+# Beschreibung
+Beschreibung :3 S: Chemnitz wird im Jahr 2025 Kulturhauptstadt Europas sein. Mit dem Slogan „C the unseen“ spielt Chemnitz mit ihrem Image als häufig übersehene und unterschätzte Stadt. Die unentdeckten Qualitäten der Stadt sollen im Kulturhauptstadtprozess sichtbar werden und auch positive Impulse für eine zukunftsweisende Stadtentwicklung gesetzt werden. Eine dieser noch unzureichend erschlossenen Qualitäten ist die Lage der Stadt Chemnitz an ihrem namensgebenden Fluss. Ein zentrales Thema der Stadtentwicklung und im Kulturhauptstadtprozesse ist daher auch die „Stadt am Fluss“.

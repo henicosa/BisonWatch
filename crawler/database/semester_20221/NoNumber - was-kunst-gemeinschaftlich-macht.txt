@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Was k(UNS)t gemeinschaftlich macht
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53998&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Wissenschaftliches Modul
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 18
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fbkb.eyes2k.net&timestamp=1648733299517&hash=63230fce681a161e0b480f8cb274cd41
+Sprache :3 S: deutsch und englisch (zweisprachig)
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 17:00 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person :3 S: Fakultät Kunst und Gestaltung,Birte Kleine-Benne
+# Beschreibung
+Beschreibung :3 S: Sozial engagierte und vergemeinschaftende Kunstpraktiken sind heute ein fester Bestandteil der Kunstgeschichte. In diesem Sommer wird sich selbst die 15. documenta auf gemeinschafts-basierte und gemeinschaftlich agierende Kunstpraktiken ausrichten. Dass dies inmitten der COVID-19-Pandemie und des Social Distancing als normativem Begegnungsformat stattfindet, soll nicht nur eine Pointe bleiben, sondern kann uns als Perspektivierung unseres Themas dienen.

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Energetische Gebäudeplanung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53027&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Integrierte Vorlesung
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 302013
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Technik\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Technik\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Technik
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D38425&timestamp=1648732777912&hash=902c4da0e747cac7b5ae4f11906f7c91
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Conrad Völker
+# Beschreibung
+Beschreibung :3 S: Im Rahmen der Veranstaltung werden die Grundlagen und die Anwendung verschiedener Verfahren zur bauphysikalischen Gebäudeplanung gelehrt. Während die im Wintersemester angebotene gleichnamige Veranstaltung die Akustik behandelt, liegt der Fokus dieser Veranstaltung auf der thermischen Bauphysik. Hierzu zählt die Simulation des Wärmetransports, zum Beispiel zur Berechnung von Wärmebrücken. Des Weiteren werden die Grundlagen der energetischen Gebäudesimulation vorgestellt, mit deren Hilfe der Energiebedarf von Gebäuden bestimmt und optimiert werden kann. Darauf aufbauend wird ein Ansatz zur energetischen Quartiersbetrachtung gelehrt. Neben diesen energetischen Gesichtspunkten wird auch auf das Raumklima und die thermische Behaglichkeit des Gebäudenutzers eingegangen.

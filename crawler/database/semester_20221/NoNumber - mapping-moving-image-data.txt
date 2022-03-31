@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Mapping (Moving) Image Data
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53985&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 6
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch oder englisch (gemeinsame Festlegung)
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person :3 S: Fakultät Kunst und Gestaltung,Mattis Kuhn
+# Beschreibung
+Beschreibung :3 S: Mapping (Moving) Image Data is an introduction to programming for artists and designers. Mapping here refers to the cognitive method of transferring from one to another (cf. analogy). Programming, digital processes, artificial intelligence (but also biological (artificial) intelligence) are full of mappings. These should help us to grasp programming mentally. But beyond that, we also want to realize our own program-driven mappings. Using p5.js, Processing and Python we will modify images (static and moving) based on mappings: Pixel-level image processing, image generation based on a set of rules, classification of images, sound-driven (moving) images.

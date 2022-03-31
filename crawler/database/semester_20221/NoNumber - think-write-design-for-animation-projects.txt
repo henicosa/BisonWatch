@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Think, Write, Design for animation projects
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53762&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Werk-/Fachmodul
+SWS :3 S: 6
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 10
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch oder englisch (gemeinsame Festlegung)
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Ana Vallejo Cuartas :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: In diesem Fachmodul geht es darum, Kompetenzen für die Konzeption eines Animationsprojekts sowie für die dazu notwendige Recherche zu erwerben. In dem Kurs beschäftigen sich die Studierenden mit den Grundlagen der Dramaturgie für Animation, visuelle Erzählung, den sequenziellen Aufbau sowie das Filmdesign für Animation. Der Kurs wird mit Gastvorträgen von Animationsfilmemacher:innen ergänzt, die ihre Vorgehensweisen bei der Recherche und Konzeption ihrer Projekte vorstellen werden. Ziel des Kurses ist außerdem die Entwicklung eines Exposés für ein Animationsprojekt. Dieses Modul richtet sich an fortgeschrittene Studierende, die in den kommenden Semestern ihre Abschlussarbeit im Bereich Animation machen und sich dafür vorbereiten möchten. Aus diesem Grund sind Erfahrungen im Bereich Animation erforderlich.

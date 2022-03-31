@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Hot Topics in Computer Vision SoSe22
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53957&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 421210004
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D36251&timestamp=1648732882761&hash=493cfdac6d3795f23024bf9b884197ca
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Personen
+Personen :3 S: Fakultät Medien,Volker Rodehorst :3 S: Fakultät Medien,Christian Benz :3 S: Fakultät Medien,keine öffentliche Person :3 S: Fakultät Medien,Mariya Kaisheva :3 S: Fakultät Medien,Jan Eick
+# Beschreibung
+Beschreibung :3 S: Die Teilnehmer werden an ein aktuelles forschungs- oder industrierelevantes Thema herangeführt. Es ist nicht beabsichtigt einen festgelegten Bereich in voller Breite zu explorieren. Stattdessen werden die Teilnehmer mit der vollen Komplexität eines begrenzten Themas konfrontiert und die Eigeninitiative gefördert. Es ermöglicht einen Einblick in die Forschungs- und Entwicklungsprojekte des Fachgebiets.

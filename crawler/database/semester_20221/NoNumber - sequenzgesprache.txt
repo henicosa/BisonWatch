@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Sequenzgespräche
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53571&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Basismodul Filmkulturen - Extended Cinema
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Rudolf Engell
+# Beschreibung
+Beschreibung :3 S: In diesem Seminar erlernen wir erstens die Kunst, über Film zu sprechen und zweitens die Fähigkeit, einen Film zu einer einzigen Sequenz zusammenzuziehen oder eine Sequenz saus ihm herauszulösen (und nebenbei erfahren wir, was das eigentlich ist, eine Sequenz als charakteristischer Zug des Filmischen im Kino und jenseits davon auf allerlei Bildschirmen, Displays und und Screens). Das Konzept ist ganz einfach: Jede Woche wird aus den Reighen der Teilnehmer*innen eine Filmsequenz von 10 - max.15 Minuten Dauer präsentiert, danach in einem 20 - max. 30 minütigen Vortrag besprochen, und beides schließlich in 30 - max. 45 Minuten diskutiert. Bitte melden Sie sich rechtzeitig vor Semesterbeginn im entsprechenden Moodle-Raum an.

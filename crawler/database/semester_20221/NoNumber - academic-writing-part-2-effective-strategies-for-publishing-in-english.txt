@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Academic Writing - PART 2: Effective Strategies for Publishing in English
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53110&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Workshop
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 12
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fveranstaltungen.uni-weimar.de%2Fde%2F857&timestamp=1648732584896&hash=1a23499a3fd05775812d3394591b9e17
+Sprache :3 S: englisch
+Fakultät :3 S: Zentrale Veranstaltungen der Universität
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: bis
+Terminrhythmus :3 S: BlockSat.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultätsübergreifende Einrichtungen,Meeta Khurana-Wolff :3 S: Fakultätsübergreifende Einrichtungen,Franziska Matthes :3 S: Fakultätsübergreifende Einrichtungen,Ute Mai
+# Beschreibung
+Beschreibung :3 S: <strong>PLEASE NOTE: That there are two sets of dates for this workshop depending on whether it is going to be online or in presence. In the registration form you will be asked for your preferred format. </strong>

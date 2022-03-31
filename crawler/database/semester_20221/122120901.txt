@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Das Maß der Dinge
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53691&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 122120901
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Projektmodul - Projekt\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Projektmodul - Projekt\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Projektmodul - Projekt
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N. :3 S: Fakultät Architektur und Urbanistik,Martin Pasztori :3 S: Fakultät Architektur und Urbanistik,Manuel Aust :3 S: Fakultät Architektur und Urbanistik,Jörg Springer
+# Beschreibung
+Beschreibung :3 S: Mit Beschluss des Stadtrats vom 15.12.21 entschied die Stadt Nürnberg, in oder an der Kongresshalle des Nürnberger Reichsparteitagsgeländes –des zweitgrößten erhaltenen nationalsozialistischen Monumentalbaus in Deutschland– ein Interims-Gebäude als Ausweichspielstätte für die sanierungsbedürftige Oper zu schaffen. Dieser vieldiskutierten Entscheidung zum Umgang mit einem schwierigen baulichen Erbe wollen wir uns kritisch nähern und mit den Mitteln der Architektur untersuchen, welche Bedeutung diesem Stein gewordene Ausdruck eines überkommenen Machtanspruchs in Zukunft zukommen soll. Findet ein angemessener Umgang mit diesem monströsen Artefakt allein schon in einer ruinenhaften (gleichwohl inszenierten) Leere ein adäquates Bild oder können –oder müssen wir sogar– die Steine der Kongresshalle mit den Mitteln der darstellenden Kunst und der Architektur immer wieder neu zum Sprechen bringen, um diesem unbequemen Denkmal im Sinne einer aktiven Erinnerungskultur zu begegnen?

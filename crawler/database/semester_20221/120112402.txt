@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Computational Urban Analysis
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53829&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Übung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 120112402
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Werkzeuge | Methoden\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Werkzeuge | Methoden\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Werkzeuge | Methoden\r, <br/>,  , <br/>, Urbanistik, B.Sc. PO 2021\r, <br/>, Wahlmodul\r, <br/>, Urbanistik, B.Sc. PO 2020\r, <br/>, Wahlmodul\r, <br/>, Urbanistik, B.Sc. PO 14\r, <br/>, Wahlmodul
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,keine öffentliche Person :3 S: Fakultät Architektur und Urbanistik,Sven Schneider :3 S: Fakultät Architektur und Urbanistik,Abdulmalik Abdulmawla
+# Beschreibung
+Beschreibung :3 S: Locating and dimensioning spatial objects and with it the creation of spaces is at the heart of urban design. Thereby it is necessary to precast the effects that design decisions have on the behaviour of the future users as well as to estimate the sustainability and resilience of the city. Computational analysis methods can help to support this process due to the fact that they can reveal  properties that are hardly recognizable at first intuitive sight. In the seminar you will learn methods for the quantitative analysis of urban space (such as density, accessibility, visibility) and examine in how far these quantities relate to real life phenomena such as the spatial configuration of land uses in a city or the movement patterns of urban users.

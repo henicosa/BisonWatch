@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Ein Kulturforum für Entenhausen
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53656&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 122122201
+Max. Teilnehmer/-innen :3 S: 10
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Projektmodul - Projekt\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Projektmodul - Projekt\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Projektmodul - Projekt
+Erwartete Teilnehmer/-innen :3 S: 10
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 14:00 bis 16:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:00 bis 17:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Fritz Barth
+# Beschreibung
+Beschreibung :3 S: Ein anspruchsvolles Projekt, in jeglicher Hinsicht. Vieles gibt es zu entwerfen: Museen, Galerien, einen Konzertsaal, Forschungseinrichtungen, Denkmäler, Kioske &c., wobei der Schwerpunkt die Abstimmung des einzelnen Objekts mit seinen Nachbarn ist, das Ziel ein hochkarätiges Ensemble, der Weg dorthin der Abgleich individueller Anliegen mit den Ansprüchen des Kollektivs.

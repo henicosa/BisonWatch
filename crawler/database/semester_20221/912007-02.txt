@@ -1,0 +1,48 @@
+Veranstaltungstitel :3 S: Infrastrukturrecht (Teil des Moduls "Einführung Infrastrukturwirtschaft (ISW)")
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53033&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Blockveranstaltung
+SWS :3 S: 1.5
+Veranstaltungsnummer :3 S: 912007/02
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D38115&timestamp=1648732903836&hash=c96d50872c1c3599a0bbd1233d6eb583
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>voraussichtlich am 05.05.und 06.05.2022 in Präsenz - weiteren Termine (zumindest überwiegend) im digitalen Seminarraum (BigBlueButton)</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>voraussichtlich am 05.05.und 06.05.2022 in Präsenz - weiteren Termine (zumindest überwiegend) im digitalen Seminarraum (BigBlueButton)</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>voraussichtlich am 05.05.und 06.05.2022 in Präsenz - weiteren Termine (zumindest überwiegend) im digitalen Seminarraum (BigBlueButton)</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>voraussichtlich am 05.05.und 06.05.2022 in Präsenz - weiteren Termine (zumindest überwiegend) im digitalen Seminarraum (BigBlueButton)</p>,
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>voraussichtlich am 05.05.und 06.05.2022 in Präsenz - weiteren Termine (zumindest überwiegend) im digitalen Seminarraum (BigBlueButton)</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Ersatztermin (nach Ansage)</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Thorsten Beckers :3 S: Fakultät Bauingenieurwesen,Tim Becker :3 S: Fakultät Bauingenieurwesen,Paula Heimroth :3 S: Fakultät Bauingenieurwesen,Birgit Bode
+# Beschreibung
+Beschreibung :3 S: <strong>Qualifikationsziele</strong>

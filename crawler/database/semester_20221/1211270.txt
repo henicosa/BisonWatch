@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Einführung in die Stadtsoziologie
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53472&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 1211270
+Max. Teilnehmer/-innen :3 S: 50
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Urbanistik, B.Sc. PO 2021\r, <br/>, Pflichtmodul\r, <br/>, Urbanistik, B.Sc. PO 2020\r, <br/>, Pflichtmodul
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Frank Eckardt
+# Beschreibung
+Beschreibung :3 S: Die Stadt ist ein komplexes Gebilde, das von Menschen in unterschiedlichen Formen gebaut, abgerissen und neugebaut wird. Seit dem Entstehen der modernen Großstadt bemühen sich Soziologen, um die Regeln, Mechanismen und Dynamiken städtischen Lebens zu verstehen und nachzuvollziehen. Dabei sind sie unterschiedliche Wege gegangen, um unser Verständnis über das Leben in der Stadt zu verbessern. In dieser Vorlesung wird dabei davon ausgegangen, dass nicht so sehr das Statische und Gebaute eine Stadt ausmachen als das Mobile, Flüchtige und vor allem: die Menschen. In dieser Hinsicht soll anhand von Beispielen aus der deutschen Geschichte und der Gegenwart erläutert werden, wie Städte als Produkt von Migration unterschiedlichster Formen zu verstehen ist. Dabei wird ein Überblickswissen der Stadtsoziologie, gängige Begriffe und empirische Forschungen zu wichtigen Fragen der Stadtentwicklung aus gesellschafswissenschaftlicher Perspektive vermittelt.

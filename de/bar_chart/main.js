@@ -1,5 +1,5 @@
 import * as d3 from "d3";
-import { loadBisonDataset } from "../bison";
+import { loadBisonDataset, global_settings } from "../bison";
 
 
 // Importe für alte Visualisierungen
@@ -13,7 +13,7 @@ import { parallelcoordinates } from "./parallelcoordinates";*/
 
 
 // Laden der Bisondaten
-loadBisonDataset("../../data/bisondata20212.csv").then((bisond) => {
+loadBisonDataset("../../data/" + global_settings["most_recent_dataset"]["id"] + ".csv").then((bisond) => {
   var height = 500
   var width = 932
 
@@ -42,28 +42,9 @@ loadBisonDataset("../../data/bisondata20212.csv").then((bisond) => {
     "SWS": "sws",
     "sws": "SWS",
     "courseType": "Veranstaltungsart",
-    "Veranstaltungsart": "courseType",
-    "Sprache": "language",
-    "Fakultät": "faculty",
-    "Mo." : "Mo.",
-    "Di." : "Tu.",
-    "Mi." : "We.",
-    "Do." : "Th.",
-    "Fr." : "Fr.",
-    "Sa." : "Sa.",
-    "So." : "Su.",
-    "missing" : "Not specified", 
-    "Fakultät Bauingenieurwesen" : "Faculty of Civil Engineering",
-    "Fakultät Architektur und Urbanistik" : "Faculty of Architecture and Urbanism",
-    "Fakultät Medien" : "Faculty of Medien",
-    "Fakultät Kunst und Gestaltung" : "Faculty of Art and Design",
-    "Zentrale Veranstaltungen der Universität" : "Central events of the university",
-    "Lehrveranstaltungen der Bauhaus.Module" : "Courses only included in the Bauhaus.Modules", 
-    "deutsch" : "German",
-    "englisch" : "English",
-    "deutsch/englisch" : "German/English",
-    "deutsch/französisch" : "German/French",
-    "NaN" : "Not specified"
+    "missing" : "Nicht gegeben", 
+    "Not specified": "Nicht gegeben",
+    "NaN" : "Nicht gegeben"
   }
 
   function translate(word) {

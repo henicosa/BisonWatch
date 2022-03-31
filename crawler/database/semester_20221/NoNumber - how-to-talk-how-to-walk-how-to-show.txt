@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: how to talk, how to walk, how to show
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53977&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 18
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 20
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fherbert.gd&timestamp=1648732884846&hash=044df0579d3fe2b5b2d50f82777aa9da
+Sprache :3 S: deutsch und englisch (zweisprachig)
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 10:00 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person :3 S: Fakultät Kunst und Gestaltung,Adrian Palko :3 S: Fakultät Kunst und Gestaltung,Markus Weisbeck
+# Beschreibung
+Beschreibung :3 S: In diesem Projekt arbeiten wir mit Bildarchiven und der Analyse dieser, wir nutzen Übersetzungstools für bewegte Grafik an stationären Bildern, animieren diese und lassen diese neu-erstellten oder erweiterten Bildinhalte sprechen. Was müssen Bilder heute leisten können und wie veränderbar ist ihr Inhalt um immer noch mit ihrer Ausgangsinformation konnotiert zu werden?

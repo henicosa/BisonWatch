@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Geschlechterlektüren in Texten, Filmen, Comics, Bildern und im Alltag
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53610&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Studienmodul Diskursanalyse/Wissensgeschichte
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Ffilmwissenschaft&timestamp=1648732859358&hash=a0100740f4f601342673720dafe4457a
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Simon Frisch
+# Beschreibung
+Beschreibung :3 S: Das Seminar schließt an, an dem, treibt weiter, setzt fort, reflektiert und revidiert, was im Wintersemester in Geschlechterlektüren begonnen wurde. Es ist sicherlich interessant und sinnvoll, aber nicht notwendig, an dem Modul im WS 2021/22 teilgenommen zu haben. Geschlecht, sex, gender, binär, divers, queer... die Diskurse der Geschlechter haben die Form von Texten, Räumen, Bildern, Dingen, sie haben kulturelle Orte und historische Zeiten. Und sie bilden Theorien, die selbst auch Orte und je Geschichten haben. Die Texte der Geschlechter sind vielfältig, in Inhalt, aber auch in Form und Format. Sie sind oft dort stark wirksam, wo von Gender und Geschlecht gar nicht ausdrücklich die Rede ist. In vielfältigen Geschlechterlektüren, die wir unternehmen, interessieren uns die Diskurse der Geschlechter in ihren unterschiedlichen Lautstärken und Intensitäten, uns interessieren ihre Orte, ihre Zeiten und Formen. Wir wollen immer auch wissen, wovon nicht die Rede ist, was es bedeutet, wenn der Diskurs verstummt, blockt, ausweicht, vernebelt, stammelt – auch unserer. Das Seminar ist explorativ angelegt. Wir interessieren uns für diskursive und nichtdiskursive Praktiken in unterschiedlichen Bereichen. Aktive Mitarbeit bei der Suche nach Gegenständen und Diskursen wird erwartet. Kleine Präsentationen sind vorgesehen. In der ersten Sitzung wird die genaue Vorgehensweise aus einem gemeinsamen Interessensaustausch gebildet. Bitte melden Sie sich gleich im zugehörigen Moodle an (elearning)! Der Moodle-Raum bildet die Basis der gesamten Kommunikation und Organisation für das Seminar. Dort finden Sie Materialien, allgemeine Hinweise und die Termine des Seminars.

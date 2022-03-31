@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Textile Umwelten Teil 1
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53887&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 6
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 13
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 13:30 bis 16:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person :3 S: Fakultät Bauingenieurwesen,Susanne Kühlewindt :3 S: Fakultät Bauingenieurwesen,Gregor Biastoch :3 S: Fakultät Kunst und Gestaltung,Katrin Steiger
+# Beschreibung
+Beschreibung :3 S: Im Sinne einer zukunftsgewandten und nachhaltigen Forschung wird im interdisziplinären Bauhaus.Modul „Textile Umwelten” ein ergebnisoffener Experimentierraum geschaffen in dem Studierende unterschiedlicher Fakultäten textile Wertschöpfungsketten grundlegend untersuchen, hinterfragen und neu denken., <br><br/>Genaues Augenmerk gilt der Abfallwirtschaft von Textilien, bioabbaubaren Werkstoffen sowie dem Sortierprozess und Nutzen von Alttextilien. Neben dem Erlangen von grundlegendem Wissen und nach intensiven Exkursionen in Kleiderkammer, Sortierwerk und Verbrennungsanlage, sollen Studierende den bestehenden Sortierprozess hinterfragen, Ideen für Aufbereitungsverfahren, Klassifizierungen, Datenbanken und Erkennungssysteme oder die Reparatur von Alttextilien entwickeln. Es sollen Potentiale erkannt und auf Probleme aufmerksam gemacht werden. Ziel ist die Entwicklung eines übergreifenden Bewusstseins und die fachliche wie künstlerische Positionierung gegenüber ressourcenschonendem und nachhaltigem Handeln.<br/><br/>Die aktuell studentisch geleitete Textilwerkstatt dient als Ausgangspunkt für das Experimentieren mit Altkleidern und als Inspirationspool für die Umsetzung und Weiterverarbeitung. Textile Stoffe stehen hierbei für das verbindende Material aller Fakultäten.<br/><br/>Für dieses Modul kooperiert die Fakultät Bauingenieurwesen (Professur Biotechnologie in der Ressourcenwirtschaft) mit der Fakultät Kunst und Gestaltung (Professur Kunst und sozialer Raum), um in fächerübergreifender Zusammenarbeit und im Diskurs zwischen wissenschaftlicher- ingenieurs- und künstlerischer Auseinandersetzung explizite Ideen und Lösungsansätze für einen zukünftigen Umgang mit Recycling und Kreislauffähigkeit von Textilien zu entwickeln. Angeregt wird der Prozess von den Lehrenden mit Impulsvorträgen und Workshops. Aufbauend auf dem erlangten methodischen Verständnis entwickeln die Studierenden eine interdisziplinäre Arbeit die zur Summaery ausgestellt wird. <strong>Weitere Gastdozentin: </strong>Anne Marx<br/><br/><strong>Wichtige Information:</strong><br/>Hier wird ein Fachmodul mit 6 LP/ECTS als Teil 1 eines größeren, interdisziplinären Bauhaus.Moduls mit insgesamt 12 LP/ECTS angeboten. Es wird daher ausdrücklich empfohlen, ebenfalls das Fachmodul Textile Umwelten Teil 2 zu belegen, um in vollem Umfang in die Thematik eintauchen zu können.</br>

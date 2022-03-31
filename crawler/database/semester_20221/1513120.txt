@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Baustoffkunde
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=52986&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 1513120
+Max. Teilnehmer/-innen :3 S: 200
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, Pflichtmodul\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, Pflichtmodul\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, Pflichtmodul
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Thomas Baron
+# Beschreibung
+Beschreibung :3 S: Eigenschaften und Anwendungen der wichtigsten Baustoffe im Bauwesen: Holz, Glas, Faserwerkstoffe, Baukeramik, Natursteine, Bindemittel, Mörtel, Estriche, Betone, Metalle, Bitumen, Kunststoffe; Begriffe, Kenngrößen und Beschreibung der Eigenschaften, Spannungs - Dehnungs - Verhalten, Kenngrößenermittlung, Auswahlkriterien und Verwendung, Korrosionsverhalten und Beständigkeit, Anwendungsbeispiele

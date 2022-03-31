@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Blickrichtung - Erzählungen, Reihungen, Ordnungen aus Archivmaterial.
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53752&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 6
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch und englisch (zweisprachig)
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: bis
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>beginnt 15 Uhr</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person :3 S: Fakultät Kunst und Gestaltung,Pio Rahner
+# Beschreibung
+Beschreibung :3 S: Anstatt selbst zu fotografieren, beschäftigen wir uns mit bestehendem Bildmaterial. Buch, Fotoalbum, Magazin, Schuhkarton mit Fotos, Dias, Negative, Werbeprospekte, Laminatböden und Plakaten. Das angesammelte oder gesammelte oder ausgesuchte wird ähnlich wie bei einem Dj Set in eine Reihe oder besser eine Form gebracht.

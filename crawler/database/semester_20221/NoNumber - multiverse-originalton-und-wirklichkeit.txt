@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Multiverse - Originalton und Wirklichkeit
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53701&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Werk-/Fachmodul
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch oder englisch (gemeinsame Festlegung)
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 15:15 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Elena Zieser :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Ein Multiversum umfasst alle existierenden Wirklichkeiten: die Gesamtheit von Raum, Zeit, Materie, Energie, Information und Wissen. In einem Multiversum ist alles möglich und unmöglich zugleich. Der Originalton, auch O-Ton genannt, ist ein einmaliges und daher nicht reproduzierbares, aufgezeichnetes akustisches Ereignis. Es kann gefragt und ungefragt stattfinden, gefiltert oder ungefiltert, zufällig oder von langer Hand geplant. Der Originalton kann rauschen, lügen, begeistern, täuschen, enttäuschen, eine Wahrheit aussprechen, mehrere Wahrheiten ansprechen. „Für das Radio ist der O-Ton aber auch Werkstoff für ein akustisches Bauwerk. Als solcher ermöglicht er, neben seiner klangästhetischen Verwendung, sowohl den Verweis auf eine tatsächlich dahinter stehende Wirklichkeit als auch die bloße Behauptung derselben. Was macht die Radiokunst aus dem Klang des Authentischen?“

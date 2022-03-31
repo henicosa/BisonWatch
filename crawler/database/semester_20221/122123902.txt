@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Authoritarian Urbanism
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53666&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 122123902
+Max. Teilnehmer/-innen :3 S: 18
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: European Urban Studies, M.Sc. PO 2020\r, <br/>, European Cities\r, <br/>,  , <br/>, MediaArchitecture, M.Sc. PO 2020\r, <br/>, Theoriemodul - Stadtsoziologie\r, <br/>, MediaArchitecture, M.Sc. PO 18\r, <br/>, Theoriemodul - Stadtsoziologie
+Erwartete Teilnehmer/-innen :3 S: 15
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Daniela Zupan
+# Beschreibung
+Beschreibung :3 S: The last decades have been marked by rising authoritarian tendencies globally and within Europe. These trends had tremendous effects on cities, urban space production and urban life. While cities frequently turn into sites of resistance and landing grounds for strong pro-democracy movements, urban space production also serves as a crucial regime-sustaining mechanism for authoritarian leaders. This seminar invites students to engage with the tensions arising from these processes. Based on contemporary examples of authoritarian urbanism from around the globe we will focus on the following questions: How is authoritarianism performed and perceived in urban space production and how does it shape state-society relations? Which policies and instruments are characteristic of authoritarian urbanism and what are their effects on the local level? Which possibilities and forms of resistance can be observed? What are the barriers and threats that pro-democracy movements and urban activists face in authoritarian settings? During the seminar students will acquire profound knowledge on the interplay of power, politics and city-making. They will get to know innovative theoretical positions, conceptual approaches and methodologies for scholarly engagement into the field of authoritarian urbanism. Based on joint readings, presentations and group discussions we will explore a variety of examples from different contexts such as, for example, forced evictions, land grabbing, infrastructure and housing provision or securitization.

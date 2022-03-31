@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Projekt Verkehrswesen City and Traffic
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53012&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 909012
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fvsp&timestamp=1648733071817&hash=9f69bc5329c9222006bea9ed5e00aebf
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 13:00 bis 14:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>in SR 305 Marienstr. 13C (Dachgeschoss)</p>,
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Infoveranstaltung<br>in SR 305 Marienstr. 13C (Dachgeschoss)</br></p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Wido Hamel :3 S: Fakultät Bauingenieurwesen,Julius Uhlmann :3 S: Fakultät Bauingenieurwesen,Uwe Plank-Wiedenbeck :3 S: Fakultät Bauingenieurwesen,Johannes Vogel
+# Beschreibung
+Beschreibung :3 S: Das Projekt besteht aus einem semesterbegleitenden Seminar und dem internationalen Workshop City and Traffic.

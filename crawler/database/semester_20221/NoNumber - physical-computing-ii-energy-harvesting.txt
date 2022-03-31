@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Physical Computing II: Energy Harvesting
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53876&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 10
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Brian Clark :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Energy harvesting is the process by which ambient energy, derived from external sources, is captured and stored for use. It encompasses a nebulous collection of energy forms including light, fluid motion (wind, water current), temperature gradients, and vibrations. Contemporary concerns concerning climate change have brought increasing attention to cleaner processes of electricity production in commercial applications, but the technical nature of this topic has hindered it’s integration into many artistic and other creative practices.

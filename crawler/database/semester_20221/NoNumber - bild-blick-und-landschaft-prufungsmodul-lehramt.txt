@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Bild, Blick und Landschaft (Prüfungsmodul Lehramt)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53669&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Wissenschaftliches Modul
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fkunst-und-gestaltung%2Fstruktur%2Flehrgebiete-personen%2Fwissenschaftliche-lehrgebiete%2Fdr-thomas-fuchs%2F&timestamp=1648732686881&hash=44642d5f757c978f7205d86cbeceb8e3
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Thomas Fuchs :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Geschichte und Theorie der Landschaftsmalerei vom späten Mittelalter bis zum 18. Jahrhundert. Vom Garten Eden, den Paradiesgärten und arkadischen Gefilden bis zur topographisch genauen Wiedergabe einer Landschaft wird in der Kunst meist ein idealisierter, später romantisierter Blick auf die Natur dargestellt. Vom Bedrohlichen zum Erhabenen, von fernen Sehnsuchtslandschaften zur Nutzbarmachung der Natur finden diese Bilder den Weg in die Kunstsammlungen der urbanen Räume.

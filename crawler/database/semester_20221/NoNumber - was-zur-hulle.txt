@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Was zur Hülle?!
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=54176&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 18
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 16
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch und englisch (zweisprachig)
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 10:00 bis 14:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>vorerst sind alle Termine in Präsenz vorgesehen</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person :3 S: Fakultät Kunst und Gestaltung,Masihne Rasuli
+# Beschreibung
+Beschreibung :3 S: Mögen mein Äußeres und mein Inneres eins sein, sprach einst Sokrates und nach diesem Motto wollen wir in diesem Semester verfahren und uns auf konzeptioneller Ebene mit Verpackungen aller Art auseinandersetzen. Mit welchen Mitteln kann man eine Hülle, ein Cover mit Spannung aufladen, um Lust auf ihr Inneres zu machen? Beim Verpacken spielt man bewusst mit Erwartungen - wo lohnt es sich, diese zu erfüllen und wo, zu brechen? Was wird verraten, was bleibt geheim? Und wie gehen wir auf fantasievolle und dabei nachhaltige Weise mit Material um, das uns zur Verfügung steht?

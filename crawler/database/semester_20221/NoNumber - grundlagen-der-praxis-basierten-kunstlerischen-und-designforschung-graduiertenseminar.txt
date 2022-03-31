@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Grundlagen der praxis-basierten künstlerischen- und Designforschung (Graduiertenseminar)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=54044&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Wissenschaftliches Modul
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: 09:00 bis 13:00
+Terminrhythmus :3 S: Block
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Jan Willmann :3 S: Fakultät Kunst und Gestaltung,Alexander Schwinghammer :3 S: Fakultät Kunst und Gestaltung,Alexandra Toland :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Welche Fragestellungen, Methoden, Technologien und Diskurse sind ausschlaggebend für künstlerische und praxisbezogene Designforschung? Was macht eine gute Forschungsfrage aus? Wie kann ein theoretical Framework ein Forschungsprojekt leiten? Welche kognitiven, sozialen und ästhetischen Prozesse sind an der Schaffung von forschungsbasierter Kunst und Design beteiligt? Wer sind die Endnutzer oder Target Audienzen solcher Forschungsarbeiten? Was ist ein State-of-the-Art? Wie kann Feldforschung in Kunst- und Designdisziplinen integriert werden? Dies sind nur einige der Fragen, die in diesem Einführungsseminar behandelt werden, das die Entwicklung der künstlerischen Forschung und der Designforschung in den letzten Jahrzehnten beleuchtet. Das Grundlagen Seminar bietet eine Reihe von Vorträgen, reflektierende Gruppenarbeit und Forschungsaufgaben, die die Studierende auf eine erfolgreiche Promotion im Ph.D. Programm vorbereiten sollen.

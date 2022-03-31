@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Building a project research paper
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=54235&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 122120402
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: MediaArchitecture, M.Sc. PO 2020\r, <br/>, Theoriemodul - Darstellen im Kontext\r, <br/>, MediaArchitecture, M.Sc. PO 18\r, <br/>, Theoriemodul - Darstellen im Kontext
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Matthew Lloyd
+# Beschreibung
+Beschreibung :3 S: This series of online workshops shall support 2nd semester Master Media Architecture students to understand how to build an academic research paper, that is in response to their working semester projects. Students will fundamentally be able to construct a precise, and concise research paper that indicates a good ability to critically understand a specific subject, through in-depth research. Within these intense workshops students will be able to develop their critical perspectives by understanding what it means to analyze, interpret, and respond to preliminary research, and learn the importance of creating a central argument (thesis statement) within their papers. The overall aim of these workshops is for students to gain the knowledge of knowing how to narrow their critical perspectives; gather specific research attached to their interested topics; be able to generate analytic questions, and discourse within their found research; and produce a well structured, extensive piece of researched text.

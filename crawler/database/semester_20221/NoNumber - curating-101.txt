@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Curating 101
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53981&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Wissenschaftliches Modul
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 10:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person :3 S: Fakultät Kunst und Gestaltung,Katharina Wendler
+# Beschreibung
+Beschreibung :3 S: Der Fachkurs »How to Gallery« (Adrian Palko) und das Wissenschaftsmodul »Curating 101« (Katharina Wendler) nehmen sich gemeinsam im SoSe22 der Aufgabe an, eine Identität für die neue Hochschulgalerie der Bauhaus-Universität zu entwickeln, die 2022 im Kunsthaus Erfurt erste Präsentationsflächen findet. , <br><br/>Die Studierenden beschäftigen sich im Rahmen des wissenschaftlichen Moduls (4 SWS) mit der Theorie und Praxis des Kuratorischen und werden an den internationalen Diskurs kuratorischer und künstlerischer Praxis herangeführt. Gleichzeitig wird anhand von praktisch zu realisierenden Ausstellungen das Kuratieren vor Ort erprobt (Organisation, Planung, Durchführung und Kommunikation von Ausstellungen und Performances, Transporte, Leihverkehr, Art Handling, Auf- und Abbau, Pressemitteilungen und sonstiges Textmaterial, PR-Strategien, Werklisten, Didaktik, Dokumentation, Nachbereitung etc.) und eine inhaltliche wie formale Struktur für die Hochschulgalerie der Bauhaus-Universität Weimar erarbeitet.<br/><br/>***DAS WISS. MODUL LÄUFT ÜBER 2 SEMESTER: SOSE22+WISE22/23***<br/><br/>SoSe 2022: Einführung ins Kuratieren, Einführung in den Diskurs zeitgenössischer kuratorischer und künstlerischer Praxis, Entwicklung einer inhaltlichen und formalen Struktur für die Hochschulgalerie, Mitarbeit an der Realisierung von 2 Ausstellungen im Kunsthaus Erfurt <br/><br/>WiSe 2022/2023: Weiterführende und vertiefende kuratorische Theorie und Praxis, maßgebliche Gestaltung und Mitarbeit an 2 Ausstellungen<br/><br/><br/>Der Fachkurs (6 SWS) entwickelt die Gestaltung einer Corporate Identity für die Hochschulgalerie und betreut deren Implementierung, mit allem, was dazugehört: Recherche, Konzeption und Realisierung aller Druck- und Werbemedien, Logosystematik, Website, Social Media, Schrift etc. <br/><br/><br/>***DIE KURSE MÜSSEN BEIDE BELEGT WERDEN***<br/><br/>Curating 101: Donnerstag, 10-12 Uhr<br/>How to Gallery: Donnerstag, 13-16 Uhr<br/>in Raum 101, M1<br/>...und teilweise im Kunsthaus Erfurt<br/>Weitere Anwesenheit bei Ausstellungseröffnungen und Performances im Kunsthaus Erfurt (an ausgewählten Donnerstagen, 18-21 Uhr)</br>

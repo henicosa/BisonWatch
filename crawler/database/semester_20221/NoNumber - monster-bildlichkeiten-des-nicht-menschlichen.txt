@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Monster: Bildlichkeiten des Nicht-Menschlichen
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53991&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Wissenschaftliches Modul
+SWS :3 S: 3
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 17
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 17:00 bis 19:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person :3 S: Fakultät Kunst und Gestaltung,Alexander Schwinghammer
+# Beschreibung
+Beschreibung :3 S: Monster und das Ungeheuerliche gedeihen in Imaginationsgemeinschaften weltweit. Dem Monster eine Form, eine visuelle Erscheinung zu geben, ist Teil menschlicher Kommunikation spätestens seit den ersten Bildpraktiken des anthropologisch modernen Menschen. Dennoch denken wir häufig eher an die Monster, die nicht zuletzt in der aktuellen Populärkultur so präsent sind. So gibt es eine Vielzahl von Monstern, die uns von Kinoleinwänden, Fernsehgeräten, leuchtenden Monitoren unserer Computer und Smartphones, von den Seiten von Romanen und Zeitschriften, von den Titelseiten der Zeitungen und einer Vielzahl anderer Medien anstarren und die uns einladen, ihren Geschichten zu folgen. , <br><br/>Warum erschaffen Menschen überhaupt Monster? Welche Bedürfnisse, Wünsche und Ängste bekommen durch Monster eine Form? Wie sind die Bilder, die sich Menschen von Monstern machen, zu analysieren? Und was zählt überhaupt als Monster? Dies sind einige der Fragen, denen wir in diesem Wissenschaftsmodul über Monster und ihre Bildlichkeiten nachgehen werden. <br/><br/>Zudem wollen wir auch die Rollen untersuchen, die Monster bei der Gestaltung des „Anderen” von der Antike bis heute in der Gegenwart übernehmen. Wir wollen also auch Monster als Momente kultureller Ängste betrachten und die historischen Kontexte in den Blick nehmen, die bestimmte Monster und Zuschreibungen des Monströsen hervorbringen. In der Tat scheint es so, als ob alles und jeder „monsterisiert” oder mit monströsen Begriffen diskutiert werden kann (z.B. politische Orientierung, sexuelle Orientierung, Rasse, Geschlecht, Klasse und Nationalität, Religion). Wofür stehen die Monster hier? Warum muss es in der heutigen Zeit noch „Monster” geben?<br/><br/>Ausgehend von wesentlichen Theoriepositionen (Freud, Kristeva, Mori, Carroll) bietet das Wissenschaftsmodul den Teilnehmenden einen interdisziplinären Rahmen für die Analyse von Darstellungen von Monstrosität in Literatur, Film, Fernsehen, Folklore, (Computer-)Spielen, Kunst, Musikvideos, materieller Kultur, Performance und anderen (visuellen) Ausdrucksformen.<br/><br/> Die Teilnehmenden sind hier explizit zu eigener forschender und gestalterischer Arbeit aufgerufen. Neben der Auseinandersetzung mit grundlegenden Theoriepositionen zu diesem Themenfeld, wird es in diesem Wissenschaftsmodul auch darum gehen, sich kreativ, entwerfend, erzählend und visualisierend mit der Figur des Monsters zu beschäftigen. <br/><br/>Neben den Seminarsitzungen sind auch Gastvorträge Teil dieses Wissenschaftsmoduls.</br>

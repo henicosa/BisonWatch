@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Eine Idee von Skulptur (Prüfungsmodul Lehramt)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53856&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Wissenschaftliches Modul
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fkunst-und-gestaltung%2Fstruktur%2Flehrgebiete-personen%2Fwissenschaftliche-lehrgebiete%2Fdr-thomas-fuchs%2F&timestamp=1648732759206&hash=6abafad28b313b00be3957dbbeca849d
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person :3 S: Fakultät Kunst und Gestaltung,Thomas Fuchs
+# Beschreibung
+Beschreibung :3 S: Das Streben und die Suche nach der Autonomie des Kunstwerks im 19. Jahrhundert haben gleichzeitig die Auflösung des traditionellen Werkbegriffs ermöglicht. Vielleicht hat Duchamp zu Beginn des 20. Jahrhunderts die Skulptur zerstört – gleichermaßen hat er jedoch den Begriff des Kunstwerks neu definiert. Marcel Duchamp mag der Initiator gewesen sein, aber aus vielen Richtungen wie von Medardo Rosso, Rodin, Apollinaire („Denkmal für Croniamantal”) und anderen bestimmen innovative „Ideen von Skulptur” den Weg in die Gegenwartskunst.

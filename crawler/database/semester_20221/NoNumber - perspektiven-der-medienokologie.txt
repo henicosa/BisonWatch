@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Perspektiven der Medienökologie
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53631&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Plenum
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Projektmodul Mediale Welten 1 Perspektiven der Medienökologie
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Henning Schmidgen
+# Beschreibung
+Beschreibung :3 S: Medienökologie verschiebt unsere Blickweise auf den Gegenstand „Medien“. Es geht nicht länger um die kulturellen und gesellschaftlichen Effekte von Einzelmedien, sondern um die Auswirkungen, die ganze Medienverbünde und Mediennetzwerke auf die Kultur und die Gesellschaft, aber auch auf die Natur haben. Medienökologie befasst sich mit Medien als Umwelt, als Milieu und als Habitat, aber auch mit der ökologischen Bilanz von Medien, ihrer konkreten Umweltschädlichkeit und, im Gegenzug, ihren Beiträgen zur Erfassung dessen, was wir unter Umwelt, Klima, Wetter usw. verstehen. Das Plenum führt in die einschlägigen Positionen dieses vergleichsweise neuen Feldes ein – von McLuhan und Postman über Bateson und Guattari bis hin zu Fuller, Stengers und Tsing. Es skizziert einen begrifflichen Rahmen und eröffnet Zugänge zu theoretischen Ressourcen, die für die Erarbeitung von entsprechenden Projektarbeiten hilfreich sind.

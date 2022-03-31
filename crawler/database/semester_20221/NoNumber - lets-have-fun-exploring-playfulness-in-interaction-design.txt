@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Let’s have fun – exploring playfulness in interaction design
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=54072&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 7
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch oder englisch (gemeinsame Festlegung)
+Fakultät :3 S: Fakultät Medien
+# Personen
+Personen :3 S: Fakultät Medien,Eva Hornecker :3 S: Fakultät Medien,Michaela Honauer
+# Beschreibung
+Beschreibung :3 S: Playing is fun, everyone likes it. But what is that makes us enjoying to play? What means , <em>to play</em>, ? What is , <em>playfulness</em>, ? Can we design better products if we base interaction concepts on aspects of playfulness? In this course, we will engage with such questions, critically discuss different perspectives and try to find meaningful answers.

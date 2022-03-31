@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Tragwerkslehre - Modul Teil II
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=52970&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Integrierte Vorlesung
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 117213102
+Max. Teilnehmer/-innen :3 S: 150
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, Pflichtmodul - Tragwerkslehre\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, Pflichtmodul - Tragwerkslehre\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, Pflichtmodul - Tragwerkslehre
+Erwartete Teilnehmer/-innen :3 S: 150
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D38975&timestamp=1648733249608&hash=1f58bb15b93846cc86bc780c8fa4065b
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 08:30 bis 10:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Jürgen Ruth :3 S: Fakultät Architektur und Urbanistik,Katrin Linne
+# Beschreibung
+Beschreibung :3 S: Tragverhalten und Berechnung von klassischen Tragwerksystemen

@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: expressio_ Ausdruck
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53707&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Exkursion
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 44
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Farchitektur-und-urbanistik%2Fprofessuren%2Fgrundlagen-des-entwerfens%2F&timestamp=1648732792979&hash=8e46a65392ddf836c89645cd13df23c4
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:30 bis 14:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: bis
+Terminrhythmus :3 S: Block
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Heike Büttner-Hyman :3 S: Fakultät Architektur und Urbanistik,Clemens Helmke :3 S: Fakultät Architektur und Urbanistik,Eva Pfrommer :3 S: Fakultät Architektur und Urbanistik,Daniel Guischard
+# Beschreibung
+Beschreibung :3 S: Für den Fall, daß aufgrund von Reiseeinschränkungen & Sonderreglungen, eine Realisierung der Exkursionen nicht möglich sind, bieten wir Ihnen zum Ausgleich einen Workshop mit Testat an. Unsere Projektstandorte, deren Begehung und Aufnahme, Verarbeitung von Eindrücken für die zu entwerfenden Projekte, können bereits Teil der Bearbeitung des Workshops sein. Der Workshop, das Testat, ist als zeichnerische, schriftliche Hausarbeit in Form eines Skizzenbuchs, Aufsatz zu erarbeiten. Wir vertiefen uns in Aufbewahrtes, Verborgenes, Erinnertes, um eine Architektur hervorzubringen. Skizzen und Modelle, die Fotographie und der Film dienen als Entwurfswerkzeug, nicht als Mittel der Darstellung, sondern als Entwurfsmedium, das uns ermöglicht Neues zu entdecken. Der Workshop orientiert sich nicht an der klassischen Architekturgeschichte, Filmgeschichte, Architekturfotographie, sondern an der Tradition der experimentellen Nutzung der Medien in verschiedenen gestaltenden Disziplinen.

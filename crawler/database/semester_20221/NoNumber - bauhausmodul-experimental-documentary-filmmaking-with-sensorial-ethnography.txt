@@ -1,0 +1,38 @@
+Veranstaltungstitel :3 S: Bauhaus.Modul: Experimental Documentary Filmmaking with Sensorial Ethnography
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53879&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 16
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch oder englisch (gemeinsame Festlegung)
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 16:00 bis 18:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Online</p>,
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 16:00 bis 18:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Online jeden Montag</p>,
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 16:00 bis 18:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Online jeden Mittwoch</p>,
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 14:00 bis 19:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Präsenz jeden Mittwoch</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person :3 S: Fakultät Kunst und Gestaltung,Jakob Hüfner :3 S: Fakultät Medien,Vanessa Ramos-Velasquez
+# Beschreibung
+Beschreibung :3 S: The media arts and filmmaking course is designed to expand perspectives on the questions What is nature? How can it be felt? How can we communicate with it? What is the Nature inside of us? What is the Nature outside of us? How are they united throught the senses? How can we switch perspectives away from antropocentrism? To help answer these questions, both practice and theory intertwine. Artistic activities arise from experimentation with various media and formats and from reading provided texts on the subjects of indigenous philosophies and ontology, symmetrical anthropology, haptic cinema film theory, sensory ethnography, autoethnography, cultural studies, media philosophy. The reading exercises are relational following a pedagogical protocol developed at Harvard University by Prof. Doris Sommer and her colleagues, called Pre-Texts, which stimulates literacy, innovation and socio-political awareness. In each 2-hour session, I propose an artistic activity with which to produce materials that contribute to the filmmaking process. Participants can also propose activities. Our films then develop from process, no plot. This creative process focusing on the theme of Nature Inside/Outisde is cathartic, allowing us to share our backgrounds, knowledge and storytelling skills through artistic activities. We conclude by showing our artworks and films as a group in the Bauhaus Summaery, July 2022.

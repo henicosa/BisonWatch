@@ -1,0 +1,43 @@
+Veranstaltungstitel :3 S: Innovation und Markenbildung in der Filmindustrie
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53720&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 421150028
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Sa.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Sa.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N. :3 S: Fakultät Medien,David Zakoth
+# Beschreibung
+Beschreibung :3 S: Durch Digitalisierung und die damit verbundenen Innovationen unterliegt die Film- und Serienindustrie einem starken Wandel. Neue Unternehmen am Markt verändern den Wettbewerb und auch die Möglichkeiten für Filmschaffende. Dennoch bleibt die Produktion von Filmen/Serien ein kostspieliges sowie riskantes Unterfangen, denn der ökonomische Erfolg ist für Investoren und Produzenten ungewiss und schwer kalkulierbar. Ziel der Veranstaltung ist es zunächst herauszuarbeiten wie Innovationen die Film- und Serienindustrie verändert haben und inwiefern Marken den ökonomischen Erfolg von Filmen/Serien positiv beeinflussen können. Die theoretischen Erkenntnisse dienen den Studierenden als Grundlage für eine Analyse eines selbst gewählten Films/Serie. Die Ergebnisse werden dann von den Studierenden im Rahmen präsentiert, um den ersten Teil des Seminars abzuschließen.

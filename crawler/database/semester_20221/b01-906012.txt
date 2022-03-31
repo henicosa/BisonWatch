@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Angewandte Hydrogeologie
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=52905&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Integrierte Vorlesung
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: B01-906012
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D38498&timestamp=1648732596051&hash=47712a8aa8e7f6582f801bcefe620d72
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Torsten Wichtmann :3 S: Fakultät Bauingenieurwesen,Gunther Aselmeyer
+# Beschreibung
+Beschreibung :3 S: <span style=font-size:>Die wesentlichen Schwerpunkte sind: Grundwasser (GW) als Teil des hydrologischen und (hydro)geologischen Kreislaufes, Niederschlag, Oberflächenabfluss und Bodenerosion, GW-Vorkommen und -Arten, hydrogeologische Regionen in Thüringen, Grundzüge der Bodenkunde mit GW-beeinflussten Bodentypen, GW-Bewegungen im gesättigten und ungesättigten Boden sowie im Fels (Poren-, Kluft- und Karstgrundwasserleiter), Geochemie bzw. geogene Wassergüte und deren Einfluss auf Baumaßnahmen (z.B. Betonaggressivität), Erkundung mit herkömmlichen und geophysikalischen Methoden, Monitoring von GW-Bewegungen, Strömungsberechnungen mit konventionellen und numerischen Verfahren, Einflüsse des GW auf die Stabilität von Böschungen und natürlichen Hängen sowie Maßnahmen zu deren Sicherung, Küstenschutz (z.B. in den Niederlanden), Einflüsse auf Dämme und Deiche, Renaturierung bzw. Wiederherstellung der hydrogeologischen Verhältnisse nach Abschluss einer Baumaßnahme.</span>

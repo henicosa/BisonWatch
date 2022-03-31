@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Translation beyond Nation: On Neo-vernacular Spaces
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53921&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Wissenschaftliches Modul
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 19
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 19
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 16:00
+Terminrhythmus :3 S: unger. Wo
+Bemerkung :3 S: , <p>hybride Veranstaltung</p>,
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 16:00 bis 19:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>MIND PALACE im Bauhaus-Museum Weimar</p>, <br/>, <p> </p>,
+# Personen
+Personen :3 S: missing,Boris Buden :3 S: missing,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: 

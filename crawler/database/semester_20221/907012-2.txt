@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Informatik für Ingenieure - Übung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53034&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Übung
+SWS :3 S: 3
+Veranstaltungsnummer :3 S: 907012/2
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fenrol%2Findex.php%3Fid%3D30840&timestamp=1648732897848&hash=2fbe0bb93e7c2a8f8456fa3f5a8f4e8c
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Teil 1 Seminargruppe BIB/A</p>, <br/>, <p><strong> </strong></p>,
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Teil 2 Seminargruppe BIB/A</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Helga Tauscher :3 S: Fakultät Bauingenieurwesen,Benjamin Burse :3 S: Fakultät Bauingenieurwesen,Daniel Luckey :3 S: Fakultät Bauingenieurwesen,Jens-Uwe Wagner
+# Beschreibung
+Beschreibung :3 S: Übung zur gleichnamigen Vorlesung

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Schwedisch 2 (A 1.2)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53318&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Kurs
+SWS :3 S: 3
+Veranstaltungsnummer :3 S: 5201200
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fcms%2Funiversitaet%2Fzentrale-einrichtungen%2Fsprachenzentrum.html&timestamp=1648733166091&hash=e741601d68ee7665fdf74eb27be40911
+Sprache :3 S: missing
+Fakultät :3 S: Sprachenzentrum
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 10:30 bis 12:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Sprachenzentrum,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Für diesen Kurs findet zusätzliche eien Doodle-Umfrage statt. Wenn Sie sich für diesen Kurs interessieren, wechseln Sie bitte auf die Internetseiten des Sprachenzentrums (s. obiger Link). Über das Zustandekommen eines Kurses entscheidet die Zahl der Teilnehmer, die ihre Gebühren fristgerecht entrichtet haben.

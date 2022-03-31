@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Basics of Drawing and Sketching
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=54220&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 6
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch und englisch (zweisprachig)
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 13:30 bis 19:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person :3 S: Fakultät Kunst und Gestaltung,Bahram Nematipour
+# Beschreibung
+Beschreibung :3 S: Dieser Kurs richtet sich ausdrücklich an alle Studenten, gleich ob sie bei den freien Künsten beheimatet sind oder dem Design-Bereich entstammen. Ausdrucksstark und präzise zeichnen sowie genau beobachten und diese Beobachtungen zeichnerisch umsetzen zu können, sind Fähigkeiten, die in allen Studienrichtungen benötigt werden und auf denen andere Inhalte aufbauen. In diesem Kurs werden die Grundlagen des Zeichnens vermittelt. Im Fokus stehen Perspektive, Proportionen, Komposition und Räumlichkeiten. Die Teilnehmer werden lernen, Objekte zu erfassen und ihre individuellen Beobachtungen ihrem eigenen Stil entsprechend zeichnerisch zu manifestieren. Erstes Ziel des Kurses ist es zunächst, den Teilnehmern die Grundlagen des Zeichnens zu vermitteln. Dies ist erforderlich, um eine solide Basis zu schaffen, welche aus Basiswissen und Grundlagenfertigkeiten besteht. Hier werden wir jedoch nicht stehen bleiben, es handelt sich lediglich um ein Zwischenziel, welches wir rasch erreichen werden. Bald wird es darum gehen, uns Schritt für Schritt von der objektiven Realität zu lösen. Wir werden aufhören, zeichnen zu lernen, und stattdessen die Kraft unserer Gedanken nutzen. Wir werden unser Vorstellungsvermögen trainieren und lernen, aus unserer subjektiven Erinnerung heraus Werke zu schaffen, statt schlicht die Realität zu kopieren. Jeder Teilnehmer wird auf diese Weise seine eigene unabhängige Realität schaffen. Um dies zu erreichen, müssen die Teilnehmer lernen, ihrem Gedächtnis zu vertrauen, andernfalls wird es ihnen nicht gelingen, kreativ zu sein und den Objekten Leben einzuhauchen. Denn darum geht es in diesem Kurs: Das tote Objekt soll zu Leben erweckt werden, wobei es durch jeden Teilnehmer eine individuelle Interpretation erfahren und auf diese Weise in anderer Gestalt auftreten wird. Hierfür ist es unabdingbar, dass die Teilnehmer das Selbstbewusstsein erlangen, ihre Fehler nicht als Fehler, sondern als ihren individuellen Stil zu betrachten. In diesem Kurs werden wir explizit nicht mit digitalen Medien arbeiten. Der Grund hierfür liegt nicht darin, dass der Kurs besonders klassisch sein soll. Es geht vielmehr darum, originales und essentielles Zeichnen zu erlernen. Den Teilnehmern soll es gelingen, eine Verbindung zwischen Vorstellungskraft, der zeichnenden Hand, dem Material und der puren Kreativität zu schaffen, die es ihnen ermöglicht, in jeder Situation des vorgestellte Objekt präzise und dem eigenen Stil gerecht zu visualisieren.

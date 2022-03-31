@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Bauhaus.Modul: Hokus Pokus Hochschulpolitik
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53672&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 922110005
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 15
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Lehrveranstaltungen der Bauhaus.Module
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N. :3 S: missing,Maximilian Hoffmann :3 S: Fakultät Architektur und Urbanistik,Max Welch Guerra
+# Beschreibung
+Beschreibung :3 S: Wir Studierenden machen so ziemlich alles für unsere Uni: Wir gründen Initiativen, schmeißen Café-Schichten in der M18, um den Campus zu beleben und organisieren Demos mit FFF, Migrantifa oder Pol.B. Nur an einer Stelle hapert es noch – der studentischen Selbstverwaltung und der Vertretung studentischer Interessen in den diversen Gremien der Bauhaus-Universität Weimar.

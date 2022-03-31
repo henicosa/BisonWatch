@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Betontechnologie
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=52931&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: B01-101021
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Findex.php%3Fcategoryid%3D12109&timestamp=1648732684193&hash=536f5292c0e8a417a434b3050c96d23c
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Karsten Siewert
+# Beschreibung
+Beschreibung :3 S: Die Studierenden besitzen erweiterte betontechnologische Kenntnisse auf der Grundlage der europäischen Normung und die Fähigkeit zum Erkennen der Zusammenhänge zwischen Ausgangsstoffen und deren Zusammensetzung hinsichtlich der Betoneigenschaften. Sie haben die Kenntnisse über das Verhalten bei unterschiedlichen Beanspruchungen, über die sachgerechte Planung u. Ausführung von Betonbauwerken unter baustofflichen Gesichtspunkten.

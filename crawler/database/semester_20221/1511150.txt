@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Geschichte und Theorie der modernen Architektur
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=52821&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 1511150
+Max. Teilnehmer/-innen :3 S: 150
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, Pflichtmodul\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, Pflichtmodul\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, Pflichtmodul
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Jasper Cepl
+# Beschreibung
+Beschreibung :3 S: Im zweiten Teil der Vorlesungen zur »Geschichte und Theorie der modernen Architektur« befassen wir uns im 4. Semester mit einzelnen Bauten und Entwürfen. Nachdem wir zuvor danach gefragt haben, welche Denk- und Entwurfsansätze die Moderne ausmachen, schwenken wir nun von der Theorie in die Praxis. In jeder Woche wollen wir einen Bau ganz genau unter die Lupe nehmen und uns fragen, wie sich die Themen, die wir kennengelernt haben, in ihm wiederfinden. Zugleich erlaubt uns der Blick auf das einzelne Projekt, den jeweiligen Kontext, in dem es entstanden ist, in seiner Komplexität und Einzigartigkeit zu erfassen und zu würdigen und den Entwurf aus seinen Bedingungen heraus zu verstehen. , <br>Anstelle eines (ohnehin immer fragmentarisch und selektiv bleibenden) Schnelldurchlaufs durch einen schwer definierbaren ›Kanon‹ moderner Bauten, wählen wir den Blick auf einzelne Fallstudien, die wir uns dafür umso genauer ansehen — und natürlich auch in den Werk- und Zeitzusammenhang setzen — werden.</br>

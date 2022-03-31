@@ -18,7 +18,7 @@ def strip(word):
 
 
 def data2csv(dataset):
-    with open("../../data/bisondata" + dataset + ".csv", 'w', newline='') as csvfile:
+    with open("../data/bisondata" + dataset + ".csv", 'w', newline='') as csvfile:
         csvwriter = csv.writer(csvfile, delimiter="\t", quotechar="|", quoting=csv.QUOTE_MINIMAL)
         selected_attributes = ["Fakultät", "Veranstaltungstitel", "Bisonlink", "Veranstaltungsart", "SWS", "Sprache", "Tag", "Personen"]
         with_persons = True
@@ -54,4 +54,4 @@ def data2csv(dataset):
 
 
 if __name__ == "__main__":
-    data2csv("20211")
+    data2csv("20221")

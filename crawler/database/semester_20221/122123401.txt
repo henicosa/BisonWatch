@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Cities of Knowledge: Urban Futures between Deindustrialisation and High-Tech
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53711&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 122123401
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflicht - Theorie\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflicht - Theorie\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflicht - Theorie
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Maximilian Stadler
+# Beschreibung
+Beschreibung :3 S: Beginning in the 1960s and 1970s, as traditional manufacturing industries entered a prolonged period of stagnation, multinationalization, and crisis, visions of a new, clean, post-industrial economy began to enthral politicians, urban planners, and municipal officials around the globe. According to this vision, unsightly red-brick factories and working-class housing estates were to give way to picturesque office complexes, science parks, and recreational areas – how, one set of questions went, did one foster a “climate” for innovation? How did one attract skilled knowledge workers, innovative entrepreneurs and futuristic industries? Might the success story of “Silicon Valley” be replicated elsewhere? And if so, what were its ingredients? This course, situated at the intersections of urban history and the history of science and technology, aims to familiarize students with this complex history. Drawing on case studies (US, Europe, Asia), selected projects and developments, students will learn about the problems faced by decisions-makers, about conflicting visions and ideologies, and about the darker sides of these post-industrial dynamics: the rise of inequality, the proliferation of largely unglamorous “service” jobs, and the environmental costs that this “new” economy brought, after all.

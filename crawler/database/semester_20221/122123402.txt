@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Technokratie
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53710&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 122123402
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflicht - Theorie\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflicht - Theorie\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflicht - Theorie
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Maximilian Stadler
+# Beschreibung
+Beschreibung :3 S: Vermehrt war in jüngster Zeit wieder von „Technokratie“ die Rede. Ob mit Verweis auf Finanz- und Klimakrise, auf undurchsichtige EU-Organisationen, mächtige Technologiekonzerne oder Pandemiepolitik – die Klagen über zu viel (oder zu wenig) Expert:innen-Macht, über die „Politisierung“ von Expertise und Wissenschaft, über demokratische Defizite im Umgang mit gesellschaftlichen Herausforderungen häufen sich. Grund genug, sich der Geschichte dieses schillernden Begriffs genauer anzunehmen. Anhand ausgewählter Lektüren, Quelltexte und Fallbeispiele widmet sich das Seminar den Konjunkturen von „Technokratie“ in der Zwischenkriegszeit, den 1960er und 1970er Jahren und im Heute. Das Seminar dreht sich um einschlägige Visionen und Zeitdiagnosen („Spätkapitalismus“, „Herrschaft der Manager“ u.ä.), um die Instrumente und Medien der Technokratie (u.a. Planungsmethoden, Computer), um exemplarische Problemfelder (Stadtplanung, Forschungspolitik, Infrastrukturen) sowie um Gegenmodelle und Kritik an vermeintlich technokratischen Zuständen (z.B. „Partizipation“).

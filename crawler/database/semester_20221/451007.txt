@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Stochastic Simulation Techniques and Structural Reliability (L+E)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53126&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Integrierte Vorlesung
+SWS :3 S: 3
+Veranstaltungsnummer :3 S: 451007
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D38758&timestamp=1648733200429&hash=df8667ec0e0f5f63afbe75e9b738fc7c
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 07:30 bis 09:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Exercise</p>, <br/>, <p>dates by arrangement</p>,
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Lecture</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Tom Lahmer
+# Beschreibung
+Beschreibung :3 S: Soils, rocks and materials like concrete are in the natural state among the most variable of all engineering materials. Engineers need to deal with this variability and make decisions in situations of little data, i.e. under high uncertainties. The course aims in providing the students with techniques state of the art in risk assessment (structural reliability) and stochastic simulation., <br><br>The course topics comprise<br>- (a very brief review) of probability theory<br>- discrete and continuous random processes and fields<br/>- estimation of statistical parameters<br/>- stochastic simulation techniques (Monte Carlo Samplings)<br/>- reliability-based design<br/>- sensitivity analysis<br/>- structural safety<br/>- Risk assessment and stochastic modelling in practice</br></br></br></br>

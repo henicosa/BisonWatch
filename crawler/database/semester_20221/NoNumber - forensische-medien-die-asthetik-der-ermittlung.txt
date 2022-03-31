@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Forensische Medien. Die Ästhetik der Ermittlung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53603&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Studienmodul Medienphilosophie
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 19:00 bis 20:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 17:00 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Martin Siegler
+# Beschreibung
+Beschreibung :3 S: Wie bringt man Spuren zum Sprechen? Was verraten uns Fotografien vom Tatort? Was haben Siri und Alexa gehört? Wie produziert man Evidenz? All diese Fragen betreffen das Fachgebiet der Forensik, also die methodische Entzifferung von Spuren eines Verbrechens oder Unfalls. Unser Seminar folgt dem Verdacht, dass Forensik nicht ohne Medien möglich ist: Was wäre Sherlock Holmes ohne seine Lupe? Was wäre die Spurensicherung ohne fotografische Dokumentation? Doch auch unser alltägliches Wissen von der Forensik beziehen wir fast vollständig aus Medien: aus True Crime-Serien und Kriminalromanen, aus Podcasts und Spielfilmen. In jüngerer Zeit hat sich eine regelrechte „forensische Ästhetik” in der populären Kultur, in der Kunst und im politischen Aktivismus etabliert, die wir anhand ausgewählter Fallbeispiele genauer unter die Lupe nehmen wollen (darunter Recherchen der Gruppe „Forensic Architecture” und Dokumentarfilme von Philip Scheffner). Dazu lesen wir Texte, die sich am Schnittpunkt von Kriminalistik und Medientheorie bewegen. Die Teilnehmer*innen des Kurses werden im Laufe des Seminars selbst ausgewählte Beweisstücke sichern und einer forensischen Analyse unterziehen. Bitte melden Sie sich rechtzeitig vor Vorlesungsbeginn für den Moodle-Kurs zur Veranstaltung an.

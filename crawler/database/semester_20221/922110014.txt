@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Bauhaus.Modul: Solar Talks
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53816&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 922110014
+Max. Teilnehmer/-innen :3 S: 30
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch und englisch (zweisprachig)
+Fakultät :3 S: Lehrveranstaltungen der Bauhaus.Module
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 18:00 bis 20:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Stefan Signer :3 S: Fakultät Architektur und Urbanistik,Steffen de Rudder :3 S: Fakultät Architektur und Urbanistik,Pola Koch :3 S: Fakultät Architektur und Urbanistik,Martina Maldaner Jacobi
+# Beschreibung
+Beschreibung :3 S: Die Sonne ist die zuverlässigste Quelle für erneuerbare Energie. Sie ist kostenlos, unerschöpflich, sauber und wird seit vielen Jahren mit einer Reihe von Technologien zur Erzeugung von Strom, thermischer Energie und Wärme genutzt. Wie kommt es, dass sie immer noch keine Schlüsselrolle bei der Energieerzeugung in unseren Städten spielt?

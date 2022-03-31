@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Eine Einstellung zur Arbeit
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=54152&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 25
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Werkmodul
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Personen
+Personen :3 S: Fakultät Medien,Jelena Jeremejewa
+# Beschreibung
+Beschreibung :3 S: Im Spiel- wie im Dokumentarfilm geht es darum Menschen und ihre Erleben plastisch und authentisch darzustellen. Hierbei erweisen sich urfilmische Kategorien, wie Raum- und Zeitempfinden aber auch Bewegung und Handlung, als Möglichkeiten indirekt in das Innere der Figur oder des Protagonisten einzutauchen. Es ist eben nicht egal, ob ich ein Interview vor einem Bücherregal drehe oder vor einer Treppe, ob meine Hauptdarstellerin ihr Baby versorgt oder in der Universitätsbibliothek ihre Bachelorarbeit schreibt... Die Charakterisierung erfolgt sicher beidseitig – Dier Raum gibt Aufschluss über den Helden und der Held beschreibt den Raum gleich mit. In dem Seminar schauen wir uns diesen Zusammenhang genauer an, denn die Arbeit ist oft das plausibelste Mittel eine Figur einzuführen oder sie näher zu charakterisieren. Mein Seminar ist von der Installation von Antje Ehmann und Harun Farocki „Eine Einstellung zur Arbeit” inspiriert – wir werden uns also auch mit dieser Arbeit befassen, die jeweils unterschiedliche Arbeiten in jeweils einer Einstellung zu fassen versucht. Mehrere frühe Filme von Harun Farocki ermöglichen eine zeitgeschichtliche Auseinandersetzung mit dem gesellschaftlichen Phänomen Arbeit. Anhand von Beispielen aus Dokumentarfilm und Spielfilm werden wir uns fragen, was Arbeit heute ist? Wie sie im Film visualisiert wird und inwiefern Arbeiten und Handeln gleichgesetzt werden können? Außerdem geht es darum, wie im europäischen Kino neuartige Arbeitsverhältnisse und ihre Problemlagen repräsentiert werden? Wie werden sie anschaulich und nachvollziehbar gemacht? Mit welchem Sinn? Über die theoretische Auseinandersetzung hinaus wird eine kleine praktische Übung erfolgen.

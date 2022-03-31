@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: beobachten, erleben, verbinden: strategien für kunst und design
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53863&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 16
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Ursula Damm :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: observe - experment - connect seien die strategien, mit welchen aesthetische artefakte und maßnahmen auf den weg gebracht werden. , <br>Beobachten geht jeder gestalterischen Praxis voraus, sie kann noch mit den eigenen Sinnen, aber auch mit Sensoren oder Datensammlungen passieren. Experience markiert das zweite stadium, in welchem eine Verarbeitung dieser gesammelten Eindrücke erfolgt. Auf dieses Stadium, in welchem das Experimentieren eine wesentliche Rolle spielt, folgt ein Szenario des in Kontakt tretens mit einem Umfeld. <br/>Im Projekt orientieren wir künstlerisch-gestalterisches Handeln an Formen einer erweiterten Ökologie: der Ökologie der natürlichen Umgebung, der Ökologie der Subjekte und der Ökologie des Sozialen. Im Beobachten Experimentieren und situativem, medialem Verbinden werden gestalterische Handlungsweisen in einem geteilten Habitat (dem Thema früherer Semesterprojekte) ausprobiert und evaluiert. <br/>Im Modul wollen wir Baukästen, Musterkataloge, Installationen, Handbücher, Rezepte, Aktionen, Apparate, Spielpläne oder andere Formen von Vorschlägen produzieren, welche helfen, unsere Zivilisation ökologisch, offen und anschlußfähig zu gestalten.</br>

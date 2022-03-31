@@ -1,9 +1,9 @@
 import * as d3 from "d3";
 import { sankey as Sankey, sankeyLinkHorizontal as SLH } from 'd3-sankey';
-import { loadBisonDataset } from "../bison";
+import { loadBisonDataset, global_settings } from "../bison";
 
 
-var dataset = "../../data/bisondata20212.csv"
+var dataset = "../../data/" + global_settings["most_recent_dataset"]["id"] + ".csv"
 
 const urlSearchParams = new URLSearchParams(window.location.search);
 var historic_data = urlSearchParams.get('historic');
@@ -185,6 +185,10 @@ loadBisonDataset(dataset).then((bisond) => {
     "Lehrveranstaltungen der Bauhaus.Module" : "Courses only included in the Bauhaus.Modules", 
     "deutsch" : "German",
     "englisch" : "English",
+    "französisch" : "French",
+    "deutsch oder englisch (gemeinsame Festlegung)" : "German or English (joint vote)",
+    "deutsch und englisch (zweisprachig)" : "German and English (bilingual)",
+    "deutsch und französisch (zweisprachig)" : "German and French (bilingual)",
     "deutsch/englisch" : "German/English",
     "deutsch/französisch" : "German/French"
   }

@@ -1,6 +1,6 @@
 import * as d3 from "d3";
 //import { convertSkypackImportMapToLockfile } from "snowpack/lib/util";
-import { loadBisonDataset } from "../bison";
+import { loadBisonDataset, global_settings } from "../bison";
 
 
 // Importe für alte Visualisierungen
@@ -12,7 +12,7 @@ import marked from "marked";
 import whatwhyhow from "./whatwhyhow.md";
 import { parallelcoordinates } from "./parallelcoordinates";*/
 
-var dataset = "../../data/bisondata20212.csv"
+var dataset = "../../data/" + global_settings["most_recent_dataset"]["id"] + ".csv"
 
 const urlSearchParams = new URLSearchParams(window.location.search);
 var historic_data = urlSearchParams.get('historic');

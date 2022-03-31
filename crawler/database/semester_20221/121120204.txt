@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Bauen mit Holz, Stroh und Lehm
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53425&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 121120204
+Max. Teilnehmer/-innen :3 S: 40
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Projektmodul - Begleitseminar oder\r, <br/>, Wahlpflicht - Planung\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Projektmodul - Begleitseminar oder\r, <br/>, Wahlpflicht - Planung\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Projektmodul - Begleitseminar oder\r, <br/>, Wahlpflicht - Planung
+Erwartete Teilnehmer/-innen :3 S: 40
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D37906&timestamp=1648732636998&hash=d1b6d5c0f1f2b703c6a55b772019b891
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Bernd Nentwig :3 S: Fakultät Architektur und Urbanistik,Klaus Schmitz-Gielsdorf
+# Beschreibung
+Beschreibung :3 S: Auseinandersetzung mit dem Thema Holzbau, Stroh- und Lehmbau. Erstellung von Seminararbeiten in 2er-Gruppen.

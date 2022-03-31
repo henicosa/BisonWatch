@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Kunstpädagogik in Theorie und Praxis (Fachdidaktikseminar 1)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53925&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Wissenschaftliches Modul
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 30
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:30 bis 12:30
+Terminrhythmus :3 S: gerade Wo
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person :3 S: Fakultät Kunst und Gestaltung,Andrea Dreyer
+# Beschreibung
+Beschreibung :3 S: Die Tätigkeit als Kunstlehrende/r erfordert vielfältige professionsspezifische Kompetenzen, die in Studium und Referendariat entwickelt werden. Das Angebot bietet einen Überblick über die unterschiedlichen Tätigkeitsbereiche, thematisiert fachspezifische Theorien und Konzepte und eröffnet einen Diskursraum zu bestehenden Antinomien des Kunstlehrerdaseins. Zugleich erfolgt eine Abgrenzung zum Diskurs der außerschulischen Kunstvermittlung sowie eine Auseinandersetzung mit dem eigenen professionellen kunstpädagogischen Selbstverständnis. Jeder Seminartermin widmet sich anderen Themen, die methodisch abwechselnd aufbereitet werden. Voraussetzung für die Seminarteilnahme ist die individuelle Auseinandersetzung mit je einem Vortragsimpuls, der in Vorbereitung auf das jeweilige Seminar online bereit gestellt wird.

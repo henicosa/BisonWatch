@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Deutsch für Geflüchtete (Ba)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53845&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 117112802
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Soft Skills\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Soft Skills\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Soft Skills\r, <br/>,  , <br/>, Urbanistik, B.Sc. PO 2021\r, <br/>, Wahlmodul\r, <br/>, Urbanistik, B.Sc. PO 2020\r, <br/>, Wahlmodul\r, <br/>, Urbanistik, B.Sc. PO 14\r, <br/>, Wahlmodul
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2Fwww.uni-weimar.de%2Fde%2Farchitektur%2Fprofessur%2Fstadtforschung&timestamp=1648732741152&hash=809dadbb9122a003c6010f3e40080508
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Personen
+Personen :3 S: Gewährleistungsbereich,Hannah Bußmann :3 S: Fakultät Architektur und Urbanistik,Frank Eckardt
+# Beschreibung
+Beschreibung :3 S: Wortschatz - Deutsch für Geflüchtete

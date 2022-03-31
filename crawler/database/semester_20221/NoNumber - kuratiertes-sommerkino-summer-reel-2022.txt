@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Kuratiertes Sommerkino -  Summer Reel 2022
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53970&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 16
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch oder englisch (gemeinsame Festlegung)
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person :3 S: Fakultät Kunst und Gestaltung,Polina Horosina :3 S: Fakultät Kunst und Gestaltung,Julius Winckler
+# Beschreibung
+Beschreibung :3 S: SUMMER REEL 2022 steht vor der Tür und wir wollen die Vorführung am 16.07.2022 im Rahmen der SUMMAERY gemeinsam inszenieren., <br>Es entsteht ein Filmabend ohne Kompromisse, der trotz jeglicher Beschränkungen zu einem Kinoerlebnis aufblühen soll.</br>

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Strukturelle Resilienz (Ba)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53940&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Übung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 122110702
+Max. Teilnehmer/-innen :3 S: 6
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Konstruktion | Technik\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Konstruktion | Technik\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Konstruktion | Technik
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:00 bis 11:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N. :3 S: Fakultät Architektur und Urbanistik,Johannes Kühn
+# Beschreibung
+Beschreibung :3 S: Um die Entwurfsarbeit im Projektmodul , <em>Transformer </em>, zu unterstützen, werden wir parallel zu dieser im Seminar , <em>Strukturelle Resilienz </em>, ausgewählte Beispiele systematisch analysieren, die entweder in ihrer Nutzungsdauer strukturell bereits offen angelegt waren oder eine spätere Umwandlung erfahren haben. Die letztere Auswahl an Gebäuden soll zu dem Zeitpunkt ihrer Erbauung und in ihrer originären Funktion sowie nach der Umnutzung betrachtet, der jeweilig spezifisch entstehende architektonische Ausdruck zu beiden Zeitpunkten daraufhin miteinander verglichen werden. Dabei richtet sich unser Interesse maßgeblich auf die Untersuchung der jeweiligen Typologie, der spezifischen Gebäudestruktur und, mit dieser einhergehend, auf die konkret ausformulierte Konstruktion im Detail.

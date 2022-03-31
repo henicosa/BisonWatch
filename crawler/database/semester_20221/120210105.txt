@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Architektur wahrnehmen - Part 1
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53491&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Übung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 120210105
+Max. Teilnehmer/-innen :3 S: 25
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Werkzeuge | Methoden\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Werkzeuge | Methoden\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Werkzeuge | Methoden
+Erwartete Teilnehmer/-innen :3 S: 15
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Alexandra Abel
+# Beschreibung
+Beschreibung :3 S: 90 Prozent unserer Zeit, so Evans & McCoy (1998), <a href=rds?state=verpublish&amp;status=init&amp;vmfile=no&amp;moduleCall=webInfo&amp;publishConfFile=webInfo&amp;publishSubDir=veranstaltung&amp;publishid=47845#_ftn1>1</a>, , verbringen wir in Architektur und den Rest unserer Zeit in ihrer unmittelbaren Umgebung. Architektur beeinflusst unser Erleben und Verhalten wie kaum ein anderer Umweltfaktor. Um diesen Einfluss zu verstehen, müssen wir uns mit unserer Wahrnehmung auseinandersetzen. Denn die Wahrnehmung ist die Grundlage jeder Mensch-Umwelt-Interaktion.

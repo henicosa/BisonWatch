@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Zu einer Theorie des Umbaus
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53616&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 122123002
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflicht - Theorie\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflicht - Theorie\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflicht - Theorie
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Jasper Cepl
+# Beschreibung
+Beschreibung :3 S: Wir gehen beim Architekturmachen im Großen und Ganzen immer noch vom Neubau aus, dabei liegen die Herausforderungen der Gegenwart im Bestand — im Umbauen und Weiterbauen.

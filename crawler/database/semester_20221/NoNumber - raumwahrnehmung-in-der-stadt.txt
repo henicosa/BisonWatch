@@ -1,0 +1,43 @@
+Veranstaltungstitel :3 S: Raumwahrnehmung in der Stadt
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53990&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Wissenschaftliches Modul
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person :3 S: Fakultät Kunst und Gestaltung,Alexander Schwinghammer
+# Beschreibung
+Beschreibung :3 S: Wie werden unterschiedliche Räume in der Stadt hervorgebracht, verändert, angeeignet und wahrgenommen?, <br>Das Seminar setzt sich mit verschiedenen Methoden der Erkundung des urbanen Raums auseinander: Drei Konzepte spielen hierbei eine wichtige Rolle. (1) Das Gehen: Inwieweit kann Gehen als kreative Praxis verstanden und für die eigene Arbeit nutzbar gemacht werden? Dies wollen wir durch Herangehensweisen wie Hanging Around, Wahrnehmungsspaziergang, Walkabout und Promenadologie untersuchen. (2) Das Beobachten: Wie können wir Alltägliches Gegenstand einer analytischen Betrachtung werden lassen? Wie lassen sich räumliche Verhaltensweisen und Raumpraktiken in den analytischen Blick rücken? (3) Das Dokumentieren: Was erscheint eine angemessene Dokumentationsform für Beobachtungen und Analysen? Wie können Karten, Fotografie und Skizzen eingesetzt werden, um den Raum zu „erzählen”?<br>Dabei findet der Kurs nicht nur im Seminarraum statt. Anhand heterogener Herangehensweisen erschließen die Teilnehmer*innen den Weimarer Stadtraum, seine Atmosphären, Erinnerungsorte, architektonischen Zeichen und Texturen. Im Zentrum steht die Frage, was den Charakter dieser spezifischen Stadt ausmacht.</br></br>

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Synthetic Media for Parallel Hyperrealities
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=54145&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 16
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 13:30 bis 17:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>BBB</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Jason Reizner :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: The simulacrum is never that which conceals the truth – it is the truth which conceals that there is none. The simulacrum is true. – Jean Baudrillard, Simulacres et Simulation, 1981

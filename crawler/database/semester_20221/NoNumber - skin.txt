@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: skin
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53772&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 18
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 14:00 bis 18:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Daniel Scheidler :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person :3 S: Fakultät Kunst und Gestaltung,Martin Kuban
+# Beschreibung
+Beschreibung :3 S: Unter dem Titel skin werden wir im kommenden Sommersemesters zwei weitestgehend von einander unabhängige Entwurfseinheiten zum Semestergegenstand haben:, <br>Die erste Hälfte des Projektes ist eine Zusammenarbeit mit der größten Barfussschuhmanufaktur Deutschlands. Mit einem Firmenbesuch zum gegenseitigen Kennenlernen starten wir ins Projekt. Bei diesem ersten Treffen besichtigen wir die Produktion, erhalten Wissen rund um das Thema Barfussschuh und haben Möglichkeit Fragen zu stellen. Im weiteren Verlauf ist - neben dem digitalen Kontakt - ein Besuch von Leguano in Weimar geplant. Ziel des Projektes sind Entwürfe rund um das Thema Barfusslaufen ... ein Campusbarfussschuh etc. könnte, soweit er produzierbar ist, im Rahmen des Projektes als Prototyp bzw Vorserie in Produktion gehen.<br>In der zweiten Hälfte des Projektes geht es um light mobility: Autofreie Orte sind aus unterschiedlichen Gründen selten, leichte Mobilität profitiert von innovativen Fahrzeugentwürfen, daher ist es das Ziel des Projektes leichte Vehikel mit zwei oder drei Rädern durch Muskelkraft, Hybrid oder Elektro angetrieben zu entwerfen. Wie sehen Leichtfahrzeuge urbaner Mobilität in Zukunft aus: Textil, Kunststoff, alternative Materialien, Materialkombinationen ... Wir wollen im Arbeitsprozess roughe 1:1 Modelle mit einer Hülle ummanteln, mit maßstäblichen Modellen und CAD Renderings ergänzen (Das Projekt wird ggf von einem Alias Automotive Teaching flankiert). Gesucht werden appearance Innovationen im Kontext light mobility.<br/>Begleitet werden beide Entwurfsetappen von den MATUM Vorlesungen, die wöchentlich mit ca. 60 min stattfinden. Die Teilnahme an diesem Grundlagenteaching in Sachen Material und Fertigung ist verpflichtend für alle Projektteilnehmer.</br></br>

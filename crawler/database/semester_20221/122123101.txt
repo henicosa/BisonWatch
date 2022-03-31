@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: LIGHTWEIGHT HIGHRISE BUILDINGS ...vertikale Stadtquartiere der Zukunft
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53688&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 122123101
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Projektmodul - Projekt\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Projektmodul - Projekt\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Projektmodul - Projekt\r, <br/>,  , <br/>, Bauingenieurwesen, M.Sc. - Konstruktiver Ingenieurbau - Vertiefung archineering\r, <br/>, Projekt - Energieeffizienter Hochbau
+Erwartete Teilnehmer/-innen :3 S: 12
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: bis
+Terminrhythmus :3 S: BlockWE
+Bemerkung :3 S: , <p>Exkursion Paris</p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Jürgen Ruth :3 S: Fakultät Architektur und Urbanistik,Katharina Elert :3 S: Fakultät Architektur und Urbanistik,Katrin Linne
+# Beschreibung
+Beschreibung :3 S: Die stark zunehmende Verdichtung in urbanen Räumen und der damit einhergehende hohe Verbrauch der Ressource Bauland macht das Nachdenken über Auswege unausweichlich. Wohnblöcke und Hochhäuser im Baustil der vergangenen Jahrzehnte sind darauf vor dem Hintergrund der Klimaproblematik sicher keine adäquate Antwort. Im Gegensatz zu regionalen Bauweisen, die über sehr lange Zeiträume optimal an die Umgebungsverhältnisse angepasst wurden, ist die Architektur der hochdichten Metropolen unabhängig von Klima, Bautraditionen und regionalen Materialien entworfen und hat ihren Bezug zum Standort verloren. Die Folge sind Gebäude, die unfähig sind, sich die klimatischen Verhältnisse zu Nutze zu machen, und dies durch aufwendige und energieintensive Gebäudetechnik ausgleichen.

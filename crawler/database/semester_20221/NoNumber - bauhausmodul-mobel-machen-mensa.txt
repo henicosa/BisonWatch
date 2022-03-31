@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Bauhaus.Modul: Möbel Machen Mensa
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=54058&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch oder englisch (gemeinsame Festlegung)
+Fakultät :3 S: Lehrveranstaltungen der Bauhaus.Module
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:15 bis 12:15 s.t.
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Gewährleistungsbereich,Ronny Schüler :3 S: Fakultät Architektur und Urbanistik,Martin Schmidt
+# Beschreibung
+Beschreibung :3 S: Das Modul bietet die einzigartige Möglichkeit, die Möblierung für das Foyer der Mensa mitzugestalten und zu bauen! Über die Gestaltung der Fläche entscheiden die Studierenden selbst – Tischtennis, Co-Working und Hangout-Spots sind nicht ausgeschlossen., <br> Bei diesem Modul besteht das Potenzial, nicht nur das soziale Klima der Universität, sondern auch das Studentenleben nachhaltig zu beeinflussen.<br/> Darüber hinaus bietet das Seminar Studierenden aller Fachrichtungen an, ihre Kreativität zum Ausdruck zu bringen und an dem Gesamtentwicklungsprozess mitzuwirken; von der Planung bis hin zur Umsetzung und die Nutzung des Raums- eine Erfahrung, die die meisten Studenten während ihres regulären Lehrplans nicht erleben würden.</br>

@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Non-Photorealistic Rendering for Virtual Reality Applications
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53979&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 10
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 4
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fvr&timestamp=1648733014221&hash=7c7a7712e52b97c27e4998953c8eead9
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Medien
+# Personen
+Personen :3 S: Fakultät Medien,Bernd Fröhlich :3 S: Fakultät Medien,Sebastian Stickert :3 S: Fakultät Medien,Gareth Rendle :3 S: Fakultät Medien,Adrian Kreskowski
+# Beschreibung
+Beschreibung :3 S: The term Non-Photorealistic Rendering (NPR) refers to a family of rendering techniques that produce stylized, simplified or abstract images based on 3D geometry. Unlike photorealistic rendering, their purpose is not the simulation of the real world in as much detail as possible, but the abstraction of objects within a specific context. Examples of this are visual simplification of architecture and highlighting of geometric features such as edges and corners, the creation of blueprints or exploded view diagrams for models of complex mechanical parts, and the transformation of 3D worlds into distinct works of art with a visually consistent style.

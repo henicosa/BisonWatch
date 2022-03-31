@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Die Ökonomie des Einzigartigen
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53733&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Matthias Maier
+# Beschreibung
+Beschreibung :3 S: Nach welchen Kriterien entscheiden Konsumenten:innen, welchen Filme und Videos Sie anschauen, welche Bücher sie lesen und welchen Wein sie trinkt? Lucien Karpik beantwortet diese Fragen mit einer Theorie des Marktes, die über die neoklassische Wirtschaftstheorie hinausgeht. Im Mittelpunkt steht das Funktionieren von Produkten, denen ein Nimbus des Einzigartigen anhaftet, wie das insbesondere bei Kulturgütern zu beobachten ist. Nicht aufgrund des Gebrauchswerts wird die Entscheidung getroffen, sondern aufgrund der besonderen Eigenschaften, die das Produkt für potenzielle Käufer subjektiv reizvoll machen: Wer hat die Aufführung inszeniert, den Film gedreht, die Hauptrolle gespielt oder das Buch geschrieben oder wer hat diese kulturellen Güter empfohlen? Wie »authentisch« erscheinen Personen, Produkte und Dienstleistungen und welche kulturellen Qualitäten weisen sie auf? In seinem Buch mit dem Titel „Die Ökonomie des Einzigartigen” stellt Lucien Karpik interessante Zusammenhänge zwischen den Sphären von Markt und Kultur her, die in der Vorlesung näher betrachtet werden. Zudem erfolgt eine vertiefte Auseinandersetzung mit der Bedeutung der digitalen und vernetzten Medien im Zusammenhang mit der Ökonomie des Einzigartigen.

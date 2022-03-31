@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Multi-hazard and risk assessment (L + E)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=52985&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 202004
+Max. Teilnehmer/-innen :3 S: 28
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D38543&timestamp=1648733008742&hash=449d137db40fbbc7d67b0b1304425331
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Jochen Schwarz :3 S: missing,Fabrice Cotton :3 S: Fakultät Bauingenieurwesen,Silke Beinersdorf :3 S: Fakultät Bauingenieurwesen,Peshawa Hasan :3 S: Fakultät Bauingenieurwesen,Holger Maiwald :3 S: Fakultät Bauingenieurwesen,Nooshin Hadidian Moghaddam
+# Beschreibung
+Beschreibung :3 S: The students will be familiar with the probability of natural hazard and risk determining parameters. They will be able to recognize procedures of single and multi hazard assessment and to process input data and to apply tools to study areas. Students will be introduced in further advanced geotechnologies and existing or on-going research as well as global projects conducted by GFZ.

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Schlüsselwerke der Wissenssoziologie
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53588&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Plenum
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: Projektmodul Kultursoziologie 1
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 15:15 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Ekkehard Coenen
+# Beschreibung
+Beschreibung :3 S: Die Wissenssoziologie widmet sich den Wechselwirkungen zwischen Wissen und Erkenntnissen auf der einen Seite und Gruppen, Gemeinschaften und Gesellschaften auf der anderen Seite. Wissen wird hierbei nicht als etwas gedacht, das vom Sozialen losgelöst aufzufinden ist. Stattdessen geht die Wissenssoziologie davon aus, dass Wissen und Denken sozial bedingt sind. Sie untersucht deshalb, wie Wissen in Gemeinschaften und Gesellschaften konstituiert, verbreitet, angewandt und bewahrt wird. Dabei besteht eine doppelte Perspektive: Einerseits wird untersucht, wie Wissen gesellschaftlich geprägt ist. Andererseits wird danach gefragt, wie Wissen im Handeln, aber auch auf struktureller Ebene zum Ausdruck kommt und das Soziale prägt., <br>Das Plenum führt in die wichtigsten Positionen und Theorien der Wissenssoziologie ein. Dabei ist die Veranstaltung sehr lektürelastig. Gelesen werden verschiedene Texte, die als Schlüsselwerke dieser Wissenssoziologie gelten. Autor*innen, die diskutiert werden, sind Max Scheler, Karl Mannheim, Alfred Schütz, Peter L. Berger und Thomas Luckmann, Michel Foucault, Hans-Georg Soeffner, Karen Knorr Cetina, Ralf Bohnsack und Hubert Knoblauch. Dabei werden sich die Teilnehmer*innen kritisch mit unterschiedlichen wissenssoziologischen Perspektiven auseinandersetzen, wie beispielsweise der Sozialphänomenologie, der wissenssoziologischen Hermeneutik, dem Sozial- und Kommunikativen Konstruktivismus, aber auch der praxeologischen Wissenssoziologie.</br>

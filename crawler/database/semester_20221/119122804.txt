@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Academic Development
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53500&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 119122804
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: European Urban Studies, M.Sc. PO 2020\r, <br/>, Academic Development\r, <br/>,  , <br/>, MediaArchitecture, M.Sc. PO 2020\r, <br/>, Theoriemodul - Stadtsoziologie\r, <br/>, MediaArchitecture, M.Sc. PO 18\r, <br/>, Theoriemodul - Stadtsoziologie
+Erwartete Teilnehmer/-innen :3 S: 20
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 17:00 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Frank Eckardt
+# Beschreibung
+Beschreibung :3 S: This seminar is addressing the further development of the academic skills of the students participating in the Master program „European Urban Studies“. It will focus on the preparation conceptually, organizationally and methodologically of the individual research project in the third semester. It will be organized with consultative meetings of the group in a 14 days-rhythm. The general goal is to develop a coherent, feasible and clear research plan consisting of an academically argued for research question, a convincing methodology and a practical time and work plan.

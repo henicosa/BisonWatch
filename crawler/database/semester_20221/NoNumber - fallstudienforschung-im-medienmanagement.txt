@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Fallstudienforschung im Medienmanagement
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53729&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: SoSe 2022
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Christopher Buschow
+# Beschreibung
+Beschreibung :3 S: Fallstudienforschung besitzt das Potenzial, spezifische Fragestellungen des Medienmanagements – z.B. zu neuen Produktentwicklungsmethoden, zur Zusammenarbeit in interdisziplinären Teams oder zum Gründungsprozess von Start-ups – empirisch tiefgehend zu beantworten.
