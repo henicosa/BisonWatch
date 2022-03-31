@@ -1,4 +1,4 @@
-Veranstaltungstitel :3 S: Karte, Kamera, Klapprad ? ein kollektives Visualisierungsprojekt zum Radverkehr in Weimar
+Veranstaltungstitel :3 S: Karte, Kamera, Klapprad ? Ein kollektives Visualisierungsprojekt zum Radverkehr in Weimar (Ma)
 Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51696&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
 # Grunddaten :3 S: 
 Veranstaltungsart :3 S: Seminar
@@ -13,11 +13,11 @@ Hyperlink :3 S: missing
 Sprache :3 S: missing
 Fakultät :3 S: Fakultät Architektur und Urbanistik
 # Zeit
-Tag :3 S: Do.
-Zeit :3 S: bis
+Tag :3 S: Mo.
+Zeit :3 S: 15:30 bis 17:00
 Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: 
 # Personen
-Personen :3 S: Fakultät Architektur und Urbanistik,Barbara Schönig :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N. :3 S: Universitätsleitung /  Universitätsverwaltung,Hannah Schnelle
+Personen :3 S: Fakultät Architektur und Urbanistik,Barbara Schönig :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N. :3 S: Fakultät Architektur und Urbanistik,Hannah Schnelle
 # Beschreibung
-Beschreibung :3 S: „Das Fahrrad ist das zivilisierteste Fortbewegungsmittel, das wir kennen. Andere Transportarten gebären sich täglich albtraumhafter. Nur das Fahrrad bewahrt sein reines Herz.“ (Iris Murdoch, anglo-irische Schriftstellerin und Philosophin, 1919 – 1999)
+Beschreibung :3 S: ...ein kollektives Visualisierungsprojekt zum Radverkehr in Weimar

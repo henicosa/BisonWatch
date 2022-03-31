@@ -18,6 +18,6 @@ Zeit :3 S: 13:30 bis 15:00
 Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: 
 # Personen
-Personen :3 S: Fakultät Bauingenieurwesen,Jürgen Ruth :3 S: Fakultät Bauingenieurwesen,Larissa Daube :3 S: Fakultät Architektur und Urbanistik,Katharina Elert :3 S: Fakultät Architektur und Urbanistik,Katrin Linne
+Personen :3 S: Fakultät Bauingenieurwesen,Jürgen Ruth :3 S: Fakultät Bauingenieurwesen,Larissa Daube :3 S: Fakultät Architektur und Urbanistik,Katharina Elert :3 S: Fakultät Architektur und Urbanistik,Katrin Linne :3 S: Fakultät Architektur und Urbanistik,Hansjörg Lehmkuhl
 # Beschreibung
 Beschreibung :3 S: <span lang=EN-US>”Finding guidelines for sustainable architectural design”</span>

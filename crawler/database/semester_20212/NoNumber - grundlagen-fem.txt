@@ -1,33 +1,21 @@
 Veranstaltungstitel :3 S: Grundlagen FEM
-Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50840&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53660&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
 # Grunddaten :3 S: 
-Veranstaltungsart :3 S: Übung
-SWS :3 S: 2
+Veranstaltungsart :3 S: Prüfung
+SWS :3 S: missing
 Veranstaltungsnummer :3 S: 
 Max. Teilnehmer/-innen :3 S: 
 Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: 
 Erwartete Teilnehmer/-innen :3 S: 
-Rhythmus :3 S: jedes 2. Semester
+Rhythmus :3 S: 
 Hyperlink :3 S: missing
-Sprache :3 S: deutsch
+Sprache :3 S: missing
 Fakultät :3 S: Fakultät Bauingenieurwesen
 # Zeit
-Tag :3 S: Do.
-Zeit :3 S: 11:00 bis 12:30
-Terminrhythmus :3 S: wöch.
-Bemerkung :3 S: , <p>Beginn der Poolübung wird in der Einführungsveranstaltung bekanntgegeben. (Einschreibung am Lehrstuhl)</p>,
-# Zeit
-Tag :3 S: Do.
-Zeit :3 S: 11:00 bis 12:30
-Terminrhythmus :3 S: wöch.
-Bemerkung :3 S: , <p>Einführungsveranstaltung für die Poolübungen</p>,
-# Zeit
-Tag :3 S: Do.
-Zeit :3 S: 13:30 bis 15:00
-Terminrhythmus :3 S: wöch.
-Bemerkung :3 S: , <p>Beginn der Poolübung wird in der Einführungsveranstaltung bekanntgegeben. (Einschreibung am Lehrstuhl)</p>,
+Tag :3 S: Mi.
+Zeit :3 S: 13:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
 # Personen
-Personen :3 S: Fakultät Bauingenieurwesen,Andreas Plotzitza
 # Beschreibung
-Beschreibung :3 S: Übung zur Vorlesung

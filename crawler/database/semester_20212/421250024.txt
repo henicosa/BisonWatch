@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Simone de Beauvoir: Das andere Geschlecht
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51320&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 421250024
+Max. Teilnehmer/-innen :3 S: 30
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: BA-Studienmodul Geschlechterlektüren
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Fphilosophieavmedien%2F&timestamp=1648741162364&hash=5519ffd1e68089aea429b8bdeea4635a
+Sprache :3 S: deutsch
+Fakultät :3 S: missing
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Dieser Kurs findet online via Moodle statt.</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Sebastian Lederle
+# Beschreibung
+Beschreibung :3 S: Simone de Beauvoirs Buch „Das andere Geschlecht” erschien im Original 1949 und in deutscher Übersetzung 1951. Es zählt zu den wichtigsten feministischen Büchern des 20. Jahrhunderts und gilt darüber hinaus als ein bedeutender Bezugstext einer avancierten Theoriebildung überhaupt. Das Seminar versteht sich in erster Linie als Lektürekurs. Damit soll dem einfachen Umstand Rechnung getragen werden, dass ein derart berühmtes Buch, welches in der deutsche Gesamtausgabe einen Umfang von über 900 Seiten besitzt,trotz der Bekanntheit vieler Begriffe und des mitunter popikonischen Status seiner Verfasserin sowohl eine genaue Lektüre als auch Leser*innen mit einem langen Atem verdient und erfordert., <br><br/>Ziel des Seminars ist es, anhand von zentralen Passagen und Ausschnitten nicht allein eine kultur- und sozialgeschichtliche Vorstellung davon zu vermitteln, warum „Das andere Geschlecht” nicht zuletzt auf Grund seines Publikationsjahres 1949 seine Berühmtheit erlangt hat. Darüber hinaus gilt es, durch kontinuierliches, genaues Lesen eines gleichsam klassischen Textes Arbeit an den Begriffen, Herauspräparieren von Argumentationsgängen und –voraussetzungen, Verkomplizierung von Sachverhalten und eine textbezogene, kleinteilige kritisch-rekonstruktive Würdigung zu ermöglichen. Dass eine Auswahl getroffen werden muss erscheint unumgänglich. Die Auswahl soll aber so getroffen sein, dass Beauvoir als Philosophin und Feministin auf Grundlage genauen Textstudiums sichtbar wird. Der methodische Zugriff des Seminars lautet daher zunächst: Von den Schlagworten zur Theorie und zurück zur rekonstuierten, durchdachten Position. Von da aus werden dann Verbindungen zu anderen Wirkungsfeldern ihres Schaffens (Romane, Moralphilosophie, Aktivismus etc) und Aspekten ihrer Biographie aufgenommen.</br>

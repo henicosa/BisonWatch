@@ -15,8 +15,13 @@ Fakultät :3 S: Fakultät Architektur und Urbanistik
 # Zeit
 Tag :3 S: Mi.
 Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Projektraum 601, Limona (Steubenstraße 8, Haus A)</p>,
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:15 bis 12:30
 Terminrhythmus :3 S: wöch.
-Bemerkung :3 S: 
+Bemerkung :3 S: , <p>Projektraum 601, Limona (Steubenstraße 8, Haus A)</p>,
 # Personen
 Personen :3 S: Fakultät Architektur und Urbanistik,Leo Bockelmann :3 S: Fakultät Architektur und Urbanistik,Maria Frölich-Kulik :3 S: Fakultät Kunst und Gestaltung,Jason Langheim :3 S: Fakultät Kunst und Gestaltung,Frederike Moormann
 # Beschreibung

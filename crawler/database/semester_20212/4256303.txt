@@ -16,12 +16,17 @@ Fakultät :3 S: Fakultät Medien
 Tag :3 S: Mo.
 Zeit :3 S: 11:00 bis 12:30
 Terminrhythmus :3 S: wöch.
-Bemerkung :3 S: , <p>Lecture - online (recorded)</p>, <br/>, <p>Moodle-Link: </p>, <br/>, <p> </p>,
+Bemerkung :3 S: , <p>Lecture - online (recorded)</p>, <br/>, <p>Moodle-Link: https://moodle.uni-weimar.de/course/view.php?id=35823</p>, <br/>, <p>Registration for this online course starts Oct, 08th 2021</p>,
 # Zeit
 Tag :3 S: Mo.
 Zeit :3 S: 13:30 bis 15:00
 Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: , <p>Übung - online (interaktiv)</p>, <br/>, <p> </p>,
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 10:00 bis 12:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>written exam</p>,
 # Personen
 Personen :3 S: Fakultät Medien,Volker Rodehorst :3 S: Fakultät Medien,Mariya Kaisheva
 # Beschreibung

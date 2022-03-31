@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Datafizierung des Medienmanagements
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51296&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 421250030
+Max. Teilnehmer/-innen :3 S: 26
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>je nach Infektionsgeschehen ggf. digital notwendig</p>,
+# Personen
+Personen :3 S: Fakultät Medien,Christopher Buschow
+# Beschreibung
+Beschreibung :3 S: Inwieweit kann künstlerisch-kreative Wertschöpfung bereits heute durch Verfahren der „Künstlichen Intelligenz” (KI) erbracht werden? Schreiben bald Algorithmen Hollywood-Drehbücher oder Nachrichtentexte? Mit Datafizierung und KI verbinden sich gegenwärtig enorme Erwartungen auf neue Wertschöpfungspotenziale in verschiedenen Medienbranchen: Sie sollen helfen, Prozesse in Medienunternehmen zu automatisieren und Entscheidungen auf fundierter Datengrundlage zu treffen, in der Entwicklung von Produkten und Services unterstützen oder gänzlich neue Geschäftsmodelle ermöglichen. Doch was davon ist nach wie vor Science Fiction und was ist längst Realität? Das Seminar setzt an der voranschreitenden Datafizierung und der Entwicklung von Künstlicher Intelligenz in der Medienwirtschaft an. Dazu werden verschiedene Medienteilbranchen in den Blick genommen und gemeinsam auf den gegenwärtigen Stand ihrer Datafizierung hin untersucht. Die Studierenden übernehmen dabei jeweils die Anwaltschaft für eine Branche., <br><br/>WICHTIGER HINWEIS: Es wird angestrebt, diese Veranstaltung in Präsenz durchzuführen. In Abhängigkeit vom jeweiligen Infektionsgeschehen kann jedoch eine digitale Veranstaltung notwendig sein. <br/><br/>VORAUSSETZUNGEN: Bitte stellen Sie Ihre Motivation zur Teilnahme am Projektmodul Medienökonomie 1 (Vorlesung, Seminar, Plenum; auch wenn Sie nur an einer der Veranstaltungen teilnehmen möchten) schriftlich dar (ca. 1 Seite Fließtext): <br/>* Welche thematischen Interessen motivieren Sie zur Teilnahme? <br/>* Für welche Medienbranche/n interessieren Sie sich im Besonderen und aus welchen Gründen? <br/>* Welche Ziele verfolgen Sie mit Ihrer Teilnahme? <br/>Bitte senden Sie Ihr Motivationsschreiben bis Mittwoch, 13. Oktober 2021 unter Angabe Ihres aktuellen Studiensemesters per E-Mail an Daniela Hein (daniela.hein@uni-weimar.de).</br>

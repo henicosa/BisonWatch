@@ -1,4 +1,4 @@
-Veranstaltungstitel :3 S: n.n. (Ba)
+Veranstaltungstitel :3 S: Bauen am Wasser
 Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51492&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
 # Grunddaten :3 S: 
 Veranstaltungsart :3 S: Übung
@@ -13,10 +13,11 @@ Hyperlink :3 S: missing
 Sprache :3 S: missing
 Fakultät :3 S: Fakultät Architektur und Urbanistik
 # Zeit
-Tag :3 S: Di.
-Zeit :3 S: 11:00 bis 12:30
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 10:45
 Terminrhythmus :3 S: wöch.
-Bemerkung :3 S: 
+Bemerkung :3 S: , <p>online</p>,
 # Personen
 Personen :3 S: Fakultät Architektur und Urbanistik,Johannes Kühn :3 S: Fakultät Architektur und Urbanistik,Robert Ochsenfarth :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N.
 # Beschreibung
+Beschreibung :3 S: Um die Entwurfsarbeit im 3 Kernmodul „Klar zur Wende“ zu unterstützen, werden wir uns in der Übung mit ausgewählten Referenzen in analytischer Aneignung auseinandersetzen. Ziel wird es sein, die vorgegebenen Objekte anhand verschiedener Themen zu untersuchen und diskursiv zu besprechen. Dabei richtet sich unser Interesse im besonderen Maße auf eine Untersuchung der Typologie, der Setzung in der Landschaft, der Konstruktion und den Eigenheiten des Ortes.

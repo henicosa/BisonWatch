@@ -14,20 +14,25 @@ Sprache :3 S: englisch
 Fakultät :3 S: Fakultät Architektur und Urbanistik
 # Zeit
 Tag :3 S: Mo.
-Zeit :3 S: 10:00 bis 15:00
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 12:30
 Terminrhythmus :3 S: Einzel
 Bemerkung :3 S: 
 # Zeit
 Tag :3 S: Mo.
-Zeit :3 S: 10:00 bis 15:00
+Zeit :3 S: 09:15 bis 12:30
 Terminrhythmus :3 S: Einzel
 Bemerkung :3 S: 
 # Zeit
 Tag :3 S: Mo.
-Zeit :3 S: 10:00 bis 15:00
+Zeit :3 S: 09:15 bis 12:30
 Terminrhythmus :3 S: Einzel
 Bemerkung :3 S: 
 # Personen
-Personen :3 S: missing,Eduard Kögel
+Personen :3 S: Fakultät Architektur und Urbanistik,Eduard Kögel
 # Beschreibung
 Beschreibung :3 S: Over the last 40 years, society and cities in the People’s Republic of China have changed dramatically. At the beginning of the 1980s China was still considered a developing country, but today it is one of the world powers whose voice is clearly audible in many parts of the world. Urban and cultural development in the context of architecture and planning show the possibilities and dreams of a society. In the case of China, the realities and constraints of a mass society, which must find its way between individualisation and equality, are also reflected in design, which in turn has an impact on social and political developments. So what does design look like that has to find a way between these poles that takes into account the different conditions in the metropolis and the hinterland?

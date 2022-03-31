@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Project- and Disaster Management (Exam)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53438&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Prüfung
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 901005
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fcms%2Fbauing%2Forganisation%2Fbaubetrieb-und-bauverfahren.html&timestamp=1648740908848&hash=ed600d24d46fc02a8512699e017d5fbf
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:00 bis 11:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Final exam</p>, <br/>, <p> </p>, <br/>, <p>Urban sociology:</p>, <br/>, <p>Final exam (digital) + final project<br><br>see also the description in the respective moodle room</br></br></p>,
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Hans-Joachim Bargstädt :3 S: Fakultät Bauingenieurwesen,Birgit Bode
+# Beschreibung
+Beschreibung :3 S: <strong>1 written exam</strong>

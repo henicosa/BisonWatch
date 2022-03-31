@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Risk projects and evaluation of structures (Exam)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50296&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Prüfung
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 202005
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Lars Abrahamczyk :3 S: Fakultät Bauingenieurwesen,Jochen Schwarz :3 S: Fakultät Bauingenieurwesen,Silke Beinersdorf :3 S: Fakultät Bauingenieurwesen,Aanis Uzair
+# Beschreibung
+Beschreibung :3 S: Training of student’s ability to apply methods and current state in natural hazard and risk assessment integrating research and practical applications to site- or structure-specific risk analysis and planning decisions.

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Wohnungspolitik und Stadtentwicklung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50989&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Vorlesung
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 117222705
+Max. Teilnehmer/-innen :3 S: 10
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Urbanistik, M.Sc. PO 2021\r, <br/>, Bachelorvorleistungen - Wahlpflichtmodule\r, <br/>, Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Bachelorvorleistungen - Wahlpflichtmodule\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Bachelorvorleistungen - Wahlpflichtmodule
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Farchitektur-und-urbanistik%2Fprofessuren%2Fraumplanung-und-raumforschung%2Flehre%2F&timestamp=1648741467803&hash=5cba9c3f9ad4bcb5e51fc14882b4bf4b
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Hörsaal A</p>,
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Max Welch Guerra
+# Beschreibung
+Beschreibung :3 S: Das Wohnen ist schon flächenmäßig eine herausragende stadtbildende Funktion. Aber auch im Hinblick auf die gesamtgesellschaftliche Reproduktion ist das Wohnen maßgeblich. Ohne angemessene Wohnungsversorgung ist die soziale Lage der Bevölkerung bzw. einzelner Bevölkerungsgruppen beeinträchtigt. Für die Volkswirtschaft ist der Wohnungssektor eines der größten Investitionsfelder. Eine ökologisch orientierte Energiepolitik, die den Wohnungsbestand übergeht, ist heute nicht mehr denkbar. Die Steuerung des Wohnungssektors bleibt deshalb eine der zentralen Aufgaben der räumlichen Planung. Die Vorlesung beginnt mit einem systematischen Überblick über die deutsche Wohnungspolitik.Wir werden auch aktuelle Auseinandersetzungen wie etwa der Berliner Mietendeckel und die Bewegung für die Enteignung von Wohnungsunternehmen nachvollziehen. Einige theoretische Bezüge werden die Mechanismen der Wohnungsversorgung und der Wohnungspolitik verständlicher machen. Die Vorlesung wird auch anhand von ausgewählten Weimarer Siedlungen Geschichte, Theorie und Politik des Wohnungswesens ganz plastisch erschließen.

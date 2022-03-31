@@ -20,3 +20,4 @@ Bemerkung :3 S: , <p>R 305 M13</p>,
 # Personen
 Personen :3 S: Fakultät Bauingenieurwesen,Uwe Plank-Wiedenbeck :3 S: Fakultät Bauingenieurwesen,Johannes Vogel
 # Beschreibung
+Beschreibung :3 S: Raum 305 M13C

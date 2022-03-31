@@ -11,10 +11,10 @@ Erwartete Teilnehmer/-innen :3 S:
 Rhythmus :3 S: einmalig
 Hyperlink :3 S: missing
 Sprache :3 S: deutsch
-Fakultät :3 S: Lehrveranstaltungen der Bauhaus.Module
+Fakultät :3 S: Fakultät Architektur und Urbanistik
 # Zeit
 Tag :3 S: Fr.
-Zeit :3 S: 13:30 bis 16:45
+Zeit :3 S: 15:15 bis 17:30
 Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: 
 # Personen

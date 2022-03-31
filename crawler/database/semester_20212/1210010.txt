@@ -4,18 +4,48 @@ Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=
 Veranstaltungsart :3 S: Projekt
 SWS :3 S: 8
 Veranstaltungsnummer :3 S: 1210010
-Max. Teilnehmer/-innen :3 S: 20
+Max. Teilnehmer/-innen :3 S: 25
 Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: Urbanistik, B.Sc. PO 2020\r, <br/>, Wahlpflichtprojekte\r, <br/>, Urbanistik, B.Sc. PO 14\r, <br/>, Wahlpflichtprojekte
 Erwartete Teilnehmer/-innen :3 S: 
 Rhythmus :3 S: einmalig
-Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Farchitektur-und-urbanistik%2Fprofessuren%2Fdenkmalpflege-und-baugeschichte%2Flehre%2Fwinter-202122%2F&timestamp=1631110849573&hash=c92f84d8d95188d33f17331e2dd68fb1
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Farchitektur-und-urbanistik%2Fprofessuren%2Fdenkmalpflege-und-baugeschichte%2Flehre%2Fwinter-202122%2F&timestamp=1648739958675&hash=1c3c2a0a50d5a1ce17279d6004df6f89
 Sprache :3 S: deutsch
 Fakultät :3 S: Fakultät Architektur und Urbanistik
 # Zeit
 Tag :3 S: Do.
+Zeit :3 S: 13:00 bis 18:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
 Zeit :3 S: 09:15 bis 16:45
 Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 11:00 bis 13:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:00 bis 15:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:00 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 14:30 bis 16:30
+Terminrhythmus :3 S: Einzel
 Bemerkung :3 S: 
 # Personen
 Personen :3 S: Fakultät Architektur und Urbanistik,Hans-Rudolf Meier :3 S: Fakultät Architektur und Urbanistik,Kirsten Angermann :3 S: Fakultät Architektur und Urbanistik,Christine Dörner

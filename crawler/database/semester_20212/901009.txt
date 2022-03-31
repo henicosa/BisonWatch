@@ -1,0 +1,21 @@
+Veranstaltungstitel :3 S: Prüfung: Immobilienrecht (nur MBB14)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=49455&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Prüfung
+SWS :3 S: missing
+Veranstaltungsnummer :3 S: 901009
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 10:30 bis 11:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+# Beschreibung

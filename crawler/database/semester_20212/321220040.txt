@@ -1,0 +1,58 @@
+Veranstaltungstitel :3 S: Alles eine Frage der Haltung? (Dokumentarfilmprojekt)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51706&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 16
+Veranstaltungsnummer :3 S: 321220040
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 15
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 11:00 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 11:00 bis 15:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 11:00 bis 15:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 11:00 bis 15:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 11:00 bis 15:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 11:00 bis 15:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 11:00 bis 15:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 11:00 bis 15:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person :3 S: Gewährleistungsbereich,Susanne Wille :3 S: Fakultät Kunst und Gestaltung,Wolfgang Kissel :3 S: Fakultät Kunst und Gestaltung,Nicola Hens
+# Beschreibung
+Beschreibung :3 S: Hal\xadtung, die Subst., fem.:

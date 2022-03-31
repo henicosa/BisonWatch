@@ -4,20 +4,40 @@ Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=
 Veranstaltungsart :3 S: Projektmodul
 SWS :3 S: 8
 Veranstaltungsnummer :3 S: 121221101
-Max. Teilnehmer/-innen :3 S: 25
+Max. Teilnehmer/-innen :3 S: 20
 Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Projektmodul\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Projektmodul\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Projektmodul
-Erwartete Teilnehmer/-innen :3 S: 20
+Erwartete Teilnehmer/-innen :3 S: 15
 Rhythmus :3 S: 
 Hyperlink :3 S: missing
 Sprache :3 S: missing
 Fakultät :3 S: Fakultät Architektur und Urbanistik
 # Zeit
 Tag :3 S: Do.
-Zeit :3 S: 09:15 bis 18:00
+Zeit :3 S: 09:00 bis 18:00
 Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:00 bis 18:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: 08:00 bis 20:00
+Terminrhythmus :3 S: Block
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:00 bis 20:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>2. Zwischenpräsentation, online via BBB</p>,
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:00 bis 18:00
+Terminrhythmus :3 S: Einzel
 Bemerkung :3 S: 
 # Personen
 Personen :3 S: Fakultät Architektur und Urbanistik,Steffen de Rudder :3 S: Fakultät Architektur und Urbanistik,Pola Koch :3 S: Fakultät Architektur und Urbanistik,Stefan Signer
 # Beschreibung
-Beschreibung :3 S: In Köln-Ehrenfeld wird in sehr guter innerstädtischer Lage das Gelände eines großen Schrottplatzes frei. Es entsteht Platz für den dringend benötigenden Wohnungsbau, der in Verbindung mit einer neu zu schaffenden S-Bahn-Station zum Modell werden kann für ein Wohnquartier der nachhaltigen Mobiliität.
+Beschreibung :3 S: Im Mai 2010 sorgte In Köln eine Nachricht aus dem statistischen Landesamt für große Begeisterung: Die Stadt habe es geschafft in den exklusiven Club der deutschen Millionenstädte. Seitdem sind fast 100.000 weitere Bewohner hinzugekommen. Die Freude darüber aber lässt etwas nach, denn das Leben in der Stadt wird teurer und komplizierter. Die Mieten steigen, der Verkehr nimmt zu, Kitaplätze fehlen. Köln braucht dringend mehr Wohnungen, massenhaft, zu bezahlbaren Preisen und am besten in der Innenstadt.

@@ -1,0 +1,22 @@
+Veranstaltungstitel :3 S: LOCOMOTION / die Fähigkeit der Ortsveränderung oder öffentliche Multifunktionsräume für Orte in Bewegung.
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51596&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Ausstellung
+SWS :3 S: 3
+Veranstaltungsnummer :3 S: 921210006
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 20
+Rhythmus :3 S: 
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fspringschool%2Fde%2Fkurse%2Farchitektur-urbanistik%2Flocomotion%2F&timestamp=1648740707936&hash=61bba51c6f9ec3b45ae6425bfc99c44c
+Sprache :3 S: englisch
+Fakultät :3 S: missing
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: bis
+Terminrhythmus :3 S: BlockSat.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Gewährleistungsbereich,Kristiina Oelsner :3 S: Fakultät Architektur und Urbanistik,Julia Heinemann
+# Beschreibung

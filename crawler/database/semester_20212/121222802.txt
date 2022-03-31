@@ -17,6 +17,11 @@ Tag :3 S: Mo.
 Zeit :3 S: 15:15 bis 16:45
 Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 15:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>online</p>,
 # Personen
 Personen :3 S: Fakultät Architektur und Urbanistik,Malena Rottwinkel
 # Beschreibung

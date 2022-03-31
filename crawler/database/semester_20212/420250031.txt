@@ -13,9 +13,24 @@ Hyperlink :3 S: missing
 Sprache :3 S: englisch
 Fakultät :3 S: Fakultät Medien
 # Zeit
-Tag :3 S: missing
-Zeit :3 S: bis
-Terminrhythmus :3 S: wöch.
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Sa.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Sa.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: Einzel
 Bemerkung :3 S: 
 # Personen
 Personen :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N.

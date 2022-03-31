@@ -17,6 +17,16 @@ Tag :3 S: Fr.
 Zeit :3 S: 09:00 bis 11:00
 Terminrhythmus :3 S: Einzel
 Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:00 bis 11:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Studierende der FH-Erfurt</p>,
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:00 bis 11:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Studierende der Bauhaus-UNI</p>,
 # Personen
 Personen :3 S: Fakultät Bauingenieurwesen,Volkmar Zabel
 # Beschreibung

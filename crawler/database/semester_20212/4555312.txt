@@ -9,20 +9,25 @@ Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: 
 Erwartete Teilnehmer/-innen :3 S: 
 Rhythmus :3 S: jedes 2. Semester
-Hyperlink :3 S: missing
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D37147&timestamp=1648740378743&hash=2ce14237eddd667b34ffa68ff9a1fba4
 Sprache :3 S: deutsch
 Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Übung</p>,
 # Zeit
 Tag :3 S: Mo.
 Zeit :3 S: 09:15 bis 10:45
 Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: , <p>Vorlesung</p>,
 # Zeit
-Tag :3 S: Do.
-Zeit :3 S: 11:00 bis 12:30
-Terminrhythmus :3 S: wöch.
-Bemerkung :3 S: , <p>Übung</p>,
+Tag :3 S: Mo.
+Zeit :3 S: 13:15 bis 15:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Klausur</p>,
 # Personen
-Personen :3 S: Fakultät Medien,Günther Schatter :3 S: Fakultät Medien,Anton Lammert
+Personen :3 S: Fakultät Medien,Günther Schatter :3 S: Fakultät Medien,Andreas Jakoby :3 S: Fakultät Medien,Anton Lammert
 # Beschreibung
 Beschreibung :3 S: Die Veranstaltung vermittelt Grundkenntnisse der Elektrotechnik und der Systemtheorie für mediale Systeme unter dem Anwendungsaspekt. Neben elektrotechnischen Grundgesetzen und deren mathematischer Beschreibung werden Grundlagen zur Berechnung elektrischer Schaltungen und Modellierung von Systemen vorgestellt. Der Kurs wird durch Betrachtungen des zeitlichen und spektralen Verhaltens von Systemen und der Modellierung von Nichtlinearitäten praxisorientiert abgerundet.

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Projekt Verkehrswesen - Interdisziplinares Projekt städtischer Infrastruktursysteme/ Urban Infrastructure Project
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51736&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 909006
+Max. Teilnehmer/-innen :3 S: 5
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes 2. Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D35430&timestamp=1648740929373&hash=cbccf64e77b7df2f1aef8bd9cf1b1313
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Bauingenieurwesen
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: unger. Wo
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Bauingenieurwesen,Uwe Plank-Wiedenbeck :3 S: Fakultät Bauingenieurwesen,Raimo Harder :3 S: Fakultät Bauingenieurwesen,Julius Uhlmann
+# Beschreibung
+Beschreibung :3 S: Das Projekt besteht aus zwei Teilen:

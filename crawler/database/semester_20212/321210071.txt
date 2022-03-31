@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Filmschnitt
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51799&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 321210071
+Max. Teilnehmer/-innen :3 S: 8
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 8
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: 10:00 bis 18:00
+Terminrhythmus :3 S: BlockWE
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: 10:00 bis 18:00
+Terminrhythmus :3 S: BlockWE
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person :3 S: Fakultät Kunst und Gestaltung,Nicola Hens
+# Beschreibung
+Beschreibung :3 S: Dozent Andreas Wodraschke arbeitet seit vielen Jahren erfolgreich als Film-Editor für Spiel- und Dokumentarfilme. Zu seinen bekanntesten Werken gehören „Die fetten Jahre sind vorbei”, „Die perfekte Kandidatin” und „Feuchtgebiete” (Nominierung für den Deutschen Filmpreis für die beste Filmmontage), <br><br>Ich möchte in diesem Seminar nicht nur Einblicke in meine persönlichen Arbeitsmethoden geben sondern vor allem einen Diskurs über Filmmontage anstoßen in dessen Zentrum Eure Arbeiten stehen. <br/><br/>Voraussetzung zu Teilnahme ist die Arbeit an einem eignen filmischen Schnittprojekt. Bewerbung mit kurzem Motivationsschreiben (500 Zeichen)  an: morbleu@gmx.de bis 12.10.</br></br>

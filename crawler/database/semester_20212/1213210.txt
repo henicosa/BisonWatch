@@ -6,18 +6,28 @@ SWS :3 S: 2
 Veranstaltungsnummer :3 S: 1213210
 Max. Teilnehmer/-innen :3 S: 200
 Semester :3 S: WiSe 2021/22
-Zugeordnetes Modul :3 S: Urbanistik, B.Sc. PO 2020\r, <br/>, Wahlplfichtmodul - Verkehrsentwicklung & Projektentwicklung
+Zugeordnetes Modul :3 S: Urbanistik, B.Sc. PO 2020\r, <br/>, Wahlplfichtmodul\r, <br/>, Urbanistik, B.Sc. PO 14\r, <br/>, Wahlplfichtmodul
 Erwartete Teilnehmer/-innen :3 S: 150
 Rhythmus :3 S: jedes 2. Semester
-Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Farchitektur-und-urbanistik%2Fprofessuren%2Fbaumanagement-und-bauwirtschaft%2Flehre%2Fvorlesungen%2F&timestamp=1631111418574&hash=202c33bd4de4cf9b54b7b2dee51f09c1
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Farchitektur-und-urbanistik%2Fprofessuren%2Fbaumanagement-und-bauwirtschaft%2Flehre%2Fvorlesungen%2F&timestamp=1648740916386&hash=a5313bf30a41440ce1b8fadbcf8d63bf
 Sprache :3 S: deutsch
-Fakultät :3 S: Fakultät Bauingenieurwesen
+Fakultät :3 S: Fakultät Architektur und Urbanistik
 # Zeit
 Tag :3 S: Mo.
 Zeit :3 S: 11:00 bis 12:30
 Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: , <p>Hörsaal A</p>,
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>online</p>,
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:00 bis 12:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Sporthalle Falkenburg</p>,
 # Personen
-Personen :3 S: Zentrale Einrichtungen,Alexandra Pommer :3 S: Fakultät Architektur und Urbanistik,Bernd Nentwig
+Personen :3 S: Gewährleistungsbereich,Alexandra Pommer :3 S: Fakultät Architektur und Urbanistik,Bernd Nentwig
 # Beschreibung
 Beschreibung :3 S: Grundlagen der Projektentwicklung;

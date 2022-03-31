@@ -4,7 +4,7 @@ Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=
 Veranstaltungsart :3 S: Vorlesung
 SWS :3 S: 2
 Veranstaltungsnummer :3 S: 1714511
-Max. Teilnehmer/-innen :3 S: 50
+Max. Teilnehmer/-innen :3 S: 55
 Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Architektur | Planung\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Architektur | Planung\r, <br/>,  , <br/>, Urbanistik, B.Sc. PO 2021\r, <br/>, Pflichtmodul\r, <br/>, Urbanistik, B.Sc. PO 2020\r, <br/>, Pflichtmodul
 Erwartete Teilnehmer/-innen :3 S: 40
@@ -16,6 +16,16 @@ Fakultät :3 S: Fakultät Architektur und Urbanistik
 Tag :3 S: Mo.
 Zeit :3 S: 09:15 bis 10:45
 Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 19:00 bis 20:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>online via BBB</p>,
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: Einzel
 Bemerkung :3 S: 
 # Personen
 Personen :3 S: Fakultät Architektur und Urbanistik,Barbara Schönig

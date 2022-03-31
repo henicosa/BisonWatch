@@ -12,6 +12,11 @@ Rhythmus :3 S:
 Hyperlink :3 S: missing
 Sprache :3 S: missing
 Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
 # Personen
 Personen :3 S: Fakultät Architektur und Urbanistik,Maximilian Stadler
 # Beschreibung

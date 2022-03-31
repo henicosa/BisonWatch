@@ -11,7 +11,7 @@ Erwartete Teilnehmer/-innen :3 S:
 Rhythmus :3 S: jedes Semester
 Hyperlink :3 S: missing
 Sprache :3 S: deutsch
-Fakultät :3 S: Fakultät Medien
+Fakultät :3 S: missing
 # Personen
 Personen :3 S: Fakultät Medien,Henning Schmidgen
 # Beschreibung

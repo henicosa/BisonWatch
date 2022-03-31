@@ -9,7 +9,7 @@ Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: 
 Erwartete Teilnehmer/-innen :3 S: 
 Rhythmus :3 S: jedes 2. Semester
-Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de&timestamp=1631110973308&hash=7b9132b50862fe1ddd3f7ee54506ac65
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de&timestamp=1648740157606&hash=2df444ed093bf3e6f51c80ce191c0fd1
 Sprache :3 S: deutsch
 Fakultät :3 S: Fakultät Bauingenieurwesen
 # Zeit
@@ -18,6 +18,6 @@ Zeit :3 S: 15:15 bis 16:45
 Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: , <p>Die Übungen finden ebenfalls im Audimax statt. (Ansage in der Vorlesung beachten)</p>,
 # Personen
-Personen :3 S: Fakultät Bauingenieurwesen,Matthias Kraus :3 S: Fakultät Bauingenieurwesen,Silvio Mämpel :3 S: Fakultät Bauingenieurwesen,Robert Arnold
+Personen :3 S: Fakultät Bauingenieurwesen,Matthias Kraus :3 S: Fakultät Bauingenieurwesen,Robert Arnold
 # Beschreibung
 Beschreibung :3 S: Übung zur Vorlesung

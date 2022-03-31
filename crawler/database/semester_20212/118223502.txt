@@ -14,7 +14,7 @@ Sprache :3 S: englisch
 Fakultät :3 S: Fakultät Architektur und Urbanistik
 # Zeit
 Tag :3 S: Di.
-Zeit :3 S: 15:15 bis 16:45
+Zeit :3 S: 15:00 bis 16:30
 Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: 
 # Personen

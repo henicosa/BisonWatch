@@ -22,6 +22,11 @@ Tag :3 S: Do.
 Zeit :3 S: 13:30 bis 16:45
 Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
 # Personen
 Personen :3 S: Fakultät Medien,Maria Rauch :3 S: Fakultät Medien,Timo Janson
 # Beschreibung

@@ -13,6 +13,11 @@ Hyperlink :3 S: missing
 Sprache :3 S: missing
 Fakultät :3 S: Fakultät Medien
 # Zeit
+Tag :3 S: Do.
+Zeit :3 S: 12:00 bis 13:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Begrüßung EMK</p>,
+# Zeit
 Tag :3 S: Mo.
 Zeit :3 S: 11:00 bis 14:00
 Terminrhythmus :3 S: Einzel
@@ -32,10 +37,5 @@ Tag :3 S: Di.
 Zeit :3 S: 13:00 bis 14:00
 Terminrhythmus :3 S: Einzel
 Bemerkung :3 S: , <p> Begrüßung Medienwissenschaft und FX</p>,
-# Zeit
-Tag :3 S: Do.
-Zeit :3 S: 12:00 bis 13:00
-Terminrhythmus :3 S: Einzel
-Bemerkung :3 S: , <p>Begrüßung EMK</p>,
 # Personen
 # Beschreibung

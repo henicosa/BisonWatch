@@ -1,8 +1,8 @@
-Veranstaltungstitel :3 S: Oberseminar Rendering, Visualisierung und Virtual Reality
-Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50596&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+Veranstaltungstitel :3 S: Theses-Seminar HCI
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53808&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
 # Grunddaten :3 S: 
 Veranstaltungsart :3 S: Seminar
-SWS :3 S: 2
+SWS :3 S: missing
 Veranstaltungsnummer :3 S: 4256402
 Max. Teilnehmer/-innen :3 S: 
 Semester :3 S: WiSe 2021/22
@@ -14,10 +14,10 @@ Sprache :3 S: deutsch/englisch
 Fakultät :3 S: Fakultät Medien
 # Zeit
 Tag :3 S: Do.
-Zeit :3 S: 10:30 bis 12:00
-Terminrhythmus :3 S: wöch.
-Bemerkung :3 S: , <p>Online bzw. nach Vereinbarung</p>,
+Zeit :3 S: 10:00 bis 16:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
 # Personen
-Personen :3 S: Fakultät Medien,Bernd Fröhlich
+Personen :3 S: Fakultät Medien,Eva Hornecker
 # Beschreibung
-Beschreibung :3 S: Vorträge zu aktuellen Dissertationen und Veröffentlichungen sowie laufenden Master- und Bachelorarbeiten zu den Themen Rendering, Visualisierung und Interaktion werden im Rahmen des Seminars präsentiert und diskutiert.
+Beschreibung :3 S: Vorträge zu aktuellen Dissertationen und Veröffentlichungen sowie laufenden Master- und Bachelorarbeiten werden im Rahmen des Seminars präsentiert und diskutiert.

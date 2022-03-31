@@ -12,7 +12,12 @@ Rhythmus :3 S: jedes 2. Semester
 Hyperlink :3 S: missing
 Sprache :3 S: deutsch
 Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Jakobsplan 1, Raum 2</p>,
 # Personen
-Personen :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N. :3 S: Fakultät Architektur und Urbanistik,Barbara Schönig
+Personen :3 S: Fakultät Architektur und Urbanistik,Johanna Günzel :3 S: Fakultät Architektur und Urbanistik,Timmo Krüger
 # Beschreibung
 Beschreibung :3 S: Der Traum vom Einfamilienhaus mit Garten und Garage erscheint noch immer ungebrochen. Neben individuellen Wohnwünschen und Lebensstilen, machen auch stark steigende Mieten in vielen Städten das Leben im Einfamilienhaus am Stadtrand attraktiv während zwischen Bevölkerungsrückgang und Bleibeperspektiven, Debatten um Flächenversiegelung im Angesicht des Klimawandels sowie der Eigenheimförderung durch „Baukindergeld“, Einfamilienhausgebiete wieder kontrovers diskutiert werden.

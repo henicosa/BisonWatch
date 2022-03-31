@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Biologie der Technik
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51271&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 421250004
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Studienmodul: Weltentwürfe 1
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Ftheorie-medialer-welten%2F&timestamp=1648740191819&hash=68d6e24bdca6176b6c4d0388bbc71ab1
+Sprache :3 S: deutsch
+Fakultät :3 S: missing
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Benjamin Prinz
+# Beschreibung
+Beschreibung :3 S: Besonders im Zuge der sich verschärfenden Klimakrise ist das Verhältnis der menschlichen Technik zur Natur wieder in den Mittelpunkt hitziger Debatten gerückt. Dabei wird die öffentliche Diskussion oftmals unausgesprochen von einer Reihe divergierender Technikvorstellungen geprägt, welche vom Traum einer Rückkehr in vorindustrielle Zeiten bis zum blinden Vertrauen in technologische Innovationen der Zukunft reichen.

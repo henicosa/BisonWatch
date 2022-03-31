@@ -4,9 +4,9 @@ Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=
 Veranstaltungsart :3 S: Projekt
 SWS :3 S: 8
 Veranstaltungsnummer :3 S: 121222804
-Max. Teilnehmer/-innen :3 S: 
+Max. Teilnehmer/-innen :3 S: 5
 Semester :3 S: WiSe 2021/22
-Zugeordnetes Modul :3 S: Urbanistik, M.Sc. PO 2021\r, <br/>, Bachelorvorleistungen - Projekte\r, <br/>, Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Bachelorvorleistungen - Projekte\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Bachelorvorleistungen - Projekte
+Zugeordnetes Modul :3 S: Urbanistik, M.Sc. PO 2021\r, <br/>, Angleichstudium - Projekte\r, <br/>, Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Bachelorvorleistungen - Projekte\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Bachelorvorleistungen - Projekte
 Erwartete Teilnehmer/-innen :3 S: 
 Rhythmus :3 S: 
 Hyperlink :3 S: missing
@@ -14,10 +14,30 @@ Sprache :3 S: deutsch
 Fakultät :3 S: Fakultät Architektur und Urbanistik
 # Zeit
 Tag :3 S: Di.
-Zeit :3 S: 09:15 bis 16:45
+Zeit :3 S: 09:15 bis 13:00
 Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>online</p>,
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:00 bis 13:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Workshop, Audimax</p>,
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 11:00 bis 13:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Workshop, Audimax</p>,
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 12:30 bis 15:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Audimax</p>,
 # Personen
-Personen :3 S: Fakultät Architektur und Urbanistik,Frank Eckardt
+Personen :3 S: Fakultät Architektur und Urbanistik,Angelo Arendt :3 S: Fakultät Architektur und Urbanistik,Frank Eckardt
 # Beschreibung
 Beschreibung :3 S: Rassistische und antisemitische Vorfälle haben das öffentliche Leben in Weimar in diesem Jahr erschüttert. Plakate in Erinnerung und Gedenken an die Ermordeten des rechten Terrors von Hanau werden beschädigt. Neonazis laufen bei Anti-Corona-Demos auf und attackieren einen Journalisten.  Eine Ausstellung des Netzwerk Antirassismus Weimar zum Internationalen Tag gegen Rassismus am Jugend- und Kulturzentrum Mon Ami wird zerstört. Doch der Rassismus in Weimar geht über diese Vorfälle hinaus und hat im Alltag einen festen Platz. Das bekommen besonders Menschen zu spüren, die als fremd gelesen werden. Alltagsrassismus ist aber ein Symptom struktureller Diskriminierungen und Benachteiligungen, das sich nicht nur im öffentlichen Raum, sondern auch auf dem Wohn- und Arbeitsmarkt, in Schulen und in der Universität manifestiert.

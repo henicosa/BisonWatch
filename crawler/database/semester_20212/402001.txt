@@ -9,19 +9,19 @@ Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: 
 Erwartete Teilnehmer/-innen :3 S: 
 Rhythmus :3 S: jedes 2. Semester
-Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fcms%2Findex.php%3Fid%3D5950&timestamp=1631111322649&hash=17321d8d5d961e29f3c50065a4c6e4df
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D35687&timestamp=1648740775032&hash=41d54831b6c2147ce3d58efcb549351a
 Sprache :3 S: deutsch
 Fakultät :3 S: Fakultät Bauingenieurwesen
-# Zeit
-Tag :3 S: Mo.
-Zeit :3 S: 13:30 bis 15:00
-Terminrhythmus :3 S: wöch.
-Bemerkung :3 S: , <p>VL BIB+MBB+UIB, <strong>Weimarhalle, kleiner Saal</strong></p>,
 # Zeit
 Tag :3 S: Do.
 Zeit :3 S: 07:30 bis 09:00
 Terminrhythmus :3 S: wöch.
-Bemerkung :3 S: , <p>VL BIB+MBB+UIB</p>,
+Bemerkung :3 S: , <p>VL BIB+MBB+UIB</p>, <br/>, <p>bis auf weiteres online/digital</p>,
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>VL BIB+MBB+UIB, <strong>Weimarhalle, kleiner Saal</strong></p>, <br/>, <p>bis auf weiteres online/digital</p>,
 # Personen
 Personen :3 S: Fakultät Bauingenieurwesen,Volkmar Zabel
 # Beschreibung

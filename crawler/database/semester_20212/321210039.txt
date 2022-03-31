@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Critical VR Lab I
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51543&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Werk-/Fachmodul
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 321210039
+Max. Teilnehmer/-innen :3 S: 10
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 16:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person :3 S: Fakultät Kunst und Gestaltung,Jörg Brinkmann
+# Beschreibung
+Beschreibung :3 S: Critical VR Lab I is a beginner module that oﬀers an Introduction to the Unity game engine. The course will be taught at the Digital Bauhaus Lab and online. Participants will be introduced to Unity through video tutorials, accompanied by PDFs and it will be possible to communicate through online meetings and individual consultations., <br><br/></br>

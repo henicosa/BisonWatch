@@ -9,29 +9,29 @@ Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: 
 Erwartete Teilnehmer/-innen :3 S: 
 Rhythmus :3 S: jedes 2. Semester
-Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D27533&timestamp=1631110998826&hash=356ff4a9aac6899d7e3c3e4031bba182
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fenrol%2Findex.php%3Fid%3D36328&timestamp=1648740200926&hash=8590320ec94727351c8df01cf6015a0f
 Sprache :3 S: missing
 Fakultät :3 S: Fakultät Bauingenieurwesen
 # Zeit
 Tag :3 S: Mo.
 Zeit :3 S: 13:30 bis 15:00
 Terminrhythmus :3 S: wöch.
-Bemerkung :3 S: , <p>Poolübung (Beginn wird in der Vorlesung bekannt gegeben)</p>,
-# Zeit
-Tag :3 S: Mo.
-Zeit :3 S: 13:30 bis 15:00
-Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: , <p>Vorlesung</p>,
 # Zeit
 Tag :3 S: Di.
 Zeit :3 S: 09:15 bis 10:45
 Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: , <p>Vorlesung</p>,
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 13:30 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Poolübung (Beginn wird in der Vorlesung bekannt gegeben)</p>,
 # Zeit
 Tag :3 S: Di.
 Zeit :3 S: 09:15 bis 10:45
 Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: , <p>Poolübung (Beginn wird in der Vorlesung bekannt gegeben)</p>,
 # Personen
-Personen :3 S: Fakultät Bauingenieurwesen,Matthias Kraus :3 S: Fakultät Bauingenieurwesen,Silvio Mämpel
+Personen :3 S: Fakultät Bauingenieurwesen,Matthias Kraus :3 S: Fakultät Bauingenieurwesen,Robert Arnold
 # Beschreibung

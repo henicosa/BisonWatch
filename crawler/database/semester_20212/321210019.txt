@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Responsive-Screen-Design
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51944&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 6
+Veranstaltungsnummer :3 S: 321210019
+Max. Teilnehmer/-innen :3 S: 12
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: missing
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 12:00 bis 16:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Erik Baumann :3 S: Fakultät Kunst und Gestaltung,Burkhart von Scheven :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Responsive-Screen-Design ist ein Erweiterungskurs zum Kurs Music in My Eyes (Link) und orientiert sich entsprechend thematisch an diesem. Die Teilnahme am Projektmodul Music in my Eyes ist dafür aber nicht verpflichtend.

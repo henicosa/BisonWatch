@@ -9,7 +9,7 @@ Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: 
 Erwartete Teilnehmer/-innen :3 S: 
 Rhythmus :3 S: jedes 2. Semester
-Hyperlink :3 S: missing
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D35605&timestamp=1648740444967&hash=ef067701d12c3664d2ec4725cf1af209
 Sprache :3 S: deutsch
 Fakultät :3 S: Fakultät Medien
 # Zeit
@@ -22,6 +22,11 @@ Tag :3 S: Do.
 Zeit :3 S: 15:15 bis 16:45
 Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: , <p>Vorlesung / Übung</p>,
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:00 bis 11:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Klausur</p>,
 # Personen
 Personen :3 S: Fakultät Medien,Andreas Jakoby
 # Beschreibung

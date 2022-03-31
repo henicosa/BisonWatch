@@ -11,7 +11,7 @@ Erwartete Teilnehmer/-innen :3 S:
 Rhythmus :3 S: jedes 2. Semester
 Hyperlink :3 S: missing
 Sprache :3 S: englisch
-Fakultät :3 S: Fakultät Medien
+Fakultät :3 S: Fakultät Bauingenieurwesen
 # Zeit
 Tag :3 S: Mo.
 Zeit :3 S: 15:15 bis 16:45

@@ -1,23 +1,23 @@
-Veranstaltungstitel :3 S: Urban Design Fundamentals
-Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51608&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+Veranstaltungstitel :3 S: Stegreifentwurf Schrottplatz
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51606&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
 # Grunddaten :3 S: 
-Veranstaltungsart :3 S: Seminar
+Veranstaltungsart :3 S: Blockveranstaltung
 SWS :3 S: 2
 Veranstaltungsnummer :3 S: 121221102
 Max. Teilnehmer/-innen :3 S: 20
 Semester :3 S: WiSe 2021/22
-Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Planung
-Erwartete Teilnehmer/-innen :3 S: 20
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Projektmodul - Begleitseminar oder\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Projektmodul - Begleitseminar oder\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Projektmodul - Begleitseminar oder\r, <br/>, Wahlpflichtmodul - Planung
+Erwartete Teilnehmer/-innen :3 S: 12
 Rhythmus :3 S: 
 Hyperlink :3 S: missing
-Sprache :3 S: missing
+Sprache :3 S: deutsch
 Fakultät :3 S: Fakultät Architektur und Urbanistik
 # Zeit
-Tag :3 S: Mi.
-Zeit :3 S: 11:00 bis 12:30
-Terminrhythmus :3 S: wöch.
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 17:00
+Terminrhythmus :3 S: Einzel
 Bemerkung :3 S: 
 # Personen
-Personen :3 S: Fakultät Architektur und Urbanistik,Stefan Signer :3 S: Fakultät Architektur und Urbanistik,Pola Koch :3 S: Fakultät Architektur und Urbanistik,Steffen de Rudder
+Personen :3 S: Fakultät Architektur und Urbanistik,Pola Koch :3 S: Fakultät Architektur und Urbanistik,Stefan Signer :3 S: Fakultät Architektur und Urbanistik,Steffen de Rudder
 # Beschreibung
-Beschreibung :3 S: Bausteine des städtebaulichen Entwerfens
+Beschreibung :3 S: Das Seminar ist eine Auftaktveranstaltung für den Entwurf ‚Zukunft Schrottplatz‘. Losgelöst von Vorgaben des Entwurfs soll eine erste Idee als Stegreifentwurf entwickelt werden. Im Fokus steht die schnelle Konzeptfindung -und Darstellung in Form einer Vorher-Nachher Collage und eines Schwarzplans. Anhand der Stegreifentwürfe werden die für den Ort maßgeblichen Themen diskutiert: Stadtraum, Wohnungsbau, Mobilität, nachhaltiger Städtebau und Freiraumkonzepte.

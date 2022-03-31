@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Online-Infoveranstaltung Master Architektur
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=52021&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Sonstige Veranstaltung
+SWS :3 S: 0
+Veranstaltungsnummer :3 S: 
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 60
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 14:00 bis 15:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,keine öffentliche Person :3 S: Fakultät Architektur und Urbanistik,Nicole Wichmann-Sperl :3 S: Fakultät Architektur und Urbanistik,Katharina Fleischmann
+# Beschreibung
+Beschreibung :3 S: <span style=font-family: arial, helvetica, sans-serif; font-size: 10pt;>Am Donnerstag, den 7. Oktober, findet von 14:00 Uhr - ca. 15:30 Uhr eine Online-Infoveranstaltung zum Masterstudiengang Architektur statt. Behandelt werden Themen wie der Aufbau des Studienganges, Organisatorisches zur Studien- und Prüfungsplanung, die An- und Abmeldung  von Veranstaltungen und Prüfungen, Auslandsstudium und Praktika, Bauhaus.Module etc. </span>

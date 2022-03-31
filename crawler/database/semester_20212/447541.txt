@@ -18,6 +18,6 @@ Zeit :3 S: 09:15 bis 10:45
 Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: 
 # Personen
-Personen :3 S: Fakultät Medien,Marie Kohlschreiber
+Personen :3 S: Fakultät Medien,Marie Kohlschreiber :3 S: Fakultät Medien,Thomas Schäfer
 # Beschreibung
 Beschreibung :3 S: Im Begleitkurs zur Vorlesung „Einführung in die Wettbewerbspolitik“ werden die zentralen Aspekte der Vorlesung aufgegriffen, vertiefend wiederholt und ausgeweitet. Im Fokus stehen dabei die grundlegende Bedeutung der Wettbewerbspolitik sowie die Bereiche Kartellverbot, Zusammenschluss-, Missbrauchs- und Beihilfenkontrolle als die zentralen Instrumente des nationalen und des europäischen Wettbewerbsrechts. Den Studierenden wird die Möglichkeit gegeben, anhand konkreter Fallbeispiele dessen Anwendungsfelder nachzuvollziehen und darüber hinaus ein Verständnis für die Probleme, die sich bei der praktischen Anwendung des Wettbewerbsrechts ergeben, entwickeln zu können.

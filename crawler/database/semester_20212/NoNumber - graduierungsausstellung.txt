@@ -17,11 +17,6 @@ Tag :3 S: Do.
 Zeit :3 S: 08:00 bis 22:00
 Terminrhythmus :3 S: Einzel
 Bemerkung :3 S: 
-# Zeit
-Tag :3 S: Do.
-Zeit :3 S: 08:00 bis 22:00
-Terminrhythmus :3 S: Einzel
-Bemerkung :3 S: 
 # Personen
 Personen :3 S: Fakultät Architektur und Urbanistik,Gabriela Oroz Guldi
 # Beschreibung

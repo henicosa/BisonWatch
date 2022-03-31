@@ -2,19 +2,19 @@ Veranstaltungstitel :3 S: 25 Jahre Zwischenstadt (Ba)
 Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51715&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
 # Grunddaten :3 S: 
 Veranstaltungsart :3 S: Übung
-SWS :3 S: 2
+SWS :3 S: 4
 Veranstaltungsnummer :3 S: 121211201
-Max. Teilnehmer/-innen :3 S: 20
+Max. Teilnehmer/-innen :3 S: 10
 Semester :3 S: WiSe 2021/22
-Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Architektur | Planung\r, <br/>,  Architektur, B.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Architektur | Planung\r, <br/>,  Architektur, B.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Architektur | Planung\r, <br/>,  , <br/>, Urbanistik, B.Sc. PO 2020\r, <br/>, Wahlmodul\r, <br/>, Urbanistik, B.Sc. PO 14\r, <br/>, Wahlmodul
-Erwartete Teilnehmer/-innen :3 S: 20
+Zugeordnetes Modul :3 S: Urbanistik, B.Sc. PO 2020\r, <br/>, Wahlmodul\r, <br/>, Urbanistik, B.Sc. PO 14\r, <br/>, Wahlmodul
+Erwartete Teilnehmer/-innen :3 S: 
 Rhythmus :3 S: einmalig
 Hyperlink :3 S: missing
 Sprache :3 S: deutsch
 Fakultät :3 S: Fakultät Architektur und Urbanistik
 # Zeit
 Tag :3 S: Mi.
-Zeit :3 S: 11:15 bis 12:45
+Zeit :3 S: 09:15 bis 10:45
 Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: 
 # Zeit
@@ -23,6 +23,6 @@ Zeit :3 S: bis
 Terminrhythmus :3 S: Einzel
 Bemerkung :3 S: 
 # Personen
-Personen :3 S: Fakultät Architektur und Urbanistik,Andreas Garkisch :3 S: Fakultät Architektur und Urbanistik,Michael Kraus
+Personen :3 S: Fakultät Architektur und Urbanistik,Andreas Garkisch :3 S: Fakultät Architektur und Urbanistik,Max Weisthoff :3 S: Fakultät Architektur und Urbanistik,Michael Kraus
 # Beschreibung
-Beschreibung :3 S: Bitte den Aushängen im Internet auf der Lehrstuhlseite entnehmen.
+Beschreibung :3 S: Das Erscheinen des Buches „ZWISCHENSTADT: zwischen Ort und Welt, Raum und Zeit, Stadt und Land“ von Thomas Sieverts ist 2022 bereits 25 Jahre her. Wir wollen das Jubiläum nutzen, um uns wieder mit dem Gegenstand seiner Untersuchung, dem suburbanen Raum auseinanderzusetzen. Das Buch ist eine der erfolgreichsten Publikationen über Städtebau, Stadt- und Raumentwicklung der letzten Jahrzehnte. Seinen Erfolg verdankt es unter anderem dem ambivalenten Titel, der immer noch viel Raum für Interpretationen lässt.

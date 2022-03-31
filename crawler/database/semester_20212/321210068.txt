@@ -1,0 +1,28 @@
+Veranstaltungstitel :3 S: Elektroakustische Musik I
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51552&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 321210068
+Max. Teilnehmer/-innen :3 S: 25
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:00 bis 12:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Robert Rehnig :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Im ersten Teil des Kurses beschäftigen wir uns mit einem Überblick über die Geschichte der Elektroakustischen Musik, ergründen die Wege, die zu den verschiedenen Erscheinungsformen , <br>geführt haben und setzen uns mit den maßgeblichen technischen Entwicklungen auseinander. <br>Der zweite Teil beinhaltet die Einführung in das notwendige basale Hintergrundwissen von Höranatomie über Schallausbreitung bis zur Mikrofonierung von Objekten und soundscapes. <br/>Zudem verschaffen wir uns einen Überblick über die vielfältigen Werkzeuge der Klanggestaltung. <br/>Im Sommersemester folgt dann der zweite Teil des Kurses, der sich verstärkt auf die Analyse und Praxis bezieht.</br></br>

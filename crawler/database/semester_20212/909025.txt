@@ -13,8 +13,8 @@ Hyperlink :3 S: missing
 Sprache :3 S: deutsch
 Fakultät :3 S: Fakultät Bauingenieurwesen
 # Zeit
-Tag :3 S: Mi.
-Zeit :3 S: 10:15 bis 11:15
+Tag :3 S: Di.
+Zeit :3 S: 10:00 bis 11:00
 Terminrhythmus :3 S: Einzel
 Bemerkung :3 S: 
 # Personen

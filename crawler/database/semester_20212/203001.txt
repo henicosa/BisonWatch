@@ -16,7 +16,7 @@ Fakultät :3 S: Fakultät Bauingenieurwesen
 Tag :3 S: Mo.
 Zeit :3 S: 09:00 bis 10:50
 Terminrhythmus :3 S: Einzel
-Bemerkung :3 S: 
+Bemerkung :3 S: , <p>Sporthalle Falkenburg, Belvederer Allee 25A</p>,
 # Personen
 Personen :3 S: Fakultät Bauingenieurwesen,Torsten Müller
 # Beschreibung

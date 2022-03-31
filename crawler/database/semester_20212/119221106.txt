@@ -6,7 +6,7 @@ SWS :3 S: 2
 Veranstaltungsnummer :3 S: 119221106
 Max. Teilnehmer/-innen :3 S: 100
 Semester :3 S: WiSe 2021/22
-Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>,  , <br/>, Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Pflichtmodul - Planungs- und Gesellschaftswissenschaften\r, <br/>, Urbanistik, M.Sc. PO 2020 2-semestrig\r, <br/>, Pflichtmodul - Planungs- und Gesellschaftswissenschaften\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Pflichtmodul - Planungs- und Gesellschaftswissenschaften
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Planung\r, <br/>,  , <br/>, Urbanistik, M.Sc. PO 2021\r, <br/>, Pflichtmodul - Planungs- und Gesellschaftswissenschaften\r, <br/>, Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Pflichtmodul - Planungs- und Gesellschaftswissenschaften\r, <br/>, Urbanistik, M.Sc. PO 2020 2-semestrig\r, <br/>, Pflichtmodul - Planungs- und Gesellschaftswissenschaften\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Pflichtmodul - Planungs- und Gesellschaftswissenschaften
 Erwartete Teilnehmer/-innen :3 S: 
 Rhythmus :3 S: jedes 2. Semester
 Hyperlink :3 S: missing
@@ -17,7 +17,12 @@ Tag :3 S: Mi.
 Zeit :3 S: 17:00 bis 18:30
 Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 17:00 bis 18:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>bis auf weiteres online via BBB</p>,
 # Personen
-Personen :3 S: Fakultät Architektur und Urbanistik,Max Weisthoff :3 S: Fakultät Architektur und Urbanistik,Steffen de Rudder :3 S: Fakultät Architektur und Urbanistik,Andreas Garkisch
+Personen :3 S: Fakultät Architektur und Urbanistik,Steffen de Rudder :3 S: Fakultät Architektur und Urbanistik,Andreas Garkisch
 # Beschreibung
-Beschreibung :3 S: Städtebau ist eine Disziplin der Architektur. Sie ist dem Ideal nach verpflichtet, allen Themen der Stadtplanung eine räumliche, architektonische Form zu geben. Die Realität der Stadtplanung sieht anders aus. Um der Komplexität heutiger Planung mit ihren technischen, rechtlichen Anforderungen und dem Anspruch, möglichst viele am Prozess zu beteiligen, gerecht zu werden, ist ein oft langwieriger Abwägungsprozess entstanden. De Facto wurde das Ideal, eine konsistente räumliche Idee für die Stadt im Sinne des Städtebaus zu formulieren, aufgegeben. Die Planung der Stadt wurde in der Folge auf eine Überlagerung funktioneller mit territorialer Logik reduziert.
+Beschreibung :3 S: Die Vorlesungsreihe behandelt schlaglichtartig Einzelthemen der Geschichte der Stadt und des Städtebaus. Sie beschäftigt sich mit der Genese morphologischer und struktureller Muster, die in Jahrhunderten der Stadtentwicklung entstanden und bis heute in der physischen Gestalt der Stadt sowie den Praktiken des städtebaulichen Entwerfens wirksam sind. Die Vorlesung verbindet im Wechsel historische mit aktuellen Betrachtungen und soll so dazu beitragen, die Stadt von heute in ihrer Historizität besser zu verstehen.

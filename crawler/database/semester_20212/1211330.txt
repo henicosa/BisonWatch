@@ -4,12 +4,12 @@ Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=
 Veranstaltungsart :3 S: Vorlesung
 SWS :3 S: 2
 Veranstaltungsnummer :3 S: 1211330
-Max. Teilnehmer/-innen :3 S: 20
+Max. Teilnehmer/-innen :3 S: 10
 Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Architektur | Planung\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Architektur | Planung
 Erwartete Teilnehmer/-innen :3 S: 5
 Rhythmus :3 S: jedes 2. Semester
-Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Farchitektur-und-urbanistik%2Fprofessuren%2Fraumplanung-und-raumforschung%2Flehre%2F&timestamp=1631112702041&hash=3bc1034b73bf3e4ee513bd86f39653f0
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Farchitektur-und-urbanistik%2Fprofessuren%2Fraumplanung-und-raumforschung%2Flehre%2F&timestamp=1648741466970&hash=2ef10eef0107e38e82c5bff0a7e37141
 Sprache :3 S: deutsch
 Fakultät :3 S: Fakultät Architektur und Urbanistik
 # Zeit

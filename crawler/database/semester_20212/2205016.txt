@@ -9,15 +9,15 @@ Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: 
 Erwartete Teilnehmer/-innen :3 S: 
 Rhythmus :3 S: jedes 2. Semester
-Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de&timestamp=1631110885512&hash=796feba2072ce22490c06c05447e58fe
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de&timestamp=1648740011159&hash=ee973a5a8db087fafed2a95317d15a2a
 Sprache :3 S: deutsch
 Fakultät :3 S: Fakultät Bauingenieurwesen
 # Zeit
-Tag :3 S: Do.
-Zeit :3 S: 09:15 bis 12:30
-Terminrhythmus :3 S: wöch.
+Tag :3 S: Mi.
+Zeit :3 S: 07:30 bis 09:00
+Terminrhythmus :3 S: Einzel
 Bemerkung :3 S: 
 # Personen
-Personen :3 S: Fakultät Bauingenieurwesen,Matthias Kraus :3 S: missing,Jörg Hildebrand :3 S: Fakultät Bauingenieurwesen,Silvio Mämpel :3 S: Fakultät Bauingenieurwesen,María Moscoso Avila
+Personen :3 S: Fakultät Bauingenieurwesen,Matthias Kraus :3 S: Fakultät Bauingenieurwesen,Jörg Hildebrand :3 S: Fakultät Bauingenieurwesen,María Moscoso Avila
 # Beschreibung
 Beschreibung :3 S: Bemessung und Konstruktion von Bauteilen und Tragwerken aus Aluminium und hochlegierten Stählen. ENC1090-Ausführung von Stahl- und Aluminiumtragwerken.

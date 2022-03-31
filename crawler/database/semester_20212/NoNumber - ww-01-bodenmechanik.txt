@@ -9,7 +9,7 @@ Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: 
 Erwartete Teilnehmer/-innen :3 S: 20
 Rhythmus :3 S: 
-Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fwbbau&timestamp=1631113703987&hash=21518ba523c41db216a542c6f28d9426
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fwbbau&timestamp=1648741477831&hash=e63b5dd2a60cc3d539db458aef70dbd6
 Sprache :3 S: missing
 Fakultät :3 S: Fakultät Bauingenieurwesen
 # Personen

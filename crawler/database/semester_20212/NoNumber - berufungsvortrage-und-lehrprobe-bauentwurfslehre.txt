@@ -12,11 +12,6 @@ Rhythmus :3 S:
 Hyperlink :3 S: missing
 Sprache :3 S: missing
 Fakultät :3 S: Fakultät Architektur und Urbanistik
-# Zeit
-Tag :3 S: missing
-Zeit :3 S: 08:00 bis 22:00
-Terminrhythmus :3 S: Block
-Bemerkung :3 S: 
 # Personen
 Personen :3 S: Fakultät Bauingenieurwesen,Juliane Steffen
 # Beschreibung

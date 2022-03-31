@@ -1,0 +1,18 @@
+Veranstaltungstitel :3 S: Freies Projekt - Grafikdesign - Master
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50528&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projektmodul
+SWS :3 S: 18
+Veranstaltungsnummer :3 S: 321220025
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Markus Weisbeck :3 S: Fakultät Kunst und Gestaltung,Adrian Palko
+# Beschreibung
+Beschreibung :3 S: Im ersten bis dritten Semester können Projektmodule in einem Umfang von 18 LP als freie Projekte absolviert werden, sofern diese von einer Professur des Studienganges fachlich begleitet werden.

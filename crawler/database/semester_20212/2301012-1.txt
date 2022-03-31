@@ -9,9 +9,9 @@ Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: 
 Erwartete Teilnehmer/-innen :3 S: 
 Rhythmus :3 S: jedes 2. Semester
-Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fbauingenieurwesen%2Fprofessuren%2Fangewandte-mathematik%2F&timestamp=1631110894124&hash=e97f472c88f5869afc1fa85c45cf7d71
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D36137&timestamp=1648740026964&hash=3392368605364565129eb3748d27a43c
 Sprache :3 S: englisch
-Fakultät :3 S: Fakultät Medien
+Fakultät :3 S: Fakultät Bauingenieurwesen
 # Zeit
 Tag :3 S: Di.
 Zeit :3 S: 17:00 bis 18:30

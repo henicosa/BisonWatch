@@ -9,15 +9,25 @@ Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: 
 Erwartete Teilnehmer/-innen :3 S: 30
 Rhythmus :3 S: 
-Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2FBauing%2Fwbbau&timestamp=1631113707135&hash=ac600cf0c13864b85f6e7e321f63f6dc
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2FBauing%2Fwbbau&timestamp=1648741482927&hash=de90d5866ebea1af86fc3f2d604c2190
 Sprache :3 S: deutsch
 Fakultät :3 S: Fakultät Bauingenieurwesen
 # Zeit
-Tag :3 S: missing
-Zeit :3 S: 08:00 bis 17:00
-Terminrhythmus :3 S: Block
+Tag :3 S: Fr.
+Zeit :3 S: 11:00 bis 13:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 12:00 bis 16:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 12:00 bis 16:00
+Terminrhythmus :3 S: Einzel
 Bemerkung :3 S: 
 # Personen
-Personen :3 S: Fakultät Bauingenieurwesen,Jörg Londong :3 S: Fakultät Bauingenieurwesen,keine öffentliche Person :3 S: Fakultät Bauingenieurwesen,keine öffentliche Person :3 S: Fakultät Bauingenieurwesen,Konrad Irmisch
+Personen :3 S: Fakultät Bauingenieurwesen,keine öffentliche Person :3 S: Fakultät Bauingenieurwesen,keine öffentliche Person :3 S: Fakultät Bauingenieurwesen,Konrad Irmisch :3 S: Fakultät Bauingenieurwesen,Silvio Beier
 # Beschreibung
 Beschreibung :3 S: Das Modul vermittelt Kenntnisse über die rechtlichen Grundlagen der Wasserversorgung. Ausführlich eingegangen wird auf die hydrologischen und geohydrologischen Grundlagen sowie auf den Bodenwasserhaushalt. Ein Kapitel umfasst die Wassergewinnung von der Erkundung von Wasservorkommen bis zum Rückbau von Wassergewinnungsanlagen. Betrachtet werden auch die Gewässergüte, die Trinkwassergüte und die Gefährdungen durch Landwirtschaft, Industrie und Verkehr. Unter dem Thema Ressourcenmanagement wird auf die europäischen und nationalen Konzepte zum Ressourcenschutz sowie die besonderen Belange des Ressourcenmanagements im Einzugsgebiet von Trinkwassergewinnungsanlagen eingegangen.

@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Ort Referenz Konstruktion
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51493&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Workshop
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 121210702
+Max. Teilnehmer/-innen :3 S: 50
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Konstruktion | Technik\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Konstruktion | Technik\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Konstruktion | Technik
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: bis
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Johannes Kühn :3 S: Fakultät Architektur und Urbanistik,Robert Ochsenfarth :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N.
+# Beschreibung
+Beschreibung :3 S: Als unterstützende Veranstaltung zum Entwurf „Klar zur Wende“ im 3.Kernmodul, wollen wir gemeinsam eine Ortsbegehung durchführen und uns die Gegebenheiten der Landschaft sowie tradierte Eigenheiten der lokalen Architektur aneignen. Darüberhinaus werden wir uns mit dem Baustoff Holz, seiner Herkunft und Produktion vertraut machen.

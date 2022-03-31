@@ -9,9 +9,14 @@ Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: 
 Erwartete Teilnehmer/-innen :3 S: 
 Rhythmus :3 S: jedes 2. Semester
-Hyperlink :3 S: missing
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D35606&timestamp=1648740889860&hash=ddc9ab72ff92fe7d77479d954406fd94
 Sprache :3 S: deutsch
-Fakultät :3 S: Fakultät Kunst und Gestaltung
+Fakultät :3 S: Fakultät Medien
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Vorlesung</p>,
 # Zeit
 Tag :3 S: Mi.
 Zeit :3 S: 11:00 bis 12:30
@@ -33,10 +38,10 @@ Zeit :3 S: 17:00 bis 18:30
 Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: , <p>Übungsgruppe 4</p>,
 # Zeit
-Tag :3 S: Fr.
-Zeit :3 S: 09:15 bis 12:30
-Terminrhythmus :3 S: wöch.
-Bemerkung :3 S: , <p>Vorlesung</p>,
+Tag :3 S: Mi.
+Zeit :3 S: 09:00 bis 11:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>exam</p>,
 # Personen
 Personen :3 S: Fakultät Medien,Andreas Jakoby :3 S: Fakultät Medien,Günther Schatter
 # Beschreibung

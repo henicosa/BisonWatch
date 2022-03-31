@@ -13,8 +13,8 @@ Hyperlink :3 S: missing
 Sprache :3 S: missing
 Fakultät :3 S: missing
 # Zeit
-Tag :3 S: Mo.
-Zeit :3 S: 13:00 bis 14:00
+Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 15:00
 Terminrhythmus :3 S: Einzel
 Bemerkung :3 S: 
 # Personen

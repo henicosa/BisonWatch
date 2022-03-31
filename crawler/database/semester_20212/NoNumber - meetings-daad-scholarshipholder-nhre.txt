@@ -13,10 +13,10 @@ Hyperlink :3 S: missing
 Sprache :3 S: englisch
 Fakultät :3 S: Fakultät Bauingenieurwesen
 # Zeit
-Tag :3 S: Di.
-Zeit :3 S: 13:00 bis 13:45
+Tag :3 S: Mi.
+Zeit :3 S: 10:00 bis 10:30
 Terminrhythmus :3 S: Einzel
-Bemerkung :3 S: 
+Bemerkung :3 S: , <p>Intake 2020</p>,
 # Personen
 Personen :3 S: Fakultät Bauingenieurwesen,Silke Beinersdorf
 # Beschreibung

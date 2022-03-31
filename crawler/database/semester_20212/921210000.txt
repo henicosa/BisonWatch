@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Counter memory – Erinnerungspraktiken im Weimarer Stadtraum
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51317&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Seminar
+SWS :3 S: 2
+Veranstaltungsnummer :3 S: 921210000
+Max. Teilnehmer/-innen :3 S: 20
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Bauhaus.modul Counter/memory - Erinnerungspraktiken im Weimarer Stadtraum
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedienwissenschaft%2Fbildtheorie%2F&timestamp=1648740232275&hash=98673bc2e7711bfa65c82fd3802cf067
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: missing
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Medien,Julia Bee :3 S: Fakultät Architektur und Urbanistik,Jannik Noeske
+# Beschreibung
+Beschreibung :3 S: <strong>(kombinierbar mit dem Studienprojekt Rassismus in Weimar, Frank Eckhardt und Nico Goez)</strong>

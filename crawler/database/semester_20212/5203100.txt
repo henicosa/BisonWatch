@@ -1,0 +1,22 @@
+Veranstaltungstitel :3 S: Schwedisch 5 (B1.1)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50516&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Kurs
+SWS :3 S: 3
+Veranstaltungsnummer :3 S: 5203100
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fcms%2Funiversitaet%2Fzentrale-einrichtungen%2Fsprachenzentrum.html&timestamp=1648741133713&hash=6f411f4c79856e1dc5250c7793ecc3d8
+Sprache :3 S: missing
+Fakultät :3 S: missing
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 18:00 bis 20:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+# Beschreibung
+Beschreibung :3 S: Wenn Sie sich für diesen Kurs interessieren, wechseln Sie bitte auf die Internetseiten des Sprachenzentrums (s. obiger Link). Dieser Kurs findet nur Online statt.

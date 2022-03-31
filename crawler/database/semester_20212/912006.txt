@@ -14,7 +14,7 @@ Sprache :3 S: deutsch
 Fakultät :3 S: Fakultät Bauingenieurwesen
 # Zeit
 Tag :3 S: Do.
-Zeit :3 S: 13:00 bis 15:00
+Zeit :3 S: 13:00 bis 16:00
 Terminrhythmus :3 S: Einzel
 Bemerkung :3 S: 
 # Personen

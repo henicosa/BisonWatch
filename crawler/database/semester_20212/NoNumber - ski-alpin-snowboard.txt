@@ -18,6 +18,6 @@ Zeit :3 S: bis
 Terminrhythmus :3 S: Block
 Bemerkung :3 S: 
 # Personen
-Personen :3 S: Zentrale Einrichtungen,Uwe Türk-Noack
+Personen :3 S: Gewährleistungsbereich,Uwe Türk-Noack
 # Beschreibung
 Beschreibung :3 S: <em>Alle Informationen sind auf der Pinnwand/Sportangebote/Ski Alpin/Snowboard nachzulesen.</em>

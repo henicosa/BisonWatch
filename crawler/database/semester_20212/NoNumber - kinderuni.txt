@@ -12,20 +12,5 @@ Rhythmus :3 S:
 Hyperlink :3 S: missing
 Sprache :3 S: missing
 Fakultät :3 S: missing
-# Zeit
-Tag :3 S: Mi.
-Zeit :3 S: 15:00 bis 17:00
-Terminrhythmus :3 S: Einzel
-Bemerkung :3 S: 
-# Zeit
-Tag :3 S: Mi.
-Zeit :3 S: 15:00 bis 17:00
-Terminrhythmus :3 S: Einzel
-Bemerkung :3 S: 
-# Zeit
-Tag :3 S: Mi.
-Zeit :3 S: 15:00 bis 17:00
-Terminrhythmus :3 S: Einzel
-Bemerkung :3 S: 
 # Personen
 # Beschreibung

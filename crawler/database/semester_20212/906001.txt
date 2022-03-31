@@ -14,9 +14,9 @@ Sprache :3 S: deutsch
 Fakultät :3 S: Fakultät Bauingenieurwesen
 # Zeit
 Tag :3 S: Mi.
-Zeit :3 S: 09:00 bis 11:00
+Zeit :3 S: 13:00 bis 16:00
 Terminrhythmus :3 S: Einzel
 Bemerkung :3 S: 
 # Personen
-Personen :3 S: Zentrale Einrichtungen,Detlef Rütz :3 S: Zentrale Einrichtungen,keine öffentliche Person
+Personen :3 S: Gewährleistungsbereich,Detlef Rütz :3 S: Gewährleistungsbereich,keine öffentliche Person
 # Beschreibung

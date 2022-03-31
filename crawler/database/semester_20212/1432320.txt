@@ -9,7 +9,7 @@ Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Projektmodul - projektbegleitendes Seminar oder\r, <br/>, Wahlpflichtmodul - Architektur\r, <br/>, Projektmodul - projektbegleitendes Seminar oder\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Projektmodul - projektbegleitendes Seminar oder\r, <br/>, Wahlpflichtmodul - Architektur\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Architektur\r, <br/>,  , <br/>, MediaArchitecture, M.Sc. PO 2020\r, <br/>, Projektmodul - projektbegleitendes Seminar oder\r, <br/>, Fachmodul - Darstellen im Kontext\r, <br/>, MediaArchitecture, M.Sc. PO 18\r, <br/>, Projektmodul - projektbegleitendes Seminar oder\r, <br/>, Fachmodul - Darstellen im Kontext
 Erwartete Teilnehmer/-innen :3 S: 10
 Rhythmus :3 S: jedes Semester
-Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D32746&timestamp=1631111339806&hash=395ada6b4c4a05225a5dcf868acd5975
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D32746&timestamp=1648740799469&hash=deec9726516a7f347c29277602524854
 Sprache :3 S: deutsch
 Fakultät :3 S: Fakultät Architektur und Urbanistik
 # Zeit

@@ -1,0 +1,22 @@
+Veranstaltungstitel :3 S: Deutsch als Fremdsprache B 1+ Teil 2
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50495&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Kurs
+SWS :3 S: 3
+Veranstaltungsnummer :3 S: 5123017
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fcms%2Funiversitaet%2Fzentrale-einrichtungen%2Fsprachenzentrum.html&timestamp=1648740278900&hash=278db3f9d812b58980b133ba98639869
+Sprache :3 S: deutsch
+Fakultät :3 S: missing
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Gewährleistungsbereich,Manja Gerlach
+# Beschreibung

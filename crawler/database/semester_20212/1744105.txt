@@ -6,12 +6,12 @@ SWS :3 S: 2
 Veranstaltungsnummer :3 S: 1744105
 Max. Teilnehmer/-innen :3 S: 
 Semester :3 S: WiSe 2021/22
-Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Konstruktion | Technik\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Konstruktion | Technik
+Zugeordnetes Modul :3 S: Architektur, B.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Konstruktion | Technik\r, <br/>, Architektur, B.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Konstruktion | Technik\r, <br/>, Architektur, B.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Konstruktion | Technik
 Erwartete Teilnehmer/-innen :3 S: 
 Rhythmus :3 S: jedes 2. Semester
 Hyperlink :3 S: missing
 Sprache :3 S: deutsch
-Fakultät :3 S: Fakultät Architektur und Urbanistik
+Fakultät :3 S: Fakultät Bauingenieurwesen
 # Zeit
 Tag :3 S: Fr.
 Zeit :3 S: 09:15 bis 12:30

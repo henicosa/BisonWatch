@@ -13,6 +13,11 @@ Hyperlink :3 S: missing
 Sprache :3 S: missing
 Fakultät :3 S: Fakultät Bauingenieurwesen
 # Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Einschreibung am Lehrstuhl</p>,
+# Zeit
 Tag :3 S: Mo.
 Zeit :3 S: 11:00 bis 12:30
 Terminrhythmus :3 S: wöch.
@@ -20,11 +25,6 @@ Bemerkung :3 S: , <p>Einschreibung am Lehrstuhl</p>,
 # Zeit
 Tag :3 S: Mo.
 Zeit :3 S: 13:30 bis 15:00
-Terminrhythmus :3 S: wöch.
-Bemerkung :3 S: , <p>Einschreibung am Lehrstuhl</p>,
-# Zeit
-Tag :3 S: Mi.
-Zeit :3 S: 11:00 bis 12:30
 Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: , <p>Einschreibung am Lehrstuhl</p>,
 # Personen

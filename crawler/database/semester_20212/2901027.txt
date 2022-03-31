@@ -15,8 +15,13 @@ Fakultät :3 S: Fakultät Bauingenieurwesen
 # Zeit
 Tag :3 S: Mi.
 Zeit :3 S: 11:00 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 11:00 bis 12:30
 Terminrhythmus :3 S: wöch.
-Bemerkung :3 S: , <p>Vorlesungen Online !</p>,
+Bemerkung :3 S: 
 # Personen
 Personen :3 S: Fakultät Bauingenieurwesen,Hans-Joachim Bargstädt :3 S: Fakultät Bauingenieurwesen,Sebastian Seiß :3 S: missing,Tino Walther :3 S: Fakultät Bauingenieurwesen,Birgit Bode
 # Beschreibung

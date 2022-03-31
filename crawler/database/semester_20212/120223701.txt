@@ -14,15 +14,30 @@ Sprache :3 S: englisch
 Fakultät :3 S: Fakultät Architektur und Urbanistik
 # Zeit
 Tag :3 S: Do.
-Zeit :3 S: 10:00 bis 13:00
-Terminrhythmus :3 S: unger. Wo
+Zeit :3 S: 09:15 bis 15:00
+Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: 
 # Zeit
 Tag :3 S: Do.
-Zeit :3 S: 10:00 bis 13:00
+Zeit :3 S: 09:15 bis 15:00
 Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 15:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 15:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 15:00
+Terminrhythmus :3 S: dreiwöch.
+Bemerkung :3 S: 
 # Personen
-Personen :3 S: missing,Karl Eckert
+Personen :3 S: Fakultät Architektur und Urbanistik,Karl Eckert
 # Beschreibung
 Beschreibung :3 S: The European Union is heavily investing in the transformation of the urban environment. This recognizes the key role cities play for realizing, for example, the ambitions of the European Green Deal. Upon closer inspection, broad EU policies are defined by historical, cultural, socio-economic and environmental aspects (among others). This makes EU funds and their use an important subject to debate. What are the current challenges being faced by EU regions? How can EU mechanisms be better integrated, support the goals of sustainable development and create the basis for a more just society? Are critical views being heard and are creative integrated solutions truly being implemented?

@@ -22,6 +22,11 @@ Tag :3 S: Di.
 Zeit :3 S: 07:30 bis 09:00
 Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 13:00 bis 14:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>digitale Prüfung</p>,
 # Personen
 Personen :3 S: Fakultät Bauingenieurwesen,Jürgen Ruth :3 S: Fakultät Architektur und Urbanistik,Katrin Linne
 # Beschreibung

@@ -9,8 +9,8 @@ Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: 
 Erwartete Teilnehmer/-innen :3 S: 
 Rhythmus :3 S: jedes 2. Semester
-Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fiib%2Flehre%2Fgeometrische-modellierung-und-technische-darstellung%2F&timestamp=1631111159804&hash=1dcc503a5409098be50757f9a898c16e
-Sprache :3 S: missing
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D35554&timestamp=1648740490146&hash=db15145326d21eb92ad78ddf4d99a7fa
+Sprache :3 S: deutsch
 Fakultät :3 S: Fakultät Bauingenieurwesen
 # Zeit
 Tag :3 S: Do.

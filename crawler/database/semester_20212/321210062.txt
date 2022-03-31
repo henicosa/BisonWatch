@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: ["\n\t\t\t\t\t\t\t\t\t\t        \tComputer's Cut - Generative Video Editing - Einzelansicht\n        "]
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51510&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 321210062
+Max. Teilnehmer/-innen :3 S: 18
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: englisch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: , <p>Moodle/BBB</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person :3 S: Fakultät Kunst und Gestaltung,Max Neupert
+# Beschreibung
+Beschreibung :3 S: Micro-editing is a technique of rearranging tiny fragments of media to form a new work. In the context of music, microhouse is a subgenre of house which employs this technique. Akufens Deck the House from 2002 may serve as an example. In the context of experimental film, Martin Arnold compiled his 1989 montage “Pièce Touchée” entirely from found-footage by copying frames in a specific order with an optical printer, emphasizing and amplifying gestures from the original movie. Steina Vasulka, Granular Synthesis and many other artists followed in exploring an aesthetic of deconstruction and reassembly of the timeline in moving images. In pop culture this “audiovisual cut-up” was used to expand the visual language of music clips and to have the audiences of live performances spellbound. Micro-edits are used in different contexts ranging from media art, experimental film-making to music clips and advertising. Digital video has become an almost infinite source of to-be-found-footage which is accessible to anyone, anytime through platforms like YouTube, which are essentially databases for moving images of almost any kind. They enabled pop culture phenomenons like supercuts: compilations of short shots of the same action, or YouTube Poop mashups of videos with a comical and at times immature humour: Today, meta information, close captions, machine learning analysis and music information retrieval can provide the means to generate automated edits. Real-time reassembly of media fragments based on databases, feature extraction or meta-information has become entirely feasible. In the class Computers Cut — Generative Video Editing we will learn to let algorithms cut and edit.

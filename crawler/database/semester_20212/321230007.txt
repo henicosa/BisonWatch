@@ -1,0 +1,38 @@
+Veranstaltungstitel :3 S: Game Culture Studies - Spiel / Bild / Kultur
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51574&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Wissenschaftliches Modul
+SWS :3 S: 4
+Veranstaltungsnummer :3 S: 321230007
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch
+Fakultät :3 S: Fakultät Kunst und Gestaltung
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:15 bis 10:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Eröffnungsveranstaltung im Saal des mon ami Kulturzentrums</p>,
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: unger. Wo
+Bemerkung :3 S: , <p>Online Veranstaltung bzw. Termin für Gruppenarbeiten etc.</p>,
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:15 bis 10:45
+Terminrhythmus :3 S: gerade Wo
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Alexander Schwinghammer :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Diese Veranstaltung bietet den Teilnehmenden eine Einführung in Spielformen und Spielkulturen sowie in die wichtigsten wissenschaftlichen Debatten und Diskussionen, die sie umgeben. Dabei wird geht es zum einen darum, wie sich Spiele zu den vielfältigen medialen Formen entwickelt haben, die wir heute kennen. Der Kurs nimmt dabei zum einen die Funktionen und Mechanismen von Spielen in den Blick. Zum anderen geht er Fragen der Darstellung innerhalb von Spielen und die verschiedenen Kulturen, die sie umgeben nach. Hierzu gehören zum Beispiel Spielproduktionskulturen, der (vermeintliche) Gegenstatz Narratologie und Ludologie, Subjektivität und Interaktivität, Serious Games, Modding und visuelle Kulturen in Spielen im Allgemeinen.

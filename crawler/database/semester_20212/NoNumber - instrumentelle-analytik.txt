@@ -1,5 +1,5 @@
 Veranstaltungstitel :3 S: Instrumentelle Analytik
-Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51599&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=53427&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
 # Grunddaten :3 S: 
 Veranstaltungsart :3 S: Sonstige Veranstaltung
 SWS :3 S: missing
@@ -11,10 +11,10 @@ Erwartete Teilnehmer/-innen :3 S:
 Rhythmus :3 S: 
 Hyperlink :3 S: missing
 Sprache :3 S: missing
-Fakultät :3 S: missing
+Fakultät :3 S: Fakultät Bauingenieurwesen
 # Zeit
 Tag :3 S: Do.
-Zeit :3 S: 09:15 bis 12:30
+Zeit :3 S: 09:15 bis 10:45
 Terminrhythmus :3 S: Einzel
 Bemerkung :3 S: 
 # Personen

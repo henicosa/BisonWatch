@@ -9,15 +9,20 @@ Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: 
 Erwartete Teilnehmer/-innen :3 S: 100
 Rhythmus :3 S: jedes 2. Semester
-Hyperlink :3 S: missing
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D35765&timestamp=1648740589821&hash=7e5a674049d935725a3eb2a63f4861dc
 Sprache :3 S: deutsch
-Fakultät :3 S: Fakultät Architektur und Urbanistik
+Fakultät :3 S: missing
 # Zeit
 Tag :3 S: Mi.
 Zeit :3 S: 13:00 bis 15:00
 Terminrhythmus :3 S: Einzel
-Bemerkung :3 S: , <p>Infos zum Auslandsteilstudium</p>,
+Bemerkung :3 S: , <p>Infos zum Auslandsteilstudium - englisch</p>,
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 13:00 bis 15:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Infos zum Auslandsteilstudium - deutsch</p>,
 # Personen
-Personen :3 S: Fakultät Architektur und Urbanistik,Bernhard Stratmann :3 S: Universitätsleitung /  Universitätsverwaltung,Andrea Weber :3 S: Universitätsleitung /  Universitätsverwaltung,Evelyn Beyer
+Personen :3 S: Fakultät Architektur und Urbanistik,Bernhard Stratmann :3 S: Gewährleistungsbereich,Andrea Weber :3 S: Gewährleistungsbereich,Evelyn Beyer
 # Beschreibung
 Beschreibung :3 S: Planung, Ablauf und Anrechnung von Auslandssemestern sowie Praktika im In- und Ausland stehen im Mittelpunkt der Veranstaltung. Zur Planung gehören auch Fragen der Finanzierung bzw. der finanziellen Förderung sowie Wege zum Erwerb bzw. Nachweis guter Sprachkenntnisse. Die Veranstaltung wird von der Fakultät Architektur und Urbanistik gemeinsam mit dem International Office der Bauhaus-Universität Weimar und dem Sprachenzentrum angeboten. Die Informationsveranstaltung richtet sich besonders an Studierende des 3. Fachsemester Bachelor Architektur, des 1. Fachsemesters Master Architektur und des 1. Fachsemester MediaArchitecture. Studierende aus anderen Fachsemestern können bei Interesse gerne teilnehmen. Für Urbanistik-Studierende (Bachelor und Master) werden eigene Veranstaltung angeboten. Für Studierende des 3. Fachsemesters Bachelor Architektur ist die Teilnahme an der Veranstaltung verbindlicher Bestandteil der Vorbereitung ihres Mobilitätssemesters.

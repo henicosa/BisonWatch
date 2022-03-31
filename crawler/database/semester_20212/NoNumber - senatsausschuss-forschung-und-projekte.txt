@@ -28,5 +28,5 @@ Zeit :3 S: 12:30 bis 17:30
 Terminrhythmus :3 S: Einzel
 Bemerkung :3 S: 
 # Personen
-Personen :3 S: Universitätsleitung /  Universitätsverwaltung,Winfried Speitkamp
+Personen :3 S: Gewährleistungsbereich,Winfried Speitkamp
 # Beschreibung

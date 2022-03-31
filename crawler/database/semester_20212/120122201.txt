@@ -13,15 +13,55 @@ Hyperlink :3 S: missing
 Sprache :3 S: deutsch/englisch
 Fakultät :3 S: Fakultät Architektur und Urbanistik
 # Zeit
-Tag :3 S: Di.
-Zeit :3 S: 12:30 bis 16:45
-Terminrhythmus :3 S: wöch.
+Tag :3 S: Fr.
+Zeit :3 S: 13:00 bis 20:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: 09:00 bis 18:00
+Terminrhythmus :3 S: BlockWE
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: 09:00 bis 17:00
+Terminrhythmus :3 S: Block
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: 09:00 bis 17:00
+Terminrhythmus :3 S: Block
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: 09:00 bis 17:00
+Terminrhythmus :3 S: Block
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Fr.
+Zeit :3 S: 14:00 bis 20:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Zwischenkritik,</p>, <br/>, <p>online via BBB</p>,
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: 09:00 bis 17:00
+Terminrhythmus :3 S: Block
+Bemerkung :3 S: , <p>online via BBB</p>,
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: 09:00 bis 17:00
+Terminrhythmus :3 S: Block
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: missing
+Zeit :3 S: 09:00 bis 17:00
+Terminrhythmus :3 S: Block
 Bemerkung :3 S: 
 # Zeit
 Tag :3 S: Mi.
-Zeit :3 S: 09:15 bis 12:30
-Terminrhythmus :3 S: wöch.
-Bemerkung :3 S: 
+Zeit :3 S: 09:00 bis 17:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Schlusspräsentation</p>,
 # Personen
 Personen :3 S: Fakultät Architektur und Urbanistik,Fritz Barth :3 S: Fakultät Bauingenieurwesen,Juliane Steffen
 # Beschreibung

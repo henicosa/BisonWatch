@@ -4,9 +4,9 @@ Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=
 Veranstaltungsart :3 S: Seminar
 SWS :3 S: 2
 Veranstaltungsnummer :3 S: 118222806
-Max. Teilnehmer/-innen :3 S: 16
+Max. Teilnehmer/-innen :3 S: 23
 Semester :3 S: WiSe 2021/22
-Zugeordnetes Modul :3 S: European Urban Studies, M.Sc. PO 2020\r, <br/>, European Cities\r, <br/>, European Urban Studies, M.Sc. PO 18\r, <br/>, European Cities
+Zugeordnetes Modul :3 S: European Urban Studies, M.Sc. PO 2020\r, <br/>, European Cities\r, <br/>, European Urban Studies, M.Sc. PO 18\r, <br/>, European Cities\r, <br/>,  , <br/>, Urbanistik, M.Sc. PO 2021\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 2020 2-semestrig\r, <br/>, Wahlpflichtmodul
 Erwartete Teilnehmer/-innen :3 S: 16
 Rhythmus :3 S: 
 Hyperlink :3 S: missing
@@ -15,7 +15,12 @@ Fakultät :3 S: Fakultät Architektur und Urbanistik
 # Zeit
 Tag :3 S: Mi.
 Zeit :3 S: 09:15 bis 12:30
-Terminrhythmus :3 S: wöch.
+Terminrhythmus :3 S: gerade Wo
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: gerade Wo
 Bemerkung :3 S: 
 # Personen
 Personen :3 S: Fakultät Architektur und Urbanistik,Daniela Zupan

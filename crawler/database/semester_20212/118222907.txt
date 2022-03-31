@@ -17,6 +17,11 @@ Tag :3 S: Mo.
 Zeit :3 S: 09:15 bis 10:45
 Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: , <p>HS A</p>,
+# Zeit
+Tag :3 S: Mo.
+Zeit :3 S: 19:00 bis 20:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
 # Personen
 Personen :3 S: Fakultät Architektur und Urbanistik,Barbara Schönig
 # Beschreibung

@@ -9,19 +9,24 @@ Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: 
 Erwartete Teilnehmer/-innen :3 S: 
 Rhythmus :3 S: jedes 2. Semester
-Hyperlink :3 S: missing
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D35316&timestamp=1648741157885&hash=ba51b60b63016ae1702ddf99adcc37e9
 Sprache :3 S: deutsch
 Fakultät :3 S: Fakultät Bauingenieurwesen
 # Zeit
 Tag :3 S: Do.
+Zeit :3 S: 13:30 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
 Zeit :3 S: 13:30 bis 15:00
 Terminrhythmus :3 S: wöch.
-Bemerkung :3 S: 
+Bemerkung :3 S: , <p>VL am 09.12.21 findet im SR 107 Dürerstr. 2 statt!</p>,
 # Zeit
 Tag :3 S: Do.
 Zeit :3 S: 15:15 bis 16:45
 Terminrhythmus :3 S: unger. Wo
-Bemerkung :3 S: 
+Bemerkung :3 S: , <p>VL am 09.12.21 findet im SR 107 Dürerstr. 2 statt!</p>,
 # Personen
 Personen :3 S: Fakultät Bauingenieurwesen,Jörg Londong :3 S: Fakultät Bauingenieurwesen,Ralf Englert
 # Beschreibung

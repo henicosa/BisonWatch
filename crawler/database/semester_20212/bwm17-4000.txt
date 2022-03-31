@@ -9,7 +9,7 @@ Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: 
 Erwartete Teilnehmer/-innen :3 S: 
 Rhythmus :3 S: jedes 2. Semester
-Hyperlink :3 S: missing
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fmoodle.uni-weimar.de%2Fcourse%2Fview.php%3Fid%3D35989&timestamp=1648741460924&hash=11a1fc18c2965b18f3f2dac0a4b59818
 Sprache :3 S: deutsch
 Fakultät :3 S: Fakultät Bauingenieurwesen
 # Zeit
@@ -21,6 +21,11 @@ Bemerkung :3 S: , <p>C11B 109</p>,
 Tag :3 S: Do.
 Zeit :3 S: 09:15 bis 12:30
 Terminrhythmus :3 S: unger. Wo
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:15 bis 12:30
+Terminrhythmus :3 S: Einzel
 Bemerkung :3 S: 
 # Personen
 Personen :3 S: Fakultät Bauingenieurwesen,Andrea Osburg :3 S: Fakultät Bauingenieurwesen,Alexander Flohr :3 S: Fakultät Bauingenieurwesen,Ulrike Schirmer

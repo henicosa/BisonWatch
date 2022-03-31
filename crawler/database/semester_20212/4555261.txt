@@ -22,6 +22,11 @@ Tag :3 S: Do.
 Zeit :3 S: 13:30 bis 15:00
 Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: , <p>Übung - Online (Moodle)</p>,
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 09:00 bis 11:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Klausur</p>,
 # Personen
 Personen :3 S: Fakultät Medien,Charles Wüthrich :3 S: Fakultät Medien,Gianluca Pandolfo :3 S: Fakultät Medien,Francesco Andreussi
 # Beschreibung

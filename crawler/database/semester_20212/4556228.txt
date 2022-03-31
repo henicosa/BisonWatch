@@ -9,25 +9,25 @@ Semester :3 S: WiSe 2021/22
 Zugeordnetes Modul :3 S: 
 Erwartete Teilnehmer/-innen :3 S: 
 Rhythmus :3 S: jedes 2. Semester
-Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Fde%2Fmedien%2Fprofessuren%2Fmedieninformatik%2Fvr%2Fteaching%2Fws-202021%2Fcourse-virtual-reality%2F&timestamp=1631112643235&hash=1a75f4a96c18f4aaadd998eeee0bc292
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=https%3A%2F%2Fwww.uni-weimar.de%2Findex.php%3Fid%3D63211&timestamp=1648741387928&hash=fe62c1df52c0a20bd188b4cfe9c808ae
 Sprache :3 S: englisch
 Fakultät :3 S: Fakultät Medien
 # Zeit
 Tag :3 S: Di.
 Zeit :3 S: 15:15 bis 16:45
 Terminrhythmus :3 S: wöch.
-Bemerkung :3 S: , <p>Lecture, online (recorded), Moodle Link: <a href=https://moodle.uni-weimar.de/course/view.php?id=28154>https://moodle.uni-weimar.de/course/view.php?id=28154</a></p>,
+Bemerkung :3 S: , <p>Lecture, online (recorded), Moodle Link: https://moodle.uni-weimar.de/course/view.php?id=35223</p>,
 # Zeit
 Tag :3 S: Fr.
 Zeit :3 S: 09:15 bis 10:45
 Terminrhythmus :3 S: wöch.
-Bemerkung :3 S: , <p>Übung Gruppe A, Starttermin wird noch bekannt gegeben</p>,
+Bemerkung :3 S: , <p>Übung Gruppe A, Starttermin wird noch bekannt gegeben </p>, <br/>, <p>(online)</p>,
 # Zeit
 Tag :3 S: Fr.
 Zeit :3 S: 11:00 bis 12:30
 Terminrhythmus :3 S: wöch.
-Bemerkung :3 S: , <p>Übung Gruppe B - Starttermin wird noch bekannt gegeben</p>,
+Bemerkung :3 S: , <p>Übung Gruppe B - Starttermin wird noch bekannt gegeben</p>, <br/>, <p>(online)</p>,
 # Personen
-Personen :3 S: Fakultät Medien,Bernd Fröhlich :3 S: Fakultät Medien,Sebastian Stickert :3 S: Fakultät Medien,Tim Weißker :3 S: Fakultät Medien,Ephraim Schott :3 S: Fakultät Medien,Clara Bimberg :3 S: Fakultät Medien,André Kunert
+Personen :3 S: Fakultät Medien,Bernd Fröhlich :3 S: Fakultät Medien,Sebastian Stickert :3 S: Fakultät Medien,Tim Weißker :3 S: Fakultät Medien,Ephraim Schott :3 S: missing,Clara Bimberg :3 S: Fakultät Medien,André Kunert
 # Beschreibung
 Beschreibung :3 S: Virtual Reality (VR) erfreut sich seit mehreren Jahren großer Beliebtheit in Forschung, Unterhaltung und Bildung. VR-Systeme ermöglichen die Interaktion einer oder mehrerer Benutzerinnen mit einer computersimulierten Umgebung, welche dreidimensional auf einem stereoskopischen Display dargestellt wird. In diesem Kurs lernen Sie die theoretischen, technischen und angewandten Grundlagen moderner Virtual Reality-Systeme genauer kennen.

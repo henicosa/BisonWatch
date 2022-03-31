@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Schwedisch 4 (A 2.2)
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50430&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Kurs
+SWS :3 S: 3
+Veranstaltungsnummer :3 S: 5202200
+Max. Teilnehmer/-innen :3 S: 
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: jedes Semester
+Hyperlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=redirect&destination=http%3A%2F%2Fwww.uni-weimar.de%2Fcms%2Funiversitaet%2Fzentrale-einrichtungen%2Fsprachenzentrum.html&timestamp=1648741133189&hash=db937aa9d3a2d3c32807242935e7e9a8
+Sprache :3 S: missing
+Fakultät :3 S: missing
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 16:00 bis 18:00
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: missing,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Für diesen Kurs steht noch kein Termin fest. Dieser wird zusammen mit den Teilnehmern im Rahmen einer Vorbesprechung am , <strong>13. April 13.00 Uhr</strong>,  im Sprachenzentrum, festgelegt. Wenn Sie sich für diesen Kurs interessieren, wechseln Sie bitte auf die Internetseiten des Sprachenzentrums (s. obiger Link). Hier finden Sie ein Termin-Umfrageformular, mit dessen Hilfe gleichzeitig die Zahl der Interessenten ermittelt werden kann.Über das Zustandekommen eines Kurses entscheidet die Zahl der Teilnehmer, die ihre Gebühren fristgerecht entrichtet haben.

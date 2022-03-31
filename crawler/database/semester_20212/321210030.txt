@@ -1,0 +1,23 @@
+Veranstaltungstitel :3 S: Eine eigene Website schreiben
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=52069&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Fachmodul
+SWS :3 S: 6
+Veranstaltungsnummer :3 S: 321210030
+Max. Teilnehmer/-innen :3 S: 15
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: 
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: 
+Hyperlink :3 S: missing
+Sprache :3 S: deutsch/englisch
+Fakultät :3 S: missing
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 11:00 bis 15:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Online-Veranstaltung</p>,
+# Personen
+Personen :3 S: Fakultät Kunst und Gestaltung,Mattis Kuhn :3 S: Fakultät Kunst und Gestaltung,Jörn Hintzer :3 S: Fakultät Kunst und Gestaltung,keine öffentliche Person
+# Beschreibung
+Beschreibung :3 S: Durch Templates und die Nutzung von CMS schwinden die individuellen Ausdrucksmöglichkeiten und die meisten Websites ähneln sich. Dem entgegen »schreiben« wir in diesem Seminar Websites mittels Codes (HTML, CSS, JavaScript). Die gelernten Grundlagen werden in einem individuellen Projekt angewendet, bspw. in Form einer Portfolio-Page, einer experimentellen Website oder einer wohldefinierten web-basierten Visitenkarte.

@@ -1,0 +1,22 @@
+Veranstaltungstitel :3 S: 5. Planungsprojekt: XXX QUADRATMETER ILLIBERALE STADT
+Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51419&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+# Grunddaten :3 S: 
+Veranstaltungsart :3 S: Projekt
+SWS :3 S: 8
+Veranstaltungsnummer :3 S: 1714115
+Max. Teilnehmer/-innen :3 S: 7
+Semester :3 S: WiSe 2021/22
+Zugeordnetes Modul :3 S: Urbanistik, B.Sc. PO 2020\r, <br/>, Wahlpflichtprojekte - 3. Studienjahr\r, <br/>, Urbanistik, B.Sc. PO 14\r, <br/>, Wahlpflichtprojekte - 3. Studienjahr
+Erwartete Teilnehmer/-innen :3 S: 
+Rhythmus :3 S: einmalig
+Hyperlink :3 S: missing
+Sprache :3 S: missing
+Fakultät :3 S: Fakultät Architektur und Urbanistik
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: wöch.
+Bemerkung :3 S: 
+# Personen
+Personen :3 S: Fakultät Architektur und Urbanistik,Max Welch Guerra :3 S: Fakultät Architektur und Urbanistik,Daniela Zupan
+# Beschreibung

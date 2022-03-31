@@ -1,4 +1,4 @@
-Veranstaltungstitel :3 S: In Search of a Pattern That Connects: Gregory Batesons ecological aesthetics and designing within a more than human world
+Veranstaltungstitel :3 S: In Search of a Pattern That Connects: Gregory Batesons ecological aesthetics and designing within a more than human world (Ma)
 Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=51314&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
 # Grunddaten :3 S: 
 Veranstaltungsart :3 S: Seminar
@@ -6,7 +6,7 @@ SWS :3 S: 2
 Veranstaltungsnummer :3 S: 121223001
 Max. Teilnehmer/-innen :3 S: 20
 Semester :3 S: WiSe 2021/22
-Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Theorie\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Theorie\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Theorie\r, <br/>,  , <br/>, MediaArchitecture, M.Sc. PO 2020\r, <br/>, Theoriemodule - Architekturtheorie\r, <br/>, MediaArchitecture, M.Sc. PO 18\r, <br/>,  Theoriemodule - Architekturtheorie
+Zugeordnetes Modul :3 S: Architektur, M.Sc. PO 2020\r, <br/>, Wahlpflichtmodul - Theorie\r, <br/>, Architektur, M.Sc. PO 18\r, <br/>, Wahlpflichtmodul - Theorie\r, <br/>, Architektur, M.Sc. PO 14\r, <br/>, Wahlpflichtmodul - Theorie\r, <br/>,  , <br/>, Urbanistik, M.Sc. PO 2021\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 2020 4-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 2020 2-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>, Urbanistik, M.Sc. PO 17 4-semestrig\r, <br/>, Wahlpflichtmodul\r, <br/>,  , <br/>, MediaArchitecture, M.Sc. PO 2020\r, <br/>, Theoriemodule - Architekturtheorie\r, <br/>, MediaArchitecture, M.Sc. PO 18\r, <br/>,  Theoriemodule - Architekturtheorie
 Erwartete Teilnehmer/-innen :3 S: 
 Rhythmus :3 S: einmalig
 Hyperlink :3 S: missing
@@ -18,6 +18,6 @@ Zeit :3 S: 11:00 bis 12:30
 Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: 
 # Personen
-Personen :3 S: Fakultät Architektur und Urbanistik,Leonie Link :3 S: Fakultät Architektur und Urbanistik,Dulmini Perera
+Personen :3 S: missing,Leonie Link :3 S: Fakultät Architektur und Urbanistik,Dulmini Perera
 # Beschreibung
 Beschreibung :3 S: “What pattern connects the crab to the lobster and the orchid to the primrose and all of them to me? And me to you? And all six of us to the amoeba in one direction and to the back-ward schizophrenic in another?” (Bateson, 1978), <br>What pattern connects this question to you, me, and us as we work in times of ecological crisis, a time of many proposals such as Green New Deals and a call for a New Bauhaus?</br>

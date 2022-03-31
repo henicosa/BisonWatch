@@ -17,7 +17,22 @@ Tag :3 S: Di.
 Zeit :3 S: 09:15 bis 16:45
 Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 13:30 bis 18:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Mi.
+Zeit :3 S: 13:30 bis 18:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:00 bis 20:00
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <p>Abschlusspräsentation digital</p>,
 # Personen
 Personen :3 S: Fakultät Architektur und Urbanistik,Johannes Kühn :3 S: Fakultät Architektur und Urbanistik,Robert Ochsenfarth :3 S: <img alt=BISON-Portal border=0 high=68 src=/QIS/images/bison.jpg width=150/>, N.N.
 # Beschreibung
-Beschreibung :3 S: Zulassung zum Bachelorstudium
+Beschreibung :3 S: Im Wintersemester 21/22 wird sich das 3.Kernmodul an unserem Lehrstuhl mit einem Projekt für den Segelverein Turbine Bleiloch beschäftigen, um dem schönen, im Dornröschenschlaf versunkenen Grundstück des Vereins neuen Wind zu geben und Denkanstöße für weitere Planungen zu schaffen.

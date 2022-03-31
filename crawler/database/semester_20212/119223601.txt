@@ -11,12 +11,17 @@ Erwartete Teilnehmer/-innen :3 S:
 Rhythmus :3 S: jedes 2. Semester
 Hyperlink :3 S: missing
 Sprache :3 S: deutsch
-Fakultät :3 S: Fakultät Architektur und Urbanistik
+Fakultät :3 S: Fakultät Bauingenieurwesen
 # Zeit
 Tag :3 S: Mo.
 Zeit :3 S: 13:30 bis 15:00
 Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Di.
+Zeit :3 S: 09:00 bis 10:30
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: , <div class=ChangeReadOnlyInput style=text-align: left; width: auto;>Präsenzprüfung</div>,
 # Personen
 Personen :3 S: Fakultät Bauingenieurwesen,Jörg Londong :3 S: Fakultät Bauingenieurwesen,Ralf Englert
 # Beschreibung

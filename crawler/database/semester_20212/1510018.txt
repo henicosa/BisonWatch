@@ -17,6 +17,11 @@ Tag :3 S: Do.
 Zeit :3 S: 09:15 bis 16:45
 Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: 
+# Zeit
+Tag :3 S: Do.
+Zeit :3 S: 09:15 bis 16:45
+Terminrhythmus :3 S: Einzel
+Bemerkung :3 S: 
 # Personen
 Personen :3 S: Fakultät Architektur und Urbanistik,Sigrun Langner :3 S: Fakultät Architektur und Urbanistik,Pia Müller :3 S: Fakultät Architektur und Urbanistik,Atidh Langbein
 # Beschreibung

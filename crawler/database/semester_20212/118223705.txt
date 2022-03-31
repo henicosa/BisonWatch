@@ -1,4 +1,4 @@
-Veranstaltungstitel :3 S: Reflective Urban Practice – Model Project Preparatory Course
+Veranstaltungstitel :3 S: Reflective Urban Practice: Model Project Preparatory Course
 Bisonlink :3 S: https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=50933&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
 # Grunddaten :3 S: 
 Veranstaltungsart :3 S: Seminar
@@ -13,7 +13,7 @@ Hyperlink :3 S: missing
 Sprache :3 S: englisch
 Fakultät :3 S: Fakultät Architektur und Urbanistik
 # Zeit
-Tag :3 S: Mo.
+Tag :3 S: Mi.
 Zeit :3 S: 09:15 bis 10:45
 Terminrhythmus :3 S: wöch.
 Bemerkung :3 S: 
