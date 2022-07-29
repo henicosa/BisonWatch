@@ -9,7 +9,10 @@ import { mosaicplot, sliceAndDice } from "./vislibs/mosaicplot";
 import { createHierarchy } from "./vislibs/hierarchy";
 import marked from "marked";
 import whatwhyhow from "./whatwhyhow.md";
-import { parallelcoordinates } from "./parallelcoordinates";*/
+import { parallelcoordinates } from "./parallelcoordinates";
+
+English Version
+*/
 
 var dataset = "../../data/" + global_settings["most_recent_dataset"]["id"] + ".csv"
 
@@ -21,7 +24,6 @@ loadBisonDataset(dataset).then((bisond) => {
   const svg = d3.select("#alphabet")
     .attr("viewBox", [0, 0, width, height]);
 
-  
   const svg2 = d3.select("#legend")
 
   // Create legend vertical 
@@ -127,7 +129,6 @@ function update(svg, attributeSelect, bisond, height, width, translate) {
     "faculty": (d) => d.faculty
   }
 
-  console.log(data)
 
   var data = Array.from(d3.group(bisond, get_att[attribute]))
 
@@ -208,7 +209,6 @@ function update(svg, attributeSelect, bisond, height, width, translate) {
         .text(data.y))
 
   var cdata = stack(data)
-  console.log(data)
 
   const groups = svg.append('g')
   // Each layer of the stack goes in a group
