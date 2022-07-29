@@ -11,9 +11,10 @@ import marked from "marked";
 import whatwhyhow from "./whatwhyhow.md";
 import { parallelcoordinates } from "./parallelcoordinates";*/
 
+var dataset = "../../data/" + global_settings["most_recent_dataset"]["id"] + ".csv"
 
 // Laden der Bisondaten
-loadBisonDataset("../../data/" + global_settings["most_recent_dataset"]["id"] + ".csv").then((bisond) => {
+loadBisonDataset(dataset).then((bisond) => {  
   var height = 500
   var width = 932
 
@@ -35,16 +36,22 @@ loadBisonDataset("../../data/" + global_settings["most_recent_dataset"]["id"] + 
   svg2.append("text").attr("x", 20).attr("y", 110).text("Sonstiges").attr("alignment-baseline","middle") 
 
   var translator = {
-    "faculty": "Fakultät",
-    "language": "Sprache",
+    "faculty": "Faculty",
+    "language": "Language",
     "day": "Tag",
     "Tag": "day",
     "SWS": "sws",
     "sws": "SWS",
     "courseType": "Veranstaltungsart",
-    "missing" : "Nicht gegeben", 
-    "Not specified": "Nicht gegeben",
-    "NaN" : "Nicht gegeben"
+    "Veranstaltungsart": "courseType",
+    "Course type": "courseType",
+    "Sprache": "language",
+    "language": "Sprache",
+    "faculty": "Fakultät",
+    "Fakultät": "faculty",
+
+    "missing" : "Not specified", 
+       "NaN" : "Not specified"
   }
 
   function translate(word) {
@@ -94,6 +101,7 @@ function update(svg, attributeSelect, bisond, height, width, translate) {
 
   var type = ["Seminar","Vorlesung","Projektmodul","Integrierte Vorlesung","Sonstiges"];
 
+  console.log(attribute)
   const get_att = {
     "sws": (d) => d.sws,
     "day": (d) => d.day,
@@ -102,7 +110,6 @@ function update(svg, attributeSelect, bisond, height, width, translate) {
     "faculty": (d) => d.faculty
   }
 
-  //console.log(data)
 
   var data = Array.from(d3.group(bisond, get_att[attribute]))
 
