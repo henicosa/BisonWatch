@@ -5,3 +5,4 @@ code/crawler/.idea
 .vscode
 node_modules
 __pycache__
+build
