@@ -54,10 +54,17 @@ def process_url(url, dataset):
     soup = BeautifulSoup(r.text, 'html.parser')
     tags = soup.find_all(re.compile("td"))
 
-    filename = strip(tags[4].contents[0])
-    course_title = str(soup.find("h1").contents) \
-        .removesuffix(" - Einzelansicht\\n        ']") \
-        .removeprefix("['\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t        \\t")
+    try:
+        filename = strip(tags[4].contents[0])
+    except Exception:
+        print("Crawler: Fehler bei url " + url)
+    try:
+        course_title = str(soup.find("h1").contents) \
+            .removesuffix(" - Einzelansicht\\n        ']") \
+            .removeprefix("['\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t        \\t")
+    except Exception: 
+        print("Kein Kurstitel gefunden für " + url)
+        course_title = Missing
 
     if len(filename) < 2:
         filename = "NoNumber - " + slugify(strip(course_title))
@@ -65,24 +72,27 @@ def process_url(url, dataset):
         filename = slugify(filename)
 
     f = open("database/semester_" + dataset + "/" + filename + '.txt', 'w')
-    f.write("Veranstaltungstitel" + delimiter + course_title + "\n")
-    f.write("Bisonlink" + delimiter + url + "\n")
-    f.write('# Grunddaten' + delimiter + "\n")
-    f.write('Veranstaltungsart' + delimiter + strip(tags[2].contents) + "\n")
-    if len(strip(tags[3].contents)) == 0:
-        f.write('SWS' + delimiter + "missing" + "\n")
-    else:
-        f.write('SWS' + delimiter + strip(tags[3].contents) + "\n")
-    f.write('Veranstaltungsnummer' + delimiter + strip(tags[4].contents) + "\n")
-    f.write('Max. Teilnehmer/-innen' + delimiter + strip(tags[5].contents) + "\n")
-    f.write('Semester' + delimiter + strip(tags[6].contents) + "\n")
-    f.write('Zugeordnetes Modul' + delimiter + strip(tags[7].contents) + "\n")
-    f.write('Erwartete Teilnehmer/-innen' + delimiter + strip(tags[8].contents) + "\n")
-    f.write('Rhythmus' + delimiter + strip(tags[9].contents) + "\n")
+    try: 
+        f.write("Veranstaltungstitel" + delimiter + course_title + "\n")
+        f.write("Bisonlink" + delimiter + url + "\n")
+        f.write('# Grunddaten' + delimiter + "\n")
+        f.write('Veranstaltungsart' + delimiter + strip(tags[2].contents) + "\n")
+        if len(strip(tags[3].contents)) == 0:
+            f.write('SWS' + delimiter + "missing" + "\n")
+        else:
+            f.write('SWS' + delimiter + strip(tags[3].contents) + "\n")
+        f.write('Veranstaltungsnummer' + delimiter + strip(tags[4].contents) + "\n")
+        f.write('Max. Teilnehmer/-innen' + delimiter + strip(tags[5].contents) + "\n")
+        f.write('Semester' + delimiter + strip(tags[6].contents) + "\n")
+        f.write('Zugeordnetes Modul' + delimiter + strip(tags[7].contents) + "\n")
+        f.write('Erwartete Teilnehmer/-innen' + delimiter + strip(tags[8].contents) + "\n")
+        f.write('Rhythmus' + delimiter + strip(tags[9].contents) + "\n")
+    except Exception:
+        print("Hinweis: Fehler beim Schreiben der Tags für " + url)
     hyperlink = ""
     try:
         hyperlink = tags[10].find("a")["href"]
-    except:
+    except Exception:
         hyperlink = "missing"
     f.write('Hyperlink' + delimiter + hyperlink + "\n")
     try:
@@ -124,17 +134,20 @@ def process_url(url, dataset):
         # print("Hinweis: Keine Veranstaltungstermine für " + filename)
         tags = []
     if tags:
-        for i in range(int((len(tags)) / 11)):
-            f.write('# Zeit' + "\n")
-            day = strip(tags[i * 11 + 1].contents)
-            if len(day) < 1 or day not in ["Mo.", "Di.", "Mi.", "Do.", "Fr.", "Sa.", "So."]:
-                f.write('Tag' + delimiter + "missing" + "\n")
-            else:
-                f.write('Tag' + delimiter + day + "\n")
-            f.write('Zeit' + delimiter + strip(tags[i * 11 + 2].contents).replace("\\xa0bis\\xa0", " - ") + "\n")
+        try:
+            for i in range(int((len(tags)) / 11)):
+                f.write('# Zeit' + "\n")
+                day = strip(tags[i * 11 + 1].contents)
+                if len(day) < 1 or day not in ["Mo.", "Di.", "Mi.", "Do.", "Fr.", "Sa.", "So."]:
+                    f.write('Tag' + delimiter + "missing" + "\n")
+                else:
+                    f.write('Tag' + delimiter + day + "\n")
+                f.write('Zeit' + delimiter + strip(tags[i * 11 + 2].contents).replace("\\xa0bis\\xa0", " - ") + "\n")
 
-            f.write('Terminrhythmus' + delimiter + strip(tags[i * 11 + 3].contents) + "\n")
-            f.write('Bemerkung' + delimiter + strip(tags[i * 11 + 8].contents) + "\n")
+                f.write('Terminrhythmus' + delimiter + strip(tags[i * 11 + 3].contents) + "\n")
+                f.write('Bemerkung' + delimiter + strip(tags[i * 11 + 8].contents) + "\n")
+        except Exception:
+            print("Fehler beim Lesen der Tags für " + url)
     try:
         tags = soup.find(attrs={"summary": "Verantwortliche Dozenten"}).find_all("td")
     except Exception:
@@ -144,7 +157,10 @@ def process_url(url, dataset):
     if tags:
         f.write('Personen')
         for i in range(int((len(tags) / 2))):
-            person_entry = strip(tags[i * 2].find("a").contents).split(",")
+            try:
+                person_entry = strip(tags[i * 2].find("a").contents).split(",")
+            except Exception:
+                print("Hinweis: Kein Personenlink bei " + url)
             # Teste ob Vor- und Nachname gegeben sind
             if len(person_entry) > 1:
                 regular_name = strip(person_entry[1]).split(" ")[0] + " " + strip(person_entry[0])
@@ -162,8 +178,10 @@ def process_url(url, dataset):
         # print("Hinweis: Keine Beschreibung für " + filename)
         tags = []
     if tags and tags[0].find("p"):
-        f.write('Beschreibung' + delimiter + strip(tags[0].find("p").contents) + "\n")
-
+        try:
+            f.write('Beschreibung' + delimiter + strip(tags[0].find("p").contents) + "\n")
+        except Exception:
+            print("Keine Beschreibung für " + url)
 
 def find_teachers_faculty(url):
     headers = {'user-agent': 'bisonwatch-vis_project_2021'}
@@ -173,6 +191,7 @@ def find_teachers_faculty(url):
         faculty = strip(person_soup.find_all("h2", string="Strukturbaum")[0].find_next("a").find_next("a").contents)
     except Exception:
         faculty = None
+        print("Hinweis: Keine Fakultät im Strukturbaum für " + url)
     if faculty and faculty != "Startseite":
         return faculty
     try:
@@ -189,6 +208,7 @@ def find_teachers_faculty(url):
                 einrichtung_soup.find_all("h2", string="Strukturbaum")[0].find_next("a").find_next("a").contents)
         except Exception:
             faculty = None
+            print("Keine Fakultät bei " + einrichtung_url)
         if faculty:
             return faculty
     # print("Fakultät fehlt für " + url)
