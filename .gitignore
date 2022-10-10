@@ -1,5 +1,5 @@
 npm-debug.log
-code/crawler/database
+crawler/database
 code/crawler/__pycache__
 code/crawler/.idea
 .vscode

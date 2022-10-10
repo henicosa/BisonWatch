@@ -5,7 +5,7 @@ import data2csv as d2c
 
 import re
 numelem = 10000
-year = "2021"
+year = "2022"
 # 1 für Sommer, 2 für Winter
 semester = "2"
 dataset = year + semester
@@ -23,10 +23,13 @@ for elem in soup.findAll("a", class_="linkAsButton"):
     search_link_queue.append(elem["href"])
 for search_link in search_link_queue:
     r = requests.get(search_link, headers=headers, params=payload)
+    print("Meta: Liste wird erstellt auf Basis von " + r.url)
     soup = BeautifulSoup(r.text, 'html.parser')
-    course_tags = soup("a", "regular")
-    for i in range(len(course_tags)-3):
-        course_link = course_tags[3+i]["href"]
+    course_tags = soup.find_all(attrs={"summary" : "Übersicht über alle Veranstaltungen"})[0]("tr")
+    for i in range(len(course_tags)-1):
+        course_link = course_tags[1+ i]
+        course_link = course_link.find_all("td")[1]
+        course_link = course_link.find("a")["href"]
         link_queue.append(course_link)
         numelem -= 1
         if numelem < 0:
@@ -34,6 +37,8 @@ for search_link in search_link_queue:
     if numelem < 0:
         break
 #print(link_queue)
+
+
 
 for link in link_queue:
     try:
