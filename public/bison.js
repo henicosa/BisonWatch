@@ -1,4 +1,5 @@
 import { dsv, isoParse } from "d3";
+import global_settings from './general_settings.json';
 
 export async function loadBisonDataset(dataset) {
   console.log("Loading dataset for " + dataset)
@@ -14,10 +15,6 @@ export async function loadBisonDataset(dataset) {
   }));
 }
 
-export let general_settings = {
-  "most_recent_dataset" : {
-      "id" : "bisondata20222",
-      "verbose_de" : "Wintersemester 2022",
-      "verbose_en" : "winter term 2022"
-  }
-};
+
+// Parse JSON data into a JavaScript object
+export {global_settings}

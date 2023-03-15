@@ -22,16 +22,24 @@
             
             <div class="w3-panel w3-pale-green">
                 <p id="description">Diese Visualisierungen veranschaulichen die Daten des Bisonportals der Bauhaus-Universität Weimar in verschiedenen Zusammenhängen. </p>
+                <p id="term-information">Jetzt mit Daten aus dem </p>
             </div>
-            <div class="w3-panel w3-pale-green">
-                <p id="term-information">Jetzt mit Daten aus dem Wintersemester 2022/23.</p>
-            </div>
+            <script>
+                fetch('./general_settings.json')
+                .then(response => response.json())
+                .then(data => {
+                    // Get the element by its ID using document.querySelector()
+                    const sourceInformation = document.querySelector('#term-information');
+                    // Overwrite the contents of the element with "Hello"
+                    sourceInformation.innerHTML = "Jetzt mit Daten aus dem <b>" + data["most_recent_dataset"]["verbose_de"] + "</b>.";
+                });
+            </script>
             <ol>
                 <center>Du willst... <br /> </center>
                 <div class="container">
-                    <a href="de/parallel_sets/" class="button"> <i class="icon fa fa-indent"></i>...Kurse filtern</a><br><br>
-                    <a href="de/lecturer_network/" class="button"> <i class="icon fa fa-spinner"></i>...Lehrende erforschen</a><br><br>
-                    <a href="de/bar_chart/" class="button"> <i class="icon fa fa-bar-chart"></i>...Fakultäten vergleichen</a><br><br>
+                    <a href="de/parallel_sets/" class="button">...Kurse filtern</a><br><br>
+                    <a href="de/lecturer_network/" class="button">...Lehrende erforschen</a><br><br>
+                    <a href="de/bar_chart/" class="button">...Fakultäten vergleichen</a><br><br>
                 </div>
             </ol>
 

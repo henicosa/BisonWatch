@@ -1,6 +1,6 @@
 import * as d3 from "d3";
 import { sankey as Sankey, sankeyLinkHorizontal as SLH } from 'd3-sankey';
-import { loadBisonDataset, global_settings } from "../bison";
+import { loadBisonDataset, global_settings } from "../../bison.js";
 
 
 var dataset = "../../data/" + global_settings["most_recent_dataset"]["id"] + ".csv"

@@ -1,6 +1,6 @@
 import * as d3 from "d3";
 //import { convertSkypackImportMapToLockfile } from "snowpack/lib/util";
-import { loadBisonDataset, global_settings } from "../bison";
+import { loadBisonDataset, global_settings } from "../../bison.js";
 
 
 // Importe für alte Visualisierungen

@@ -20,13 +20,24 @@
         <div class="w3-container">
         <div class="w3-panel w3-pale-green">
             <p id="description">These visualisations illustrate the data of the Bison Portal of the Bauhaus-Universität Weimar in different contexts. </p>
+            <p id="term-information"> </p>
         </div>
+        <script>
+            fetch('./../general_settings.json')
+            .then(response => response.json())
+            .then(data => {
+                // Get the element by its ID using document.querySelector()
+                const sourceInformation = document.querySelector('#term-information');
+                // Overwrite the contents of the element with "Hello"
+                sourceInformation.innerHTML = "Now with data from the <b>" + data["most_recent_dataset"]["verbose_en"] + "</b>.";
+            });
+        </script>
         <ol>
             <center>I want to... <br> </center>
             <div class="container">
-                <a href="parallel_sets/" class="button"> <i class="icon fa fa-indent"></i>...filter courses</a><br><br>
-                <a href="lecturer_network/" class="button"> <i class="icon fa fa-spinner"></i>...explore lecturers</a><br><br>
-                <a href="bar_chart/" class="button"> <i class="icon fa fa-bar-chart"></i>...compare faculties</a><br><br>
+                <a href="parallel_sets/" class="button">...filter courses</a><br><br>
+                <a href="lecturer_network/" class="button">...explore lecturers</a><br><br>
+                <a href="bar_chart/" class="button">...compare faculties</a><br><br>
             </div>
         </ol>
 

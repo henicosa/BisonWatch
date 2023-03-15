@@ -5,9 +5,9 @@ import data2csv as d2c
 
 import re
 numelem = 10000
-year = "2022"
+year = "2023"
 # 1 für Sommer, 2 für Winter
-semester = "2"
+semester = "1"
 dataset = year + semester
 
 payload = {"state": "wsearchv", "search": "1", "subdir": "veranstaltung","veranstaltung.semester": dataset, "P_start": "0", "P_anzahl": str(numelem), "P.sort": "", "_form": "display"}
