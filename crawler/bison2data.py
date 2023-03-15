@@ -173,15 +173,24 @@ def process_url(url, dataset):
         f.write("\n")
     f.write("# Beschreibung" + "\n")
     try:
-        tags = soup.find(attrs={"summary": "Weitere Angaben zur Veranstaltung"}).find_all("td")
+        rows = soup.find(attrs={"summary": "Weitere Angaben zur Veranstaltung"}).find_all("tr")
     except Exception:
         # print("Hinweis: Keine Beschreibung für " + filename)
-        tags = []
-    if tags and tags[0].find("p"):
+        rows = []
+    if rows:
         try:
-            f.write('Beschreibung' + delimiter + strip(tags[0].find("p").contents) + "\n")
+            description = ""
+            for row in rows:
+              # Get th element (heading) from the <tr>
+                heading = row.find("th", class_="mod")
+
+                # Check if the content of the th element is "Beschreibung"
+                if "Beschreibung" in heading.string:
+                    # Get the <td> element with the description
+                    description += row.find("td", class_="mod_n").get_text()
+            f.write('Beschreibung' + delimiter + description.replace("\n", "\\n") + "\n")
         except Exception:
-            print("Keine Beschreibung für " + url)
+            print("Fehlerhafte Beschreibungstabelle für " + url)
 
 def find_teachers_faculty(url):
     headers = {'user-agent': 'bisonwatch-vis_project_2021'}

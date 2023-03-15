@@ -13,7 +13,7 @@ dataset = year + semester
 payload = {"state": "wsearchv", "search": "1", "subdir": "veranstaltung","veranstaltung.semester": dataset, "P_start": "0", "P_anzahl": str(numelem), "P.sort": "", "_form": "display"}
 
 url = "https://www.uni-weimar.de/qisserver/rds"
-headers = {'user-agent': 'bisonwatch-vis_project_2021'}
+headers = {'user-agent': 'bisonwatch-vis_project_2023, contact: ludwig.david.lorenz[at]uni-weimar.de'}
 
 r = requests.get(url, headers=headers, params=payload)
 soup = BeautifulSoup(r.text, 'html.parser')
@@ -40,7 +40,7 @@ for search_link in search_link_queue:
 
 
 
-for link in link_queue:
+for link in link_queue[:40]:
     try:
         b2d.process_url(link, dataset)
     except Exception as e:
