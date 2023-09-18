@@ -143,6 +143,7 @@ div.header {
     bottom: 0;
     width: 100%;
     text-align: right;
+    padding-right: 10px;
 }
 
 select {
@@ -161,48 +162,32 @@ select {
     padding: 0.75rem 1.25rem;
     border-radius: 10rem;
     color: #fff;
-    width: 24rem;
+    width: 80%;
     text-transform: uppercase;
     font-size: 1rem;
     letter-spacing: 0.15rem;
     transition: all 0.3s;
     position: relative;
+    background-color: #0cf;
+    color: rgb(19, 57, 86) !important;
     overflow: hidden;
     z-index: 1;
 }
-
-.button:after {
-    content: "";
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: #0cf;
-    border-radius: 10rem;
-    z-index: -2;
-}
-
-.button:before {
-    content: "";
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 0%;
-    height: 100%;
-    background-color: #008fb3;
-    transition: all 0.3s;
-    border-radius: 10rem;
-    z-index: -1;
-}
-
 .button:hover {
-    color: #fff;
+    filter: brightness(1.2);
 }
 
-.button:hover:before {
-    width: 100%;
-}
+@media screen and (min-width: 640px) {
+    .button {
+        width: 30rem
+    }
+  }
+
+  @media screen and (max-width: 640px) {
+    :root {font-size: 0.78rem}
+    h1 {font-size: 2rem; margin-top: 1rem;}
+  }
+
 
 .container {
     padding-top: 50px;
