@@ -6,3 +6,4 @@ code/crawler/.idea
 node_modules
 __pycache__
 build
+data
