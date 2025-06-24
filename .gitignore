@@ -1,13 +1,21 @@
-npm-debug.log
-crawler/database
-code/crawler/__pycache__
-code/crawler/.idea
-.vscode
-node_modules
-__pycache__
-build
-crawler/cache
-data
-.venv
-.DS_Store
+# Node.js
+node_modules/
+npm-debug.log*
 *.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+
+# Project-specific directories
+crawler/cache/
+crawler/database/
+data/
+build/
+
+# IDE/editor settings
+.idea/
+.vscode/
+.DS_Store
