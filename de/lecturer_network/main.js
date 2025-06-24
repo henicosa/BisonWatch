@@ -2,17 +2,6 @@ import * as d3 from "d3";
 //import { convertSkypackImportMapToLockfile } from "snowpack/lib/util";
 import { loadBisonDataset, global_settings } from "../../bison.js";
 
-/*
-const translate = {
-    description_current: "Diese Visualisierung zeigt die Lehrenden der Bauhaus-Universität und ihre gemeinsamen Veranstaltungen im aktuellen Semester.",
-    description_historic: "Diese Visualisierung zeigt die Lehrenden der Bauhaus-Universität und ihre gemeinsamen Veranstaltungen seit einschließlich WiSe 2019/20.",
-    legend_faculty: "Fakultät ",
-    legend_other: "Sonstiges",
-    search_label: "Lehrperson suchen...",
-    lecturer_and_colleagues_current: " und alle Lehrpersonen mit gemeinsamen Kursen im aktuellen Semester.",
-    lecturer_and_colleagues_historic: " und alle Lehrpersonen mit gemeinsamen Kursen seit einschließlich WiSe 2019/20.",
-    learn_more: "Erfahre mehr über die Veranstaltungen von ",
-}; */
 
 const lang = "de";
 
@@ -38,7 +27,6 @@ if (historic_data != undefined && historic_data == "yes") {
     d3.select("#historic")._groups[0][0].checked = true
     dataset = "../../data/bisondata.csv"
     d3.select("#description").text(translate.description_base + " " + translate.since_recording)
-    )
 } else historic_data = false
 
 // Laden der Bison-Daten
