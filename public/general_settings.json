@@ -1,7 +1,13 @@
 {
     "most_recent_dataset": {
-        "id": "bisondata20232",
-        "verbose_de": "Wintersemester 2023/24",
-        "verbose_en": "winter term 2023/24"
+        "id": "bisondata20251",
+        "verbose_de": "Sommersemester 2025",
+        "verbose_en": "Summer term 2025"
+    },
+    "current_faculty_names" : {
+        "BU" : {"de": "Bau und Umwelt", "en": "Civil and Environmental Engineering"},
+        "AU": {"de": "Architektur und Urbanistik", "en": "Architecture and Urbanism"},
+        "M": {"de": "Medien", "en": "Media"},
+        "KG": {"de": "Kunst und Gestaltung", "en": "Art and Design"}
     }
 }

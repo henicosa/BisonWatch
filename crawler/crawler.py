@@ -5,14 +5,14 @@ import data2csv as d2c
 
 import re
 numelem = 10000
-year = "2023"
+year = "2025"
 # 1 für Sommer, 2 für Winter
 semester = "1"
 dataset = year + semester
 
 payload = {"state": "wsearchv", "search": "1", "subdir": "veranstaltung","veranstaltung.semester": dataset, "P_start": "0", "P_anzahl": str(numelem), "P.sort": "", "_form": "display"}
 
-url = "https://www.uni-weimar.de/qisserver/rds"
+url = "https://bison-connector.bauhaus.uni-weimar.de/qisserver/rds"
 headers = {'user-agent': 'bisonwatch-vis_project_2021'}
 
 r = requests.get(url, headers=headers, params=payload)

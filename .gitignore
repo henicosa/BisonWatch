@@ -6,4 +6,8 @@ code/crawler/.idea
 node_modules
 __pycache__
 build
+crawler/cache
 data
+.venv
+.DS_Store
+*.log

@@ -10,9 +10,25 @@ export async function loadBisonDataset(dataset) {
     sws: + item.SWS, // transform string to number
     language: item.Sprache, 
     day: item.Tag,
-    faculty: item.Fakultät,
-    lecturers: item.Personen.split(" :3 S: ").map((d) => {return {faculty: d.split(",")[0], name: d.split(",")[1]}})
+    faculty: renameFaculty(item.Fakultät),
+    lecturers: item.Personen.split(" :3 S: ").map((d) => {return {faculty: renameFaculty(d.split(",")[0].replace("Fakultät ", "")), name: d.split(",")[1]}})
   }));
+}
+
+function renameFaculty(faculty) {
+  if (faculty === "Bauingenieurwesen" || faculty === "Bau- und Umweltingenieurwissenschaften") {
+    return "BU"
+  }
+  if (faculty === "Architektur und Urbanistik") {
+    return "AU"
+  }
+  if (faculty === "Kunst und Gestaltung") {
+    return "KG"
+  }
+  if (faculty === "Medien") {
+    return "M"
+  }
+  return faculty
 }
 
 

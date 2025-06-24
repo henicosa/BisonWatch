@@ -2,16 +2,31 @@ import * as d3 from "d3";
 //import { convertSkypackImportMapToLockfile } from "snowpack/lib/util";
 import { loadBisonDataset, global_settings } from "../../bison.js";
 
+/*
+const translate = {
+    description_current: "Diese Visualisierung zeigt die Lehrenden der Bauhaus-Universität und ihre gemeinsamen Veranstaltungen im aktuellen Semester.",
+    description_historic: "Diese Visualisierung zeigt die Lehrenden der Bauhaus-Universität und ihre gemeinsamen Veranstaltungen seit einschließlich WiSe 2019/20.",
+    legend_faculty: "Fakultät ",
+    legend_other: "Sonstiges",
+    search_label: "Lehrperson suchen...",
+    lecturer_and_colleagues_current: " und alle Lehrpersonen mit gemeinsamen Kursen im aktuellen Semester.",
+    lecturer_and_colleagues_historic: " und alle Lehrpersonen mit gemeinsamen Kursen seit einschließlich WiSe 2019/20.",
+    learn_more: "Erfahre mehr über die Veranstaltungen von ",
+}; */
 
-// Importe für alte Visualisierungen
-/*import { discretize } from "./vislibs/discretize";
-import { parallelsets } from "./vislibs/parallelsets";
-import { mosaicplot, sliceAndDice } from "./vislibs/mosaicplot";
-import { createHierarchy } from "./vislibs/hierarchy";
-import marked from "marked";
-import whatwhyhow from "./whatwhyhow.md";
-import { parallelcoordinates } from "./parallelcoordinates";*/
+const lang = "en";
 
+const translate = {
+    description_base: "This visualization shows the teachers of the Bauhaus-Universität and their shared courses ",
+    legend_faculty: "Faculty",
+    legend_other: "Other",
+    description_lecturer: "This visualization shows the teacher ",
+    since_recording: "since the winter term 2019/20.",
+    current_semester: "in the current semester.",
+    colleagues: " and all teachers with shared courses",
+    search_label: "Search teacher...",
+    learn_more: "Discover more about the courses of ",
+};
 var dataset = "../../data/" + global_settings["most_recent_dataset"]["id"] + ".csv"
 
 const urlSearchParams = new URLSearchParams(window.location.search);
@@ -20,7 +35,7 @@ if (historic_data != undefined && historic_data == "yes") {
     historic_data = true
     d3.select("#historic")._groups[0][0].checked = true
     dataset = "../../data/bisondata.csv"
-    d3.select("#description").text("This visualisation shows the lecturers of the Bauhaus University and their shared courses since and including winter semester 2019/20.")
+    d3.select("#description").text(translate.description_base + " " + translate.since_recording)
 } else historic_data = false
 
 // Laden der Bison-Daten
@@ -36,7 +51,7 @@ loadBisonDataset(dataset).then((bisond) => {
     selector_url = new URL(selector_url.join("/"))
 
     var blacklist = ["N.N", "N.N.", " N.N.", "missing", "keine öffentliche Person", " ", ""]
-    var categories = ["Fakultät Architektur und Urbanistik", "Fakultät Bauingenieurwesen", "Fakultät Kunst und Gestaltung", "Fakultät Medien"]
+    var categories = ["AU", "BU", "KG", "M"]
 
     const svg2 = d3.select("#legend")
 
@@ -46,11 +61,11 @@ loadBisonDataset(dataset).then((bisond) => {
     svg2.append("circle").attr("cx", 10).attr("cy", 65).attr("r", 6).style("fill", "#94C11C")
     svg2.append("circle").attr("cx", 10).attr("cy", 85).attr("r", 6).style("fill", "#006B94")
     svg2.append("circle").attr("cx", 10).attr("cy", 105).attr("r", 6).style("fill", "grey")
-    svg2.append("text").attr("x", 20).attr("y", 30).text("Faculty of Architecture and Urbanism")
-    svg2.append("text").attr("x", 20).attr("y", 50).text("Faculty of Civil Engineering").attr("alignment-baseline", "middle")
-    svg2.append("text").attr("x", 20).attr("y", 70).text("Faculty of Art and Design", ).attr("alignment-baseline", "middle")
-    svg2.append("text").attr("x", 20).attr("y", 90).text("Faculty of Media").attr("alignment-baseline", "middle")
-    svg2.append("text").attr("x", 20).attr("y", 110).text("Other").attr("alignment-baseline", "middle")
+    svg2.append("text").attr("x", 20).attr("y", 30).text(translate.legend_faculty + " " + global_settings.current_faculty_names.AU[lang])
+    svg2.append("text").attr("x", 20).attr("y", 50).text(translate.legend_faculty + " " + global_settings.current_faculty_names.BU[lang]).attr("alignment-baseline", "middle")
+    svg2.append("text").attr("x", 20).attr("y", 70).text(translate.legend_faculty + " " + global_settings.current_faculty_names.KG[lang]).attr("alignment-baseline", "middle")
+    svg2.append("text").attr("x", 20).attr("y", 90).text(translate.legend_faculty + " " + global_settings.current_faculty_names.M[lang]).attr("alignment-baseline", "middle")
+    svg2.append("text").attr("x", 20).attr("y", 110).text(translate.legend_other).attr("alignment-baseline", "middle")
 
     var lecturers = new Map();
     bisond.forEach(element => {
@@ -102,7 +117,7 @@ loadBisonDataset(dataset).then((bisond) => {
         if (d3.select("#historic")._groups[0][0].checked) {
             window.open("?historic=yes", "_top")
         } else {
-            window.open("../../en/lecturer_network/", "_top")
+            window.open("../../de/lecturer_network/", "_top")
         }
     });
 
@@ -110,10 +125,10 @@ loadBisonDataset(dataset).then((bisond) => {
     var height = 800
     var width = 1000
 
-    var colors = new Map().set("Fakultät Architektur und Urbanistik", "#009BB4")
-        .set("Fakultät Bauingenieurwesen", "#F39100")
-        .set("Fakultät Kunst und Gestaltung", "#94C11C")
-        .set("Fakultät Medien", "#006B94")
+    var colors = new Map().set("AU", "#009BB4")
+        .set("BU", "#F39100")
+        .set("KG", "#94C11C")
+        .set("M", "#006B94")
         .set("Sonstiges", "grey")
 
     const scale = d3.scaleLinear()
@@ -317,22 +332,22 @@ loadBisonDataset(dataset).then((bisond) => {
         lecturer_force_selected_name = ""
         d3.select("#tip").select("div").remove()
         d3.select("#search_input").property("value", "")
-        d3.select("#description").text("This visualisation shows the lecturers of the Bauhaus-Universität and their shared courses" + (historic_data ? " since and including winter semester 2019/20." : " in the current semester."))
+        d3.select("#description").text(translate.description_base + " " + (historic_data ? translate.since_recording : translate.current_semester))
     }
 
 
     function make_selection(input) {
         var description = d3.select("#description").text("")
-        description.append("c").text("This visualisation shows the teacher ")
+        description.append("c").text(translate.description_lecturer)
         description.append("strong").text(input)
-        description.append("c").text(" and all teachers with shared courses " + (historic_data ? " since and including winter semester 2019/20." : " in the current semester."))
+        description.append("c").text(translate.colleagues + " " + (historic_data ? translate.since_recording : translate.current_semester))
 
         selector_url.searchParams.set("lecturer", input)
         if (historic_data) selector_url.searchParams.set("historic", "yes")
         d3.select("#tip").select("div").remove()
         var tip = description //d3.select("#tip").append("div").text("")
         tip.append("c").text(" (")
-        tip.append("a").attr("href", selector_url).text("Learn more about " + input + "'s courses.")
+        tip.append("a").attr("href", selector_url).text(translate.learn_more + input)
         tip.append("c").text(")")
         d3.select("#search_input").property("value", input)
 

@@ -113,20 +113,8 @@ function update(svg, attributeSelect, bisond, height, width, translate) {
 
   var data = Array.from(d3.group(bisond, get_att[attribute]))
 
- /* if (attribute == "courseType") {
-    type = type.map((d,i) => {
-      if (d != "Sonstiges")
-        return [d, data[i]];
-      else {
-        return [d, d3.sum(data, (d) => type.includes(d[0]) ? 0 : d[1])]
-      }
-    })
-    data = type 
-  } */
-
   var categories = ["Fakultät Architektur und Urbanistik", "Fakultät Bauingenieurwesen", "Fakultät Kunst und Gestaltung", "Fakultät Medien"]
 
-  //console.log(data)
   data = data.map((d) => {
     var roll = d3.rollup(d[1], v => v.length, 
       w => categories.includes(w.faculty) ? w.faculty: "Sonstiges" 
