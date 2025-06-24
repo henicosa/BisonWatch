@@ -2,6 +2,8 @@ import * as d3 from "d3";
 import { sankey as Sankey, sankeyLinkHorizontal as SLH } from 'd3-sankey';
 import { loadBisonDataset, global_settings } from "../../bison.js";
 
+export async function runParallelSets(lang, translate, bison_translate) {
+
 var dataset = "../../data/" + global_settings["most_recent_dataset"]["id"] + ".csv"
 
 const urlSearchParams = new URLSearchParams(window.location.search);
@@ -9,7 +11,7 @@ var historic_data = urlSearchParams.get('historic');
 if (historic_data != undefined && historic_data == "yes") {
     historic_data = true
     dataset = "../../data/bisondata.csv"
-    d3.select("#description").text("Diese Visualisierung zeigt alle Kurse der Bauhaus-Universität seit einschließlich WiSe 2019/20.")
+    d3.select("#description").text(translate.description_base + " " + translate.since_recording)
 } else historic_data = false
     //
     // Parallel Set Bison Daten
@@ -21,10 +23,10 @@ loadBisonDataset(dataset).then((bisond) => {
 
 
     // Map to get official color from faculty name
-    var colors = new Map().set("Fakultät Architektur und Urbanistik", "#009BB4")
-        .set("Fakultät Bauingenieurwesen", "#F39100")
-        .set("Fakultät Kunst und Gestaltung", "#94C11C")
-        .set("Fakultät Medien", "#006B94")
+    var colors = new Map().set("AU", "#009BB4")
+        .set("BU", "#F39100")
+        .set("KG", "#94C11C")
+        .set("M", "#006B94")
         .set("Sonstiges", "grey")
 
     // return faculty color if defined else return grey
@@ -40,10 +42,10 @@ loadBisonDataset(dataset).then((bisond) => {
     var searchParam = urlSearchParams.get('lecturer');
     if (searchParam != undefined) {
         var description = d3.select("#description").text("")
-        description.append("c").text("Diese Visualisierung zeigt alle Kurse von ")
+        description.append("c").text(translate.description_lecturer)
         description.append("strong").text(searchParam)
-        description.append("c").text(historic_data ? " seit einschließlich WiSe 2019/20. (" : " im aktuellen Semester. (")
-        description.append("a").attr("href", "../../de/parallel_sets/").text("Auswahl aufheben")
+        description.append("c").text(" " + (historic_data ? translate.since_recording + " (" : translate.current_semester + " ("))
+        description.append("a").attr("href", "../../de/parallel_sets/").text(translate.cancel_selection)
         description.append("c").text(")")
         keys = ["courseType", "language", "day", "sws"]
         var color_keys = []
@@ -72,7 +74,7 @@ loadBisonDataset(dataset).then((bisond) => {
         else if (d.sws <= 6) d.sws = "4-6"
         else if (d.sws <= 12) d.sws = "8-12"
         else if (d.sws <= 18) d.sws = "16-18"
-        else d.sws = "Keine Angabe"
+        else d.sws = translate.missing_info
         return d
     })
 
@@ -165,13 +167,12 @@ loadBisonDataset(dataset).then((bisond) => {
         links: graph.links.map(d => Object.assign({}, d))
     });
 
-    var translator = {
-        "faculty": "Fakultät",
-        "language": "Sprache",
-        "day": "Tag",
-        "sws": "SWS",
-        "courseType": "Veranstaltungsart"
-    }
+    function apply_bison_translate(word) {
+        if (bison_translate[word] != undefined)
+          return bison_translate[word]
+        return word
+      }
+
 
     // Legend
     d3.select("#legend").attr("viewBox", [0, 0, width, 30]).append("g")
@@ -185,7 +186,7 @@ loadBisonDataset(dataset).then((bisond) => {
         .attr("text-anchor", (d, i) => i * width / (keys.length - 1) < width / 2 ? "start" : "end") // 
         .append("tspan")
         .attr("fill-opacity", 0.7)
-        .text(d => translator[d]);
+        .text(d => apply_bison_translate(d));
 
     svg.append("g")
         .selectAll("rect")
@@ -210,7 +211,7 @@ loadBisonDataset(dataset).then((bisond) => {
             redraw()
         })
         .append("title")
-        .text(d => `${d.name}\n${d.value.toLocaleString()}`);
+        .text(d => `${apply_bison_translate(d.name)}\n${d.value.toLocaleString()}`);
 
     svg.append("g")
         .attr("fill", "none")
@@ -222,7 +223,7 @@ loadBisonDataset(dataset).then((bisond) => {
         .attr("stroke-width", d => d.width)
         .style("mix-blend-mode", "multiply")
         .append("title")
-        .text(d => `${d.names.join(" → ")}\n${d.value.toLocaleString()}`);
+        .text(d => `${d.names.map(apply_bison_translate).join(" → ")}\n${d.value.toLocaleString()}`);
 
 
     svg.append("g")
@@ -234,7 +235,7 @@ loadBisonDataset(dataset).then((bisond) => {
         .attr("y", d => (d.y1 + d.y0) / 2)
         .attr("dy", "0.35em")
         .attr("text-anchor", d => d.x0 < width / 2 ? "start" : "end")
-        .text(d => d.name)
+        .text(d => apply_bison_translate(d.name))
         .append("tspan")
         .attr("fill-opacity", 0.7)
         .text(d => ` ${d.value.toLocaleString()}`);
@@ -281,7 +282,7 @@ loadBisonDataset(dataset).then((bisond) => {
             .attr("stroke-width", d => d.width)
             .style("mix-blend-mode", "multiply")
             .append("title")
-            .text(d => `${d.names.join(" → ")}\n${d.value.toLocaleString()}`);
+            .text(d => `${d.names.map(apply_bison_translate).join(" → ")}\n${d.value.toLocaleString()}`);
     }
 
     /**
@@ -313,12 +314,12 @@ loadBisonDataset(dataset).then((bisond) => {
 
         // generate table header
         var table_header = table.append("tr")
-        table_header.append("th").text("Veransstaltungstitel")
-        table_header.append("th").text("Lehrpersonen")
+        table_header.append("th").text(translate.course_title)
+        table_header.append("th").text(translate.lecturers)
 
         if (selection.length == 0) {
             var table_row = table.append("tr")
-            table_row.append("td").text("Es konnten keine Veranstaltungen für die aktuelle Auswahl gefunden werden.")
+            table_row.append("td").text(translate.no_courses)        
             table_row.append("td")
         } else {
 
@@ -363,3 +364,5 @@ loadBisonDataset(dataset).then((bisond) => {
         }
     }
 });
+
+}

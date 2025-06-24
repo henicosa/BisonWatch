@@ -79,7 +79,24 @@
             </div>
         </div>
     </main>
-    <script type="module" src="main.js"></script>
+    <script type="module">
+        import { runLecturerNetwork } from "../../visualizations/lecturer_network.js";
+
+        const translate = {
+            description_lecturer: "This visualization shows the teacher ",
+            description_base: "This visualization shows the teachers of the Bauhaus-Universität and their shared courses ",
+            legend_faculty: "Faculty",
+            legend_other: "Other",
+            description_lecturer: "This visualization shows the teacher ",
+            since_recording: "since the winter term 2019/20.",
+            current_semester: "in the current semester.",
+            colleagues: " and all teachers with shared courses",
+            search_label: "Search teacher...",
+            learn_more: "Discover more about the courses of ",
+        }
+
+        runLecturerNetwork("en", translate);
+    </script>
 </body>
 
 </html>

@@ -5,6 +5,7 @@ module.exports = {
     data: { url: "/data", static: true },
     de: { url: "/de" },
     en: { url: "/en" },
+    visualizations: { url: "/visualizations" },
     /* ... */
   },
   plugins: [

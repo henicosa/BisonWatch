@@ -76,7 +76,58 @@
         </div>
     </div>
     </main>
-    <script type="module" src="main.js"></script>
+    <script type="module">
+        import { runParallelSets } from "../../visualizations/parallel_sets.js";
+
+        const translate = {
+            description_base: "This visualization shows all courses at Bauhaus-Universität Weimar in the current semester.",
+            since_recording: "since the winter term 2019/20.",
+            current_semester: "in the current semester.",
+            description_lecturer: "This visualization shows all courses of ",
+            cancel_selection: "Cancel selection",
+            missing_info: "Not specified",
+            course_title: "Course title",
+            lecturers: "Lecturers",
+            no_courses: "No courses could be found for the current selection.",
+            course_type: "Course type",
+            language: "Language",
+            day: "Day",
+            sws: "SWS",
+        }
+
+        
+        var bison_translate = {
+            "faculty": "Faculty",
+            "language": "Language",
+            "day": "Day",
+            "sws": "SWS",
+            "courseType": "Course type",
+            "Mo." : "Mo.",
+            "Di." : "Tu.",
+            "Mi." : "We.",
+            "Do." : "Th.",
+            "Fr." : "Fr.",
+            "Sa." : "Sa.",
+            "So." : "Su.",
+            "missing" : "Not specified", 
+            "Fakultät Bauingenieurwesen" : "Faculty of Civil Engineering",
+            "Fakultät Architektur und Urbanistik" : "Faculty of Architecture and Urbanism",
+            "Fakultät Medien" : "Faculty of Medien",
+            "Fakultät Kunst und Gestaltung" : "Faculty of Art and Design",
+            "Zentrale Veranstaltungen der Universität" : "Central events of the university",
+            "Lehrveranstaltungen der Bauhaus.Module" : "Courses only included in the Bauhaus.Modules", 
+            "deutsch" : "German",
+            "englisch" : "English",
+            "französisch" : "French",
+            "deutsch oder englisch (gemeinsame Festlegung)" : "German or English (joint vote)",
+            "deutsch und englisch (zweisprachig)" : "German and English (bilingual)",
+            "deutsch und französisch (zweisprachig)" : "German and French (bilingual)",
+            "deutsch/englisch" : "German/English",
+            "deutsch/französisch" : "German/French"
+        }
+
+        runParallelSets("en", translate, bison_translate);
+    </script>
 </body>
 
 </html>

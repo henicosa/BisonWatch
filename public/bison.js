@@ -10,7 +10,7 @@ export async function loadBisonDataset(dataset) {
     sws: + item.SWS, // transform string to number
     language: item.Sprache, 
     day: item.Tag,
-    faculty: renameFaculty(item.Fakultät),
+    faculty: renameFaculty(item.Fakultät.replace("Fakultät ", "")),
     lecturers: item.Personen.split(" :3 S: ").map((d) => {return {faculty: renameFaculty(d.split(",")[0].replace("Fakultät ", "")), name: d.split(",")[1]}})
   }));
 }

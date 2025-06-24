@@ -73,7 +73,36 @@
             </div>
         </div>
     </main>
-    <script type="module" src="main.js"></script>
+    <script type="module">
+        import { runParallelSets } from "../../visualizations/parallel_sets.js";
+
+        const translate = {
+            description_base: "Diese Visualisierung zeigt alle Kurse der Bauhaus-Universität",
+            since_recording: "seit einschließlich WiSe 2019/20.",
+            current_semester: "im aktuellen Semester.",
+            description_lecturer: "Diese Visualisierung zeigt alle Kurse von ",
+            cancel_selection: "Auswahl aufheben",
+            missing_info: "Keine Angabe",
+            course_title: "Veransstaltungstitel",
+            lecturers: "Lehrpersonen",
+            no_courses: "Es konnten keine Veranstaltungen für die aktuelle Auswahl gefunden werden.",
+            course_type: "Veranstaltungsart",
+            language: "Sprache",
+            day: "Tag",
+            sws: "SWS",
+        }
+
+        
+        var bison_translate = {
+            "faculty": "Fakultät",
+            "language": "Sprache",
+            "day": "Tag",
+            "sws": "SWS",
+            "courseType": "Veranstaltungsart",
+        }
+
+        runParallelSets("de", translate, bison_translate);
+    </script>
 </body>
 
 </html>

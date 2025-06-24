@@ -1,21 +1,8 @@
 import * as d3 from "d3";
-//import { convertSkypackImportMapToLockfile } from "snowpack/lib/util";
 import { loadBisonDataset, global_settings } from "../../bison.js";
 
+export async function runLecturerNetwork(lang, translate) {
 
-const lang = "de";
-
-const translate = {
-    description_lecturer: "Diese Visualisierung zeigt die Lehrperson ",
-    description_base: "Diese Visualisierung zeigt die Lehrenden der Bauhaus-Universität und ihre gemeinsamen Veranstaltungen",
-    legend_faculty: "Fakultät",
-    since_recording: "seit einschließlich WiSe 2019/20.",
-    current_semester: "im aktuellen Semester.",
-    legend_other: "Sonstiges",
-    search_label: "Lehrperson suchen...",
-    colleagues: " und alle Lehrpersonen mit gemeinsamen Kursen",
-    learn_more: "Erfahre mehr über die Veranstaltungen von ",
-};
 
 
 var dataset = "../../data/" + global_settings["most_recent_dataset"]["id"] + ".csv"
@@ -359,3 +346,4 @@ loadBisonDataset(dataset).then((bisond) => {
     //invalidation.then(() => simulation.stop());
 
 });
+}

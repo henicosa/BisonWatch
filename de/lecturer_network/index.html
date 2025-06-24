@@ -76,7 +76,23 @@
         </div>
 
     </main>
-    <script type="module" src="main.js"></script>
+    <script type="module">
+        import { runLecturerNetwork } from "../../visualizations/lecturer_network.js";
+
+        const translate = {
+            description_lecturer: "Diese Visualisierung zeigt die Lehrperson ",
+            description_base: "Diese Visualisierung zeigt die Lehrenden der Bauhaus-Universität und ihre gemeinsamen Veranstaltungen",
+            legend_faculty: "Fakultät",
+            since_recording: "seit einschließlich WiSe 2019/20.",
+            current_semester: "im aktuellen Semester.",
+            legend_other: "Sonstiges",
+            search_label: "Lehrperson suchen...",
+            colleagues: " und alle Lehrpersonen mit gemeinsamen Kursen",
+            learn_more: "Erfahre mehr über die Veranstaltungen von ",
+        };
+        
+        runLecturerNetwork("de", translate);
+    </script>
 </body>
 
 </html>
