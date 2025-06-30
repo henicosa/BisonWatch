@@ -340,7 +340,7 @@ loadBisonDataset(dataset).then((bisond) => {
 
                 // write course title with link to bison in the table
                 table_row.append("td").append("a")
-                    .attr("href", course.internalLink)
+                    .attr("href", course.internalLink.replace("bison-connector.bauhaus", "bison"))
                     .text(course.courseTitle)
 
                 // write lecturers with custom query link to our lecturer network in the table
