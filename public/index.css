@@ -1,7 +1,31 @@
-@import url(//fonts.googleapis.com/css?family=Libre+Baskerville:400,400italic,700);
-@import url(//fonts.googleapis.com/css?family=Source+Code+Pro:400,400italic,700,700italic);
-@import url(//fonts.bunny.net/css?family=hepta-slab:400,700|montserrat:400,400i,700,700i);
-@import url(//fonts.googleapis.com/css2?family=Vollkorn:wght@800&display=swap);
+@font-face {
+  font-family: 'Hepta Slab';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/fonts/hepta-slab/hepta-slab-v19-latin-regular.woff2') format('woff2');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/fonts/Montserrat/static/Montserrat-Regular.ttf') format('truetype');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  src: url('/fonts/Montserrat/static/Montserrat-Bold.ttf') format('truetype');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Vollkorn';
+  font-style: normal;
+  font-weight: 800;
+  src: url('/fonts/vollkorn/vollkorn-v25-latin-800.woff2') format('woff2');
+  font-display: swap;
+}
 
 :root {
   --primary-light-color: #ffffff;
