@@ -596,10 +596,15 @@ input[list]::placeholder {
   margin-bottom: 1em;
   z-index: 4;
 }
-
+.network-header-flex .search-container {
+  order: 0;
+}
+.network-header-flex #lecturer-action-btn-container {
+  order: 1;
+}
 @media screen and (max-width: 700px) {
   .network-header-flex {
-    flex-direction: column;
+    flex-direction: column-reverse;
     align-items: stretch;
     gap: 0.5em;
   }

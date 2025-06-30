@@ -113,16 +113,16 @@ function update(svg, attributeSelect, bisond, height, width, translate) {
 
   var data = Array.from(d3.group(bisond, get_att[attribute]))
 
-  var categories = ["Fakultät Architektur und Urbanistik", "Fakultät Bauingenieurwesen", "Fakultät Kunst und Gestaltung", "Fakultät Medien"]
+  var categories = ["AU", "BU", "KG", "M"]
 
   data = data.map((d) => {
     var roll = d3.rollup(d[1], v => v.length, 
       w => categories.includes(w.faculty) ? w.faculty: "Sonstiges" 
     )
-    return {name: d[0].toString(), AU: roll.get("Fakultät Architektur und Urbanistik") != undefined ? roll.get("Fakultät Architektur und Urbanistik") : 0
-      , B: roll.get("Fakultät Bauingenieurwesen") != undefined ? roll.get("Fakultät Bauingenieurwesen") : 0
-      , KG: roll.get("Fakultät Kunst und Gestaltung") != undefined ? roll.get("Fakultät Kunst und Gestaltung") : 0
-      , M: roll.get("Fakultät Medien") != undefined ? roll.get("Fakultät Medien") : 0
+    return {name: d[0].toString(), AU: roll.get("AU") != undefined ? roll.get("AU") : 0
+      , B: roll.get("BU") != undefined ? roll.get("BU") : 0
+      , KG: roll.get("KG") != undefined ? roll.get("KG") : 0
+      , M: roll.get("M") != undefined ? roll.get("M") : 0
       , Sonstiges: roll.get("Sonstiges")!= undefined ? roll.get("Sonstiges") : 0} 
     }
   )
