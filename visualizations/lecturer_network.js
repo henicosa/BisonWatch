@@ -1,5 +1,5 @@
 import * as d3 from "d3";
-import { loadBisonDataset, global_settings } from "../../bison.js";
+import { loadBisonDataset, global_settings } from "../bison.js";
 
 export async function runLecturerNetwork(lang, translate) {
 
@@ -100,8 +100,6 @@ loadBisonDataset(dataset).then((bisond) => {
     });
 
 
-    var height = 800
-    var width = 1000
 
     var colors = new Map().set("AU", "#009BB4")
         .set("BU", "#F39100")
@@ -177,9 +175,10 @@ loadBisonDataset(dataset).then((bisond) => {
         .force("x", d3.forceX(d => force_map.get(d.faculty).x))
         .force("y", d3.forceY(d => force_map.get(d.faculty).y));
 
-    const svg = d3.select("#lecturer_network")
-        .attr("viewBox", [-width / 2, -height / 2, width, height])
+    const svg = d3.select("#lecturer_network");
+    setSVGSize();
 
+    let { width, height } = getCurrentWidthHeight();
     svg.call(d3.zoom()
         .extent([
             [0, 0],
@@ -311,6 +310,7 @@ loadBisonDataset(dataset).then((bisond) => {
         d3.select("#tip").select("div").remove()
         d3.select("#search_input").property("value", "")
         d3.select("#description").text(translate.description_base + " " + (historic_data ? translate.since_recording : translate.current_semester))
+        updateActionButton();
     }
 
 
@@ -323,10 +323,6 @@ loadBisonDataset(dataset).then((bisond) => {
         selector_url.searchParams.set("lecturer", input)
         if (historic_data) selector_url.searchParams.set("historic", "yes")
         d3.select("#tip").select("div").remove()
-        var tip = description //d3.select("#tip").append("div").text("")
-        tip.append("c").text(" (")
-        tip.append("a").attr("href", selector_url).text(translate.learn_more + input)
-        tip.append("c").text(")")
         d3.select("#search_input").property("value", input)
 
         lecturer_selected_name = input;
@@ -336,6 +332,7 @@ loadBisonDataset(dataset).then((bisond) => {
         lecturer_force_selected_name = input
 
         select_teacher()
+        updateActionButton();
     }
 
     //function to test if two nodes are connected:
@@ -343,7 +340,50 @@ loadBisonDataset(dataset).then((bisond) => {
         return lecturers.get(lecturer_A_name).colecturers.has(lecturer_B_name)
     }
 
+    // Add action button container logic
+    const actionBtnContainer = d3.select("#lecturer-action-btn-container");
+    function updateActionButton() {
+        actionBtnContainer.selectAll("a").remove();
+        if (force_selection && lecturer_force_selected_name) {
+            // Build the URL for the parallel_sets visualization
+            let btnUrl = new URL(selector_url.toString());
+            btnUrl.searchParams.set("lecturer", lecturer_force_selected_name);
+            if (historic_data) btnUrl.searchParams.set("historic", "yes");
+            actionBtnContainer.append("a")
+                .attr("href", btnUrl)
+                .attr("class", "lecturer-action-btn button")
+                .attr("target", "_blank")
+                .text(translate.learn_more + lecturer_force_selected_name);
+        }
+    }
+
+    // Initial button state
+    updateActionButton();
+
     //invalidation.then(() => simulation.stop());
+
+    // Responsive SVG sizing
+    function getNetworkContainerSize() {
+        const container = document.querySelector('.network-container');
+        if (!container) return { width: 1000, height: 800 };
+        const rect = container.getBoundingClientRect();
+        return { width: rect.width, height: rect.height };
+    }
+
+    function setSVGSize() {
+        const { width, height } = getNetworkContainerSize();
+        svg.attr("viewBox", [-width / 2, -height / 2, width, height]);
+    }
+
+    // Helper to get current width/height for simulation or viewBox
+    function getCurrentWidthHeight() {
+        return getNetworkContainerSize();
+    }
+
+    // Initial sizing
+    setSVGSize();
+    // Update on resize
+    window.addEventListener('resize', setSVGSize);
 
 });
 }

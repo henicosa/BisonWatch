@@ -1,6 +1,6 @@
 import * as d3 from "d3";
 import { sankey as Sankey, sankeyLinkHorizontal as SLH } from 'd3-sankey';
-import { loadBisonDataset, global_settings } from "../../bison.js";
+import { loadBisonDataset, global_settings } from "../bison.js";
 
 export async function runParallelSets(lang, translate, bison_translate) {
 
