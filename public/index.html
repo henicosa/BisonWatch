@@ -7,7 +7,6 @@
     <link rel="stylesheet" href="fonts/fontawesome/all.min.css">
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" type="text/css" href="index.css" />
-    <link rel="stylesheet" type="text/css" href="w3.css">
     <title>BisonWatch</title>
 </head>
 
@@ -16,14 +15,11 @@
         <div class="header">
             <a href="en/">EN</a>/DE
         </div>
-        <img class="main-image" src="bisonwatch logo.png">
+        <img class="main-image" id="main-logo" src="bisonwatchlogo2.svg">
 
-        <div class="w3-container">
+        <div id="landing-info-container">
             
-            <div class="w3-panel w3-pale-green">
-                <p id="description">Diese Visualisierungen veranschaulichen die Daten des Bisonportals der Bauhaus-Universität Weimar in verschiedenen Zusammenhängen. </p>
-                <p id="term-information">Jetzt mit Daten aus dem </p>
-            </div>
+            
             <script>
                 fetch('./general_settings.json')
                 .then(response => response.json())
@@ -40,6 +36,12 @@
                     <a href="de/parallel_sets/" class="button">Kurse filtern</a><br><br>
                     <a href="de/lecturer_network/" class="button">Lehrende erforschen</a><br><br>
                     <a href="de/bar_chart/" class="button">Fakultäten vergleichen</a><br><br>
+                </div>
+
+                <div class="info">
+                    <h2>BisonWatch</h2>
+                    <p id="description">Diese Visualisierungen veranschaulichen die Daten des Bisonportals der Bauhaus-Universität Weimar in verschiedenen Zusammenhängen. </p>
+                    <p id="term-information">Jetzt mit Daten aus dem </p>
                 </div>
 
             <div class="faq">
@@ -80,6 +82,50 @@
         </div>
 
     </main>
+    <script>
+    // Randomly change SVG logo colors on refresh
+    window.addEventListener('DOMContentLoaded', function() {
+      const logoImg = document.getElementById('main-logo');
+      if (logoImg && logoImg.src.endsWith('.svg')) {
+        fetch(logoImg.src)
+          .then(res => res.text())
+          .then(svgText => {
+            function randomColor() {
+              const h = Math.floor(Math.random() * 360);
+              const s = 60 + Math.random() * 30;
+              const l = 40 + Math.random() * 30;
+              return `hsl(${h},${s}%,${l}%)`;
+            }
+            let coloredSVG = svgText.replace(/fill="#([0-9a-fA-F]{3,6})"/g, () => `fill="${randomColor()}"`);
+            coloredSVG = coloredSVG.replace(/fill:\s*#[0-9a-fA-F]{3,6}/g, () => `fill:${randomColor()}`);
+            const div = document.createElement('div');
+            div.innerHTML = coloredSVG;
+            const svgElem = div.querySelector('svg');
+            if (svgElem) {
+              logoImg.replaceWith(svgElem);
+              svgElem.classList.add('main-image');
+              svgElem.id = 'main-logo';
+            }
+          });
+      }
+
+      // Fade out logo on scroll
+      function handleLogoFade() {
+        const logo = document.getElementById('main-logo');
+        if (!logo) return;
+        const fadeStart = 40; // px
+        const fadeEnd = 180; // px
+        const scrollY = window.scrollY;
+        if (scrollY > fadeStart) {
+          logo.classList.add('fade-out');
+        } else {
+          logo.classList.remove('fade-out');
+        }
+      }
+      window.addEventListener('scroll', handleLogoFade);
+      handleLogoFade();
+    });
+    </script>
 </body>
 
 </html>

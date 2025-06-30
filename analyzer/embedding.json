@@ -1,0 +1,434 @@
+{
+    "nodes": [
+        {
+            "id": "Analytische F\u00e4higkeiten",
+            "radius": 1
+        },
+        {
+            "id": "Zusammenh\u00e4nge erkennen",
+            "radius": 1
+        },
+        {
+            "id": "Relevanz von Informationen beurteilen",
+            "radius": 1
+        },
+        {
+            "id": "effizient auf ein Ziel hinarbeiten",
+            "radius": 1
+        },
+        {
+            "id": "konstruktiv Kritik \u00fcben",
+            "radius": 1
+        },
+        {
+            "id": "wirtschaftlich denken und handeln",
+            "radius": 1
+        },
+        {
+            "id": "sich gegen\u00fcber anderen durchsetzen",
+            "radius": 1
+        },
+        {
+            "id": "eigene Wissensl\u00fccken erkennen und schlie\u00dfen",
+            "radius": 1
+        },
+        {
+            "id": "theoretisches Wissen praktisch anwenden",
+            "radius": 1
+        },
+        {
+            "id": "unter Druck gut arbeiten",
+            "radius": 1
+        },
+        {
+            "id": "eigenst\u00e4ndig arbeiten",
+            "radius": 1
+        },
+        {
+            "id": "in interkulturellen Zusammenh\u00e4ngen handeln",
+            "radius": 1
+        },
+        {
+            "id": "wissenschaftliche Methoden anwenden",
+            "radius": 1
+        },
+        {
+            "id": "neue Ideen entwickeln",
+            "radius": 1
+        },
+        {
+            "id": "Produkte, Ideen oder Berichte einem Publikum pr\u00e4sentieren",
+            "radius": 1
+        },
+        {
+            "id": "sich selbst reflektieren",
+            "radius": 1
+        },
+        {
+            "id": "sich neuen Situationen flexibel anpassen",
+            "radius": 1
+        },
+        {
+            "id": "f\u00e4cher\u00fcbergreifend denken",
+            "radius": 1
+        },
+        {
+            "id": "mit empfangener Kritik umgehen",
+            "radius": 1
+        },
+        {
+            "id": "sich selbst und seinen Arbeitsprozess effektiv organisieren",
+            "radius": 1
+        },
+        {
+            "id": "sich schriftlich ad\u00e4quat ausdr\u00fccken",
+            "radius": 1
+        },
+        {
+            "id": "Strategien zur Probleml\u00f6sung entwickeln",
+            "radius": 1
+        },
+        {
+            "id": "Beherrschung des eigenen Faches, der eigenen Disziplin",
+            "radius": 1
+        },
+        {
+            "id": "eigene Ideen und Ideen anderer in Frage stellen",
+            "radius": 1
+        },
+        {
+            "id": "die Folgen von Theorie und Praxis Ihres Faches f\u00fcr Natur und Gesellschaft beurteilen?",
+            "radius": 1
+        },
+        {
+            "id": "sich m\u00fcndlich ad\u00e4quat ausdr\u00fccken",
+            "radius": 1
+        },
+        {
+            "id": "das K\u00f6nnen anderer mobilisieren",
+            "radius": 1
+        },
+        {
+            "id": "Informationen aus verschiedenen Quellen beschaffen",
+            "radius": 1
+        },
+        {
+            "id": "Entscheidungen treffen",
+            "radius": 1
+        },
+        {
+            "id": "planen und organisieren",
+            "radius": 1
+        },
+        {
+            "id": "im Team zusammenarbeiten",
+            "radius": 1
+        },
+        {
+            "id": "auf Englisch kommunizieren",
+            "radius": 1
+        }
+    ],
+    "links": [
+        {
+            "source": "Analytische F\u00e4higkeiten",
+            "target": "Zusammenh\u00e4nge erkennen",
+            "value": 0.4811578954924802
+        },
+        {
+            "source": "Analytische F\u00e4higkeiten",
+            "target": "Relevanz von Informationen beurteilen",
+            "value": 0.5017200852277963
+        },
+        {
+            "source": "Analytische F\u00e4higkeiten",
+            "target": "eigene Wissensl\u00fccken erkennen und schlie\u00dfen",
+            "value": 0.4680155902579127
+        },
+        {
+            "source": "Analytische F\u00e4higkeiten",
+            "target": "theoretisches Wissen praktisch anwenden",
+            "value": 0.45956058004858286
+        },
+        {
+            "source": "Analytische F\u00e4higkeiten",
+            "target": "f\u00e4cher\u00fcbergreifend denken",
+            "value": 0.5310094896127777
+        },
+        {
+            "source": "Zusammenh\u00e4nge erkennen",
+            "target": "Relevanz von Informationen beurteilen",
+            "value": 0.4952174183919091
+        },
+        {
+            "source": "Zusammenh\u00e4nge erkennen",
+            "target": "eigene Wissensl\u00fccken erkennen und schlie\u00dfen",
+            "value": 0.5641170503629149
+        },
+        {
+            "source": "Zusammenh\u00e4nge erkennen",
+            "target": "in interkulturellen Zusammenh\u00e4ngen handeln",
+            "value": 0.5594948876411372
+        },
+        {
+            "source": "Zusammenh\u00e4nge erkennen",
+            "target": "f\u00e4cher\u00fcbergreifend denken",
+            "value": 0.4913618516343923
+        },
+        {
+            "source": "Zusammenh\u00e4nge erkennen",
+            "target": "Entscheidungen treffen",
+            "value": 0.47430877325833204
+        },
+        {
+            "source": "Zusammenh\u00e4nge erkennen",
+            "target": "im Team zusammenarbeiten",
+            "value": 0.49624736593513985
+        },
+        {
+            "source": "Relevanz von Informationen beurteilen",
+            "target": "Informationen aus verschiedenen Quellen beschaffen",
+            "value": 0.5173751000786592
+        },
+        {
+            "source": "Relevanz von Informationen beurteilen",
+            "target": "Entscheidungen treffen",
+            "value": 0.4893536667687602
+        },
+        {
+            "source": "effizient auf ein Ziel hinarbeiten",
+            "target": "wirtschaftlich denken und handeln",
+            "value": 0.4814732326505334
+        },
+        {
+            "source": "effizient auf ein Ziel hinarbeiten",
+            "target": "sich selbst und seinen Arbeitsprozess effektiv organisieren",
+            "value": 0.5644941367501849
+        },
+        {
+            "source": "effizient auf ein Ziel hinarbeiten",
+            "target": "Strategien zur Probleml\u00f6sung entwickeln",
+            "value": 0.46132617726543634
+        },
+        {
+            "source": "effizient auf ein Ziel hinarbeiten",
+            "target": "planen und organisieren",
+            "value": 0.46274046598858115
+        },
+        {
+            "source": "effizient auf ein Ziel hinarbeiten",
+            "target": "im Team zusammenarbeiten",
+            "value": 0.5120494203895438
+        },
+        {
+            "source": "konstruktiv Kritik \u00fcben",
+            "target": "neue Ideen entwickeln",
+            "value": 0.4700218358677982
+        },
+        {
+            "source": "konstruktiv Kritik \u00fcben",
+            "target": "sich selbst reflektieren",
+            "value": 0.5069466840643038
+        },
+        {
+            "source": "konstruktiv Kritik \u00fcben",
+            "target": "mit empfangener Kritik umgehen",
+            "value": 0.6406775040918067
+        },
+        {
+            "source": "konstruktiv Kritik \u00fcben",
+            "target": "eigene Ideen und Ideen anderer in Frage stellen",
+            "value": 0.5248461295051425
+        },
+        {
+            "source": "wirtschaftlich denken und handeln",
+            "target": "in interkulturellen Zusammenh\u00e4ngen handeln",
+            "value": 0.5310975543976041
+        },
+        {
+            "source": "wirtschaftlich denken und handeln",
+            "target": "f\u00e4cher\u00fcbergreifend denken",
+            "value": 0.5376356890677713
+        },
+        {
+            "source": "wirtschaftlich denken und handeln",
+            "target": "sich selbst und seinen Arbeitsprozess effektiv organisieren",
+            "value": 0.4839405061126152
+        },
+        {
+            "source": "wirtschaftlich denken und handeln",
+            "target": "Entscheidungen treffen",
+            "value": 0.49621221228328827
+        },
+        {
+            "source": "wirtschaftlich denken und handeln",
+            "target": "planen und organisieren",
+            "value": 0.4679394583909707
+        },
+        {
+            "source": "sich gegen\u00fcber anderen durchsetzen",
+            "target": "eigene Ideen und Ideen anderer in Frage stellen",
+            "value": 0.47073003306122607
+        },
+        {
+            "source": "sich gegen\u00fcber anderen durchsetzen",
+            "target": "das K\u00f6nnen anderer mobilisieren",
+            "value": 0.4725190417993595
+        },
+        {
+            "source": "eigene Wissensl\u00fccken erkennen und schlie\u00dfen",
+            "target": "theoretisches Wissen praktisch anwenden",
+            "value": 0.5228732150028702
+        },
+        {
+            "source": "eigene Wissensl\u00fccken erkennen und schlie\u00dfen",
+            "target": "f\u00e4cher\u00fcbergreifend denken",
+            "value": 0.4594132718130961
+        },
+        {
+            "source": "eigene Wissensl\u00fccken erkennen und schlie\u00dfen",
+            "target": "Beherrschung des eigenen Faches, der eigenen Disziplin",
+            "value": 0.46574440854425114
+        },
+        {
+            "source": "eigene Wissensl\u00fccken erkennen und schlie\u00dfen",
+            "target": "eigene Ideen und Ideen anderer in Frage stellen",
+            "value": 0.5351988582590873
+        },
+        {
+            "source": "eigene Wissensl\u00fccken erkennen und schlie\u00dfen",
+            "target": "Informationen aus verschiedenen Quellen beschaffen",
+            "value": 0.4645562923169548
+        },
+        {
+            "source": "theoretisches Wissen praktisch anwenden",
+            "target": "wissenschaftliche Methoden anwenden",
+            "value": 0.5813884587418806
+        },
+        {
+            "source": "theoretisches Wissen praktisch anwenden",
+            "target": "f\u00e4cher\u00fcbergreifend denken",
+            "value": 0.48618252535582807
+        },
+        {
+            "source": "theoretisches Wissen praktisch anwenden",
+            "target": "die Folgen von Theorie und Praxis Ihres Faches f\u00fcr Natur und Gesellschaft beurteilen?",
+            "value": 0.483426477472742
+        },
+        {
+            "source": "unter Druck gut arbeiten",
+            "target": "eigenst\u00e4ndig arbeiten",
+            "value": 0.5008714955666631
+        },
+        {
+            "source": "unter Druck gut arbeiten",
+            "target": "im Team zusammenarbeiten",
+            "value": 0.4630426747944679
+        },
+        {
+            "source": "eigenst\u00e4ndig arbeiten",
+            "target": "sich selbst und seinen Arbeitsprozess effektiv organisieren",
+            "value": 0.5181548090544805
+        },
+        {
+            "source": "eigenst\u00e4ndig arbeiten",
+            "target": "im Team zusammenarbeiten",
+            "value": 0.5057342594510237
+        },
+        {
+            "source": "in interkulturellen Zusammenh\u00e4ngen handeln",
+            "target": "sich neuen Situationen flexibel anpassen",
+            "value": 0.4901101308055103
+        },
+        {
+            "source": "in interkulturellen Zusammenh\u00e4ngen handeln",
+            "target": "f\u00e4cher\u00fcbergreifend denken",
+            "value": 0.503418394956677
+        },
+        {
+            "source": "in interkulturellen Zusammenh\u00e4ngen handeln",
+            "target": "auf Englisch kommunizieren",
+            "value": 0.47588777617186107
+        },
+        {
+            "source": "neue Ideen entwickeln",
+            "target": "Produkte, Ideen oder Berichte einem Publikum pr\u00e4sentieren",
+            "value": 0.47656012265531233
+        },
+        {
+            "source": "neue Ideen entwickeln",
+            "target": "sich neuen Situationen flexibel anpassen",
+            "value": 0.5035398960121859
+        },
+        {
+            "source": "neue Ideen entwickeln",
+            "target": "Strategien zur Probleml\u00f6sung entwickeln",
+            "value": 0.5140340548319154
+        },
+        {
+            "source": "neue Ideen entwickeln",
+            "target": "eigene Ideen und Ideen anderer in Frage stellen",
+            "value": 0.6623749667626574
+        },
+        {
+            "source": "Produkte, Ideen oder Berichte einem Publikum pr\u00e4sentieren",
+            "target": "eigene Ideen und Ideen anderer in Frage stellen",
+            "value": 0.4820946485774467
+        },
+        {
+            "source": "sich selbst reflektieren",
+            "target": "mit empfangener Kritik umgehen",
+            "value": 0.47604263167309685
+        },
+        {
+            "source": "sich selbst reflektieren",
+            "target": "sich selbst und seinen Arbeitsprozess effektiv organisieren",
+            "value": 0.5486356174190844
+        },
+        {
+            "source": "sich selbst reflektieren",
+            "target": "eigene Ideen und Ideen anderer in Frage stellen",
+            "value": 0.5102956845071692
+        },
+        {
+            "source": "sich selbst und seinen Arbeitsprozess effektiv organisieren",
+            "target": "Strategien zur Probleml\u00f6sung entwickeln",
+            "value": 0.48241269912465273
+        },
+        {
+            "source": "sich selbst und seinen Arbeitsprozess effektiv organisieren",
+            "target": "planen und organisieren",
+            "value": 0.6192561071172393
+        },
+        {
+            "source": "sich selbst und seinen Arbeitsprozess effektiv organisieren",
+            "target": "im Team zusammenarbeiten",
+            "value": 0.46603395086207455
+        },
+        {
+            "source": "sich schriftlich ad\u00e4quat ausdr\u00fccken",
+            "target": "sich m\u00fcndlich ad\u00e4quat ausdr\u00fccken",
+            "value": 0.8507673743629004
+        },
+        {
+            "source": "sich schriftlich ad\u00e4quat ausdr\u00fccken",
+            "target": "auf Englisch kommunizieren",
+            "value": 0.4628319653185878
+        },
+        {
+            "source": "Strategien zur Probleml\u00f6sung entwickeln",
+            "target": "Entscheidungen treffen",
+            "value": 0.4668030418346213
+        },
+        {
+            "source": "eigene Ideen und Ideen anderer in Frage stellen",
+            "target": "das K\u00f6nnen anderer mobilisieren",
+            "value": 0.48849627948826313
+        },
+        {
+            "source": "sich m\u00fcndlich ad\u00e4quat ausdr\u00fccken",
+            "target": "auf Englisch kommunizieren",
+            "value": 0.4999252188215502
+        }
+    ]
+}
