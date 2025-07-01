@@ -11,3 +11,4 @@ data
 .venv
 .DS_Store
 *.log
+*.csv
